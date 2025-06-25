@@ -1,0 +1,4 @@
+- Output despues de la destruccion de Saylor Capital.
+- Cuidad que tiene capacidad de moverse
+- A pesar de la crisis, la gente se ha sabido mantener
+- El agua es escaza.

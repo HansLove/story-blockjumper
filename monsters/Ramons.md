@@ -1,0 +1,4 @@
+- Imperio bajo el agua creado por accidente por 'Ramon Gordillo'. 
+- Tenemos 3 niveles de criaturas. En el 3 nivel estan los monstruos kraftianos.
+- Las esponjas inician una revolucion en contra del status quo de los Ramons, su lider se llama 'Conan'
+- La esponjas pueden estar bajo el agua por una buena cantidad de tiempo, no mueren, pero se desactivan/suspenden.

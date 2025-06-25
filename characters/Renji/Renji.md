@@ -1,0 +1,5 @@
+- Todo parte de la perspectiva de Renji
+- Le gusta bailar y la fiesta
+- Hermano mayor de Piggy
+- Usa un basto de Foto-glass
+- Cuando aguanta la respiracion se hace en modo 'Praima' -Ver ./Renji_modes.md

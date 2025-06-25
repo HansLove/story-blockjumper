@@ -1,0 +1,2 @@
+- La capital de la cuidad en el presente
+- Simbolo de prosperidad y modernidad

@@ -1,0 +1,3 @@
+- Es un hombr recto y de principios, rozando lo militar.
+- No le gusta utilizar sus poderes 
+- Es un hombre de derecha, cree en el mercado, la justicia dura(Bukele vibes), pero tiene un aura dulce y no de amenaza. 

@@ -1,0 +1,5 @@
+- Block jumper: Puede viajar entre las 2 dimensiones, aunque al saltar, debe esperar una gran cantidad de tiempo. Ademas del salto dimensional, tambien se puede mover a la velocidad de la luz en el espacio-tiempo, aunque debe recargar y la distancia es pequeña.
+- Liquid: El usuario se hace liquido y no puede ser tocado con facilidad. 
+- Hack(Alex): El personaje puede hackear y manipular la realidad en su beneficio. Al retrocere el tiempo, este provoca un 'fork' de la realidad. 
+- Consenso(William Heart): Si la gente voluntareamente acepta, el dueño de este poder tiene acceso a su energia, inteligencia,habilidades y vitalidad.
+- Curandera: Restaurar 

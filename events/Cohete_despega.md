@@ -1,0 +1,3 @@
+- El cohete dezpega
+- El momento esta lleno de alegria y celebraciones.
+- El corazon de Kenzo esta a full power

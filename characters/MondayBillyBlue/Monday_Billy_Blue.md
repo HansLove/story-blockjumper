@@ -1,0 +1,4 @@
+- Se multiplica, entre mas multiplicaciones tiene, mas se debilita. 
+- Su descendencia se hacen llamar los 'Blue'
+- Son del presente. 
+- Al morir Billy, todos los que tienen su sangre mueren tambien, excepto 2.

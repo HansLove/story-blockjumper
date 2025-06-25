@@ -1,0 +1,5 @@
+- Mesurada creatura
+- Inteligencia de humano
+- Se le calientan los cuernos
+- Tiene armadura hash en varias partes de su cuerpo. 
+- Tiene una longitud de 3 metros y 1.5 metros de altura

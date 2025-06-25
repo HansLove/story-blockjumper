@@ -1,0 +1,3 @@
+- Se mueve entre los reflejos
+- Si se queda quieto, se va haciendo transparente.
+- Sobrevive a la batalla de Eie
