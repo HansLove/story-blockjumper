@@ -1,7 +1,4 @@
-- Piggy viaja al presente sin conocer a 'eie'
-
-Block Jumper notes
-
+- Piggy viaja al presente sin conocer a 'Eie'
 
 - El caso Darth Vader(potencialmente en Kenzo Toro). Un personaje dulce e inocente que se convierte en un monstruo
 

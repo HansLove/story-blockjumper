@@ -1,5 +1,9 @@
+# Caracteristicas
+
 - Sus piernas se hacen low-poly. 
 - Tiene una vibe Argentina.
+- Mujeriego
+
 
 # Semilla: 
 Tolentino-Wolker-Hiroshi-Humano-Comandante-MangaÉpico-cabello negro peinado hacia atrás, armadura ligera de batalla, cicatriz en la ceja izquierda, ojos intensos y mandíbula firme, estética a lo John Travolta joven, postura erguida, fondo dramático con humo y luz cálida

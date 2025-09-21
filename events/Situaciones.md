@@ -6,3 +6,11 @@
 
 - Soldados son notificados que 'Green' esta atacando el sector 7.
 
+
+- Piggy vs Green: 
+
+    - Piggy -V
+    - Green -V
+    - Green -V
+    - Green -Tie
+    - Piggy -V

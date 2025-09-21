@@ -7,8 +7,10 @@
 - Mauro Tavira, miembro de Rinki capturado, Epsteing Island?
 - lastname: Agripa
 
-- Sam Ballard, babosa paralisis 
+- # Sam Ballard, babosa paralisis 
 - Apellido: Masacota
+
+- Rodolfo Pietro Filiberto Raffaelo Guglielm
 
 - Viktor Lang, el jefe del partido del progreso.
 - William Heart, el presidente del partido de la justicia y presidente actual de Saylor Capital.
@@ -19,8 +21,21 @@
 - Luna 
 - Villano: Kronmuller
 
-Esfera de Dyson
+- Sultano Meza
+- Brucer Pipiano, Slavic suvvenir the cool guy.
+- Paco Godnica
 
-Unobtainium
+-Gheorghe Apostol
+
+
+
+- Morgan Osca, anti-heroe con un perro tipo doberman y una voz con Alex Lora. 
+
+- # Dubawy Frankell
+
+- Wootton Baskset
+
+- Wilmer Ruperti
+
 
 
