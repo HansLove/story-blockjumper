@@ -1,3 +1,5 @@
+# Mañana sin falta
+
 Una noche cristalina envuelve el desierto. No hay nada a kilómetros, solo un frío que cala hasta los huesos y una oscuridad que parece infinita. En el firmamento, unos hilos suspendidos brillan con la luz de la luna, como si el cielo hubiese sido cosido con fibras de plata. Bajo ellos, la arena se convierte en campo de batalla.
 ![Alt text](/public/chapters/1/comic-1-1.png)
 

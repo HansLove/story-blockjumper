@@ -1,3 +1,5 @@
+# Mi turno
+
 Piggy es arrastrado por los hilos cual ola salvaje y pierde todo sentido de orientación. Está aplanado y luce “en 2D”, como si estuviera impreso en una hoja de papel. Un aura oscura rodea su plana figura en donde circulan números y letras. Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, se trata de Dirk Newman, un hombre de mediana edad con pronunciadas entradas, que confundido, le pregunta a Piggy “Tú…¿Qué eres?” Antes que Piggy pueda responder, una perra de pastora alemana de inigualable belleza comienza a ladrar con furia.
 
 Mientras Dirk intenta controlar a su perra, Atena, el cuerpo de Piggy comienza a “inflarse”, readaptándose a la normalidad. Proceso que lo deja aún más desorientado, que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
