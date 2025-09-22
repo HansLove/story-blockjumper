@@ -1,12 +1,25 @@
 # Mi turno
 
 Piggy es arrastrado por los hilos cual ola salvaje y pierde todo sentido de orientación. Está aplanado y luce “en 2D”, como si estuviera impreso en una hoja de papel. Un aura oscura rodea su plana figura en donde circulan números y letras. Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, se trata de Dirk Newman, un hombre de mediana edad con pronunciadas entradas, que confundido, le pregunta a Piggy “Tú…¿Qué eres?” Antes que Piggy pueda responder, una perra de pastora alemana de inigualable belleza comienza a ladrar con furia.
+![Alt text](/public/chapters/2/dirk-1.png)
+
 
 Mientras Dirk intenta controlar a su perra, Atena, el cuerpo de Piggy comienza a “inflarse”, readaptándose a la normalidad. Proceso que lo deja aún más desorientado, que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
+![Alt text](/public/chapters/2/piggy-coming.png)
+
 
 Al saltar, Piggy rompe los cristales, los cuales caen como gotas de lluvia hacia la calle, en media caída libre, Piggy invoca su Hash-board y se desliza por el costado del edificio a una gran velocidad, llegando hasta el suelo en cuestión de instantes. Sin perder un segundo se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desatando el caos y la curiosidad entre aquellos que voltean a ver el incidente andante el cual va dejando un torbellino de destrucción en su camino.
 
-Piggy logra salir de la caótica urbe y se adentra cada vez más en el follaje, creando un rastro de polvo y vegetación en la terracería por la que surca. El rastro es frenado inmediatamente por una espesa llamarada en forma de red que bloquea el arbolado camino, deteniendo la aceleración de Piggy, destruyendo su Hashboard e impidiendo su escape; el área de la red se reduce, el calor se hace más sofocante y el humo que esta emana ciega su vista progresivamente y le impide respirar. Finalmente, Piggy pierde la conciencia.
+![Alt text](/public/chapters/2/piggy-running.png)
+
+
+Piggy logra salir de la caótica urbe y se adentra cada vez más en el follaje, creando un rastro de polvo y vegetación en la terracería por la que surca. 
+![Alt text](/public/chapters/2/city.jpg)
+
+El rastro es frenado inmediatamente por una espesa llamarada en forma de red que bloquea el arbolado camino, deteniendo la aceleración de Piggy, destruyendo su Hashboard e impidiendo su escape; el área de la red se reduce, el calor se hace más sofocante y el humo que esta emana ciega su vista progresivamente y le impide respirar. Finalmente, Piggy pierde la conciencia.
+
+![Alt text](/public/chapters/2/piggy-sur.png)
+
 
 Al despertar, Piggy se da cuenta que está en una celda, y que un par de sujetos con guantes y capuchas rojas lo vigilan desde el pasillo. Asomando su cara por los barrotes, Piggy nota una bandera carmesí al fondo y les grita “¡Esto es un malentendido! ¡Déjenme hablar con Rey Gallopo, él sabe quién soy”. Los guardias hacen caso omiso a todo lo que Piggy dice. 
 
