@@ -63,6 +63,5 @@ Salino, a la distancia, presencia con perplejidad la caída de su maestro. Herid
 En el vehículo, Pedro, Eddy y Hiroshi regresan a la base principal en un silencio cargado de tensión, interrumpido únicamente por el susurro del viento que acaricia el cuerpo inerte de Santiago, envuelto en una humilde chamarra azul, mientras sus miembros rebotan al ritmo del camino. El peso de la pérdida se deja caer sobre ellos, marcando el fin de una batalla y el comienzo de un luto silencioso.
 
 
-[fork: Ruta A — Salino interviene →](../2A/index.md)
-[fork: Ruta B — Hiroshi se retira →](../2B/index.md)
+
 [next_chapter →](../2/index.md)

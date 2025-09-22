@@ -63,4 +63,7 @@ La voz debilitada, perteneciente a un anciano, se acerca y le da una moneda al v
 En un amistoso intercambio de palabras el anciano, llamado Atoshi, le dice a Piggy “No eres de por aquí ¿Cierto?” a lo que él le responde “¿Acaso es tan evidente?” Con una afable expresión, el señor Atoshi le contesta “Lo digo por esa amabilidad, que es algo inusual en Sailor Capital”. Antes de que Piggy pudiera responder algo, el hombre canoso comenta “Me vendría bien un poco de ayuda, a veces cargar cosas se hace muy pesado para alguien de mi edad ¿Te gustaría echarme una mano?”.  
 
 
+[fork: Ruta A — Salino interviene →](../2A/index.md)
+[fork: Ruta B — Hiroshi se retira →](../2B/index.md)
+[next_chapter →](../3/index.md)
 
