@@ -53,3 +53,8 @@ En medio del forcejeo, Eddy ve la oportunidad de atacar el punto débil de la or
 Salino, a la distancia, presencia con perplejidad la caída de su maestro. Herido gravemente y con su orgullo hecho añicos, solo puede recordar los rostros de los responsables y retirarse en refugio detrás de las líneas de los Ramons. A pesar de haber derrotado al Tilikum, los Wolkers tienen que retirarse y ceder el oasis a los Ramons. Eddy enciende un cigarrillo y expresa su deseo de retirarse sin dilación. Pedro toca el claxon del vehículo dañado y con los ojos enrojecidos y el ánimo sombrío conduce sin decir nada.
 
 En el vehículo, Pedro, Eddy y Hiroshi regresan a la base principal en un silencio cargado de tensión, interrumpido únicamente por el susurro del viento que acaricia el cuerpo inerte de Santiago, envuelto en una humilde chamarra azul, mientras sus miembros rebotan al ritmo del camino. El peso de la pérdida se deja caer sobre ellos, marcando el fin de una batalla y el comienzo de un luto silencioso.
+
+
+[fork: Ruta A — Salino interviene →](../2A/index.md)
+[fork: Ruta B — Hiroshi se retira →](../2B/index.md)
+[next_chapter →](../2/index.md)
