@@ -2,6 +2,8 @@ El sol se refleja en los capotes metálicos, la alta temperatura acumulada en el
 
 Los pilotos parten desde la Píxel Arena y recorrerán toda la costa oeste hacia el sur hasta llegar a la meta en Valle Viñedo, donde se coronará al ganador.  Los pilotos tienen permitido hacer cualquier cosa siempre y cuando estén dentro de su vehículo y en la ruta delimitada; es decir, pueden chocar contra otros pilotos, rebasarlos, descarrilar, no dejar pasar; cualquier cosa necesaria para llegar antes que nadie.
 
+
+
 Este año parece ser el más grande de todas las ediciones; después de la tragedia del Matrasy y la presión policial para desmantelar al grupo Rinki, el pueblo tuvo un primer destello de desaprobación. A pesar de la captura del pelón y de otros 32 miembros, la gente sigue sintiéndose insegura y con un mal sabor de boca. El dinero de muchos inversores está en juego y es necesario retornarlo en el masivo evento para mantener cierta estabilidad económica y seguir con el proyecto de nación. 
 
 Mientras toda la audiencia disfruta del show de apertura de la artista Roxy Spades, la cabeza de los Blu, Billy M. Blu habla con Mimi Saito desde la sección Este de los palcos del Pixel Arena acerca de los avances del caso. Tras mostrarle a Billy las múltiples evidencias y decenas de expedientes de los capturados, este solo se acerca a la ventana para ver mejor la pista con un trago en mano y le dice, “Disfruta del show Mimi, después habrá tiempo para lo demás”. 

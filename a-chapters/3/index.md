@@ -5,7 +5,11 @@ Luces zumbantes parpadean en el gigantesco aposento, los miembros comienzan a ll
 
 Todas las cajas de metales fueron reunidas por una razón en específico; para ser arrojadas en distintos puntos del Matrasy (Magnetic Transportation System); una red de movilidad ciudadana y de carga, la cual funciona con vías magnéticas para brindar mayor velocidad sin fricción. Los metales en múltiples partes de las vías implicaría un desbalance magnético y el colapso del sistema.
 
+
 Los murmullos son acallados por una voz dirigente que pone orden, se trata de Roberta, la cabeza de Rinki, la cual expone el plan y hace énfasis en la importancia de la coordinación; todos deben de lucir como simples pasajeros y no pueden llegar juntos. La conspiración se ejecutará en horas con mucha circulación, para no ser sorprendidos arrojando metales y para poder perderse entre las masas a pesar de las cámaras de vigilancia. 
+
+![Alt text](/public/chapters/3/image.png)
+
 
 Estando en la misma página, todos se dirigen en pequeños grupos dispersos a distintos puntos de la ciudad; con mochilas y maletines llenas de chatarra metálica, los miembros se infiltran entre las aglomeraciones de personas que se dirigen a sus trabajos. 
 
