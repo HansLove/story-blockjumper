@@ -1,4 +1,5 @@
 Una noche cristalina envuelve el desierto. No hay nada a kilómetros, solo un frío que cala hasta los huesos y una oscuridad que parece infinita. En el firmamento, unos hilos suspendidos brillan con la luz de la luna, como si el cielo hubiese sido cosido con fibras de plata. Bajo ellos, la arena se convierte en campo de batalla.
+![Alt text](/public/chapters/1/comic-1-1.png)
 
 Los Wolkers —últimos guardianes del oasis— apenas logran mantenerse en pie. Frente a ellos avanzan los Ramons, criaturas marinas que han traído la guerra a tierra firme. Sus cuerpos imponentes, su fuerza colosal y sus sentidos agudos los convierten en adversarios casi imposibles de detener. Allí donde pisan, el suelo mismo parece ceder.
 
@@ -17,7 +18,12 @@ Hiroshi reconoce la amenaza que representa el Tilikum, y más en estos momentos 
 En su Hashboard M-256, la tabla deslizadora más veloz jamás concebida, Piggy surca el horizonte con determinación a su destino: la base principal de los Wolkers, al sur del campo de batalla. Sin embargo, el camino más rápido implica atravesar el oasis, donde criaturas colosales acechan en las profundidades.
 Piggy sabe que el riesgo es inevitable y acelera, escapando de la mirada vigilante de decenas de peces antropomorfos y evadiendo los disparos de sus armas llenas de algas, saltando la línea defensiva con destreza y aterrizando en el oasis, como una piedra lanzada desde una honda. Con cada salto, el mundo submarino se despliega ante él, revelando un mosaico de arrecifes y colores.
 A pesar de su velocidad, una mancha rosa en el fondo del oasis persiste, persiguiendo incansablemente a Piggy. Pronto, la mancha toma forma, emergiendo de las profundidades como un monstruo onírico de color rosa, con la figura de una salamandra gigantesca. En la mente de Piggy resuena un pensamiento: "Esa velocidad, ese tamaño, ese color... No hay duda, es Gaita, la bestia de las aguas dulces".
+
+![Alt text](/public/chapters/1/ajolote.jpeg)
+
 Su rumbo se ve interrumpido, y Piggy sin un instante que perder, maniobra con habilidad hacia la izquierda, sorteando al monstruo y los gases que emana. El repentino giro de Piggy desequilibra a la bestia momentáneamente, pero se recompone rápidamente, acelerando con determinación para alcanzar a Piggy. En ese instintivo frenesí territorial, Gaita reacciona con furia, sacudiendo las aguas y perturbando el equilibrio de Piggy.
+![Alt text](/public/chapters/1/piggy_2.png)
+
 La distancia que Piggy había logrado mantener se desvanece en un instante, mientras el miedo lo envuelve. Pero él sabe que no puede permitirse dudar, ni siquiera por un instante, pues la vida de su hermano Hiroshi y de todos los Wolkers está en juego. Piggy ajusta sus guantes, se acomoda la cinta que tiene en la frente para mantener en orden su rebelde cabellera negra, cierra su chaqueta de piel y acelera a fondo para salir de una vez por todas del oasis.
 La Hashboard de Piggy alcanza su límite, y él sabe que no puede acelerar más sin arriesgar su propia destrucción. Sin embargo, detenerse tampoco es una opción, ya que Gaita podría alcanzarlo en un abrir y cerrar de ojos. Piggy deja de lado todos los cálculos y enfoca su mente en un único objetivo: el final de su trayectoria. Por un breve instante, una chispa de inspiración lo ilumina y alcanza una velocidad nunca antes experimentada, dejando atrás a Gaita con una distancia considerable. Ante esto, la bestia decide retirarse a las profundidades.
 
