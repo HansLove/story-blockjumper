@@ -9,7 +9,7 @@ Hiroshi Bancs, líder de escuadrón, lo sabe en silencio: sus hombres no resisti
 Hiroshi fue bailarín antes que soldado, mujeriego antes que líder, y solo tras una tragedia que nadie osa mencionar tomó el mando. Sabe que si él pierde el control, todo el escuadrón caerá en el abismo. Por eso enmascara su miedo con una media sonrisa, como si la guerra fuese un escenario y él, el protagonista obligado.
 
 En ese momento, la línea del horizonte se quiebra. Una sombra colosal se dibuja contra la luna: una orca antropomórfica que avanza con paso firme. Un Tilikum, el rango más alto de los guerreros Ramons. Y sobre sus hombros, sereno e inquietante, viaja su pupilo: Salino, un joven delfín de mirada enigmática que observa como si ya supiera el desenlace.
-![Alt text](comic-1.png)
+![Alt text](/public/chapters/1/comic-1.png)
 
 
 Hiroshi reconoce la amenaza que representa el Tilikum, y más en estos momentos críticos donde él mismo tiene que hacerle frente. Hiroshi toma sus botines, recoge su negro cabello en una cola de caballo y se prepara para detener a esa orca humanoide. Antes de salir a pelear Hiroshi le dice a su hermano Piggy. “Ve lo más rápido que puedas y avísale a todos que se retiren. También dile a Eddy que venga aquí.”
