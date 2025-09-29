@@ -1,1 +1,59 @@
-Capitlo 5
+Block Jumper #5
+
+Cientos de personas trabajan arduamente en la compañía zPace, la cual lleva el proyecto conjunto más grande de la humanidad; la expedición Under End, que busca viajar al ‘otro lado’; la región extrema sur del planeta, la cual ha sido un lugar de mitos y fantasía desde los principios de los tiempos, ningún humano ha tocado el suelo del otro lado; ya que este mundo es cuadrado y plano, como una caja de pizza. La capacidad tecnológica qué se está invirtiendo en Zpace a través de los fondos inversores de los Blu en conjunto con la administración logística de Dirk han logrado avances sorprendentes, haciendo teóricamente posible una expedición con tripulantes. 
+
+Desde los mineros extractores de metales, hasta los ingenieros de sonido. Cada una de las personas involucradas en el proyecto trabajan arduamente para cumplir una meta en conjunto. El último hallazgo fue hacer funcionar el sistema de navegación de la nave; el cual funciona con seres unicelulares qué responden a el centro gravitatorio del planeta. Las extremas fuerzas y velocidades necesarias para salir del rango gravitacional hacen imposible el pilotaje humano, por lo que estas pequeñas formas de vida son una pieza clave para la exploración. 
+
+Docenas de previos prototipos han sido descartados y serán desechados, la tarea es asignada a Ramón; un hombre bigotón y robusto de mediana edad. Ramón trabaja como conserje en Zpace, la labor consiste en arrojar los prototipos bacterianos a la fundidora junto con restos metálicos y demás basura. Las bacterias están contenidas en frascos transparentes de cristal, dentro de una gran caja con el resto de intentos fallidos.
+
+Ramón tiene que primero trapear los almacenes, corredores y pasillos del sector O y el sector P. Limpiar los interminables suelos consume toda la energía de Ramón, día tras día dedica su sangre a mantener impecables todos los rincones de sus sectores designados. A pesar de la gran diligencia en su labor, su trabajo pasa desapercibido por el resto de trabajadores de Zpace.
+
+El fin de la jornada laboral está a unos minutos, todos los pisos y superficies están limpios, pero hay algo que escapa de la memoria de Ramón, transportar los desperdicios al centro de fundido. La poca energía de Ramón se hace aún menor mientras empuja uno a uno los contenedores de basura. En el último contenedor están los prototipos bacterianos enfrascados y arrimados entre el resto de basura del contenedor.
+
+El sudor se vuelve prominente en la frente de Ramón, el calor de la maquinaria fundidora hace insoportable permanecer en ese lugar por mucho tiempo; Ramón entra y sale de la fundidora, acarreando contenedor por contenedor hasta que no quede alguno. Antes de cerrar la gran puerta corrediza, Ramón voltea hacia los contenedores y fija su mirada en los frascos; las gigantescas planchas metálicas al rojo vivo iluminan con distinta tonalidad la fundidora, esa luz rojiza es reflejada en los frascos, pintandolos con una cálida tonalidad. 
+
+Bajo otra luz, los pequeños prototipos se vuelven notorios a simple vista; Ramón logra apreciar cómo estas bacterias buscan la luz, pero se retraen al fondo del frasco al sentir el intenso calor. Esa constante lucha atrae la atención de Ramón, resistiendo junto con ellos el calor mientras los observa nadar de arriba a abajo en los frascos. 
+
+Ramón se acerca al sofocante interior, inclinándose en el último contenedor y sacando los frascos de la fundidora. Habiendo finalmente terminado su turno, Ramón se dirige a casa, llevando los frascos con él; toma el Matrasy, el cual se ha hecho más tardado por el aumento de seguridad tras los incidentes del grupo Rinki, haciendo las filas más largas y los espacios aún más concurridos. 
+
+Los minutos pasan hasta convertirse en horas, y después de dos horas y media, Ramón llega a su destino; cansado y con hambre. Ramón es recibido en casa por el silencio, las luces apagadas y las ventanas cerradas. Coloca su pesada mochila en la mesa para quitarse la chaqueta y los zapatos mientras enciende el noticiero para hacerse compañía. 
+
+El ruido y la luz de la pantalla iluminan la pequeña casa; creando una atmósfera quieta y relajante, es tanta la serenidad que Ramón queda dormido en su sillón individual reclinable, al igual que todas las noches. El sosiego de Ramón es interrumpido en la madrugada, cuando siente una reacción en todo su cuerpo que le hace despertar.
+
+Ramón abre los ojos sin mover su cuerpo, su cabeza está volteada hacia su mochila semi abierta; mientras abandona el sueño, su mirada se ajusta y logra enfocar la vista a los frascos que se asoman por la apertura del cierre, los cuales parecen que lo miran de vuelta; o por lo menos eso es lo que Ramón piensa. Las bacterias se han concentrado en el punto donde la luz ilumina el frasco.
+
+Sin saber que hora es, Ramón se levanta de su sillón a pesar de que aún no ha amanecido; saca los frascos de su mochila y los lleva al baño. Después de lavarse la cara para despertar por completo, Ramón destapa los frascos y los vierte por el retrete uno a uno. Todas las bacterias nadan en la taza de baño por unos segundos antes de que Ramón tire de la cadena. Kilómetros y kilómetros de drenaje son recorridos por las bacterias, paseando por todo Sailor Capital hasta llegar al desagüe en la periferia de la ciudad. 
+
+Las noticias acerca del cohete se escuchan en todos los rincones de Sailor Capital; la expedición ‘Under End’ dará su despegue inicial la próxima semana. Los expedicionistas seleccionados son Chester Mayfield y Shika Toro, dos hombres experimentados qué ya han salido al espacio exterior. Cientos de entrevistas rondan en todas las transmisiones, inevitablemente llegando a los oídos de Piggy.
+
+Piggy ha logrado formar una pequeña vida después de haber viajado al pasado; ha mantenido el empleo en el mercado que el señor Atoshi le dio, Piggy comenzó a amueblar su habitación y a familiarizarse con los eventos y el entretenimiento de la época. Muchos de los sucesos que técnicamente ya ocurrieron son desconocidos para Piggy ya que la guerra contra los Ramons en su temporalidad (bloque 218) ha destruido tanto a su paso; incluyendo infraestructura, archivos, documentaciones y registros, borrando la historia de la memoria colectiva. 
+
+A pesar de ser del futuro, Piggy se sorprende con la idea de ir a la cara sur del planeta; un lugar que incluso en su propia época es extremadamente recóndito e inaccesible. Tantos avances tecnológicos le hacen cuestionar si es posible regresar a su tiempo, no puede dejar de pensar en su hogar y preocuparse por sus seres queridos que dejó repentinamente en medio de la guerra.
+
+Esa permanente inquietud en la mente de Piggy le hace recapitular constantemente los eventos de aquella noche; como su cuerpo brilló y se aplanó por unos instantes, la sensación de ser arrastrado por los hilos, la expresión en el rostro de ese hombre que recibió su llegada. Consumido por la intriga, Piggy ha espiado a Dirk de cada vez más cerca; siguiendo todos sus pasos por las noches, reconociendo patrones de horas, personas y lugares. 
+
+Piggy piensa que tiene descifrado el perfil de su objetivo, pero lo que ve esa noche lo deja atónito. Dirk sale de la cafetería como siempre y camina unos minutos al edificio departamental donde vive, saluda al portero, sube a su departamento y es recibido cálidamente por su perra Atena, se quita la corbata, los zapatos y desabotona su camisa. Ya más cómodo, reproduce música con un trago en mano mientras su otra mano tienta las teclas de una computadora sin presionar ninguna. 
+
+La copa queda vacía al igual que la página; no importa cuantas veces trate de iniciar una oración, ninguna parece gustarle lo suficiente, borrando una y otra vez las pocas palabras escritas. Piggy observa esta lucha interna desde el borde exterior de la ventana, manteniéndose fuera de la vista de Dirk pero intentando averiguar qué es lo que tanto batalla escribir. 
+
+Dirk llena su copa una vez más, buscando sin éxito inspiración en su bebida. Después de una fallida sesión de escritura, Dirk guarda la copa y arrastra una silla al centro de la sala. Al tomar asiento empieza a inhalar y exhalar profundamente con los ojos cerrados; toma con firmeza los brazos de la silla y comienza a entrar en una especie de trance. 
+
+Este trance se vuelve tan intenso que comienzan a brotar pequeños cabellos debajo de las uñas de Dirk; estos cabellos se alargan más y más hasta bajar por la silla y tocar el suelo. Ya posados en el suelo, los cabellos se engrosan y se aclaran hasta hacerse blancos; tomando la apariencia exacta de los hilos que Piggy reconoce fácilmente y confirma todas sus sospechas; Dirk es el responsable del robo de vida de su época y de haberlo arrastrarlo al pasado. 
+
+Los hilos absorben cúmulos de energía; como serpientes digiriendo ratones. Todos estos cúmulos entran por las uñas hasta llegar al núcleo de Dirk, la absorción es tan fuerte que sus manos se tensan a los brazos de la silla a tal grado que la deja marcada con hendiduras de sus dedos. Después de haber saciado su sed energética, los hilos adelgazan y se quiebran al menor movimiento; desvaneciendo en el suelo hasta dejar de existir. 
+
+En total silencio, Dirk coloca la silla de vuelta a su lugar y se sienta en la computadora; pero esta vez comienza a teclear velozmente sin cesar. La escena deja atónito a Piggy, que finalmente se da una idea de la clase de poder que tiene Dirk. Al estar tan absorto en el momento, Piggy roza la ventana con su Hashboard; sonido que es escuchado por la perra de Dirk, provocando que ladre ferozmente hacia la ventana. 
+
+Los ladridos sacan a Dirk de su brote creativo y lo ponen alerta; se para rápidamente y camina hacia la ventana sin apartar la vista. Piggy se mantiene oculto en el marco superior de la ventana y puede ver desde arriba la cabeza de Dirk buscando a qué le está ladrando su perra. Los segundos pasan pero la nada no deja conforme a Dirk, él sabe que algo está afuera; Piggy por su parte busca la oportunidad para salir de ahí sin ser avistado.
+
+No importa que tan sigiloso sea Piggy ahora, los ladridos de la perra continúan, manteniendo a Dirk alerta. A pesar de no poder ver nada Dirk sabe que hay algo ahí, y que ese algo no es un ave o un avión; no puede comprobarlo, pero puede presentir como lo que está allá afuera es aquella persona que él arrastró accidentalmente hasta su tiempo. 
+
+ Alimentado de su paranoia, Dirk busca frenéticamente por la ventana; abre las cortinas de par en par e inspecciona cada rincón del marco. Inconforme con la nula resolución, vuelve a sacar su cabeza, pero esta vez sacando todo su torso, quedando colgado entre su departamento y el suelo a cientos de metros abajo. Aún sin ver nada, Dirk va un paso más allá y sube los pies al marco de la ventana, saliendo totalmente de su departamento y quedando expuesto a las fatales alturas.
+
+Los ojos de Piggy no pueden creer la persistencia de este hombre; a solo un par de metros debajo de sus pies está Dirk sediento por descubrir quién está acechándolo. Piggy pega su cuerpo a la pared mientras se desliza sigilosamente de lado a lado con su Hashboard, procurando siempre mantenerse en su punto ciego. Atena llora y ladra desesperadamente al ver a su dueño en una situación de peligro.
+
+Los soplidos del viento se sienten con mayor intensidad, al igual que los lloros de Atena; Dirk da un salto y se agarra firmemente de la cornisa, colocando sus manos a unos centímetros de la tabla deslizadora de Piggy; las uñas de Dirk se aferran a la fachada exterior y posiciona sus manos para trepar. El tiempo se acaba y el sigilo deja de ser una opción para Piggy. 
+
+Un brazo de Dirk está encima de la cornisa el cual usa como palanca para subir su otro brazo, seguido de su pecho y finalmente el resto de su cuerpo. Dirk mira alrededor mientras jadeando sube sus piernas a la cornisa; algo capta con su mirada periférica, una fugaz silueta que cambia bruscamente la dirección natural del viento. Dirk solo puede observar a la figura desaparecer en el horizonte.
+
+

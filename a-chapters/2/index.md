@@ -1,14 +1,15 @@
 # Mi turno
 
-Piggy es arrastrado por los hilos cual ola salvaje y pierde todo sentido de orientación. Está aplanado y luce “en 2D”, como si estuviera impreso en una hoja de papel. Un aura oscura rodea su plana figura en donde circulan números y letras. Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, se trata de Dirk Newman, un hombre de mediana edad con pronunciadas entradas, que confundido, le pregunta a Piggy “Tú…¿Qué eres?” Antes que Piggy pueda responder, una perra de pastora alemana de inigualable belleza comienza a ladrar con furia.
+Piggy es arrastrado por los hilos cual ola salvaje y pierde todo sentido de orientación, su hombro fue lastimado en el proceso. Está aplanado y luce en 2 dimensiones, como si estuviera impreso en una hoja de papel. Un aura oscura rodea su plana figura en donde circula energia, neuronas que tejen los detalles de esa dimension que recibe materia desconocida. 
+Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, se trata de Dirk Newman, un hombre de mediana edad con pronunciadas entradas, que confundido, le pregunta a Piggy “Tú…¿Quien eres?” Antes que Piggy pueda responder, una de pastora alemana de inigualable belleza comienza a ladrar con furia.
 ![Alt text](/public/chapters/2/dirk-1.png)
 
 
-Mientras Dirk intenta controlar a su perra, Atena, el cuerpo de Piggy comienza a “inflarse”, readaptándose a la normalidad. Proceso que lo deja aún más desorientado, que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
+Mientras Dirk  maneja la furia de Metis(la perra), el cuerpo de Piggy comienza a “inflarse”, readaptándose a la normalidad. Proceso que lo deja aún más desorientado, que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
 ![Alt text](/public/chapters/2/piggy-coming.png)
 
 
-Al saltar, Piggy rompe los cristales, los cuales caen como gotas de lluvia hacia la calle, en media caída libre, Piggy invoca su Hash-board y se desliza por el costado del edificio a una gran velocidad, llegando hasta el suelo en cuestión de instantes. Sin perder un segundo se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desatando el caos y la curiosidad entre aquellos que voltean a ver el incidente andante el cual va dejando un torbellino de destrucción en su camino.
+Al saltar, Piggy rompe los cristales, los cuales caen como gotas de lluvia hacia la calle, lastimando y matando a un hombre sin hogar Rodolfo,anciano con vibras de Diogenes cuyo sueño era convertirse en un famoso flautista. En media caída libre, Piggy invoca su Hash-board y se desliza por el costado del edificio a una gran velocidad, llegando hasta el suelo en cuestión de instantes. Sin perder un segundo se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desatando el caos y la curiosidad entre aquellos que voltean a ver el incidente andante el cual va dejando un torbellino de destrucción en su camino.
 
 ![Alt text](/public/chapters/2/piggy-running.png)
 
