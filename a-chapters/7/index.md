@@ -1,28 +1,111 @@
-La vida es dura cuando estas solo, cuando todo depende de ti y sabes que no puedes contar con alguien. Tu eres la ultima capa de resistencia, y depende de ti sacar los desafios adelante. 
+Block Jumper #7
 
-Piggy camina con su jefe por el mercado. Ya ha pasado algo de tiempo desde que Piggy cruzo por los hilos de Dirk Newman, y ha trabajado muy duro para mantener un bajo perfil. 
-Ha ganado algo de peso y tiene meses que no utiliza su hash board. A pesar de que sabe que es urgente regresar a su mundo, no tiene una idea de como hacerlo, una resignacion natural invade sus pensamientos. 
+La vida es dura cuando estás solo; cuando todo depende de ti y aprendes, a golpes, que no puedes recargarte en nadie. Tú eres la última capa de resistencia. Si cedes, no hay segunda línea.
 
-Una jaula de oro, en ese tiempo no existen los Ramons, la prosperidad es notable en el mercado, las calles y los rostros de las personas. 
-La unica pista que tiene Piggy es la ubicacion de donde aparecio, que, aunque si sabe la localizacion aproximada, su memoria es borrosa para detalles especificos como el piso o el edificio, ya que esta en una de las zonas de lujo de Saylor Capital, y los edificios se asemejan mucho unos a otros. 
-Aun asi, casi diariamente, Piggy observa a la distancia por el Matrasy la zona, curioso por dar respuesta a el como llego ahi, que estaba haciendo exactamente el sujeto que lo arrastro y si existe alguna forma de volver. 
-Lo que no sabe es que Dirk tiene mucho poder politico que le permitio formar un escuadron especial que busquen a Piggy. No tiene una imagen clara de el, pero si una pintura(muy parecida a Piggy) de los recuerdos que obtuvo Lang. La unica diferencia fundamental es que en el retrato, las memorias extraidas colocan barba a Piggy, pero este es imberbe. 
+Piggy camina junto a Pietro por el mercado. Ya ha pasado tiempo desde que cruzó por los hilos de Dirk Newman y cayó en otro bloque como si la realidad lo hubiera escupido. Desde entonces trabaja con la cabeza baja y los ojos atentos, como si la supervivencia fuera un oficio más.
 
-Sin saber del peligro que lo asecha y de la fortuna relativa que tiene, Piggy continua con su rutina diaria, que consiste en ir al mercado central, obtener materiales para su maestro, regresar al puesto, su maestro siempre lo recibe con un desayuno, trabajan y en su tiempo libre Piggy esta practicando box y emprendiendo un negocio de frutas y flores. 
+Ha ganado algo de peso. Come mejor. Duerme mejor. Y aun así, por dentro, no descansa.
 
-Mientras tanto, Dirk esta en su departamento tratando de escribir el capitulo 2 de su novela. Cada letra pesa mas que la anterior, y su busqueda por la perfeccion no hace mas que atorarlo una y otra vez. Un te caliente que empaña levemente sus lentes al dar el primer sorbo, su perra durmiendo tranquilamente a un lado de su escritorio y bellas plantas que rodean cada rincon de su hogar. 
-Incapaz de poder continuar con su novela, el pensamiento de un demonio, un intruso que llego de un lugar desconocido con motivaciones desconocidas. 
-Dirk toma un vaso de agua con nervios, su mano se ve visiblimente temblorosa. Sabe que ha hecho mal, todos esos años 'pescando' esa prosperidad de lo desconocido. Esta confuniddo, no sabe exactamente porque se siente culpable; el da alegria y gozo a sus iguales, pelea por luchas sociales justas y busca la igualdad entre todos, y sin embargo, una sensaciond de culpa invade su espiritu. 
-Algunas veces, cuando cierra los ojos, 'siente' el dolor de otras personas que no conoce, lo que le ayuda a ignorar y olvidar con mayor facilidad, pero que con el tiempo y el volumen, han ido intoxicando su alma de poco en poco. 
-Dirk se dispone a salir a su mini-jardin que da vista a la capital de Saylor, una jungla de concreto con un verde que da frescura y belleza  a la cuidad. Saca un tapete y se sienta en modo monje para intentar despejar su mente. 
-No pasaron ni 5 minutos antes de que estuviera divagando en recuerdos del pasado, en viejos amores que nunca se terminaron de ir; su mente era un mono loco sin control.
-Penso que si salia a caminar las ideas iban a fluir mejor, por lo que tomo un abrigo ligero, se puso unos zapatos negros mate y chiflo para llamar a su eterna compañera, la cual al escuchar ese sonido, corrio, tomo su correa y se aproximo a la puerta. 
-Una vez en la calle, el silencio de la capital era un tanto extraño,atipico, pero nada de locos. Es como si el mundo conspirara para quitar la mayor cantidad posible de distracciones y pretextos a Dirk. 
-Muy en el fondo, este sabia cual era la razon que le impedia continuar con su escritura: El joven del otro lado. 
+Sabe que es urgente regresar a su mundo, pero no tiene una idea clara de cómo hacerlo. La resignación lo visita algunos días como un animal domesticado: se le sienta al lado, le calienta el pecho y lo convence de que quizá esta jaula de oro sea lo más parecido a paz.
 
-Porque llego? Pueden llegar mas? Que quiere, donde esta? El sabe donde se encuentra la vivienda de Dirk.
-El hecho que no sabe que quiere o porque llego ese joven aterra a Dirk. En el fondo confia en si mismo, sabe que posee un gran poder y conexiones, pero no quiere asustar a los altos mandos con la idea de otra dimension.
+En este tiempo no existen los Ramons. La prosperidad se nota en el mercado, en las calles, en los rostros; la gente discute precios, romances, trivialidades. Piggy escucha y, sin querer, envidia esa ignorancia.
 
-Aunque no sabe que es lo que quiere, tiene una sospecha fuerte que su motivacion principal es la venganza. 
-Cada vez que Dirk pesca energia, una sensacion electrica recorre su cuerpo, un dejavu de recuerdos fugazes de dolor, tristeza y frustacion que se disipan en un instante, pero suficientemente poderosos como para frenarlo parcialmente. 
+Su única pista sigue siendo el lugar donde apareció: un departamento alto en una zona de lujo. Sabe la ubicación aproximada, pero su memoria es borrosa en detalles específicos como el piso o el edificio; en Sailor Capital los edificios ricos se parecen tanto entre sí que la ciudad parece burlarse. Aun así, casi a diario, Piggy toma el Matrasy y observa esa zona desde lejos, cazando respuestas.
 
+¿Qué estaba haciendo exactamente el sujeto que lo arrastró?
+
+¿Existe alguna forma de volver?
+
+Piggy cree que lo más peligroso es acercarse.
+
+No sabe que lo más peligroso es que ya se acercó.
+
+Aquella noche, colgado entre la fachada y el vacío, Piggy vio lo imposible: los hilos. Blancos. Vivos. Hambrientos. Brotando de las uñas de Dirk como raíces de otro mundo. Confirmó lo que antes era sospecha: Dirk no era solo un administrador brillante ni un político con influencia; era el origen de una tecnología o de una maldición que en el bloque 218 solo existe como ruina.
+
+Y casi lo paga.
+
+Un roce mínimo contra el vidrio, un sonido tan pequeño que en otro día habría sido nada, y la perra despertó con los colmillos listos. Piggy escapó, sí, pero desde entonces entiende algo nuevo: no basta con saber. Hay que sobrevivir al saber.
+
+Tiene meses sin usar su Hashboard. La guarda como quien esconde una navaja: no por vergüenza, sino por prudencia. El box le sirve de sustituto. En las noches se amarra las vendas y golpea un costal improvisado hasta que el cuerpo le arde y la mente se le queda en blanco. No entrena para pelear contra otros; entrena para no quebrarse.
+
+Mientras tanto, en los rincones de la ciudad, las noticias repiten un nombre con distintas voces: Under End. La expedición al otro lado. El sur absoluto. Una promesa imposible convertida en proyecto estatal, financiado por los Blu, construido por zPace, administrado por Dirk Newman.
+
+Piggy escucha “Dirk Newman” como quien escucha el sonido de un disparo en un sueño.
+
+No se mueve. No se delata.
+
+Pero la palabra lo persigue.
+
+En el mercado, Piggy cumple su rutina: ir al central por materiales, regresar al puesto, acomodar fruta, contar tablores, cargar cajas. Pietro siempre lo recibe con un desayuno sencillo, caliente, como si fuera una forma de decir “sigue vivo”. Trabajan. Y en los huecos Piggy mira la ciudad como un mapa: rutas, horarios, puntos ciegos.
+
+Lo que Piggy no sabe —y lo ha mantenido vivo— es que la ciudad también lo está mirando.
+
+Dirk Newman salió ileso del encuentro en la ventana, pero no salió intacto.
+
+Desde aquella noche, su paranoia se volvió disciplina. No lo gritó. No lo anunció. Lo convirtió en política.
+
+Dirk tiene poder, y el poder sabe esconderse detrás de palabras respetables. Lo llamó “seguridad”. Lo justificó con los incidentes de Rinki. Lo amarró a Under End como si proteger un cohete fuera lo mismo que proteger su conciencia.
+
+Viktor Lang le ayudó a volver útil su miedo.
+
+De una memoria incompleta, Lang extrajo un retrato. Una pintura nacida del pánico y del detalle borroso. En ese trazo el intruso tiene barba. Porque así lo completó el recuerdo. Porque así lo deformó la culpa.
+
+Con ese retrato bastó.
+
+Un escuadrón especial empezó a moverse por Sailor Capital como una corriente subterránea: sin uniformes vistosos, sin sirenas, con preguntas cortas y ojos largos.
+
+Y una mañana, esa corriente llega al mercado.
+
+Piggy está acomodando mandarinas cuando ve dos hombres detenerse a unos metros del puesto. No tienen la forma de los clientes. No miran fruta. Miran gente.
+
+Pietro los ve también, y sin decirlo se le tensa el cuerpo, como si la edad le recordara guerras que otros ya olvidaron.
+
+—Buenos días —dice uno, demasiado correcto—. Estamos haciendo una verificación rápida.
+
+El otro abre una carpeta.
+
+Entre papeles aparece una hoja con un dibujo.
+
+Una cara.
+
+Una silueta.
+
+Barba marcada.
+
+Ojos duros.
+
+Piggy siente un frío por dentro, no porque sea idéntico, sino porque se parece lo suficiente.
+
+—¿Han visto a alguien así por aquí? —pregunta el hombre, sin levantar la voz.
+
+Pietro ni siquiera mira bien el retrato.
+
+—Aquí lo único que vemos son deudas y hambre, jefe —responde con una sonrisa cansada—. Y de eso no traigo foto.
+
+El agente no ríe.
+
+—Es importante.
+
+Pietro se encoge de hombros.
+
+—Si es tan importante, búsquelo donde están los importantes. Aquí la gente viene a comprar fruta.
+
+Los hombres se quedan un segundo más. Demasiado. Uno de ellos deja que la mirada pase por encima del puesto, por encima de Pietro… y roce a Piggy sin fijarlo.
+
+Piggy baja la vista a las mandarinas como si fueran lo único real del universo.
+
+Los agentes se van.
+
+El aire vuelve a moverse.
+
+Los clientes vuelven.
+
+Pero Piggy ya no está en el mismo lugar.
+
+Con la garganta seca, se toca el mentón, siente la piel lisa, y entiende la ironía cruel: lo buscan mal, pero lo buscan.
+
+Esa noche, mientras el mercado cierra y Pietro apaga las últimas luces, Piggy no piensa en mandarinas ni en tablores. Piensa en rutas. Piensa en hilos. Piensa en Dirk.
+
+Y por primera vez desde que cayó en este tiempo, deja de preguntarse si podrá volver.
+
+Se pregunta cuánto está dispuesto a romper para lograrlo.

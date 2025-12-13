@@ -2,7 +2,7 @@ Block Jumper Roadmap
 
 Capítulo #1: Se presenta el conflicto entre los Wolkers (terrestres) y Ramons (marinos). Hiroshi Bancs, hermano de Piggy y líder de los Wolker pelea contra un temible Tilikum, una de las criaturas marinas más poderosas existentes, acompañada de Salino, un pequeño delfín. Piggy Bancs es arrastrado hacia el pasado por una red de hilos en el cielo. 
 
-Capítulo #2: Piggy Bancs se ve cara a cara con Dirk Newman, el creador de los hilos y responsable de haberlo llevado al pasado. Después de huir Piggy es atrapado por los Sitters; un grupo de guardias religiosos los cuales adoran a una cabra, ellos tienen armas y armaduras de fuego. La cabra “decide” dejarlo ir y Piggy encuentra refugio en una fundidora, después de una pelea con unos ladrones del grupo Rinki, Piggy encuentra un trabajo y hospedaje con un hombre de la tercera edad llamado Atoshi. 
+Capítulo #2: Piggy Bancs se ve cara a cara con Dirk Newman, el creador de los hilos y responsable de haberlo llevado al pasado. Después de huir Piggy es atrapado por los Sitters; un grupo de guardias religiosos los cuales adoran a una cabra, ellos tienen armas y armaduras de fuego. La cabra “decide” dejarlo ir y Piggy encuentra refugio en una fundidora, después de una pelea con unos ladrones del grupo Rinki, Piggy encuentra un trabajo y hospedaje con un hombre de la tercera edad llamado Pietro. 
 
 Capítulo #3: El grupo criminal ‘Rinki’ descarrila el tren ‘Matrasy’, solo encuentran a uno de los responsables, Mauro Tavira, desatando una investigación masiva dirigida por Viktor Lang, el líder del partido del progreso. Viktor usa sus poderes en Mauro y Dirk confirma que Piggy sigue presente a través de los recuerdos de Mauro.
 
@@ -49,7 +49,7 @@ Cosas que tienen que pasar en la segunda temporada:
 Temporada 3: Piggy regresa al pasado después de tres intentos fallidos de cortar los hilos de Dirk. Ahora con un objetivo claro de detener el robo energético de Dirk. 
 
 Cosas que tienen que pasar en la tercera temporada:
--Que el señor Atoshi haya fallecido, y Piggy jamás le pudo explicar nada ni siquiera dar las gracias por todo lo que hizo por él. (propuesta)
+-Que el señor Pietro haya fallecido, y Piggy jamás le pudo explicar nada ni siquiera dar las gracias por todo lo que hizo por él. (propuesta)
 -Aparición de Alex y planteamiento de su poder para argumentar la batalla de los Fork antes de que esta ocurra. 
 -Revancha de Piggy contra Henry, donde ahora Piggy le gana.
 -Donna Colombo toma mucha mayor relevancia política debido a la disconformidad con el gobierno actual de William Heart.

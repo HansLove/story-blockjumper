@@ -35,7 +35,7 @@ Este capítulo tiene dos líneas narrativas principales:
 1. **Continuidad temporal**:
    - El capítulo se ubica después del cap. 4 (La Arista)
    - Menciona "el aumento de seguridad tras los incidentes del grupo Rinki" (línea 17) - **CONSISTENTE** con cap. 3
-   - Menciona que Piggy trabaja con Atoshi - **CONSISTENTE** con cap. 2
+   - Menciona que Piggy trabaja con Pietro - **CONSISTENTE** con cap. 2
 
 2. **Revelación de Ramón y los Ramons**:
    - **Línea 7**: Ramón es conserje en zPace

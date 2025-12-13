@@ -1,5 +1,21 @@
 # Análisis Crítico del Capítulo 2
 
+## ESTADO (aplicado en `a-chapters/2/index.md`)
+
+- **Estilo (comillas / consistencia)**:
+  - **Resuelto**: “inflarse” sin comillas; se integró como proceso físico.
+  - **Resuelto**: “Hash-board” → **Hashboard** (consistencia).
+  - **Resuelto**: “compresas” → **comprimidas** (más natural).
+- **Congruencia / claridad**:
+  - **Resuelto**: transición **calma → sospecha → pánico** en el departamento (sin revelar aún el nombre de Dirk).
+  - **Resuelto**: momento humano con Rodolfo (Piggy lo ve, quiere ayudar, pero huye; se deja un foreshadow sutil sin revelar “el poder”).
+  - **Resuelto**: explicación breve de **los Sitters** (guardianes con indumentaria resistente al fuego).
+  - **Resuelto**: vulnerabilidad en el juicio (desnudez, frío, nervios, picor en la nariz).
+  - **Resuelto**: salida del templo (Piggy se viste rápido, aparece una familia a lo lejos).
+- **Ritmo**:
+  - **Resuelto**: pelea callejera condensada manteniendo beats clave (robo → alcance → pelón → tierra a los ojos → recuperación → huida).
+  - **Añadido**: a un amigo se le escapa el nombre del pelón: **“Adán”**.
+
 ## CONTEXTO
 Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy desapareció al cortar los hilos. Debe establecer el nuevo escenario (Bloque 99), presentar nuevos elementos del mundo y desarrollar la trama del viaje en el tiempo.
 
@@ -44,31 +60,8 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
 4. **Presentación de nuevos elementos**:
    - Baby Goat y los Sitters están bien introducidos
    - El pelón aparece naturalmente (será importante después)
-   - Atoshi como figura de mentor funciona
+   - Pietro como figura de mentor funciona
 
-### ⚠️ Problemas de congruencia:
-
-3. **Bandera carmesí**:
-   - Piggy la ve y piensa que es de "las penínsulas montañosas del norte" (línea 8)
-   - Luego descubre que está en el pasado (línea 67)
-   - La bandera aparece en el templo de Baby Goat (línea 25)
-   - **Sugerencia**: Aclarar qué representa la bandera carmesí en el Bloque 99
-
-4. **Rey Gallopo**:
-   - Piggy menciona a "Rey Gallopo" (línea 25)
-   - No se explica quién es ni por qué Piggy lo conoce
-   - **Sugerencia**: Añadir contexto breve o mover esta referencia
-
----
-
-## ANÁLISIS DE ESTRUCTURA
-
-### Estructura Actual:
-1. **Llegada a Bloque 99** (líneas 3-12): ✅ Funciona
-2. **Escape y captura** (líneas 12-22): ✅ Bien ejecutado
-3. **Juicio de Baby Goat** (líneas 25-41): ✅ Interesante y único
-4. **Descubrimiento del viaje temporal** (líneas 43-68): ✅ Clímax efectivo
-5. **Encuentro con Atoshi** (líneas 71-77): ✅ Buen cierre
 
 ### Problemas de ritmo:
 
@@ -78,26 +71,15 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
    - Puede ralentizar el ritmo narrativo
    - **Sugerencia**: Condensar a 8-10 líneas, mantener solo los momentos clave
 
-2. **Transición abrupta** (línea 12):
-   - Piggy mata a Rodolfo y sigue sin mencionarlo
-   - Debería haber una pausa emocional o desarrollo
-
 3. **Secuencia de Baby Goat** (líneas 25-41):
    - Bien escrita pero podría ser más breve
    - El suspenso funciona, pero se alarga un poco
-
 ---
 
 ## ANÁLISIS DE PERSONAJES
 
-### Piggy:
-- ✅ **Fortaleza**: Muestra determinación y habilidades de combate
-- ✅ **Fortaleza**: Reacción estoica al descubrir el viaje temporal (línea 69)
-- ⚠️ **Problema**: No muestra reacción emocional por matar a Rodolfo
-- ⚠️ **Problema**: Falta más desarrollo interno (pensamientos, emociones)
-
 ### Dirk:
-- ✅ **Fortaleza**: Presentación efectiva (confusión, reacción natural)
+- ✅ **Fortaleza**: Presentación efectiva 
 - ⚠️ **Problema**: Aparece muy brevemente (solo líneas 4-8)
 - **Sugerencia**: Darle más presencia o desarrollar su reacción
 
@@ -107,12 +89,12 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
 - ⚠️ **Problema**: No se explica claramente qué son los Sitters
 - **Sugerencia**: Añadir una línea explicativa sobre los Sitters
 
-### El Pelón:
+### El Pelón, pero que a uno de sus amigos se le escape su nombre 'Adan'. 
 - ✅ **Fortaleza**: Presentación natural (aparece como ladrón)
 - ✅ **Fortaleza**: Caracterización clara (línea 53: "no se mueve ni un centímetro")
 - ✅ **Fortaleza**: Se establece como antagonista secundario
 
-### Atoshi:
+### Pietro:
 - ✅ **Fortaleza**: Figura de mentor bien presentada
 - ✅ **Fortaleza**: Diálogo natural y amable
 - ✅ **Fortaleza**: Ofrece una oportunidad narrativa (empleo)
@@ -122,12 +104,6 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
 ## PROBLEMAS ESPECÍFICOS DE ESCRITURA
 
 ### 1. Errores gramaticales/ortográficos:
-
-**Línea 4**: `una de pastora alemana` 
-- Debería ser: "una pastora alemana" o "una perra pastora alemana"
-
-**Línea 12**: `Hash-board` 
-- Inconsistente con "Hashboard" usado en otros lugares
 
 **Línea 31**: `grán cámara`
 - Debería ser: "gran cámara" (sin tilde, es aguda)
@@ -171,27 +147,10 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
    - Establece conflicto futuro
    - Caracterización clara
 
-4. **Encuentro con Atoshi**:
+4. **Encuentro con Pietro**:
    - Ofrece esperanza y conexión humana
    - Establece una posible base para Piggy
    - Diálogo natural
-
-### ⚠️ Elementos que necesitan desarrollo:
-
-1. **Muerte de Rodolfo**:
-   - Evento importante que se ignora
-   - Debería tener consecuencias emocionales o narrativas
-   - **Sugerencia**: Desarrollar o eliminar
-
-2. **Rey Gallopo**:
-   - Mencionado pero no explicado
-   - **Sugerencia**: Añadir contexto o eliminar la referencia
-
-3. **Los Sitters**:
-   - Aparecen pero no se explica qué son
-   - **Sugerencia**: Añadir una línea explicativa breve
-
----
 
 ## COMPARACIÓN CON CAPÍTULO 1
 
@@ -265,9 +224,6 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
 ### 2. Desarrollo de elementos:
 
 **Muerte de Rodolfo**:
-- Opción A: Desarrollar emocionalmente (culpa, reflexión)
-- Opción B: Eliminar si no es relevante para la trama
-
 **Rey Gallopo**:
 - Añadir una línea de contexto o eliminar la referencia
 
@@ -324,17 +280,11 @@ Este capítulo continúa inmediatamente después del capítulo 1, donde Piggy de
 
 ### Fortalezas:
 - ✅ Continuidad coherente con capítulo 1
-- ✅ Presentación efectiva de nuevos elementos (Baby Goat, Sitters, Pelón, Atoshi)
+- ✅ Presentación efectiva de nuevos elementos (Baby Goat, Sitters, Pelón, Pietro)
 - ✅ Descubrimiento del viaje temporal bien ejecutado
 - ✅ Secuencia de Baby Goat única e interesante
 - ✅ Establece nuevas direcciones narrativas
 
-### Problemas principales:
-- ❌ **ERROR CRÍTICO**: Línea 43 dice "Rubikon" cuando debería ser "Sailor Capital"
-- ⚠️ Muerte de Rodolfo sin desarrollo emocional
-- ⚠️ Secuencia de pelea demasiado larga (16 líneas)
-- ⚠️ Algunas comillas innecesarias
-- ⚠️ Inconsistencias menores (nombre de perra, Hash-board vs Hashboard)
 
 ### Recomendación final:
 El capítulo tiene **buena base narrativa** pero necesita:
@@ -342,24 +292,3 @@ El capítulo tiene **buena base narrativa** pero necesita:
 2. **Desarrollo**: Muerte de Rodolfo o eliminarla
 3. **Condensación**: Secuencia de pelea (reducir ~40%)
 4. **Correcciones menores**: Comillas, gramática, consistencia de nombres
-
-Con estos ajustes, el capítulo funcionará mucho mejor y mantendrá la calidad del capítulo 1.
-
----
-
-## CHECKLIST DE CORRECCIONES
-
-- [ ] **CRÍTICO**: Cambiar "Rubikon" por "Sailor Capital" (línea 43)
-- [ ] Corregir "una de pastora alemana" → "una pastora alemana" (línea 4)
-- [ ] Unificar nombre de perra (Metis vs Atena)
-- [ ] Cambiar "Hash-board" → "Hashboard" (línea 12)
-- [ ] Eliminar comillas en "inflarse" (línea 8)
-- [ ] Cambiar "compresas" → "comprimidas" o "almacenadas" (línea 27)
-- [ ] Corregir "grán" → "gran" (línea 31)
-- [ ] Corregir "tumbandole" → "tumbándole" (línea 61)
-- [ ] Desarrollar o eliminar muerte de Rodolfo
-- [ ] Añadir contexto sobre Rey Gallopo o eliminar referencia
-- [ ] Añadir explicación breve sobre los Sitters
-- [ ] Condensar secuencia de pelea (líneas 47-63)
-- [ ] Revisar y variar repeticiones de "Piggy"
-

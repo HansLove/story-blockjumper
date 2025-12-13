@@ -30,25 +30,25 @@ Caminan por un pasillo de arcadas abiertas. Nadie parece verlos y, sin embargo, 
 
 —¿A quién?
 
-—**Atoshi**. Puestos del mercado. Fruta. Manos temblorosas, ojos que no olvidan.
+—**Pietro**. Puestos del mercado. Fruta. Manos temblorosas, ojos que no olvidan.
 
 Atena apoya el mentón en la rodilla de Piggy, sola caricia en una ciudad que habla con metales. Piggy toma la moneda testigo y el pulso del disco se sincroniza con la fibra del cinturón. Algo, en alguna parte, cuenta hacia atrás.
 
 ***
 
-El mercado huele a cáscaras húmedas y a carbón madrugador. Piggy reconoce la carreta de fruta antes de reconocer al anciano. **Atoshi** lo mide con la misma calma con que se mide una tormenta que ya pasó.
+El mercado huele a cáscaras húmedas y a carbón madrugador. Piggy reconoce la carreta de fruta antes de reconocer al anciano. **Pietro** lo mide con la misma calma con que se mide una tormenta que ya pasó.
 
-—Te adelantaste a la pregunta —dice Atoshi, sin saludar—. La historia te alcanzó por la espalda, muchacho.
+—Te adelantaste a la pregunta —dice Pietro, sin saludar—. La historia te alcanzó por la espalda, muchacho.
 
 Piggy le muestra el disco.
 
 —Necesito volver.
 
-—Todos dicen eso —responde Atoshi—. “Volver” no existe; existe **volver a parecer**. La moneda testigo no te lleva a tu bloque, **lleva el bloque hacia ti**. Por un instante.
+—Todos dicen eso —responde Pietro—. “Volver” no existe; existe **volver a parecer**. La moneda testigo no te lleva a tu bloque, **lleva el bloque hacia ti**. Por un instante.
 
-Atoshi deja el disco sobre una plancha de hierro que vibra con un zumbido amable. La cerámica del puesto responde como los tazones del templo: calor que sube y baja en oleadas. A lo lejos, un silbato corta el aire; los rieles despiertan.
+Pietro deja el disco sobre una plancha de hierro que vibra con un zumbido amable. La cerámica del puesto responde como los tazones del templo: calor que sube y baja en oleadas. A lo lejos, un silbato corta el aire; los rieles despiertan.
 
-—Tienes dos rutas, Piggy —dice Atoshi, mientras el metal canta—. **Reloj** o **Testigo**. Sigues a Dirk al Observatorio de Hilos, donde reajustan la ciudad para que encaje contigo. O me entregas la moneda y yo la hago cantar en la **Forja Fría**, para que el **hilo** venga por ti y no al revés.
+—Tienes dos rutas, Piggy —dice Pietro, mientras el metal canta—. **Reloj** o **Testigo**. Sigues a Dirk al Observatorio de Hilos, donde reajustan la ciudad para que encaje contigo. O me entregas la moneda y yo la hago cantar en la **Forja Fría**, para que el **hilo** venga por ti y no al revés.
 
 Piggy siente el tirón de la fibra carmesí en el cinturón, como si el templo aún lo sujetara a distancia. Siente también la memoria de la sopa tibia encendiendo su estómago: calibración, no caridad.
 
@@ -59,6 +59,6 @@ Sobre sus cabezas, el cielo parpadea. Por una décima de segundo, una línea de 
 ---
 
 [fork: A1 — Confiar en Dirk y subir al Observatorio de Hilos →](../3A1/index.md)  
-[fork: A2 — Entregar la moneda a Atoshi y encender la Forja Fría en secreto →](../3A2/index.md)
+[fork: A2 — Entregar la moneda a Pietro y encender la Forja Fría en secreto →](../3A2/index.md)
 
 [next_chapter →](../3A1/index.md)

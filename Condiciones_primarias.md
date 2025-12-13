@@ -34,7 +34,7 @@ Atena: Perra pastora aleman. Extremadamente fiel y protectiva de su dueño, Dirk
 Baby Goat: Pequeña cabra bebé con el cuerpo blanco y la cabeza totalmente negra. Es venerada como el Dios en su religión y custodiada por los Sitters.
 El Pelón: Hombre de aprox. 38 años, cabecilla del grupo criminal ‘Rinki’. Pelón y fortachón, de apariencia intimidante y carácter grosero.
 Mauro Tavira: Joven de pequeña estatura y cuerpo correoso, nada agraciado físicamente. Porta un mohawk decolorado y perforaciones asimétricas en el labio y orejas. Miembro novato de Rinki.
-Atoshi: Anciano de la tercera edad de rasgos asiáticos. De cuerpo débil y con poca fuerza, con una templanza y gentileza distinguibles.
+Pietro: Anciano de la tercera edad de rasgos asiáticos. De cuerpo débil y con poca fuerza, con una templanza y gentileza distinguibles.
 
 CODEX
 
@@ -84,7 +84,7 @@ Revisando los capítulos restantes en `a-chapters` para evaluar la parte literar
    - Piggy: protagonista con motivación clara
    - Dirk: antagonista con matices (culpa, poder)
    - Viktor Lang: escena del juicio bien construida
-   - Atoshi: figura de mentor
+   - Pietro: figura de mentor
 
 4. Escenas destacadas
    - Cap. 1: batalla inicial con tensión y pérdida (Santiago)
