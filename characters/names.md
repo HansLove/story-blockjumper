@@ -25,7 +25,7 @@
 - Brucer Pipiano, Slavic suvvenir the cool guy.
 - Paco Godnica
 
--Gheorghe Apostol
+- Gheorghe Apostol
 
 
 
@@ -38,4 +38,18 @@
 - Wilmer Ruperti
 
 
+- Bobby Driscoll, exitoso infantil, loco de tarde, acne
+![alt text](image-6.png)
+
+- Loreto Gi
+
+- Adan Luna- Nada/Nadia Luna? 
+
+- Billy Peacock
+
+- Rodolfo 'El Flautista' 
+
+- Túpac Amaru
+
+- Jefe tonto, subordinado MUY capaz. 
 

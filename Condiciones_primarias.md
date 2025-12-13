@@ -60,3 +60,99 @@ Zpace: Proyecto de expedición fondeado por los Blu que busca explorar el ‘und
 Under End: Nombre otorgado a la cara inferior del planeta (que es plano y cuadrado como una caja de pizza).
 
 
+Revisando los capítulos restantes en `a-chapters` para evaluar la parte literaria:
+
+
+[10 tools called]
+
+
+## Análisis literario de Block Jumper
+
+### Fortalezas narrativas
+
+1. Estilo visual y cinematográfico
+   - Descripciones que funcionan como storyboards
+   - Ritmo dinámico en las escenas de acción (cap. 1, 4)
+   - Uso efectivo de imágenes para complementar el texto
+
+2. Construcción del mundo
+   - Conceptos claros: bloques temporales, Hash, hilos, Ramons/Wolkers
+   - Detalles que dan verosimilitud (Matrasy, Prono Racing, zPace)
+   - Metáfora blockchain integrada de forma natural
+
+3. Personajes
+   - Piggy: protagonista con motivación clara
+   - Dirk: antagonista con matices (culpa, poder)
+   - Viktor Lang: escena del juicio bien construida
+   - Atoshi: figura de mentor
+
+4. Escenas destacadas
+   - Cap. 1: batalla inicial con tensión y pérdida (Santiago)
+   - Cap. 3: interrogatorio de Viktor Lang (psicológica)
+   - Cap. 4: carrera de Prono Racing (ritmo y tensión)
+   - Cap. 5: revelación del poder de Dirk (visual)
+
+### Áreas de mejora
+
+1. Uso de los 21 poderes
+   - Problema: solo se muestran algunos poderes (Block Jumper, Neuro Recall, creación de hilos)
+   - Sugerencia: introducir más poderes gradualmente. El archivo `21_poderes.md` tiene ideas interesantes (Decentralized Dodge, Tokenizer, NFT Master) que aún no aparecen
+
+2. Consistencia del sistema Hash
+   - Se menciona como “energía universal” pero falta profundidad
+   - Sugerencia: mostrar límites, costos y reglas claras
+
+3. Ritmo narrativo
+   - Cap. 6 y 7: más lentos, más introspectivos
+   - Cap. 4: muy largo (carrera detallada)
+   - Sugerencia: equilibrar acción y desarrollo de personajes
+
+4. Desarrollo de personajes secundarios
+   - Chip Keaton: buena introducción, pero falta profundidad
+   - Ramón: origen de los Ramons interesante, pero breve
+   - Sugerencia: dar más espacio a personajes clave
+
+5. Sistema de forks
+   - Estructura clara (2A/2B, 3A/3B)
+   - Problema: no queda claro cuál es canonical
+   - Sugerencia: marcar explícitamente la línea canonical
+
+### Observaciones específicas
+
+1. Cap. 1: fuerte apertura, establece el conflicto y el mundo
+2. Cap. 2: buen uso de forks narrativos (2A/2B)
+3. Cap. 3: escena del juicio bien escrita, pero muy larga
+4. Cap. 4: carrera emocionante, pero podría acortarse un 30%
+5. Cap. 5: revelación de Dirk efectiva, tensión bien manejada
+6. Cap. 6-7: más introspectivos, necesarios pero más lentos
+
+### Sugerencias concretas
+
+1. Poderes
+   - Introducir 2-3 poderes nuevos por temporada
+   - Mostrar límites y costos del Hash
+   - Usar poderes como Tokenizer o NFT Master para conflictos
+
+2. Estructura
+   - Marcar explícitamente qué forks son canonical
+   - Crear un diagrama del árbol de forks
+   - Documentar decisiones narrativas importantes
+
+3. Ritmo
+   - Acortar la carrera del cap. 4 (mantener lo esencial)
+   - Añadir más acción en cap. 6-7
+   - Usar cliffhangers al final de capítulos
+
+4. Temas
+   - Profundizar la crítica al sistema financiero
+   - Explorar la metáfora blockchain más explícitamente
+   - Mostrar consecuencias del robo de energía de Dirk
+
+### Conclusión
+
+La base narrativa es sólida. El mundo es interesante, los personajes funcionan y el estilo es visual. Para mejorar:
+- Introducir más poderes gradualmente
+- Clarificar el sistema de forks y marcar lo canonical
+- Equilibrar ritmo y desarrollo
+- Profundizar los temas centrales
+

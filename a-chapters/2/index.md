@@ -1,15 +1,19 @@
 # Mi turno
 
 Piggy es arrastrado por los hilos cual ola salvaje y pierde todo sentido de orientación, su hombro fue lastimado en el proceso. Está aplanado y luce en 2 dimensiones, como si estuviera impreso en una hoja de papel. Un aura oscura rodea su plana figura en donde circula energia, neuronas que tejen los detalles de esa dimension que recibe materia desconocida. 
-Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, se trata de Dirk Newman, un hombre de mediana edad con pronunciadas entradas, que confundido, le pregunta a Piggy “Tú…¿Quien eres?” Antes que Piggy pueda responder, una de pastora alemana de inigualable belleza comienza a ladrar con furia.
+Sus botas enlodadas levitan sobre una pálida alfombra, al final de esta se encuentra una silueta sentada, un hombre de mediana edad con pronunciadas entradas, que confundido pero en calma pregunta a Piggy “Tú…¿Quien eres?” Antes que Piggy pueda responder, una imponente perra de inigualable belleza comienza a ladrar con furia.
 ![Alt text](/public/chapters/2/dirk-1.png)
 
 
-Mientras Dirk  maneja la furia de Metis(la perra), el cuerpo de Piggy comienza a “inflarse”, readaptándose a la normalidad. Proceso que lo deja aún más desorientado, que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
+Mientras el sereno hombre  maneja la furia de la perra, el cuerpo de Piggy comienza a inflarse y recuperar su estado original, proceso que lo deja aún más desorientado. Al voltear a ver a los ojos a aquel hombre, una calma se apodero de su agitado espiritu y el silencio se impuso. 
+**Aqui podemos hacer algo mucho mejor al pasar de la calma y la busqueda natural de ayuda por el panico, ya que Dirk Newmnan(cuyo nombre no ha sido relevado aun en este punto) despues de meditarlo y unos intercambios leves, lo intepreta como un demonio del caos que debe ser erradicado, lo quiere exterminar, pero es un buen tipo, no es un asesino ni militar, por algun detalle leve, Piggy ve su intencion y escapa--> Conectamos con:** 
+ que, combinado con los ladridos y su confusión provoca que el pánico se apodere de él y actúe precipitadamente, decidiendo saltar por la ventana del alto departamento, ya que en el horizonte, logra divisar una bandera carmesí, perteneciente a las penínsulas montañosas del norte.
 ![Alt text](/public/chapters/2/piggy-coming.png)
 
 
-Al saltar, Piggy rompe los cristales, los cuales caen como gotas de lluvia hacia la calle, lastimando y matando a un hombre sin hogar Rodolfo,anciano con vibras de Diogenes cuyo sueño era convertirse en un famoso flautista. En media caída libre, Piggy invoca su Hash-board y se desliza por el costado del edificio a una gran velocidad, llegando hasta el suelo en cuestión de instantes. Sin perder un segundo se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desatando el caos y la curiosidad entre aquellos que voltean a ver el incidente andante el cual va dejando un torbellino de destrucción en su camino.
+Al saltar, Piggy rompe los cristales, los cuales caen como gotas de lluvia hacia la calle, lastimando a un hombre sin hogar Rodolfo,anciano con vibras de Diogenes cuyo sueño era convertirse en un famoso flautista, pero empujado por los faciles placeres, termino como Piggy, en caída libre; este invoca su Hashboard y se desliza por el costado del edificio a una gran velocidad, tocando las calles en cuestión de instantes.
+**Aqui podemos agregar que voltea a ver a Rodolfo, pero en este momento Piggy tiene miedo y huye de Dirk, no se puede detener a verlo, pero es de corazon noble, tiene que volver ahora bien, para lo poco que sabia, Rodolfo estaba practicamente intacto y es que este guarda un gran poder, con la bebida se autoregula para no liberarlo, ahora bien, el espectador no debe saber esto en este punto de la trama aun, pero si quiero mostrar ese lado humano de Piggy**
+ Sin perder un segundo se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desatando la curiosidad entre aquellos que voltean a ver el incidente andante el cual va dejando un torbellino de destrucción en su camino.
 
 ![Alt text](/public/chapters/2/piggy-running.png)
 
@@ -40,7 +44,7 @@ Piggy totalmente anonadado, se da cuenta que estas personas no están relacionad
 
 Los guardias se ponen de pie y escoltan a Piggy fuera de la cámara y del templo sin decir una sola palabra. Con ambos pies fuera, le regresan todas sus pertenencias y cierran el portón. Piggy perplejo de lo que acaba de suceder, recapitula lo ocurrido y se pregunta su paradero; es un lugar familiar para él, pero independientemente de su ubicación, todo luce distinto, un poco fuera de lugar.
 
-Con calma, Piggy contempla las afueras de la ciudad desde las alturas en las que se encuentra. Observa la estructura de la ciudad, la posición de las estrellas y montañas. “No me cabe duda, estoy en Rubikon, pero salté a otro lugar a través de los hilos que acechaban los cielos”. 
+Con calma, Piggy contempla las afueras de la ciudad desde las alturas en las que se encuentra. Observa la estructura de la ciudad, la posición de las estrellas y montañas. “La estructura de la ciudad es familiar, pero todo luce distinto. La posición de las estrellas, el uso masivo de metal... No me cabe duda, estoy en el pasado. Salté en el tiempo cortando esos hilos.”. 
  
 Los últimos rayos del sol terminan de bajar por el horizonte, oscureciendo cada vez más el panorama. Piggy busca algún lugar donde pueda pasar la noche en la periferia de la ciudad, encuentra una gran procesadora de metales que funciona de manera automática y decide quedarse ahí, el calor de la maquinaria ayuda contra el frío de la noche y sabe que nadie lo notará durmiendo.
 

@@ -66,3 +66,8 @@ Cosas que tienen que pasar en la cuarta temporada:
 -Como Green queda pelón y se corrompe.
 -Pelea entre Green y Piggy, donde llega Dirk a ayudar a Piggy (momento épico).
 -
+
+
+
+
+- Sentencia de prision muy alta, reaccion, morbo.
