@@ -51,5 +51,4 @@
 
 - Túpac Amaru
 
-- Jefe tonto, subordinado MUY capaz. 
-
+- Steeve Reese

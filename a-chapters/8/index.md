@@ -1,90 +1,163 @@
-Johnny Tremain es una obra de ficción histórica escrita en 1943 por Esther Forbes, la obra se desarrolla en Boston antes y durante el estallido de la Revolución Americana. Destinados a lectores adolescentes, los temas de la novela incluyen el aprendizaje, el cortejo, el sacrificio, los derechos humanos y la creciente tensión entre patriotas y leales a medida que se acerca el conflicto. Los eventos descritos en la novela incluyen el Boston Tea Party, el bloqueo británico del Puerto de Boston, el paseo de medianoche de Paul Revere y las batallas de Lexington y Concord. El libro ganó la Medalla Newbery de 1944 y es el libro infantil número 16 más vendido a partir del año 2000 en los Estados Unidos, según Publishers Weekly. En 1957, Walt Disney Pictures lanzó una adaptación cinematográfica, también llamada Johnny Tremain.
+# La mano quemada
 
-La historia comienza el 23 de julio de 1773 en el taller de orfebrería de Boston del anciano Ephraim Lapham, donde Johnny es un prometedor aprendiz de 14 años. Se entiende que algún día se casará con la nieta del Sr. Lapham, Cilla, para así mantener la tienda dentro de la familia Lapham. La tienda pronto recibe un pedido apremiante del rico comerciante John Hancock para hacer un plato de plata con el que reemplazar uno que el Sr. Lapham diseñó décadas antes. Mientras preparaba la orden de Hancock, Johnny se quemó gravemente la mano cuando Dove, un aprendiz de mayor edad que estaba resentido con él, le dio deliberadamente un crisol agrietado que goteaba plata fundida. La mano de Johnny está paralizada más allá de su uso, y ya no puede ser un platero. El orgullo juvenil de Johnny es aplastado por la lesión, lo que lo ha hecho útil solo como opinión para un chico de mandado no calificado. Se ve forzado a dejar su trabajo como platero y se embarca a buscar un nuevo trabajo que acepte su mano lisiada.
+La pregunta de cuánto está dispuesto a romper se le queda en la garganta como un hueso.
 
-Después de una serie de rechazos, Johnny alcanza el punto más bajo de su joven vida. Mientras busca trabajo, se encuentra en una imprenta con un joven tipógrafo llamado Rab, que es amigable con él. Luego decide recurrir al Sr. Lyte, un rico comerciante de Boston. Johnny le explica que su madre le dijo que él y el Sr. Lyte están relacionados y, como último recurso, acudir a él en busca de ayuda. Lyte solicita la prueba y Johnny le muestra una copa de plata con el escudo de la familia Lyte. Lyte dice que se lo robaron en un robo y Johnny es arrestado porque se creía que lo había robado. Finalmente, Johnny es liberado por la corte después de que Rab lleva a Cilla a la corte y ella testifica que le mostró su taza antes de que ocurriera el robo.
+Piggy lleva días dándole vueltas. Desde aquella visita de los agentes al mercado, su rutina ha cambiado sutilmente: ahora mira más, habla menos, y cuando acomoda fruta lo hace con las manos tensas, como si cada mandarina fuera una granada.
 
-Johnny se instala en un trabajo de reparto de un periódico semanal, el Boston Observer. The Observer está a favor de los whigs, y Johnny es introducido al mundo más amplio de la política prerrevolucionaria de Boston por su nuevo amigo y mentor Rab Silsbee, un niño mayor que trabaja para el periódico. Johnny aprende a montar y cuidar a Goblin, un caballo hermoso pero asustadizo que se usa para hacer entregas y se muda con Rab en el ático de la tienda del periódico.
+Pietro lo nota, pero no pregunta. Los viejos saben que hay silencios que protegen.
 
-A medida que pasan los meses y aumenta la tensión entre Whigs y Tories, Johnny se convierte en un Whig dedicado. Johnny madura y vuelve a evaluar muchas relaciones personales, incluida la relación con Cilla, que se convierte en un amigo de confianza y en un compañero Whig. Johnny y Rab participan en el Boston Tea Party, en el que los patriotas de Boston lanzan un cargamento de té al puerto de Boston en lugar de permitir que el propietario del barco descargue el té y pague un impuesto decidido por el Parlamento en Londres sin el consentimiento de los británicos. En represalia, Gran Bretaña envía un ejército para ocupar Boston y cierra el puerto de Boston, causando penurias a los habitantes de esta ciudad comercial y de comercio.
+Una mañana, mientras cargan cajas en la trastienda, Pietro se detiene y se mira las manos. Están arrugadas, manchadas por el sol y el trabajo, pero una de ellas tiene una cicatriz vieja que cruza la palma como un río seco.
 
-Johnny actúa como un espía para los Sons of Liberty, una organización secreta de los whig de Boston que fomenta la resistencia a Gran Bretaña cuando, además de sus entregas de periódicos, los oficiales británicos le pagan para que lleve sus cartas a las ciudades periféricas. Se convierte en un miembro de confianza que trabaja con los prominentes líderes whig John Hancock, Samuel Adams, Paul Revere y el doctor Joseph Warren. Rab también es miembro y entrena con los Minute Men en Lexington, pero se preocupa por no tener un mosquete moderno con el que luchar. Johnny, incapaz de luchar debido a su mano, obtiene un mosquete para Rab ayudando a un soldado británico a desertar. Sin embargo, está gravemente perturbado cuando el desertor es atrapado y ejecutado.
+—¿Sabes cómo me hice esto? —pregunta sin levantar la vista.
 
-La novela alcanza su clímax en abril de 1775 con el estallido y las consecuencias inmediatas de las Batallas de Lexington y Concord. Antes de la batalla, los líderes whig se reúnen en el ático donde duermen Johnny y Rab. James Otis, una vez miembro activo pero recientemente rechazado por el grupo debido a sus recurrentes ataques de locura, llega a la reunión sin ser invitado. Otis, bastante cuerdo en esta noche, está agazapado bajo las vigas inclinadas del ático del Observer y explica a los presentes de qué trata realmente la inminente pelea con los británicos: "Damos todo lo que tenemos ... incluso la vida misma, solo que una el hombre puede ponerse de pie ". Aunque el comienzo de la guerra ha provocado la muerte de Rab, la despreciada milicia estadounidense ha derrotado al poderoso ejército británico en su primera batalla. Johnny se somete a una operación del doctor Warren que reparará su mano y le permitirá empuñar el mosquete de Rab.
+Piggy deja la caja que cargaba.
 
+—Una quemadura —dice Pietro—. Tenía catorce años. Trabajaba en una fundidora de plata, como aprendiz. Un día me descuidé y la plata fundida me salpicó. Me dijeron que nunca volvería a usar bien esta mano.
 
-Personajes
-La novela presenta personajes tanto ficticios como históricos.
+Piggy observa la cicatriz. Parece antigua, casi parte de la piel misma.
 
-'Johnny Tremain' -El protagonista de la historia. Nacido Jonathan Lyte Tremain, es un joven adolescente simpático pero arrogante, un talentoso aprendiz de orfebre contratado a la edad de 12 años a Ephraim Lapham durante siete años. Debido a que su mano derecha está gravemente herida por la plata fundida, se ve obligado a buscar otro oficio. La Sra. Lapham decide que, a pesar de la promesa de Ephraim de no entregarlo nunca, ya no puede vivir con ellos porque es una carga para sus escasos recursos y su mano lo inutiliza para mantener a la familia. Johnny nació en un convento en Francia. Regresó con su madre Lavinia "Vinny" Lyte Tremain a Townsend, Maine, cuando estaba segura de que ya no sería reconocida como Lyte.
+—Pero la usas.
 
-'Rab Silsbee' : El primer verdadero amigo y modelo a seguir de Johnny. Es dos años mayor que Johnny, más alto, más maduro, ingenioso, valiente y admirado, especialmente por Johnny. A él no le importa la mano lisiada de Johnny. Introduce a Johnny en la política de Boston, donde es miembro de los Hijos de la Libertad. Él trata a Cilla con amabilidad, pero principalmente para molestar a Johnny. Rab es un Silsbee, conocido por su reserva distante y digna, pero un Patriota ferviente y bien hablado. Rab practica con Minute Men de Lexington usando una vieja pieza de ave, pero anhela un mosquete moderno. Participa en la batalla de Lexington, donde es herido de muerte.
+Pietro asiente.
 
-Priscilla "Cilla" Lapham ': Priscilla Lapham es un poco más joven que Johnny. A diferencia de sus hermanas mayores, ella es pequeña y una belleza floreciente. Antes del accidente de Johnny, está dispuesto que ella y Johnny se casarán. Con el tiempo, Cilla y Johnny desarrollan un amor genuino el uno por el otro. Cilla tiene la intención de casarse con el Sr. Tweedie después de que sus hermanas mayores se nieguen, pero ella también se resiste y se va a trabajar para los Lytes. Ella es la tercera hija de la señora Lapham.
+—Me tomó años. Y me costó todo lo que creía que era. Tuve que dejar la fundidora, buscar otro oficio, empezar desde cero. Pero aprendí algo: las manos que se queman no se olvidan del fuego. Lo respetan.
 
-'Isannah "Izzy" Lapham' : Isannah, la hija menor de la señora Lapham, es una niña hermosa pero frágil de nueve años que necesita cuidados cercanos en todo momento. Una vez dulce, Isannah es amada por su hermana mayor, Cilla, pero con el tiempo se vuelve egoísta y vana, con una reputación de repetir las palabras de otros y no ser un pensador independiente. La belleza de Isannah, de ojos dorados y ojos castaños, atrae una gran atención, sobre todo por parte de Lavinia Lyte. Lavinia toma a Isannah como su protegida y la presenta a la alta sociedad, separándola de su familia y su estilo de vida de clase trabajadora.
+Piggy no sabe si Pietro le está contando una historia o dándole un consejo. Tal vez ambas cosas.
 
-'Ephraim Lapham' - Un platero británico, y el maestro de Johnny al comienzo de la novela. El Sr. Lapham es piadoso y amable, pero viejo, frágil, y ya no es el maestro herrero de su juventud y, desafortunadamente, muere poco después de que Johnny abandona su aprendizaje.
+---
 
-'Señor. Percival Tweedie ': Un hombre 40 años de Baltimore, Maryland, que se convierte en el socio de negocios del Sr. Lapham después del accidente de Johnny. El Sr. Tweedie es un hombre "queer", que muchos no le gustan. Johnny lo llama "Squeak-Pig".
+Esa tarde, mientras el mercado bulle con su caos habitual, Piggy escucha fragmentos de conversaciones que antes habría ignorado. Un grupo de comerciantes discute en voz baja cerca del puesto de especias. Uno de ellos menciona algo sobre "los hijos de la libertad" y "el cargamento que viene del puerto".
 
-'Señora. Lapham '- Más tarde la señora Tweedie - la nuera viuda de Ephraim Lapham. La Sra. Lapham es una madre dedicada y trabajadora y una maestra de tareas para los aprendices. Ella trabaja como ama de llaves en la casa y la tienda del señor Lapham. Cuando ninguna de sus hijas lo hace, se casa con el Sr. Tweedie para mantener a la platería en la familia Lapham.
+Piggy afina el oído sin voltear.
 
-'Dorcas Lapham' - La segunda hija de la Sra. Lapham. A pesar de que la elegante Dorcas anhela ser elegante y sofisticada, se enamora de Frizel, Jr., quien se encuentra en la pobreza, y fuga para evitar casarse con el Sr. Tweedie.
+—El té llega mañana —dice uno—. Si no actuamos, los Blu se quedarán con todo el embarque.
 
-'Madge Lapham' - La hija mayor de la señora Lapham. Al igual que la señora Lapham, Madge es fuerte y capaz. Ella se enamora y se fuga con el sargento Gale, un soldado británico. Madge, como Dorcas, estaba comprometida para casarse con el Sr. Tweedie y fugarse con el Sargento Gale para evitar casarse con él.
+—¿Y qué propones? ¿Tirarlo al mar como en los viejos tiempos?
 
-'Dove' - Un aprendiz en la tienda de Lapham y rival de Johnny cuyo primer nombre había sido olvidado. Es mayor que Johnny, estúpido y dado a la conducta maliciosa, y ha sido aprendiz por dos años más, pero aun así solo puede realizar tareas de baja categoría. Paloma los dos resentimientos y mira a Johnny. Intenta robar té durante la fiesta del té de Boston. Después de la muerte del Sr. Lapham, Dove toma un trabajo cuidando a los caballos de los oficiales británicos durante la ocupación de Boston. Johnny desprecia a Dove y no puede perdonarlo tal como lo aconsejó el Sr. Lapham, pero su sed de venganza muere cuando Dove es abusada persistentemente por sus amos de Redcoat.
+Risas nerviosas. Pero debajo de ellas, Piggy detecta algo real: tensión, urgencia, el sabor metálico del riesgo.
 
-'Dusty Miller' - El aprendiz más joven del Sr. Lapham. Antes del accidente de Johnny, Dusty lo idolatraba. Después de que Johnny sale de la platería, Dusty huye al mar.
+No es la primera vez que escucha rumores sobre resistencia. Sailor Capital parece próspera desde afuera, pero debajo de la superficie hay grietas. Los Blu controlan demasiado. El proyecto Under End consume recursos que podrían alimentar barrios enteros. Y hay quienes murmuran que Dirk Newman no es solo un administrador brillante, sino algo más oscuro.
 
-'Señor. Lorne '- El amo y el tío de Rab por matrimonio. El Sr. Lorne es propietario de la imprenta que publica el Boston Observer, un periódico sedicioso Whig (Patriot).
+Piggy sabe que esos rumores tienen razón. Ha visto los hilos.
 
-'Señora. Jenifer Lorne '- La esposa del Sr. Lorne y la tía de Rab. La Sra. Lorne ve a través del arrogante exterior de Johnny para tratarlo como un niño solitario. Ella se convierte en una madre para él y es la madre de un niño pequeño que sin lugar a dudas es un Silsbee.
+---
 
-'Jonathan Lyte' - Un rico comerciante de Boston y el tío abuelo de Johnny. Torcida y cruel, Lyte trata de obtener ganancias al hacer amigos en ambos lados de la lucha colonial, los leales y los patriotas, pero a medida que aumentan las tensiones en Boston, Lyte está expuesta como un conservador (Leal). Él se enferma gravemente después de que su hogar en Milton es atacado por una mafia patriota. En vísperas de la guerra, Lyte y su familia parten para Londres.
+Esa noche, en lugar de ir directo a su habitación, Piggy toma una ruta distinta. Camina por calles que ha memorizado, evitando cámaras, manteniéndose en las sombras. No va hacia el departamento de Dirk —ya sabe lo peligroso que es acercarse—, sino hacia el puerto.
 
-'Lavinia Lyte' - La hermosa hija de Jonathan Lyte, acaba de regresar de vivir en Londres. Lavinia es la socialité más deseable de Boston. Encantada por la belleza etérea de Isannah, Lavinia Lyte aleja a la niña de su familia para vivir en medio de la riqueza de la familia Lyte como una especie de mascota. También es prima de Johnny, que revela al final del libro. Johnny tiene un enamoramiento romántico por ella, pero él finge que no le gusta que oculte esto.
+El puerto de Sailor Capital es un monstruo de metal y luz. Grúas que nunca duermen, contenedores apilados como bloques de un juego infantil, el murmullo constante del Matrasy de carga que conecta la ciudad con el resto del mundo.
 
-'Señora. Bessie '- La cocinera de Lytes y la única amiga de Cilla en la casa de Lyte. La Sra. Bessie es una ardiente Whig y una confidente de Samuel Adams, pero sigue siendo leal a sus empleadores Tory. Cuando los Lytes se van de Boston, Bessie y Cilla se quedan para cuidar su casa. Johnny admira a la señora Bessie.
+Piggy se detiene en una cornisa alta, observando.
 
-'Lavinia "Vinny" Lyte Tremain' - La madre de Johnny. Ella muere antes de que comience la novela. Nació como Lavinia Lyte, un nombre favorito para las hembras Lyte, y era una joven hermosa pero impetuosamente salvaje. Su familia la rechazó por fugarse con Charles Tremain.
+Mañana llega un cargamento. Los comerciantes del mercado hablaban de té, pero Piggy sospecha que no es solo té. Los Blu no invertirían tanta seguridad en hojas secas.
 
-'Charles Tremain' - El padre de Johnny. Charles Tremain era un cirujano naval francés tomado como prisionero de guerra británico durante la guerra francesa e india. Mientras estaba recluido como prisionero en Boston, usando el nombre del Dr. Latour por vergüenza de estar prisionero, conoció y cortejó a la madre de Johnny. Se fugaron y se casaron a bordo de un barco que viajaba a Marsella, Francia, donde Charles murió de cólera y Johnny nació tres meses después.
+Y entonces lo ve.
 
-'Lydia' - La lavandera africana en la Reina Africana, una taberna donde muchos oficiales británicos están en cuartos. Lydia es una simpatizante rebelde que, debido a su conexión con los soldados británicos, recopila información para las fuerzas rebeldes. Johnny la describe como guapa.
+Una figura familiar cruza uno de los muelles con paso decidido. Alto, delgado, con el cabello engominado y zapatos que brillan incluso bajo la luz artificial.
 
-'Sewall' - Un pariente pobre de Lytes que trabaja como empleado en la oficina de Jonathan Lyte. Amable y valiente, Sewall escapa para unirse a los Minute Men.
+Dirk Newman.
 
-'Pumpkin' - Un soldado privado británico estacionado en Boston. La calabaza es un Whig secreto cuyo sueño es ser dueño de un terreno y convertir una granja en una granja. Porque él es pobre, solo puede lograr su sueño en América. Johnny lo ayuda a abandonar el ejército a cambio de su mosquete, para dárselo a Rab, pero la calabaza es capturada y ejecutada por un pelotón de fusilamiento.
+Piggy se congela. ¿Qué hace Dirk en el puerto a estas horas?
 
-'Sargento Gale' - Un oficial británico no comisionado que se casa con Madge Lapham, la hija mayor de la Sra. Lapham. Se nota que es bajo pero duro.
+Lo observa reunirse con un grupo de hombres en un almacén cerrado. La conversación es breve, tensa. Uno de los hombres le entrega a Dirk una carpeta. Dirk la abre, revisa su contenido, y asiente.
 
-'Teniente Stranger' - Un oficial británico amigable pero a menudo altivo estacionado en Boston. Él desarrolla una amistad suave con Johnny. Es joven, está ansioso por pelear y le recuerda a Johnny mucho a Rab.
+Antes de irse, Dirk mira hacia arriba, hacia la cornisa donde Piggy está escondido.
 
-Personajes históricos
-Samuel Adams - Líder político de las fuerzas revolucionarias. Escribió numerosos folletos que incitaban e inspiraban la revolución.
+No lo ve. No puede verlo desde esa distancia, en esa oscuridad.
 
-John Hancock - Uno de los hombres más ricos de Boston y líder de los Whigs. La mano de Johnny está desfigurada mientras le hace una palangana de plata.
+Pero Piggy siente el peso de esa mirada como si fuera un anzuelo buscándolo.
 
-Doctor Joseph Warren - Uno de los líderes de los Whigs en Boston. En el clímax de la novela, se muestra que se prepara para operar el tejido cicatricial en la mano desfigurada de Johnny. La previsión indica que la operación será un éxito, lo que permitirá a Johnny alistarse en el ejército rebelde.
+---
 
-Paul Revere - El mejor orfebre de Boston y un importante Whig, conocido en la historia de los Estados Unidos por su paseo de media noche para advertir a los Minutemen de acercarse a los soldados británicos. Advierte a los estadounidenses que los británicos están marchando hacia ellos, e hicieron una "práctica de tiro" para ellos en Lexington.
+De regreso a su habitación, Piggy no puede dormir.
 
-James Otis, Jr. - Un abogado y arquitecto de los ideales de la Revolución Americana; Su carrera fue acortada por ataques de locura después de ser golpeado en la cabeza por un soldado británico. En la novela, Otis inspira a los líderes Whig a luchar por los derechos de todas las personas, no solo de los estadounidenses. Advierte que algunos darán sus vidas, prefigurando la muerte de Rab.
+Se sienta en el borde de la cama y saca su Hashboard comprimida. La sostiene en la palma, sintiendo su peso familiar. Hace meses que no la usa. La velocidad deja rastro. El rastro deja preguntas. Las preguntas atraen a los agentes que buscan al barbón.
 
-Gobernador Thomas Hutchinson - El gobernador de Massachusetts antes de la ocupación por el ejército británico.
+Pero ya no puede seguir quieto.
 
-Thomas Gage - Un general británico y gobernador militar de Boston durante la ocupación.
+La imagen de Pietro y su mano quemada le vuelve a la mente. "Las manos que se queman no se olvidan del fuego. Lo respetan."
 
-John Pitcairn y Francis Smith - Oficiales comandantes británicos en las Batallas de Lexington y Concord.
+Piggy aprieta la Hashboard.
 
-Josiah Quincy II - El joven abogado y miembro de los Sons of Liberty que defiende a Johnny en la corte cuando es acusado de robo por los Lytes.
+Mañana irá al puerto. Mañana verá qué hay en ese cargamento. Y si tiene suerte —o la valentía suficiente—, encontrará algo que lo acerque a Dirk, a los hilos, a la forma de volver a su tiempo.
 
-Doctor Benjamin Church - un médico aliado de Samuel Adams.
+---
 
-Recepción
-Kirkus Review escribió: "Esta es una lectura encantadora, pero al final parece dejar menos sentido de sustancia y permanencia que su mejor trabajo (Paradise), pero para mí fue más satisfactorio que La dama del general o Espejo para las brujas.[1]​ Common Sense Media señaló: "Este extenso relato de casacas rojas y revolucionarios tiene mucho que ofrecer. Forbes, es una historiadora, escribe con detalle y precisión, impregnando eventos históricos con vida y pasión que a menudo faltan en los libros de texto".
+El amanecer llega antes de que Piggy esté listo.
 
-Personajes similares en otros medios
-Otro Johnny Tremaine (nótese la diferente ortografía en el apellido) fue un personaje ficticio diferente interpretado por Rod Cameron en la película de 1949 Republic Pictures Brimstone, escrito por Thames Williamson y Norman Hall. Este segundo Tremaine fue un mariscal estadounidense que se encubre para detener una red de contrabando de ganado. El lanzamiento de Brimstone siguió a la entrega del premio Newbery a la novela Johnny Tremain, pero precedió al lanzamiento de la película de 1957 Johnny Tremain de Disney.
+El mercado abre como siempre, pero hoy Piggy trabaja con prisa. Pietro lo mira de reojo pero no dice nada. A media mañana, Piggy se excusa diciendo que tiene un encargo personal. Pietro asiente.
+
+—Ten cuidado —le dice, y la palabra suena como si supiera más de lo que debería.
+
+Piggy toma el Matrasy hacia el puerto. Los vagones están llenos de trabajadores, comerciantes, gente común que no sospecha nada. Piggy se mezcla entre ellos como una gota en el océano.
+
+Al llegar, el puerto está más activo de lo normal. Hay seguridad adicional: hombres con uniformes discretos pero reconocibles, los mismos que visitaron el mercado buscando al barbón.
+
+El escuadrón de Dirk.
+
+Piggy se mantiene a distancia, observando. El cargamento ya está siendo descargado: contenedores enormes que se balancean en el aire como frutos metálicos. Uno de ellos tiene un símbolo que Piggy reconoce: el logo de zPace.
+
+No es té. Es equipo para Under End.
+
+Pero hay algo más. Uno de los contenedores está separado del resto, custodiado por más guardias que los demás. Piggy nota que los trabajadores regulares se mantienen alejados de él, como si supieran que hay cosas que es mejor no ver.
+
+Un hombre se acerca al contenedor especial. Piggy lo reconoce por su silueta: Viktor Lang.
+
+Lang abre el contenedor con una llave biométrica. Por un segundo, antes de que la puerta se cierre, Piggy alcanza a ver el interior.
+
+Frascos.
+
+Decenas de frascos transparentes, alineados como soldados.
+
+Y dentro de los frascos, algo que se mueve.
+
+Piggy siente un escalofrío. Ha visto esos frascos antes, en las noticias sobre zPace. Son los prototipos bacterianos que usan para navegación. Pero estos parecen diferentes. Más grandes. Más… conscientes.
+
+---
+
+De regreso al mercado, Piggy no puede quitarse la imagen de la mente.
+
+¿Qué están haciendo con esas bacterias? ¿Por qué Lang las custodia personalmente? ¿Y qué tiene que ver todo esto con los hilos de Dirk?
+
+Las preguntas se le acumulan como deudas.
+
+Pietro lo espera con una mandarina pelada y una mirada que dice "sé que viste algo".
+
+—Hay noches —dice el viejo, como si continuara una conversación que nunca empezaron— en que los hombres tienen que elegir. Quedarse callados y seguir con su vida… o hablar y arriesgar todo.
+
+Piggy toma la mandarina.
+
+—¿Qué elegiste tú?
+
+Pietro sonríe, pero es una sonrisa triste.
+
+—Elegí sobrevivir. Pero a veces me pregunto si sobrevivir fue suficiente.
+
+El mercado se llena de gente. Los gritos de los vendedores ahogan cualquier silencio. Pero Piggy escucha las palabras de Pietro como si fueran las únicas en el mundo.
+
+Esa noche, por primera vez en meses, Piggy saca su Hashboard y la despliega.
+
+La tabla brilla bajo la luz de la luna, lista para volar.
+
+Piggy no sabe exactamente qué va a hacer. Pero sabe que ya no puede seguir siendo invisible.
+
+Los hilos lo arrastraron a este tiempo. Quizás los hilos sean también la forma de salir.
+
+Y si tiene que quemarse las manos para descubrirlo, que así sea.
+
+---
+
+En el drenaje de Sailor Capital, kilómetros bajo la superficie, algo que no debería tener voluntad sigue creciendo.
+
+Las bacterias que Ramón arrojó al retrete han encontrado un nuevo hogar entre los metales oxidados y las aguas estancadas. Ya no son solo puntos que flotan. Se han organizado. Se han especializado. Algunas buscan hierro. Otras buscan luz. Otras simplemente… esperan.
+
+En un punto donde el drenaje se ensancha, donde la oscuridad es absoluta y el eco del agua suena como un latido, las bacterias han formado algo que casi parece un ojo.
+
+Un ojo sin párpados.
+
+Un ojo que mira hacia arriba, hacia la ciudad que no sabe que existe.
+
+Un ojo aprendiendo.
+
+---
+
+[next_chapter →](../9/index.md)

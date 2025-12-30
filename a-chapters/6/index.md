@@ -1,4 +1,3 @@
-Block Jumper #6
 
 La ciudad nunca duerme del todo. Cuando los puestos del mercado cierran, cuando las lámparas de las avenidas se apagan una por una, cuando el Matrasy reduce sus frecuencias y los barrios ricos apagan la música, Sailor Capital sigue respirando… pero lo hace por debajo.
 

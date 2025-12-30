@@ -156,3 +156,16 @@ La base narrativa es sólida. El mundo es interesante, los personajes funcionan 
 - Equilibrar ritmo y desarrollo
 - Profundizar los temas centrales
 
+
+- Jefe tonto, subordinado MUY capaz. 
+
+
+- Icardi, Maxi rordriguz, Wanda Nara situacion, guerreros en el mismo equipo anti-piggy
+
+
+
+- Gukesh, eragasi, bold vs anand, vincent kramer, sindarov 
+
+
+- Harry Kane en Alemania, Haaland en England y Mbappe en españa
+
