@@ -25,7 +25,7 @@
 - Brucer Pipiano, Slavic suvvenir the cool guy.
 - Paco Godnica
 
-- Gheorghe Apostol
+- Apostolo George
 
 
 

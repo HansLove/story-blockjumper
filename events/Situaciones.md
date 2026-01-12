@@ -14,3 +14,13 @@
     - Green -V
     - Green -Tie
     - Piggy -V
+
+
+
+
+- Tienes que sacrificarte para eliminar por completo la posibilidad de un retorno
+
+- La evolucion comunnista fisica de chavrz 
+
+
+- *Le molesta enormemente que a otro personaje no le moleste, le da ansiedad

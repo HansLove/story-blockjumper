@@ -54,3 +54,9 @@ Tolentino-HashKnight-Piggy-Delfín-Rider-EstiloCómicArmado-hoverboard futurista
 ---
 
 ¿Próximo paso? Establecer los prompts oficiales para Hiroshi, Gaita y Eddy Ventura.
+
+
+
+
+
+
