@@ -1,10 +1,11 @@
 Block Jumper #7
 
+Piggy ha ganado algo de peso. Come mejor. Duerme mejor. Y aun así, por dentro, no descansa.
 La vida es dura cuando estás solo; cuando todo depende de ti y aprendes, a golpes, que no puedes recargarte en nadie. Tú eres la última capa de resistencia. Si cedes, no hay segunda línea.
 
 Piggy camina junto a Pietro por el mercado. Ya ha pasado tiempo desde que cruzó por los hilos de Dirk Newman y cayó en otro bloque como si la realidad lo hubiera escupido. Desde entonces trabaja con la cabeza baja y los ojos atentos, como si la supervivencia fuera un oficio más.
 
-Ha ganado algo de peso. Come mejor. Duerme mejor. Y aun así, por dentro, no descansa.
+
 
 Sabe que es urgente regresar a su mundo, pero no tiene una idea clara de cómo hacerlo. La resignación lo visita algunos días como un animal domesticado: se le sienta al lado, le calienta el pecho y lo convence de que quizá esta jaula de oro sea lo más parecido a paz.
 
