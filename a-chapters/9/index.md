@@ -10,7 +10,7 @@ Piggy observa desde el mercado, junto a Pietro, quien ha colocado una pequeña r
 
 —Si regresan —responde otro—, serán los hombres más importantes de la historia.
 
-Piggy no dice nada. Solo piensa en los frascos que vio en el puerto, en las bacterias que se movían con demasiada intención, en Viktor Lang abriendo ese contenedor como si guardara algo más que herramientas de navegación.
+Piggy no dice nada. Solo piensa en los frascos que vio en el puerto, en las bacterias que se movían con demasiada intención, en Viktor Lang abriendo ese bote de basura como si guardara algo más que herramientas de navegación.
 
 La cuenta regresiva comienza.
 
