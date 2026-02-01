@@ -100,9 +100,9 @@ No es té. Es equipo para Under End.
 
 Pero hay algo más. Uno de los contenedores está separado del resto, custodiado por más guardias que los demás. Piggy nota que los trabajadores regulares se mantienen alejados de él, como si supieran que hay cosas que es mejor no ver.
 
-Un hombre se acerca al contenedor especial. Piggy lo reconoce por su silueta: Viktor Lang.
+Un hombre se acerca al contenedor especial. Piggy lo reconoce por su silueta: Woodrow, la mano derecha de Dirk.
 
-Lang abre el contenedor con una llave biométrica. Por un segundo, antes de que la puerta se cierre, Piggy alcanza a ver el interior.
+Woodrow abre el contenedor con una llave biométrica. Por un segundo, antes de que la puerta se cierre, Piggy alcanza a ver el interior.
 
 Frascos.
 
@@ -116,7 +116,7 @@ Piggy siente un escalofrío. Ha visto esos frascos antes, en las noticias sobre 
 
 De regreso al mercado, Piggy no puede quitarse la imagen de la mente.
 
-¿Qué están haciendo con esas bacterias? ¿Por qué Lang las custodia personalmente? ¿Y qué tiene que ver todo esto con los hilos de Dirk?
+¿Qué están haciendo con esas bacterias? ¿Por qué Woodrow las custodia personalmente? ¿Y qué tiene que ver todo esto con los hilos de Dirk?
 
 Las preguntas se le acumulan como deudas.
 

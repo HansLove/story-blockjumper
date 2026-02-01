@@ -1,0 +1,1 @@
+y si super bigote si fuera real? Si hacemos un personaje inspirado en el, con su cosmovision?

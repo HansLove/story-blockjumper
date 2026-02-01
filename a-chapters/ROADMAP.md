@@ -46,7 +46,15 @@
 - **Alto asesor**: Dirk Newman (milagro económico)
 - **Oposición institucional**: Viktor Lang (Partido Progreso - derecha)
 - **Bloque cultural-religioso**: Los Blu (familia tipo menonitas con dinero y disciplina comunitaria)
+  - Prácticas tradicionales incluyen matrimonios arreglados con "esposas menores"
+  - Tobias Blu: primo lejano de Billy M. Blu, involucrado en muerte de Lila (hermana de Dafne)
 - **zPace**: Captura estatal (no independiente)
+
+### Eventos históricos (Bloque 99)
+- **"La Expansión"**: Programa estatal de expropiación de tierras para proyectos industriales vinculados a zPace/Under End
+  - Desplazamiento forzado de comunidades rurales (ej: Tierras Rojas, región agrícola/minera al oeste)
+  - Compensaciones mínimas o nulas; violencia paramilitar para acelerar evacuaciones
+  - Causa migración masiva hacia Sailor Capital, aumentando población periférica y pobreza urbana
 
 ---
 
@@ -289,13 +297,25 @@
 - **Bastian Klose Tiger**: Aparición
 - **Kenzo Toro**: "Traiciona" a su época, ayuda a Piggy a escapar (probablemente de Henry)
 - **Gobierno ataca Sitters/Baby Goat**: Por dejar escapar a Piggy en Ep. 2
-- **Dafne**: Aparición
+- **Dafne**: Aparición y amor platónico de Piggy
+  - Mujer de 22 años, desplazada por "La Expansión" desde Tierras Rojas
+  - Llega a Sailor Capital con madre (Hortensia) y hermana menor (Lila, 16 años) en carro rojo golpeado
+  - Trabaja una semana como prostituta para pagar alquiler y estabilizar a su familia
+  - Tobias Blu (primo de Billy M. Blu) propone matrimonio arreglado con Lila; familia acepta por necesidad económica
+  - Lila muere en circunstancias sospechosas (oficialmente "accidente doméstico") semanas después
+  - Dafne encuentra a Piggy en mercado de Pietro; amor platónico mutuo pero Dafne se rechaza a sí misma
+  - Dafne desaparece del mercado; es "ascendida" a clientes de alto perfil (menos libertad, más prisionera)
+  - Caracterización: noble, inteligente, estoica; cree que no merece amor tras sus sacrificios
 
 **Causas/motivaciones**:
-- [Por definir según desarrollo de personajes]
+- Dafne: Supervivencia familiar tras desplazamiento forzado; sacrificio por madre y hermana
+- Piggy: Primera conexión emocional genuina desde que llegó al bloque 99
+- Familia Blu: Tradiciones herméticas de matrimonios arreglados; poder para silenciar crímenes
 
 **Consecuencias**:
-- [Por definir]
+- Piggy queda con cicatriz emocional: amor no correspondido que lo marca
+- Expansión de caracterización de familia Blu como aristocracia con prácticas cuestionables
+- Dafne queda atrapada en sistema de explotación de alto nivel (setup para posible regreso en temporadas posteriores)
 
 ---
 
@@ -452,7 +472,8 @@
 
 ## Huecos Pendientes (Decisiones de Autor)
 
-1. **Episodio 9-11 Temporada 1**: Detalles específicos de lanzamiento Under End, apariciones de Henry/Donna/Dafne/Bastian, primera pelea formal Piggy vs Dirk
+1. **Episodio 9-11 Temporada 1**: Detalles específicos de lanzamiento Under End, apariciones de Henry/Donna/Bastian, primera pelea formal Piggy vs Dirk
+   - **Dafne**: ✅ Completado (capítulo independiente en `a-chapters/Dafne/index.md`)
 2. **Temporada 2 completa**: Estructura episódica detallada, arcos de personajes, evolución de Ramons a civilización
 3. **Temporada 3**: Detalles episódicos de introducción de Alex, batalla final, consecuencias post-resolución
 4. **Personajes secundarios**: Arcos completos de Kenzo, Luna, Jim Tyler, Woodrow, Mimi Saito, etc.

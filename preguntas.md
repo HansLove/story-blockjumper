@@ -1,37 +1,93 @@
-Preguntas (muchas) para construir un roadmap claro y robusto
+# 1:Preguntas (muchas) para construir un roadmap claro y robusto
 1) Canon y formato del “roadmap”
-¿El roadmap lo quieres por “bloques” (bloque 99, 218, etc.) o por “temporadas/episodios”?
-¿Qué define exactamente un “bloque” en tu mundo? (¿años? ¿eras? ¿cambios de régimen? ¿saltos por eventos?)
-¿Quieres que el roadmap sea 100% “hechos” (solo lo que pasa) o incluir también “por qué pasa” (causas/planes/motivaciones)?
-¿Nivel de granularidad? (solo macro-eventos / escena por escena / híbrido)
-¿Qué consideras “evento” en el roadmap? (p.ej. “Piggy llega al pasado” vs “Piggy roba el contenedor del puerto”)
-¿Quieres que el roadmap marque explícitamente: Setup → Payoff → Consecuencia → Nuevo objetivo.
-¿El roadmap debe incluir lo que el lector NO sabe (información “detrás de cámara”) o solo POV de personajes?
-¿Qué es canon: solo a-chapters/*/index.md o también events/, arcos/, metadata/?
-¿Hay capítulos que ya NO son canon o que planeas reescribir? Cuáles.
-¿Quieres un “roadmap maestro” + sub-roadmaps por arco (Under End / Ramons / Forks / política)?
-2) Reglas del mundo: física, cosmología, “otro lado”
-El mundo es “cuadrado y plano, como caja de pizza”: ¿qué ve la humanidad como “verdad oficial” y qué es mito?
+- ¿El roadmap lo quieres por “bloques” (bloque 99, 218, etc.) o por “temporadas/episodios”?
+Por Bloques y Temporadas. Un bloque representa un año humano.
+
+- ¿Qué define exactamente un “bloque” en tu mundo? (¿años? ¿eras? ¿cambios de régimen? ¿saltos por eventos?), es una unidad de medida de tiempo basado en un algoritmo de computadora universal que usa el caos y en promedio es 1 año.
+
+- ¿Quieres que el roadmap sea 100% “hechos” (solo lo que pasa) o incluir también “por qué pasa” (causas/planes/motivaciones)?
+R: Si podemos agregar algunas veces el porque pasa
+
+- ¿Nivel de granularidad? (solo macro-eventos / escena por escena / híbrido)
+R:Macro-eventos en general, contadas excepciones para hibridos. 
+
+- ¿Qué consideras “evento” en el roadmap? (p.ej. “Piggy llega al pasado” vs “Piggy roba el contenedor del puerto”)
+R:Un evento que impacte al lector, la vida del personaje o el mundo en cuestion. 
+
+- ¿Quieres que el roadmap marque explícitamente: Setup → Payoff → Consecuencia → Nuevo objetivo.
+R: No, este roadmap tiene el objetivo de ser utilizado como contexto para el desarrollo de capitulos con AI. 
+
+-¿El roadmap debe incluir lo que el lector NO sabe (información “detrás de cámara”) o solo POV de personajes?
+R: Este roadmap es mas pensando para alimentar con contexto a una AI.
+
+- ¿Quieres un “roadmap maestro” + sub-roadmaps por arco (Under End / Ramons / Forks / política)?
+R:Si
+
+
+# 2:Reglas del mundo: física, cosmología, “otro lado”
+
+- El mundo es “cuadrado y plano, como caja de pizza”: ¿qué ve la humanidad como “verdad oficial” y qué es mito?
+R: El mito es un mundo redondo como esfera, mientras que la verdad oficial es que una vez llegas al final, caes al vacio para finalmente morir ahogado. 
+
 ¿Qué significa exactamente “la cara sur / Under End / el otro lado”? ¿Es el “lado inverso” del plano?
+R:Correcto, es el lado donde no cae luz jamas, toda su vida se basa en cristales luminosos, bio-luminicencia y hasta la primera exploracion humana, no existia ningun tipo de vida inteligente. 
+
 ¿Al cruzar al otro lado se entra a otra dimensión o es geografía física del mismo mundo?
+R: Es fisica del mismo mundo.
+
 ¿Qué se sabe públicamente del “otro lado” antes del proyecto Under End?
+R: Mas alla de rumores, no mucho, solo que puede haber materiales muy valiosos para continuar con el desarrollo tecnologico, ya que es importante señalar que en el bloque 99 esta sucediendo un milagro economico. 
+
 ¿Qué costo energético/tecnológico implica ir al otro lado?
+R: Muchisimo, es equivalente a ir al espacio en los 60's. 
+
 ¿Qué tipo de anomalías se esperan allí (gravedad, luz, magnetismo, tiempo)?
+R:No hay luz, magnetismo, el espacio se dilata, criaturas extrañas no inteligentes con cristales y low poly natural en sus cuerpos. 
+
 ¿Existe una “Matrix” literal (simulación) o es metáfora estética para describir glitches?
+R: Es una metafora estetica
+
 ¿Qué es el “efecto Newman” exactamente? (en cap 1 se siente como drenaje/fatiga)
+R: Es la consencuencia del drenado de energia(como cuando un gobierno imprime billetes o se endeuda) pero llevado a un termino mas literal para una critica mas oculta a la inmoralidad. 
+
 ¿El “efecto Newman” es causado por Dirk o por algo más profundo (sistema del mundo)?
+R:Dirk lo provoca
+
 ¿Por qué se llaman “hilos”? ¿Son materia física? ¿energía? ¿algo tipo “raíces” extradimensionales?
+R: Lucen como hilos de pesca y en efecto, son hechos de energia y si son extradimensionales.
+
 ¿Los hilos están siempre en el cielo del bloque 218 y no existen en el 99? Por qué.
+R: No se encuentran siempre, en esa ocasion se encontraban y los Ramons aprovecharon para atacar, pero es mas eventual(7 veces al año en promedio). 
+
 ¿Qué condiciones hacen aparecer/desaparecer hilos? (culpa de Dirk, trance, lugares, “umbrales”)
+R:Todo es voluntad de Dirk, es su poder especial, tomar energia del futuro/otra dimension para gastarlo en el suyo.
+
 ¿Los hilos drenan energía de todo ser vivo indiscriminadamente o selectivo?
+R: Todo ser vivo, los fuertes resisten mucho mejor y los ramons descubrieron que entre mas profundo se ven menos les afecta. 
+
 ¿Se puede “protegerse” del drenaje? (armas, tech, rituales, distancia)
+R: Distancia, especificamente profundidad o con vibracion(en el bloque 218 solo Rey Gallopo lo sabe hacer). 
+
 ¿Qué es Sailor/Saylor Capital: capital-estado, nación, ciudad-estado?
+R: Capital-estado
+
 ¿Qué tecnología base domina la época del pasado? (Matrasy, zPace, Hashboards)
+R: Es muy parecido a los 70,80 y 90's, ya tienes una sociedad desarrollada pero las tecnologias de comunicacion no son una realidad. 
+
 ¿La magia/poderes conviven públicamente o son secretos?
+R: Secretos, solamente 21 personajes entre ambas dimensiones tienen poderes.
+
 ¿Cuántas personas con habilidades extraordinarias existen (1 en 1M, 1 en 10k)?
+R:21, 1 en 1M si quieres proporcion. 
+
 ¿Hay una “taxonomía” de poderes? (biológicos, psíquicos, tecno-místicos, pactos)
+R: Los poderes se basan en abstracciones/referencias de tecnolgia blockchain
+
 ¿Qué es exactamente una Hashboard? ¿Tecnología, artefacto, arma, extensión del usuario?
+R: Tecnologia que viene del futuro(Bloque 218) y que necesita de un usuario que sepa usar el hash(la fuerza,chakra,ki de este universo), su color cambia con base en la frecuencia del alma del usuario.
+
 ¿Por qué la Hashboard “se vuelve espada”? ¿Transforma materia? ¿Modular? ¿Nanotech?
+R: Es el uso que le da su usuario(Piggy es practicamente su unico usuario) y es su doble proposito. 
 ¿Qué limita a una Hashboard? (energía, temperatura, desgaste, rastro, “ruido”)
 ¿Qué “deja rastro” cuando Piggy usa Hashboard? (cámaras, firma energética, hilos, magnetismo)
 3) Línea temporal base (lo que ya sabemos) y puntos de ambigüedad
@@ -155,57 +211,156 @@ Salino — ¿se vuelve villano mayor? ¿su herida lo transforma ideológicamente
 9) Política y sociedad (para que la “crisis política” sea inevitable, no arbitraria)
 ¿Cuál es el régimen actual en Sailor Capital? (presidencialismo, tecnocracia, oligarquía Blu)
 ¿Qué tan independientes son zPace y el Estado?
+
 ¿Cómo se financia Under End? (impuestos, deuda, donaciones Blu, privatización)
+R: Privados como Blu, gasto publico, deuda. 
+
 ¿Qué oposición existe? (resistencia, comerciantes, “hijos de la libertad”, sindicatos)
+R: Rinki, Viktor Lang(que seria de derecha) y el mismo Piggy.
+
 ¿Qué “incidentes de Rinki” se usan como excusa para militarizar?
+
 ¿Qué hace Mimi Saito exactamente? (policía secreta, defensa, inteligencia civil)
+R: Secretaria de Defensa
+
 ¿Qué papel juegan medios/noticieros? (propaganda, filtraciones)
+R: Tenemos una sociedad libre, por lo que una prensa critica 
+
 ¿Qué no puede salir a la luz sobre Under End sin derrumbar el gobierno?
+R: Que si encontraron vida
+
 ¿Qué eventos detonantes convierten la paranoia en política pública?
+R: 
+
 ¿Qué cree el pueblo sobre Dirk? (héroe administrador vs figura oscura)
+R: Ministro genio bajo el liderazo de William Hearth responsable del exito financiero.
+
 ¿Qué cree el pueblo sobre Lang? (justiciero vs manipulador)
+R: Odio por un sector, respeto y admiracion por otra parte
+
 ¿Qué cree el pueblo sobre Heart? (moralista vs autoritario)
+R: Da una vibra a John F. Kennedy con AMLO, es muy querido. 
+
 Si hay glitches/forks: ¿cómo lo “explica” el Estado al inicio? (terrorismo, hackers, sectas)
-10) Horror biológico: Ramons y “nacimiento futuro”
+R: Terrorismo de sectas con magia oscura, tiene que encarnar la ignorancia colectiva 
+
+
+# 10: Horror biológico: Ramons y “nacimiento futuro”
 ¿Qué son los Ramons en esencia? (biología, mente colmena, civilización)
+R: Una civilizacion marina con un desarrollo muy acelerado(en menos de 100 bloques ya tenian una civilizacion mediana con ejercito y todo)
+
 ¿Tienen lenguaje? ¿cultura? ¿religión?
+R: Lenguaje humano gracias a Ramon, su propia cultura y su Religion es el Sr. Ramon como el mesias y el elegido de Dios. 
+
 ¿Son villanos o víctimas de experimento?
+R: No aplica el termino villano, circunstancias 
+
 ¿Qué quieren los Ramons? (supervivencia, venganza, expansión, “subir” a superficie)
+R: Expansion y supervivencia, no les interesa una venganza como colectivo. 
+
 ¿Qué relación tiene Salino con el origen bacteriano? (¿es “hijo” del sistema?)
+R: Es un delfin muy inteligente, mas alla de que es una consencuencia e hijo de esta bacteria. 
+
 ¿Los Ramons recuerdan haber sido bacterias?
+R:No
+
 ¿Hay “Ramons” buenos o facciones internas?
+R: Si, como las esponjas, que no es que sean buenos, simplemente tienen sus propios intereses. 
+
 ¿Cómo se ven: orca antropomorfa, delfín, salamandra gigante (Gaita)? ¿son especies distintas o mutaciones?
+R: Son distintas especies y mutaciones, los Pulpos son su familia real actual. 
+
 ¿Qué es Gaita exactamente y por qué existe en el oasis?
+R: Es un Ramon Salvaje de nivel Tilikum, es tan podereso que ni los mismos Ramons se meten con el.  
+
 ¿Qué convierte animales marinos en antropomorfos: otro lado, bacterias, hilos, magia?
+R: Evolucion y mentalidad 
+
 ¿Qué significa que “trajeron la guerra a tierra firme”? (logística, tecnología, armas de algas)
+R: Ya no estan dispuestos a esperar pasivos el ataque de una civilizacion humana(Wolkers), que los ves como inferiores y un error. 
+
 ¿Las armas de algas son tecnología biológica? ¿quién las fabrica?
-11) Personajes: identidad, arcos, puntos de quiebre
+R: Los mismo Ramons, y si, es tecnologia marina.
+
+
+# 11: Personajes: identidad, arcos, puntos de quiebre
 Piggy: edad, origen, relación exacta con Hiroshi (hermanos biológicos?)
+R: Al iniciar todo esto tiene 22 años aprox, al terminar la batalla de los forks ya tiene 31 años.
+
 ¿Por qué Piggy es “protagonista”? ¿qué lo hace inevitable para el destino del mundo?
+R: Porque es el saltador, el que puede recuperar el balance, la justicia dimensional. 
+
 Hiroshi: la “tragedia que nadie osa mencionar”: qué pasó y cuándo se revelará?
+R: No muy pronto. 
+
 Eddy: por qué es tan habilidoso y por qué acepta misiones suicidas?
+R: No tiene familia ni otros motivos, es un hombre que no cuestiona y no le teme a la muerte, considera que ya hizo todo lo que tenia que hacer. 
+
 Pietro: ¿solo mentor o tiene conexión con resistencia/política?
+R: Un simple y humilde anciano. 
+
 Rodolfo (anciano sin hogar): ¿volverá? ¿representa culpa de Piggy?
+R: Ese si volvera para la batalla de los Forks, es uno de los personajes mas poderosos de toda la trama, no estaba bajo el edificio de  Dirk por accidente....
+
 El Pelón/Adán: ¿vuelve? ¿es solo escalón para Rinki o futuro villano?
+R: Posiblemente le dedicaremos unas lineas a futuro. 
+
 Roberta (Rinki): ¿qué la motiva? ¿ideología o caos?
 Chip Keaton: ¿importa fuera de La Arista? (militar, ícono, rival político)
+
 Kenzo Toro/Luna Valdez/Jim Tyler: ¿qué rol futuro tendrán (Under End? Forks?)
+R: Si lucharan en la batalla de los Forks 
+
 Woodrow Mellon: ¿hasta dónde cubre a Dirk? ¿traiciona?
+R: Jamas, es el Sr. Smithers de Dirk, lo ama y jamas lo traicionaria. 
+
 Atena (perra): ¿es solo mascota o tiene rol (alarma, símbolo, compañía)?
+R: Mascota y la gran amiga de Dirk
+
 Alex: ¿qué tipo de persona es? (edad, moral, “culpa”, impulsividad, cálculo)
+R: Cincuenton, nervioso, si se siente culpable. 
+
 Alex: ¿con quién se relaciona directamente (Piggy/Dirk/Lang)?
+R: Ninguno hasta el inicio oficial de la guerra, que sera protegido por Dirk
+
 Alex: ¿qué pierde cuando bifurca? (alguien muere, memoria, cuerpo, cordura)
-12) Escenas/artefactos clave que debes definir para que todo “amarre”
+R: Forkea el mundo, se parte en 2 lineas del tiempo y un tanto su cordura. 
+
+# 12:Escenas/artefactos clave que debes definir para que todo “amarre”
 ¿Qué es “el núcleo” de los hilos que Piggy corta en cap 1?
+R: El corazon energetico de Dirk, el que procesa y bombea la energia a la otra dimension. 
+
 ¿Por qué al “rasgar el núcleo” desaparecen los hilos del cielo del bloque 218?
+R: Los corto de raiz ademas de distraer a Dirk. 
+
 ¿Eso afecta la guerra (se restaura energía) pero también “rompe” el mundo?
+R: Se restaura la energia, pero no rompe el mundo, solo Alex puede hacer eso. 
+
 ¿Qué es la “proyección” de Lang que dibuja al barbón? (¿Neuro Recall + retrato?)
+R: Es su poder que se llama Neuro Recall, que depende del nivel de energia es mas o menos preciso. 
+
 ¿Cómo pasa de un recuerdo borroso a un escuadrón estatal? (cadena de órdenes, legalidad)
+R: Cadena de ordenes
+
 ¿Qué significa “escribe velozmente” Dirk después de drenar? (¿la energía alimenta creatividad? ¿o es comunicación con otra cosa?)
+R: Es un escritor fracasado que no logra terminar su novela, se inpsiro y le gusto la trama para su novela. 
 ¿Qué hay exactamente en los frascos del puerto (cap 8): prototipos nuevos, conscientes, peligrosos?
+R: Bacterias 
+
 ¿Por qué Lang abre con llave biométrica personalmente?
+
+
 ¿Qué es Under End en logística: cohete, nave, base, puerto espacial?
+R: Cohete
+
 ¿Dónde se construye y quién lo protege?
-¿Qué es “zPace” en cultura popular: Apple/SpaceX/Google combinado?
+R: El gobierno en una base a las afueras de la cuidad en una zona pobre. 
+
+¿Qué es “zPace” en cultura popular?
+R: Apple/SpaceX/Google combinado
+
 ¿Qué es un “Matrasy” visualmente y cómo se siente usarlo?
+R: Es un metro inspirado en el de la cuidad de Mexico. 
+
 ¿Qué es “tablores” (moneda): economía inflacionaria, metálica, papel, digital?
+R:Son monedas privadas con alguna caracteristica que le da escases y reputacion/verificalibilidad 

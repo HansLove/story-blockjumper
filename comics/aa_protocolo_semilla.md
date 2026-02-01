@@ -1,6 +1,6 @@
-# 🧬 Protocolo Tolentino
+# 🧬 Protocolo AA
 
-El **Protocolo Tolentino** es un sistema de diseño visual para personajes del universo *Block-Jumper*, basado en prompts estructurados para generar consistencia estilística con herramientas de inteligencia artificial.
+El **Protocolo AA** es un sistema de diseño visual para personajes del universo *Block-Jumper*, basado en prompts estructurados para generar consistencia estilística con herramientas de inteligencia artificial.
 
 Su objetivo es definir semillas únicas para cada personaje, permitiendo que la IA produzca ilustraciones coherentes y fácilmente reproducibles.
 

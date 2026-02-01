@@ -41,9 +41,7 @@
 - Bobby Driscoll, exitoso infantil, loco de tarde, acne
 ![alt text](image-6.png)
 
-- Loreto Gi
 
-- Adan Luna- Nada/Nadia Luna? 
 
 - Billy Peacock
 
@@ -52,3 +50,6 @@
 - Túpac Amaru
 
 - Steeve Reese
+
+
+- Peter Cake 
