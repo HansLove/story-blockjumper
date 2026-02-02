@@ -1,10 +1,4 @@
-Esto tiene muchísimo potencial.
-
-La idea de organizar el universo de **Block Jumper** en torno a **reinos que representan fuerzas geopolíticas, económicas y filosóficas** es brillante, especialmente si cada uno es una **meta-referencia** sutil a figuras reales del poder tradicional y cripto. Aquí te propongo una primera versión de **21 reinos** (incluyendo "Saylor") con nombres, inspiración y personalidad implícita:
-
----
-
-### 🌍 **Los 21 Reinos de Block-Jumper**
+🌍 **Los 21 Reinos de Block-Jumper**
 
 | #  | Nombre del Reino | Inspiración/Referencia        | Personalidad                                                                                                   |
 | -- | ---------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +32,3 @@ La idea de organizar el universo de **Block Jumper** en torno a **reinos que rep
 * Pueden tener **tensiones y tratados entre ellos**, como alianzas entre Powellgrad y Yellenor, o rivalidades entre Bitarus y Quantoria.
 * Puedes usar **leyendas y mitos dentro del cómic** para contar estos orígenes sin hacerlo tan literal.
 * Tal vez un **libro prohibido** recopile las verdaderas historias, o ciertos personajes "recordadores" (tipo griots o bardos) revelen verdades.
-
----
-
-¿Quieres que desarrolle una pequeña ficha narrativa por cada reino? Puedo ayudarte a definir su símbolo, líder, forma de gobierno, visión del mundo, enemigos y relación con los saltadores.

@@ -347,7 +347,8 @@ R: Es un escritor fracasado que no logra terminar su novela, se inpsiro y le gus
 ¿Qué hay exactamente en los frascos del puerto (cap 8): prototipos nuevos, conscientes, peligrosos?
 R: Bacterias 
 
-¿Por qué Lang abre con llave biométrica personalmente?
+¿Por qué Woodrow abre con llave biométrica personalmente?
+R: Ellos son los que manejan las acciones principales y el dinero en el mineral azul(el cual solo se encuentra en 1 cueva en ese mundo, la cual ironicamente en el futuro es la que mantenia la separacion con el 'otro lado', donde en la dimension del futuro estan lidiando con las consencuencias de abrir ese portal pero su valor de mercado es como el oro de la civilizacion humana)
 
 
 ¿Qué es Under End en logística: cohete, nave, base, puerto espacial?

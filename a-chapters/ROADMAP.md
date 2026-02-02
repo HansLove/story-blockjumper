@@ -1,53 +1,68 @@
 # Block Jumper — Roadmap Maestro de Eventos
 
-> **Formato**: Temporadas → Episodios  
+> **Formato**: Temporadas → Episodios (por bloques y temporadas; un bloque ≈ 1 año)  
 > **Alcance**: Línea de eventos completa desde bloque 218 hasta resolución de "Batalla de los Forks"  
-> **Canon**: Solo eventos de `a-chapters/` + decisiones de autor confirmadas
+> **Canon**: Eventos de `a-chapters/` + **respuestas resueltas en `preguntas.md`**  
+> **Uso**: Contexto para desarrollo de capítulos con AI (macro-eventos; incluir "por qué" cuando ayude)
 
 ---
 
 ## Reglas del Mundo (Resumen)
 
+> **Fuente canon**: `preguntas.md` (respuestas resueltas) + `a-chapters/`. Este roadmap sirve como **contexto para desarrollo de capítulos con AI**; incluye información "detrás de cámara" cuando ayuda.
+
 ### Sistema temporal
-- **Bloque** = ~1 año aproximadamente
-- **Bloque 218**: Línea de guerra futura (Wolkers vs Ramons); hilos visibles en el cielo
-- **Bloque 99**: Pasado próspero de Sailor Capital; época de Under End y zPace
+- **Bloque** = ~1 año humano (unidad de tiempo basada en algoritmo universal que usa el caos)
+- **Bloque 218**: Línea de guerra futura (Wolkers vs Ramons); hilos visibles en el cielo **~7 veces al año** (eventual, no permanente)
+- **Bloque 99**: Pasado próspero de Sailor Capital; milagro económico; época de Under End y zPace
 
 ### Geografía y cosmología
-- **Mundo físico**: Planeta cuadrado y plano, como una caja de pizza (verdad oficial)
-- **"El otro lado"**: Lado inverso del plano, geografía física del mismo mundo
-  - Luz casi 0
-  - Interacción con criaturas mínima
-  - Un piloto vio una criatura delgada de 4 patas (Eie): serena, como piedra, capaz de colapsar salud mental del piloto a largo plazo
-  - No acelera bifurcación/forks (impacto "nulo" en ese fenómeno)
+- **Mundo físico**: Cuadrado y plano, como caja de pizza (**verdad oficial**: al llegar al final caes al vacío y mueres ahogado; **mito popular**: mundo redondo como esfera)
+- **"El otro lado" (Under End)**: Lado inverso del plano, **geografía física del mismo mundo** (no otra dimensión)
+  - No cae luz jamás; vida basada en cristales luminosos, bio-luminiscencia
+  - Antes de la primera exploración humana **no existía vida inteligente**
+  - Espacio se dilata; criaturas extrañas no inteligentes con cristales y low poly natural en cuerpos
+  - Costo ir allí: equivalente a ir al espacio en los 60's
+  - No acelera bifurcación/forks (impacto "nulo")
+- **Eie**: Criatura delgada 4 patas; serena, como piedra; colapsa salud mental del piloto a largo plazo
+
+### Hilos y efecto Newman
+- **Hilos**: Lucen como hilos de pesca; hechos de **energía extradimensional**. Todo es **voluntad de Dirk** (su poder: tomar energía del futuro/otra dimensión para gastarla en la suya)
+- **Núcleo**: Corazón energético de Dirk; procesa y bombea energía a la otra dimensión. Al rasgarlo Piggy los corta de raíz y distrae a Dirk (no rompe el mundo; solo Alex puede bifurcar)
+- **Efecto Newman**: Consecuencia del drenado de energía (como gobierno imprimiendo billetes/endeudándose), llevado a término literal; **crítica oculta a la inmoralidad**. **Dirk lo provoca**
+- **Drenaje**: Afecta a todo ser vivo; los fuertes resisten mejor. Ramons descubrieron que a más profundidad menos les afecta
+- **Protección**: Distancia (especialmente profundidad) o **vibración** (en bloque 218 solo Rey Gallopo sabe hacerlo)
 
 ### Tecnología base
-- **Matrasy** (Magnetic Transportation System): Red de transporte magnético
-- **zPace**: Corporación-estado (captura estatal), similar a Apple/SpaceX/Google
-- **Hashboard**: Artefacto que canaliza 'hash' para convertirse en espada o patineta
-  - Deja rastro: firma energética
-  - Piggy puede digitalizarse parcialmente (volverse energía pura) sin perder identidad
-- **Tablores**: Moneda de la época
+- **Época bloque 99**: Muy parecida a 70s–90s; sociedad desarrollada pero **tecnologías de comunicación no son realidad**
+- **Matrasy**: Metro inspirado en el de Ciudad de México
+- **zPace**: En cultura popular = Apple/SpaceX/Google combinado; captura estatal
+- **Hashboard**: Tecnología que viene del **futuro (Bloque 218)**; requiere usuario que sepa usar el hash (fuerza/chakra/ki del universo). **Color cambia con la frecuencia del alma del usuario**. Doble propósito (espada/patineta) por **uso que le da Piggy** (prácticamente su único usuario). Deja rastro: firma energética
+- **Tablores**: Monedas **privadas** con característica que da escasez y reputación/verificabilidad
 
 ### Poderes extraordinarios
-- **Total**: Solo 21 personas con poderes
-- **Taxonomía**: Todos son referencias a tecnología blockchain/digital
+- **Secreto**: Solo 21 personajes entre ambas dimensiones (~1 en 1M de proporción)
+- **Taxonomía**: Basados en abstracciones/referencias de tecnología blockchain
 - **Ejemplos**:
-  - **Dirk**: Extracción de energía del futuro (pesca aleatoria) → prosperidad/riqueza en presente
-  - **Viktor Lang**: Neuro Recall (proyección de recuerdos; no requiere consentimiento, no siempre funciona)
-  - **Piggy**: Block Jumper (digitalización parcial, capacidad de afectar hilos/núcleo)
-  - **Alex**: Rebobina línea de eventos (cada uso crea bifurcación; 2ª bifurcación escala a guerra)
+  - **Dirk**: Extrae energía del futuro por voluntad; escribe velozmente tras drenar (escritor fracasado que no lograba terminar su novela; la trama lo inspira)
+  - **Viktor Lang**: Neuro Recall (proyección de recuerdos); **precisión según nivel de energía**; cadena de órdenes convierte retrato en escuadrón estatal
+  - **Piggy**: Block Jumper (digitalización parcial, afectar hilos/núcleo)
+  - **Alex**: Rebobina línea de eventos; cada uso crea bifurcación; pierde un tanto su cordura
   - **Eddy**: Forma flama (poder innato)
-  - **Hiroshi**: Patada diamante (referencia a "armadura hash")
+  - **Hiroshi**: Patada diamante (técnica/poder)
 
 ### Sistema político (Bloque 99)
+- **Sailor Capital**: Capital-estado
 - **Régimen**: Tecno-militar presidencialista
-- **Líder**: William Heart (Partido Justicia - izquierda autoritaria, uno de los 21 poderosos)
-- **Alto asesor**: Dirk Newman (milagro económico)
-- **Oposición institucional**: Viktor Lang (Partido Progreso - derecha)
-- **Bloque cultural-religioso**: Los Blu (familia tipo menonitas con dinero y disciplina comunitaria)
-  - Prácticas tradicionales incluyen matrimonios arreglados con "esposas menores"
-  - Tobias Blu: primo lejano de Billy M. Blu, involucrado en muerte de Lila (hermana de Dafne)
+- **Líder**: William Heart (Partido Justicia); **vibra JFK + AMLO, muy querido**
+- **Alto asesor**: Dirk Newman; **ante el pueblo = Ministro genio bajo Heart, responsable del éxito financiero**
+- **Oposición**: Viktor Lang (Partido Progreso, derecha); **odio por un sector, respeto y admiración por otro**. También Rinki y Piggy
+- **Mimi Saito**: Secretaria de Defensa
+- **Medios**: Sociedad libre; **prensa crítica**
+- **Lo que no puede salir a la luz sobre Under End**: Que encontraron vida (en el otro lado)
+- **Financiamiento Under End**: Privados (Blu), gasto público, deuda
+- **Explicación oficial de glitches/forks** (T3): Terrorismo de sectas con magia oscura; encarna la ignorancia colectiva
+- **Bloque cultural-religioso**: Los Blu (dinero, disciplina); Tobias Blu vinculado a muerte de Lila (Dafne)
 - **zPace**: Captura estatal (no independiente)
 
 ### Eventos históricos (Bloque 99)
@@ -254,8 +269,8 @@
 - Piggy escucha rumores de resistencia ("hijos de la libertad") y cargamento en puerto
 - Piggy observa puerto de noche; ve a Dirk reuniéndose con hombres, recibe carpeta
 - Al día siguiente: Piggy va al puerto; ve contenedores zPace/Under End
-- Contenedor especial custodiado; Viktor Lang lo abre con llave biométrica
-- Piggy ve frascos con bacterias "más grandes, más conscientes" (prototipos avanzados)
+- Contenedor especial custodiado; **Woodrow Mellon** lo abre con llave biométrica personalmente (Dirk/Woodrow manejan las acciones principales y el **mineral azul**: solo existe en 1 cueva en el mundo; en el futuro esa cueva mantiene la separación con el "otro lado"; valor de mercado como el oro)
+- Piggy ve **frascos con bacterias** (más grandes, más conscientes; prototipos avanzados)
 - Pietro advierte: "Hay noches en que los hombres tienen que elegir"
 - **Piggy despliega Hashboard por primera vez en meses**: Decide actuar
 
@@ -272,6 +287,7 @@
 ### Episodio 9: [POR DEFINIR] — Lanzamiento Under End
 
 **Eventos clave (pendientes)**:
+- **Under End** = cohete; se construye y protege por el **gobierno en base a las afueras de la ciudad, zona pobre**
 - Under End despega (inicios del bloque 99)
 - Chester Mayfield y Shika Toro viajan al "otro lado"
 - Shika Toro ve criatura Eie (4 patas, serena); sufre trauma mental a largo plazo
@@ -281,7 +297,7 @@
 
 **Causas/motivaciones**:
 - Estado: necesidad de exploración/recursos alternativos (Dirk sabe que su energía puede agotarse)
-- Gobierno: oculta verdad sobre contacto y daño mental
+- Gobierno: oculta verdad sobre contacto y daño mental (no puede salir que encontraron vida)
 
 **Consecuencias**:
 - Primer resquebrajamiento de confianza pública en proyecto Under End
@@ -295,8 +311,9 @@
 - **Henry aparece**: Mini round contra Piggy (Piggy pierde o escapa)
 - **Donna Colombo**: Candidata del partido "chafa", toma relevancia política
 - **Bastian Klose Tiger**: Aparición
-- **Kenzo Toro**: "Traiciona" a su época, ayuda a Piggy a escapar (probablemente de Henry)
+- **Kenzo Toro**: "Traiciona" a su época, ayuda a Piggy a escapar (probablemente de Henry). **Canon**: Kenzo, Luna Valdez y Jim Tyler luchan en la Batalla de los Forks (T3)
 - **Gobierno ataca Sitters/Baby Goat**: Por dejar escapar a Piggy en Ep. 2
+- **Woodrow Mellon**: Jamás traiciona a Dirk; es su "Sr. Smithers", lo ama y nunca lo traicionaría
 - **Dafne**: Aparición y amor platónico de Piggy
   - Mujer de 22 años, desplazada por "La Expansión" desde Tierras Rojas
   - Llega a Sailor Capital con madre (Hortensia) y hermana menor (Lila, 16 años) en carro rojo golpeado
@@ -322,20 +339,21 @@
 ### Episodio 11: [POR DEFINIR] — Primera pelea formal
 
 **Eventos clave (pendientes)**:
-- **Muerte de Pietro**: Piggy nunca le explicó nada ni dio las gracias
-- **Piggy se enfrenta a Dirk**: Primer enfrentamiento oficial
-- Dirk usa "el ojo" (manifestación de poder); arrastra a Piggy
+- **Muerte de Pietro**: Piggy nunca le explicó nada ni dio las gracias. Pietro = simple y humilde anciano (sin conexión resistencia/política)
+- **Piggy se enfrenta a Dirk**: Primer enfrentamiento oficial (bloque 99)
+- Dirk usa el **núcleo/manifestación de poder** ("el ojo"); arrastra a Piggy
 - Piggy se digitaliza enteramente; entra por los hilos hasta regresar a su tiempo (bloque 218)
 - Piggy ahora sabe que es el único que puede detener a Dirk
 
 **Causas/motivaciones**:
 - Piggy: Muerte de Pietro lo empuja a acción definitiva
-- Dirk: Objetivo de capturar/entender al "demonio" que amenaza su sistema
+- Dirk: Objetivo de capturar/entender al "demonio" que amenaza su sistema (culpa, paranoia, encarnación de excesos)
 
 **Consecuencias**:
 - Piggy regresa al bloque 218 con conocimiento completo
-- Cicatriz moral en Piggy: se da cuenta que sistema está podrido, matar puede ser necesario
-- Cicatriz en Dirk: Paranoia fija; Piggy se vuelve obsesión; miedo real de que futuro "se le acabe"
+- Cicatriz moral en Piggy: sistema podrido, matar puede ser necesario
+- Cicatriz en Dirk: Paranoia fija; Piggy = obsesión; miedo a que el futuro "se le acabe"
+- **Rodolfo** (anciano herido en Ep. 2): No estaba bajo el edificio de Dirk por accidente; vuelve en Batalla de los Forks como **uno de los personajes más poderosos** de la trama
 
 ---
 
@@ -348,15 +366,23 @@
 
 ### Episodios principales (estructura pendiente de detalle):
 
-- **Reencuentro**: Piggy regresa; hermanos lo daban por muerto
+- **Reencuentro**: Piggy regresa; hermanos lo daban por muerto. **Piggy**: ~22 años al inicio de la historia, ~31 al terminar Batalla de los Forks; protagonista = saltador, recupera balance/justicia dimensional
 - **Estado del mundo**: Sailor Capital en ruinas; ciudades se han modificado a entidades desplazables/móviles
-- **Evolución Ramons**: 100 años después de origen bacteriano; civilización marina inteligente completa
-- **Aparición de Rey Gallopo**: Líder de pueblo de montañas volcánicas; feroces en batalla, poderosos, privados
-- **Salino**: Único Ramon con dominio del Hash (puede hacerse Low Poly)
+- **Evolución Ramons** (canon desde preguntas.md):
+  - Civilización marina con desarrollo **muy acelerado** (en menos de 100 bloques ya tenían civilización mediana con ejército)
+  - **Lenguaje humano** gracias a Ramon; cultura propia; **religión = Sr. Ramon como mesías y elegido de Dios**
+  - No aplica "villanos": **circunstancias**. Quieren **expansión y supervivencia**, no venganza colectiva
+  - **Salino**: Delfín muy inteligente; consecuencia/hijo de la bacteria; único Ramon con dominio del Hash (Low Poly)
+  - No recuerdan haber sido bacterias. Facciones como "esponjas" (intereses propios)
+  - **Especies distintas y mutaciones**; **Pulpos = familia real actual**
+  - **Gaita**: Ramon salvaje nivel Tilikum; tan poderoso que ni los Ramons se meten con él (bestia de aguas dulces, oasis)
+  - Conversión a antropomorfos: **evolución y mentalidad**. "Guerra a tierra firme": ya no esperan pasivos; Wolkers los ven inferiores/error
+  - **Armas de algas**: Tecnología marina; los mismos Ramons las fabrican
+- **Aparición de Rey Gallopo**: Líder de pueblo de montañas volcánicas; feroces en batalla, poderosos, privados; **sabe protegerse del drenaje por vibración** (en 218 solo él)
 - **Introducción de los Arboleanos**: A través de Renji
 - **Dominio del modo digital de Piggy**: Aprende a usar digitalización completa
 - **Aparición de Chucky McDay**
-- **Jerarquía Ramons**: Realeza (Los Perlino)
+- **Jerarquía Ramons**: Realeza (Los Pulpos/Perlino)
 - **Otras criaturas semiacuáticas mutantes**: Hipopótamos, cocodrilos, etc.
 
 ---
@@ -370,11 +396,12 @@
 
 ### Introducción de Alex
 
-**Contexto temporal**: Alex existe en bloque 99; su poder se activa casi 2 años/bloques después del lanzamiento Under End (Bloque 101)
+**Contexto temporal**: Alex existe en bloque 99; su poder se activa casi 2 años/bloques después del lanzamiento Under End (Bloque 101). **Canon**: Cincuentón, nervioso, se siente culpable. **Ninguna relación directa con Piggy/Dirk/Lang hasta el inicio oficial de la guerra**, momento en que **será protegido por Dirk**
 
 **Poder de Alex**:
 - Rebobina línea de eventos (no viaje en el tiempo clásico)
 - Cada uso crea bifurcación SIEMPRE (universo completo se divide en 2 cadenas)
+- **Al bifurcar**: El mundo se parte en 2 líneas de tiempo y **pierde un tanto su cordura**
 - Primera bifurcación (fork huérfano): Duró pocas horas; al crearse 2 Alex, uno murió por conductor ebrio
 - Segunda bifurcación: Escala a guerra porque ambas realidades se vuelven inestables
 
@@ -472,13 +499,15 @@
 
 ## Huecos Pendientes (Decisiones de Autor)
 
+**Resueltos con `preguntas.md`** (ya integrados en este roadmap): Reglas del mundo (hilos, efecto Newman, núcleo, mineral azul, Under End = cohete, financiamiento, oposición, Mimi Saito, percepción pueblo de Dirk/Lang/Heart, explicación glitches, Ramons, Woodrow/Rodolfo/Kenzo-Luna-Jim, Alex, Pietro, Ep8 Woodrow + frascos bacterias).
+
 1. **Episodio 9-11 Temporada 1**: Detalles específicos de lanzamiento Under End, apariciones de Henry/Donna/Bastian, primera pelea formal Piggy vs Dirk
    - **Dafne**: ✅ Completado (capítulo independiente en `a-chapters/Dafne/index.md`)
-2. **Temporada 2 completa**: Estructura episódica detallada, arcos de personajes, evolución de Ramons a civilización
+2. **Temporada 2 completa**: Estructura episódica detallada, arcos de personajes (evolución Ramons ya canon en sección T2)
 3. **Temporada 3**: Detalles episódicos de introducción de Alex, batalla final, consecuencias post-resolución
-4. **Personajes secundarios**: Arcos completos de Kenzo, Luna, Jim Tyler, Woodrow, Mimi Saito, etc.
-5. **Origen bacteriano → Ramons**: Proceso detallado de 100 años (mutación acelerada + navegación superior + migración + coordinación)
-6. **"El ojo" de Dirk**: Qué es exactamente, cómo funciona, relación con hilos
+4. **Personajes secundarios**: Arcos completos de Kenzo, Luna, Jim Tyler (canon: luchan en Batalla Forks), Mimi Saito (Secretaria Defensa), Woodrow (jamás traiciona)
+5. **Origen bacteriano → Ramons**: Proceso detallado de ~100 bloques (canon: evolución + mentalidad; lenguaje humano gracias a Ramon; religión Sr. Ramon)
+6. **"El ojo" de Dirk**: ✅ Resuelto en preguntas.md = **núcleo/corazón energético de Dirk** que procesa y bombea energía a otra dimensión; relación directa con hilos
 7. **Primer fork de Alex**: Detalles del evento, quién era el inocente, consecuencias inmediatas
 8. **Donna Colombo**: Rol político específico, cómo explota caos de forks
 9. **Rey Gallopo**: Conexión con Sitters/Baby Goat, relación con resistencia Wolkers
@@ -488,8 +517,10 @@
 
 ## Notas Finales
 
-- **Canon estricto**: Solo eventos de `a-chapters/` y decisiones confirmadas por autor
-- **Consistencia**: Todas las reglas de poderes, física, y política deben mantenerse
-- **Temporada 3 es canon**: "Batalla de los Forks" ocurre en Temporada 3, no 4 (ajustado del ROADMAP original)
-- **Piggy no se infiltra en Under End**: Solo observa; no tiene conexión directa con el viaje
-- **Under End no causa bifurcación**: Impacto "nulo" en fenómeno de forks (es geografía, no causa temporal)
+- **Canon**: Eventos de `a-chapters/` + **respuestas resueltas en `preguntas.md`** (este roadmap las integra como contexto para desarrollo de capítulos con AI)
+- **Formato roadmap**: Por bloques y temporadas; macro-eventos en general, excepciones híbridas; incluir "por qué pasa" cuando ayude; evento = lo que impacta al lector, vida del personaje o el mundo
+- **Roadmap maestro + sub-roadmaps**: Sí (por arco: Under End, Ramons, Forks, política) — sub-roadmaps por desarrollar
+- **Consistencia**: Reglas de poderes, física y política deben mantenerse
+- **Temporada 3 es canon**: "Batalla de los Forks" ocurre en Temporada 3
+- **Piggy no se infiltra en Under End**: Solo observa
+- **Under End no causa bifurcación**: Impacto "nulo" (geografía, no causa temporal)
