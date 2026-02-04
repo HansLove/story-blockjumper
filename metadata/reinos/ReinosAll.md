@@ -1,13 +1,10 @@
 🌍 **Los 21 Reinos de Block-Jumper**
-
-| #  | Nombre del Reino | Inspiración/Referencia        | Personalidad                                                                                                   |
-| -- | ---------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1  | **Saylor**       | Michael Saylor                | El Reino-evangelista del Bitcoin, teocracia tecnológica. Cree en la reserva de valor absoluta.                 |
-| 2  | **Roosveltia**   | FDR, orden ejecutiva 6102     | Reino obsesionado con el control monetario, nacionalista, prohibió la energía monetaria libre.                 |
+                                                                      
+| 2  | **Roosveltia**   | FDR, orden ejecutiva 6102     | Reino obsesionado con el control monetario, nacionalista, prohibió la energía monetaria libre.                 
 | 3  | **Aurius**       | El patrón oro / Europa 1930s  | Reino antiguo, aristocrático. Se aferra a reliquias doradas.                                                   |
-| 4  | **Powellgrad**   | Jerome Powell                 | Reino moderno, inflacionista, pragmático. Controla tasas y juega con la ilusión de estabilidad.                |
-| 5  | **Nippono**      | Japón, BoJ                    | Reino insular y sofisticado, atrapado en ciclos eternos. Sus sabios manipulan la deuda como arte.              |
-| 6  | **Sterlindra**   | Reino Unido / libra esterlina | Viejo imperio venido a menos. Cuna de banqueros de élite, pero su poder se desvanece.                          |
+           |
+        |
+                    |
 | 7  | **Vaticarya**    | El Vaticano + control moral   | Reino místico, oráculo de lo divino. Usa fe y dogma para mantener influencia sobre otros.                      |
 | 8  | **Zürikon**      | Suiza + BIS                   | El reino neutral. Centro de cámaras acorazadas, acuerdos secretos y códigos bancarios milenarios.              |
 | 9  | **Eurania**      | BCE y la eurozona             | Confederación inestable. Cada ciudad habla su lengua pero comparten una moneda forzada.                        |
@@ -25,6 +22,21 @@
 | 21 | **Taloonia**     | Tú y tu estudio               | Meta-reino creativo. Origen de los saltadores. Semilla del caos generativo y la disrupción narrativa.          |
 
 ---
+
+Venezuela - Velora
+Argentina - Alondrina, ciudad celeste
+USA - Ala bu 
+Sudan - -Nubareth 
+Egipto - Sekhara 
+UK - Crownwest / Crownwell ->  Viejo imperio venido a menos. Cuna de banqueros de élite, pero su poder se desvanece.    
+Italia - Solanova
+El Salvador - Volcanes, punta Horna
+China -  Zhenhai, bamba 
+Nigeria - Benara 
+Japón - Ogizan 
+Mexico - Saylor Capital 
+Nueva Zelanda - Cachora, Lambda Bahía
+
 
 ### 🔍 Notas sobre estilo y coherencia narrativa
 

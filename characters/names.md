@@ -42,7 +42,6 @@
 ![alt text](image-6.png)
 
 
-
 - Billy Peacock
 
 - Rodolfo 'El Flautista' 
@@ -51,5 +50,6 @@
 
 - Steeve Reese
 
-
 - Peter Cake 
+
+Fue apodado "Young Hickory" (Joven Nogal) debido a su asociación con el presidente Andrew Jackson, quien tenía el apodo de "Old Hickory" (Viejo Nogal).

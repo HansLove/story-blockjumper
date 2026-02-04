@@ -387,6 +387,12 @@
 
 ---
 
+### Otros arcos (Bloque 99)
+
+- **Mini-arco Velora** (2 cap.): [a-chapters/season-2-velora/index.md](a-chapters/season-2-velora/index.md). Rey **Rafaello C. Hornies** (muere por **intoxicación con azufre**); **dedazo** a **Nicolas Green** (poder **Nodo**, uno de los 21). **Wilmer Mostaza**: cerebro real, estratega, controla a Nicolas y mando militar. Velora = Rio Negro, capital; única cueva del mineral azul; sustancias y vicios; explotación ilegal. Nicolas adora a Rafaello, Dirk Newman y Baby Goat; gobierno desastroso, pueblo en hambre; nadie puede hacerle frente. **Conflicto con Alondrina** (nación vecina, ciudad celeste) por motivación estúpida/infantil (disputa del sombrero). Bloque 99.
+
+---
+
 ## TEMPORADA 3: Batalla de los Forks
 
 **Ambiente**: Bloque 99-101 (pasado); bifurcación de realidades  
