@@ -14,8 +14,9 @@ Si la gente voluntareamente acepta, el dueño de este poder tiene acceso a su en
 # Dont trust(Viktor Lang) 10/10
 Puede ver los recuerdos de las personas hasta cierto punto, un detector de mentiras infalible, ademas, para cuando el conflicto se presenta incluso puede ver la intencion de su oponente y predecir sus movimientos. Ademas, puede identificar y anular cualquier intento de manipulación o mentira. 
 
-# Token Boost (Woodrow) 5/10
+# Token Boost (Woodrow-> Woody Melon) 5/10
 - Con este poder, el usuario puede aumentar temporalmente la velocidad.
+
 
 # Block Breaker 1/10
 Este poder permite al jugador desbloquear bloques y obstáculos en el nivel utilizando contratos inteligentes.
@@ -28,7 +29,7 @@ El personaje tiene la capacidad de "tokenizar" cualquier objeto o ser vivo, conv
 El personaje puede crear y gestionar espacios inteligentes. Puede establecer reglas y condiciones para cualquier situación, y hacer que se ejecuten automáticamente cuando se cumplen ciertas condiciones predefinidas. Esto le permite controlar y manipular eventos y acciones en su entorno, creando acuerdos vinculantes e influenciando el comportamiento de otros personajes o elementos del mundo.
 
 
-# Minero  3/10
+# Minero -> Dirk Newman  3/10
  El personaje tiene la capacidad de extraer recursos o información valiosa de su entorno. Puede encontrar y aprovechar depósitos de recursos raros o datos valiosos que le otorgan habilidades especiales.
 
 

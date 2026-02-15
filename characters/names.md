@@ -22,11 +22,10 @@
 - Villano: Kronmuller
 
 - Sultano Meza
-- Brucer Pipiano, Slavic suvvenir the cool guy.
-- Paco Godnica
+- Brucer Pipiano, Slavic suvvenir the cool guy [x]
+- Paco Godnica 
 
-- Apostolo George
-
+- Apostolo George [x]
 
 
 - Morgan Osca, anti-heroe con un perro tipo doberman y una voz con Alex Lora. 
@@ -53,3 +52,9 @@
 - Peter Cake 
 
 Fue apodado "Young Hickory" (Joven Nogal) debido a su asociación con el presidente Andrew Jackson, quien tenía el apodo de "Old Hickory" (Viejo Nogal).
+
+- Homero, Horacio, Ovidio y Lucano
+
+
+- Pablito Canario — Almirante marina Alondrina; error en ruta provoca pérdida de su flotilla; refugiado político en Velora (mini-arco Velora Cap 3).
+- Marlon Mejillon — Ex coronel marina Velora; cachetón, 43 años; destituido por Nicolas Green por condenar a Pablito Canario; decide vengarse de Pablito y de Velora.

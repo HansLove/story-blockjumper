@@ -389,7 +389,7 @@
 
 ### Otros arcos (Bloque 99)
 
-- **Mini-arco Velora** (2 cap.): [a-chapters/season-2-velora/index.md](a-chapters/season-2-velora/index.md). Rey **Rafaello C. Hornies** (muere por **intoxicación con azufre**); **dedazo** a **Nicolas Green** (poder **Nodo**, uno de los 21). **Wilmer Mostaza**: cerebro real, estratega, controla a Nicolas y mando militar. Velora = Rio Negro, capital; única cueva del mineral azul; sustancias y vicios; explotación ilegal. Nicolas adora a Rafaello, Dirk Newman y Baby Goat; gobierno desastroso, pueblo en hambre; nadie puede hacerle frente. **Conflicto con Alondrina** (nación vecina, ciudad celeste) por motivación estúpida/infantil (disputa del sombrero). Bloque 99.
+- **Mini-arco Velora** (3 cap.): [a-chapters/season-2-velora/index.md](a-chapters/season-2-velora/index.md). Rey **Rafaello C. Hornies** (muere por **intoxicación con azufre**); **dedazo** a **Nicolas Green** (poder **Nodo**, uno de los 21). **Wilmer Mostaza**: cerebro real, estratega, controla a Nicolas y mando militar. Velora = Rio Negro, capital; única cueva del mineral azul; sustancias y vicios; explotación ilegal. Nicolas adora a Rafaello, Dirk Newman y Baby Goat; gobierno desastroso, pueblo en hambre; nadie puede hacerle frente. **Conflicto con Alondrina** (nación vecina, ciudad celeste) por motivación estúpida/infantil (disputa del sombrero). **Cap 3**: Incidente naval Alondrina–Velora; **Pablito Canario** (almirante Alondrina) provoca por error la pérdida de su flotilla; refugio político en Velora; coronel **Marlon Mejillon** lo condena en público; Nicolas lo destituye; Marlon queda devastado y decide vengarse de Pablito y de Velora. Bloque 99.
 
 ---
 
