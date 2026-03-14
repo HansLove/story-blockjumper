@@ -1,0 +1,13 @@
+# Block Jumper #7-A-B — Primer operativo
+
+**Rama**: A-B (continuación de 6-A-B). **Profundidad**: Primer día del escuadrón en la calle; llegada al mercado; POV de un agente; el retrato que no coincide.
+
+---
+
+El agente no tiene nombre en el expediente. Tiene número y perfil: obediente, discreto, sin antecedentes de preguntas incómodas. Recibió el folio a las seis de la mañana en un sobre sin remitente. Dentro: un retrato. Joven. Barba. Instrucciones: mostrar en zona mercado central y alrededores. Preguntar sin alarmar. Reportar cualquier coincidencia. No usar fuerza salvo defensa propia. No identificar como cuerpo estatal. Si alguien pregunta, decir que buscan a un familiar.
+
+Él no pregunta a quién buscan de verdad. No le corresponde. Llega al mercado con su pareja, otro número, otro perfil. Recorren puestos. Muestran el retrato. La gente mira y niega. En un puesto de frutas un anciano los recibe con desgana. Detrás hay un muchacho acomodando naranjas. El agente muestra el retrato. El anciano dice que ahí solo hay deudas y hambre. El muchacho levanta la vista y dice que no conoce a nadie con esa cara. El agente lo mira un segundo más. Algo le llama la atención: la calma. La mayoría de la gente se pone nerviosa cuando les muestras un retrato y preguntas. Este no. Pero el retrato no coincide. El del dibujo tiene barba. Este no tiene barba. El agente no es pagado para interpretar. Es pagado para reportar coincidencias. No hay coincidencia. Anota en su libreta: puesto mercado central, anciano y joven, negativa. Siguen.
+
+Esa noche el agente entrega el reporte. Docenas de negativas. Ningún positivo. Su superior hojea las páginas y no comenta. El escuadrón sigue en pie. La búsqueda sigue en pie. En algún despacho sin ventanas, alguien con poder lee los informes y no encuentra al barbón. No sabe que el barbón no tiene barba. No sabe que pasó a un metro de él en un puesto de frutas. El agente no lo sabe tampoco. Solo sabe que cumplió la orden. Que mañana habrá otra ronda. Que la ciudad es grande y que encontrar a un hombre con un retrato aproximado es como buscar una aguja en un pajar. Él no piensa en agujas. Piensa en el siguiente turno. En el siguiente barrio. En no hacer preguntas.
+
+En el mercado, Piggy cierra su habitación y se toca el mentón. Sin barba. Piensa en rutas. En hilos. En que ya no puede quedarse quieto. Y en que la única razón por la que sigue libre es un error en un dibujo. Un error que algún día alguien podría corregir. Hasta entonces, sigue vivo. Sigue escondido. Y sigue decidido a dejar de ser el que espera.
