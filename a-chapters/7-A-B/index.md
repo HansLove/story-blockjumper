@@ -1,8 +1,5 @@
-# Block Jumper #7-A-B — Primer operativo
+# Primer operativo
 
-**Rama**: A-B (continuación de 6-A-B). **Profundidad**: Primer día del escuadrón en la calle; llegada al mercado; POV de un agente; el retrato que no coincide.
-
----
 
 El agente no tiene nombre en el expediente. Tiene número y perfil: obediente, discreto, sin antecedentes de preguntas incómodas. Recibió el folio a las seis de la mañana en un sobre sin remitente. Dentro: un retrato. Joven. Barba. Instrucciones: mostrar en zona mercado central y alrededores. Preguntar sin alarmar. Reportar cualquier coincidencia. No usar fuerza salvo defensa propia. No identificar como cuerpo estatal. Si alguien pregunta, decir que buscan a un familiar.
 

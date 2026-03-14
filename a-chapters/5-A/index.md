@@ -1,8 +1,5 @@
-# Mini-capítulo 5-A — El demonio que come hombres para obtener su nombre
+#  El demonio come hombres
 
-*Tema: el demonio que come hombres para obtener su nombre. Coherente con cap 5: Dirk, ritual de hilos, “pesca”.*
-
----
 
 Dirk Newman no tiene el nombre que quiere. Tiene el nombre que le dieron: ministro, genio, el que trae prosperidad. Pero en la intimidad del departamento, frente a la página en blanco, no es nadie. Su novela no avanza. Su don no es para escribir: es para tomar.
 

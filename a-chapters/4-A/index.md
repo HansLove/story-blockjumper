@@ -1,8 +1,6 @@
-# Mini-capítulo 4-A — El bebé que se hace rey
+# Baby King
 
-*Tema: el bebé que se hace rey. Coherente con cap 4: La Arista, Chip Keaton.*
 
----
 
 En el Pixel Arena nadie corona a un rey por sangre. Lo coronan por cruzar la meta primero. Chip Keaton tiene veinte años y en las transmisiones lo llaman *joven prodigio*, *genio de la evasión*. Él no se llama a sí mismo rey. Se llama *El Niño*. Porque un niño no pide permiso. Un niño no espera su turno. Un niño ve el hueco y se lanza.
 

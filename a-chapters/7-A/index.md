@@ -1,8 +1,5 @@
-# Block Jumper #7-A — La visita
+# La visita
 
-**Rama**: A (continuación de 6-A). **Profundidad**: Episodio "La visita" — el escuadrón llega al mercado; Pietro protege a Piggy; Piggy comprende que lo buscan mal (barba) y decide actuar.
-
----
 
 Los agentes no llevan uniforme de gala. Llevan ropa civil que no llama la atención: pantalones neutros, chaquetas cerradas, zapatos que no crujen. Llegan al mercado en parejas, como compradores. Pero los vendedores de toda la vida saben distinguir a quien viene a regatear de quien viene a preguntar. Los dos que se acercan al puesto de Pietro no miran la fruta. Miran las caras.
 

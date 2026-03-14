@@ -1,8 +1,4 @@
-# Mini-capítulo 3-A — El castigo a un inocente
-
-*Tema: el castigo a un inocente. Coherente con cap 3: juicio a Mauro, Neuro Recall, Dirk reconoce a Piggy.*
-
----
+# El castigo a un inocente
 
 Mauro Tavira no es un héroe. No es un mártir. Es el que llevaba la mochila el día que Roberta dijo *ahora*. Es el que miró el suelo en el tribunal porque le enseñaron que mirar arriba te marca. Es el que no declamó inocencia porque en su barrio inocente es lo que gritas cuando ya no tienes nada más.
 

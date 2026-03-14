@@ -1,8 +1,6 @@
-# Block Jumper #6-B-A — El día después
+# El día después
 
-**Rama**: B-A (continuación de 5-B-A). **Profundidad**: consecuencias del escape de Piggy ante Dirk; Piggy vuelve al mercado; Ramón y el peso de haber soltado las bacterias.
 
----
 
 Piggy no duerme esa noche. Recorre las azoteas hasta el amanecer con la Hashboard guardada, sin invocarla. Cada vez que cierra los ojos ve las uñas de Dirk en la cornisa, los hilos blancos en el suelo del departamento, la energía entrando como cúmulos por sus manos. Ahora sabe quién es el responsable del drenaje en su época. Sabe que ese hombre escribe después de robar. Que tiene miedo. Que lo buscó hasta colgarse del borde del edificio. No sabe cómo volver al bloque 218, pero sabe que no puede quedarse quieto y solo esconderse. Tiene que pensar. Y para pensar necesita un lugar que no sea el vacío.
 

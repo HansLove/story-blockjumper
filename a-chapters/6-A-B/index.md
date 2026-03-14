@@ -1,9 +1,5 @@
 # El escuadrón
 
-**Rama**: A-B (fork desde 5-A; profundidad en rama alternativa). **Profundidad**: Nacimiento del escuadrón desde dentro — Dirk y Viktor Lang; reclutamiento; primera orden; "Encuentren al barbón".
-
----
-
 Viktor Lang no cree en fantasmas. Cree en utilidad. Cuando Dirk Newman lo citó en un despacho que no aparece en ningún plano, sin cámaras, sin secretarias, Viktor no preguntó por qué. Preguntó qué necesitaba. Dirk no le dijo otra dimensión. No le dijo hilos. Le dijo: hay algo en la ciudad que no pertenece. Alguien. Y para Viktor eso fue suficiente. Lo intangible no existe hasta que alguien con poder lo nombra. Y Dirk tiene poder. Así que Viktor lo nombró: evidencia. Amenaza. Objeto de búsqueda.
 
 El retrato nació en esa misma habitación. Dirk cerró los ojos. Repitió lo que recordaba. La aparición. La forma plana. La ventana rota. La huida. Viktor extrajo. No de la carne: de la narración. Del miedo. Lo que salió fue una cara aproximada. Joven. Con barba. Porque el recuerdo de Dirk estaba deformado por el pánico. Porque la mente rellena huecos con lo que teme. El barbón no es Piggy. Es la pesadilla de Dirk hecha dibujo. Y ese dibujo es lo que se imprime en folios y se reparte en silencio.

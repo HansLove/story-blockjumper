@@ -1,8 +1,5 @@
-# Block Jumper #8-A — La mano quemada
+# La mano quemada
 
-**Rama**: A (continuación de 7-A). **Profundidad**: Episodio "La mano quemada" — Pietro cuenta la historia; rumores del puerto; Piggy ve a Dirk en el puerto; frascos; despliega la Hashboard.
-
----
 
 Pietro no cuenta la historia de la mano quemada como quien da una lección. La cuenta como quien una vez tuvo que elegir y recuerda el precio. Están cerrando el puesto. El sol ya se fue. Pietro levanta su mano derecha y muestra la cicatriz que le cruza la palma. No es fea. Es vieja. Como un río seco en un mapa.
 

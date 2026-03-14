@@ -1,8 +1,5 @@
-# Mini-capítulo 4-B — La ingrata que obtiene su merecido
+# La ingrata
 
-*Tema: la ingrata que obtiene su merecido. Coherente con cap 4: La Arista, Luna, Jim, consecuencias.*
-
----
 
 Luna Valdez no es mala. Es sigilosa. Se infiltra entre los demás sin pedir permiso, se camufla con la luz, pasa por donde no la ven. En la carrera eso la lleva al segundo lugar, luego al primero por un instante. Kenzo la golpea de costado no por crueldad sino por competencia: ella estaba en el camino. La abolladura inhabilita su camuflaje. Sus llantas friccionan. Pierde velocidad. Chip la rebasa. Jim Tyler la rebasa con una pieza de Bailout que actúa de centinela en el polvo.
 

@@ -1,8 +1,5 @@
-# Mini-capítulo 6-A — El camino al infierno (escuadrón y drenaje)
+# El camino al infierno (escuadrón y drenaje)
 
-*Tema: camino al infierno (Dante) + demonio. Coherente con cap 6-A: bacterias en drenaje, Piggy en mercado, Dirk ritual, Lang y el escuadrón.*
-
----
 
 El infierno tiene dos entradas en Sailor Capital. Una baja. Una no se anuncia.
 

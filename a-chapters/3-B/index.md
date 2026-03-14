@@ -1,8 +1,6 @@
-# Mini-capítulo 3-B — El camino al infierno
+# El camino al infierno
 
-*Tema: camino al infierno (Dante). Coherente con cap 3: Rinki, Matrasy, descenso.*
 
----
 
 El infierno no empieza en el fuego. Empieza en una refinería abandonada, con luces zumbantes y cajas de metal que no hacen ruido hasta que alguien las abre. Roberta habla de coordinación. De no llegar juntos. De parecer pasajeros. Los de Rinki bajan por las escaleras de la periferia como almas que ya eligieron el círculo: no el de los violentos ni el de los traidores, sino el de los que creen que romper algo grande los hará visibles.
 

@@ -1,8 +1,5 @@
-# Mini-capítulo 5-B — El ojo bajo el mundo (el bebé que se hace rey)
+# El ojo bajo el mundo
 
-*Tema: el bebé que se hace rey / el ojo que aprende. Coherente con cap 5: bacterias en el drenaje, Ramón.*
-
----
 
 Bajo Sailor Capital no hay trono. Hay tuberías. Kilómetros de drenaje que tragan agua jabonosa, restos, sangre leve, metales diminutos. Las bacterias que Ramón salvó de la fundidora no saben que fueron salvadas. Solo saben flujo. Oscuridad. Y luego, en un tramo de tubería vieja, algo distinto: un *arriba* y un *abajo* que no son gravedad. Una dirección que no es corriente. El llamado de lo magnético.
 
