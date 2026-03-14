@@ -6,3 +6,8 @@ La batalla consistió en dos enfrentamientos en la llanura al oeste de la ciudad
 
 - Tiene una extensión de 73 versos. Un pastor, Coridón, intenta en vano conquistar al joven Alexis, que recibe las atenciones de su amo, Yolas. Coridón trata de presentarse de la forma más favorable posible al objeto de su amor. Para ello destaca sus rústicos bienes, su aspecto físico no despreciable y sus cualidades poéticas y musicales.
 Virgilio mezcló en la obra elementos de los idilios III, X, XI y XXIII de Teócrito.
+
+
+Ryo Chen fue understimated 
+
+Es un vehículo que el velocimetro esta roto, La trama avanza, y dado que no puede medir la velocidad a qué van, tienen que tomar un arriesgada decisión para llegar a su destino, a una sabiendas que si se pasan por un poco, pueden morir en el intento
