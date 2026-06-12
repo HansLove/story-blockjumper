@@ -58,3 +58,21 @@ Fue apodado "Young Hickory" (Joven Nogal) debido a su asociación con el preside
 
 - Pablito Canario — Almirante marina Alondrina; error en ruta provoca pérdida de su flotilla; refugiado político en Velora (mini-arco Velora Cap 3).
 - Marlon Mejillon — Ex coronel marina Velora; cachetón, 43 años; destituido por Nicolas Green por condenar a Pablito Canario; decide vengarse de Pablito y de Velora.
+
+
+--- 2026  ---- 
+
+
+
+--- Junio --
+
+Helen Joshintong
+Drake Joshintong
+
+Megan Black
+
+Steve Lazy  
+
+
+
+
