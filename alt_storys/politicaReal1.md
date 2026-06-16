@@ -47,3 +47,6 @@ Ortiz Rubio renunció porque:
 Después de su renuncia, fue sustituido por **Abelardo L. Rodríguez**, también bajo el control de Calles.
 
 Si quieres, te puedo dar una versión más corta, más larga, o explicarlo como si fuera una historia de poder tipo *House of Cards*.
+
+
+

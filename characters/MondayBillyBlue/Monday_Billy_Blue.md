@@ -1,4 +1,5 @@
-- Se multiplica, entre mas multiplicaciones tiene, mas se debilita. 
-- Su descendencia se hacen llamar los 'Blue'
-- Son del presente. 
-- Al morir Billy, todos los que tienen su sangre mueren tambien, excepto 2.
+**NOTA DE CANON (decisión de autor confirmada):** El poder de multiplicación literal es una idea descartada. No es uno de los 21 poderes.
+
+Billy M. Blue es el fundador del linaje político-económico más poderoso de Sailor Capital. Su descendencia se hace llamar los Blue y opera como aristocracia hermética: heredan dinero, nombre, conexiones y una cultura cerrada (inspirada en los menonitas del norte de México). Al morir Billy, "todos con su sangre mueren excepto 2" es una metáfora narrativa sobre la fragilidad de los linajes que dependen de un patriarca, no un efecto sobrenatural.
+
+El único poder extraordinario asociado al linaje es **Conciencia compartida**, uno de los 21 poderes: quien lo tenga con sangre Blue puede acceder a la experiencia, conocimiento y habilidades de portadores anteriores del linaje.
