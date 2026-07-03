@@ -1,252 +1,159 @@
-# El ojo
+# Yo vengo de lo que viene después de ti
 
-Pietro muere un martes.
+La ciudad no sabe nada.
 
-No hay épica en su muerte. No hay batalla, ni sacrificio heroico, ni últimas palabras que resuenen como campanas. Solo un hombre viejo que se desploma entre cajas de fruta, con la mano en el pecho y una expresión de sorpresa tranquila, como si la muerte fuera un cliente que llegó antes de la hora acordada.
+Eso es lo que más ofende a Piggy mientras cruza los tejados hacia el distrito alto: que Sailor Capital amanezca igual que ayer. Los cafés abren. El Matrasy silba en sus vías magnéticas. Los porteros barren las entradas de los edificios de lujo. Un hombre murió esta mañana entre mandarinas aplastadas y la ciudad ni siquiera parpadeó, porque la ciudad está diseñada para no parpadear, porque la prosperidad es precisamente eso: un párpado que no se cierra nunca para no tener que ver.
 
-Piggy está a tres metros de distancia cuando sucede.
+Piggy no ha comido. No ha dormido. En algún lugar del pecho lleva un dolor del tamaño de un viejo, y lo lleva como se lleva un órgano nuevo: sin saber todavía cómo funciona, sabiendo solamente que de ahora en adelante todo va a pasar a través de él.
 
-Escucha el golpe sordo del cuerpo contra el suelo. Ve las mandarinas rodar en todas direcciones, pequeños soles naranjas esparciéndose por el piso del mercado. Corre hacia Pietro, se arrodilla, le toma el pulso, le grita cosas que no recuerda.
+No va a llorar hoy. Lo sabe con la certeza con que se saben las cosas del cuerpo. El llanto es un lujo del que sobrevive, y él todavía no sabe si va a sobrevivir a lo que sigue.
 
-Pero Pietro ya no está.
+Frente a él, a veinte cuadras, la torre donde vive Dirk Newman enciende sus primeras luces.
 
-Sus ojos miran hacia arriba, hacia un cielo que no puede ver desde el interior del mercado. Su boca está ligeramente abierta, como si hubiera querido decir algo y el tiempo se le hubiera acabado antes de encontrar las palabras.
-
-Piggy no llora.
-
-No puede.
-
-El shock lo congela en un limbo donde las emociones existen pero no llegan. Solo después, cuando los paramédicos se llevan el cuerpo y los otros vendedores murmuran condolencias que suenan huecas, Piggy siente el peso de lo que acaba de perder.
-
-Nunca le explicó nada.
-
-Nunca le dijo de dónde venía, por qué estaba ahí, qué significaba para él cada mandarina pelada, cada consejo silencioso, cada mañana donde Pietro le enseñaba a sobrevivir sin pedirle nada a cambio.
-
-Nunca le dio las gracias.
+Y entre él y la torre, parado en medio de una azotea vacía con las manos en los bolsillos, está Henry.
 
 ---
 
-El mercado cierra temprano ese día.
+—Sabía que vendrías por aquí —dice Henry, sin sacar las manos de los bolsillos—. Tres rutas posibles hacia esa torre a esta hora. Las otras dos tienen patrullas. Tú ya no evitas patrullas: las atraviesas. Pero atravesarlas te cuesta minutos, y hoy no estás dispuesto a perder minutos. Así que: esta azotea.
 
-Piggy se queda solo entre los puestos vacíos, con el olor a fruta madura y el eco de una vida que ya no está. La habitación donde dormía —arriba del puesto de Pietro— ahora le parece un ataúd. Las paredes lo miran con reproche.
+Piggy frena la Hashboard. El viento de la mañana les mueve la ropa a los dos.
 
-Piensa en Hiroshi. En Eddy. En el bloque 218 y la guerra que dejó atrás. Piensa en todo lo que no pudo decir y en todo lo que nunca podrá recuperar.
+—Quítate.
 
-Y entonces, por primera vez desde que llegó a este tiempo, Piggy toma una decisión sin calcular las consecuencias.
+—No.
 
-Va a enfrentar a Dirk Newman.
+—Hoy no, Henry.
 
-No para negociar. No para pedir explicaciones. No para buscar un camino pacífico de regreso.
+—Hoy exactamente —dice Henry, y por primera vez saca las manos de los bolsillos—. Un fugitivo con un arma prohibida, en fuga de un operativo donde murió un civil. Ya no eres una verificación, eres un caso. Y los casos se cierran.
 
-Va a enfrentarlo porque ya no tiene nada que perder.
+El antebrazo derecho de Henry empieza a facetarse, los polígonos escalando desde la muñeca hasta el hombro con un brillo de diamante sucio. Esta vez también el pecho. Esta vez también la mandíbula.
 
----
+—El viejo del mercado —dice Piggy, muy despacio— murió por un empujón de ustedes.
 
-Piggy conoce la rutina de Dirk mejor que la suya propia.
+—Lo sé. Leí el reporte en el camino. —Henry rueda el cuello, un crujido seco—. "No era el objetivo". Redacción de cobardes. Si vas a romper una vida, firma. Yo firmo todo lo que rompo.
 
-Sabe que sale de zPace a las siete de la tarde. Sabe que camina tres cuadras hasta un café donde pide siempre lo mismo. Sabe que después sube a su departamento, escribe sin éxito, y luego hace su ritual: la silla, la respiración, los hilos.
+Y se lanza.
 
-Esta noche, Piggy no se esconde.
+Lo que sigue no es la pelea de la calle comercial. Aquella vez Henry medía; ahora termina. Cada golpe llega con la masa de un vehículo y la precisión de un cirujano, y Piggy entiende en los primeros tres segundos que no puede ganar esto: solo puede pagarlo. Bloquea con la Hashboard y el impacto lo entierra dos centímetros en el concreto de la azotea. Esquiva, y la ráfaga del puño que no lo tocó le abre la ceja. La armadura facetada brilla más con cada intercambio, más brillo más duro, y Piggy sangra sobre su propia tabla mientras retrocede hacia el borde del edificio.
 
-Espera en la azotea del edificio frente al de Dirk, con su Hashboard desplegada y el corazón latiendo como un tambor de guerra. El sol se ha puesto hace horas. La ciudad brilla debajo como un mapa de estrellas invertido.
+Pero hay algo distinto en Piggy hoy. Henry lo nota a la mitad del combate, y el notarlo le cuesta el primer golpe limpio que recibe en años: el muchacho parpadea. No con los ojos — con el cuerpo. Por instantes demasiado breves para medirlos, la silueta de Piggy pierde volumen, se aplana, deja pasar la luz. El puño de Henry atraviesa uno de esos parpadeos y no encuentra nada, y la Hashboard, convertida en espada en algún momento que Henry no vio, le dibuja una línea de calor en las costillas, en el único ángulo donde la armadura todavía no había escalado.
 
-A las nueve y cuarenta y tres minutos, las luces del departamento de Dirk se encienden.
+Henry retrocede un paso. Se toca el corte. Mira la sangre con genuina curiosidad, como un geólogo miraría una piedra imposible.
 
-Piggy respira hondo.
+—Eso de parpadear —dice— no lo hacías la semana pasada.
 
-Y salta.
+—La semana pasada tenía algo que perder.
 
----
+Se miran. En la torre lejana, más luces se encienden.
 
-La ventana estalla hacia adentro como una boca que se abre de golpe.
+Y Henry hace algo que ningún reporte va a registrar, algo que él mismo tardará años en explicarse, hasta que la vida se lo cobre y se lo explique de vuelta: mira al muchacho sangrante que parpadea entre la carne y la luz, mira la torre del hombre más poderoso de Sailor Capital, hace la aritmética completa de quién rompió qué y quién firmó qué —
 
-Dirk, sentado en su silla con los ojos cerrados y los hilos comenzando a brotar de sus uñas, abre los ojos de golpe. Por un segundo —solo un segundo— hay miedo genuino en su mirada.
+y da un paso a un lado.
 
-Luego, reconocimiento.
+—Los minutos que te ahorré —dice, mientras Piggy pasa junto a él— no son un favor. Son un préstamo.
 
-—Tú —dice Dirk, y la palabra suena como una sentencia.
-
-Piggy aterriza en medio de la sala, con la Hashboard transformada en espada. Atena ladra frenéticamente desde una esquina, pero no ataca. Algo en la postura de Piggy le dice que este no es momento para juegos.
-
-—Tú me trajiste aquí —dice Piggy, y su voz es más firme de lo que esperaba—. Tus hilos me arrancaron de mi tiempo. Me robaron mi vida. Me robaron a mi hermano.
-
-Dirk se levanta lentamente. Los hilos que brotaban de sus uñas se han detenido, pero no han desaparecido. Flotan a su alrededor como serpientes esperando una orden.
-
-—No fue intencional —dice Dirk, con esa calma que Piggy ha aprendido a odiar—. Los hilos pescan al azar. Tú eras... un accidente.
-
-—Un accidente que has estado cazando desde entonces.
-
-Dirk no lo niega.
-
-—Eres una amenaza para todo lo que he construido. Una variable que no puedo controlar. ¿Esperas que te ignore?
-
-Piggy aprieta la espada.
-
-—Espero que me devuelvas a mi tiempo.
-
-Dirk ríe, pero es una risa sin alegría.
-
-—No funciona así. Los hilos extraen. No devuelven. Lo que pescas, lo pescas para siempre.
-
-—Entonces encontraré otra forma.
-
-—No hay otra forma.
-
-El silencio entre ellos es denso, cargado de electricidad. Afuera, la ciudad sigue brillando, ignorante del enfrentamiento que ocurre en este departamento alto.
-
-Dirk da un paso hacia adelante.
-
-—Podría matarte ahora mismo. Sería lo más fácil. Lo más limpio. Pero tengo curiosidad: ¿qué eres exactamente? ¿De dónde vienes? ¿Qué hay en el futuro que mis hilos consideraron valioso?
-
-Piggy no responde. En cambio, ataca.
+Piggy no contesta. Ya es una línea de luz sobre los tejados.
 
 ---
 
-La pelea no es elegante.
+Dirk Newman no está meditando.
 
-Es brutal, desesperada, sucia.
+Esa es la primera sorpresa. Piggy conocía la rutina al minuto: la copa, la página en blanco, la silla al centro de la sala, el trance, los hilos. Pero esta noche —esta mañana— Dirk está de pie junto a su escritorio, vestido, despierto, con Atena tensa a su lado, y sobre el escritorio la computadora está encendida con la novela abierta, el capítulo fresco todavía sin guardar.
 
-Piggy tiene velocidad y determinación, pero Dirk tiene experiencia y poder. Los hilos se extienden como látigos, intentando atrapar a Piggy, envolverlo, drenarlo. Piggy los corta con la espada, pero por cada hilo que cae, dos más aparecen.
+Porque Dirk lo sintió venir. Lleva meses sintiéndolo venir. La paranoia, cuando se confirma, se parece muchísimo a la lucidez.
 
-La sala se destruye en segundos. Muebles volteados, cristales rotos, libros esparcidos como pájaros muertos. Atena huye hacia otra habitación, aullando de terror.
+La ventana no estalla esta vez. Piggy entra por donde entró la primera vez, aterrizando sobre la misma alfombra pálida donde una noche cayó aplanado como una impresión húmeda, y por un instante los dos hombres se miran a través de esa simetría: el mismo cuarto, la misma alfombra, el mismo desconocido. Solo que ya nadie es desconocido.
 
-Piggy logra conectar un golpe —la espada roza el brazo de Dirk, dibujando una línea roja—, pero el costo es alto: tres hilos lo atrapan por la pierna y lo lanzan contra la pared.
+Atena estalla en ladridos, feroz, hermosa.
 
-El impacto le saca el aire.
+Dirk levanta un dedo.
 
-Dirk se acerca, con los hilos moviéndose a su alrededor como una corona viva.
+Un solo dedo, sin mirarla. Y la perra calla y retrocede hasta la otra habitación con las orejas bajas, porque hay tonos del silencio de un amo que un animal entiende mejor que cualquier palabra: este no es un peligro del que puedas defenderme.
 
-—Eres fuerte —admite—. Más de lo que esperaba. Pero no puedes ganar. Mis hilos se alimentan de energía vital. Cada segundo que peleas, te debilitas. Cada movimiento te acerca a la derrota.
+—Tú —dice Dirk. Y no es pregunta.
 
-Piggy intenta levantarse, pero los hilos lo mantienen contra el suelo. Siente cómo drenan algo de él —no dolor exactamente, sino vitalidad, como si le robaran el color del alma.
+Piggy no responde de inmediato. Sus ojos han caído sobre el escritorio, sobre la pantalla encendida, sobre el párrafo fresco que corona la página. Y lo lee. En medio de todo, con las costillas rotas y el viejo muerto y la espada en la mano, lo lee — porque lleva meses espiando a un hombre que borra todo lo que escribe, y esta es la primera página que ha sobrevivido:
 
-—Matar no es lo que quiero —continúa Dirk—. Prefiero entender. Dime qué hay en el futuro. Dime por qué mis hilos te eligieron.
+*"El problema del hombre que construye con lo que no es suyo no es la construcción. La construcción puede ser hermosa; suele serlo. El problema es que llega un día en que ya no recuerda que hubo un préstamo, porque nadie a su alrededor lo recuerda tampoco, porque la ciudad entera está edificada sobre el olvido compartido. Esta es, el autor lo sospecha, la forma más elegante de la soberbia: no la que se declara, sino la que ya no necesita declararse, porque se ha convertido en la condición natural del mundo que uno habita."*
 
-Piggy mira a Dirk a los ojos.
+Piggy levanta la vista de la pantalla.
 
-Y en ese momento, algo cambia.
+—¿Sabes de qué trata tu novela? —pregunta, con una calma que le sale de un lugar que no conocía.
 
----
+Dirk no mira la pantalla. Mira a Piggy.
 
-Piggy recuerda la noche que cortó el núcleo de los hilos.
+—Ilumíname.
 
-Recuerda cómo su cuerpo brilló, cómo se sintió más ligero que el aire, cómo por un instante dejó de ser materia y se convirtió en... otra cosa.
+—Yo vengo de lo que viene después de ti.
 
-Energía pura.
+El silencio que sigue tiene textura. Dirk lo sostiene como sostiene todo: con la compostura de un hombre que ha ganado cada conversación de su vida adulta. Sonríe apenas, un movimiento de política fina, y abre las manos en un gesto razonable.
 
-Datos.
+—Lo que venga después de mí —dice— será próspero gracias a mí. He dado a esta ciudad la mejor era de su historia. Sé lo que eres, o lo intuyo: un accidente de mi don. Lamento tu situación, genuinamente. Pero no aceptaré el juicio de un aparecido por el crimen de haber traído abundancia—
 
-Una firma digital que podía moverse a velocidades imposibles.
+—¡Tomaste algo que no te pertenece, ladrón!
 
-Ahora, atrapado por los hilos de Dirk, siente esa misma posibilidad pulsando en su interior. Como si su cuerpo supiera algo que su mente aún no ha comprendido.
+La palabra cruza el departamento como una piedra. No hay argumento en ella, no hay prueba, no hay jurisprudencia: hay un muchacho de otra época con la voz rota gritándole a un hombre en su propia sala la única palabra que ese hombre no puede refutar. Porque Dirk ha revisado esa acusación en las noches, con más rigor que cualquier fiscal, y sabe — es lo único que sabe con total certeza — que no tiene respuesta. Solo tiene retórica. Y la retórica, frente a un acreedor, es papel.
 
-*"Puedo digitalizarme"*, piensa. *"Puedo convertirme en lo que soy cuando uso la Hashboard al máximo."*
+Algo cambia en la cara de Dirk. La compostura no se cae: se aparta, como se aparta una cortina.
 
-Pero nunca lo ha hecho completamente. Siempre ha sido parcial, momentáneo, instintivo. Hacerlo ahora, rodeado de hilos que drenan energía, sería un riesgo absurdo.
+—Fuera de mi casa —dice, muy bajo.
 
-Pero Piggy ya no tiene nada que perder.
-
-Cierra los ojos.
-
-Y se suelta.
+Y de sus uñas salen los hilos.
 
 ---
 
-Dirk ve cómo el cuerpo de Piggy comienza a brillar.
+No es el ritual lento de las noches. Es una erupción: diez, veinte, cincuenta hilos blancos que llenan la sala como raíces creciendo en cámara rápida, y todos van hacia Piggy. Dirk no los usa para pescar esta vez. Los usa como látigos, como lanzas, como manos.
 
-Al principio piensa que es un truco, una distracción. Pero el brillo aumenta, se intensifica, y de repente el joven que tenía atrapado ya no es carne y hueso.
+Piggy corta. La Hashboard canta en su forma de espada y los hilos caen a pares, pero por cada uno que cae brotan dos, y cada roce le cobra: siente el drenaje como un frío que no viene del aire, la vitalidad saliéndose de él en hebras. La sala se destruye por segunda vez en su historia. Los libros vuelan como pájaros muertos. Y Dirk avanza detrás de sus hilos con los ojos de un hombre que ha decidido no volver a tener miedo nunca, y para eso necesita que el miedo deje de existir.
 
-Es luz.
+Concentra la mitad de los hilos en una sola formación —una lanza trenzada, gruesa como un brazo, blanca como todo lo robado— y la lanza al pecho de Piggy con todo lo que tiene.
 
-Es código.
+Y Piggy hace lo que aprendió esta mañana en una azotea, pagando con sangre la lección: parpadea.
 
-Es algo que los hilos no pueden sujetar.
+El cuerpo se le vuelve luz a medias, la lanza de hilos lo atraviesa sin encontrarlo — y el impulso completo del ataque, toda esa energía robada y trenzada y lanzada, sigue de largo, choca contra el ventanal, rebota en el marco reforzado y regresa.
 
-—¿Qué...? —empieza Dirk, pero no termina la frase.
+Dirk alcanza a girar el torso.
 
-Piggy, ahora completamente digitalizado, se mueve a través de los hilos como agua a través de una red. No los corta: los atraviesa. Los hilos intentan cerrarse sobre él, pero solo atrapan vacío.
+No alcanza a retirar la mano.
 
-Y entonces Piggy hace algo que ni él mismo esperaba.
+El estallido es blanco y breve. Cuando el aire se aclara, Dirk Newman está de rodillas en el centro de su sala arruinada, agarrándose el brazo derecho, y el brazo derecho termina antes de tiempo: donde estaba la mano —la mano de las uñas, la mano de los hilos, la mano que escribía y firmaba y pescaba futuros— hay un muñón quemado que los propios hilos moribundos cauterizan en espasmos, como sirvientes vendando a su amo con lo que queda de ellos.
 
-Entra en los hilos.
+Dirk no grita.
 
-No los corta. No los esquiva. Se fusiona con ellos.
+Eso es lo que Piggy se llevará de él, la imagen final: el hombre más poderoso de Sailor Capital arrodillado entre sus libros rotos, blanco de dolor, mirándose el brazo incompleto sin emitir un solo sonido, porque hasta en la mutilación hay una compostura que mantener, porque el silencio es lo último que le queda de su imperio.
 
-Y los hilos, que siempre han sido canales de extracción, se convierten por un instante en canales de transporte.
+Los hilos supervivientes flotan sueltos por la sala, sin dirección, como cabellos en agua.
 
----
+Y Piggy entiende que esta es la única puerta que existe.
 
-Dirk siente el tirón.
+Corre. Salta. Y en lugar de cortar los hilos, se digitaliza dentro de ellos — la luz completa esta vez, sin parpadeo, el cuerpo entero traducido a aquello que los hilos saben transportar. Siente el canal abrirse a su alrededor como una garganta. Siente el tirón del otro extremo, el lejano, el suyo.
 
-Es como si algo arrancara un pedazo de su poder, lo invirtiera, lo usara en su contra. Los hilos gritan —no con sonido, sino con sensación— mientras Piggy viaja a través de ellos hacia su punto de origen.
+Lo último que ve del Bloque 99, pixelado y ardiendo en el borde de su visión, es a Dirk Newman levantando la cabeza desde el suelo para verlo desaparecer — y en los ojos del hombre ya no hay cálculo, ni política, ni compostura.
 
-Hacia el futuro.
+Hay una sola pregunta, la que va a envejecerlo más que la mano perdida:
 
-Hacia el bloque 218.
+*¿A dónde fue?*
 
-Dirk intenta detenerlo. Concentra toda su voluntad en cerrar los canales, en cortar la conexión. Pero es demasiado tarde. Piggy ya está en movimiento, y los hilos, por primera vez en la vida de Dirk, no obedecen.
-
-El último fragmento de luz desaparece.
-
-Y Dirk se queda solo en su departamento destruido, con la sangre goteando de su brazo y un vacío en el pecho que no es físico.
-
-Atena sale de su escondite, temblando, y se acerca a lamer la mano de su dueño.
-
-Dirk no la mira.
-
-Solo mira el punto donde Piggy desapareció.
-
-Y por primera vez en años, Dirk Newman siente miedo real.
-
-No miedo de perder poder.
-
-No miedo de ser descubierto.
-
-Miedo de que el futuro —ese futuro que ha estado drenando para alimentar su prosperidad— finalmente venga a cobrar la cuenta.
+Dirk no lo sabe. No lo va a saber. Va a pasar el resto de su era mirando el punto de la sala donde el futuro se lo tragó, esperando el cobro.
 
 ---
 
-En algún lugar que no es lugar, en un tiempo que no es tiempo, Piggy viaja.
+El tránsito no tiene suelo ni arriba.
 
-Los hilos lo arrastran como una corriente, pero esta vez él no es pasajero: es piloto. Siente cómo su cuerpo digitalizado se estira, se comprime, se traduce en algo que puede cruzar las barreras entre bloques.
+Piggy viaja por dentro de los hilos como una nota por una cuerda, y en ese lugar que no es lugar, en ese tiempo que no cuenta como tiempo, finalmente no hay nada que hacer. Nada que pelear. Nadie que lo vea.
 
-Ve fragmentos.
+Y entonces sí.
 
-Imágenes que pasan demasiado rápido para comprenderlas.
+El dolor lo alcanza ahí, en la garganta blanca entre las épocas, donde llorar no deja evidencia. Piensa en la mandarina pelada de cada mañana. En la cicatriz como un río seco. En "perdiste bonito, eso es más raro que ganar". En el tablero bajo la bota, en Bobby de rodillas, en la revancha que quedó pendiente para siempre en la única casilla del universo donde nada puede pagarse.
 
-Sailor Capital en llamas. Edificios que se mueven como barcos. Criaturas marinas que caminan sobre dos patas. Rostros que reconoce y rostros que no.
+Fragmentos de mundo pasan a su alrededor, demasiado rápido: Sailor Capital en llamas. Ciudades que caminan. Criaturas marinas erguidas sobre dos patas. Rostros que conoce, envejecidos de más.
 
-Y entonces, tan repentinamente como empezó, el viaje termina.
+Envejecidos de más.
 
-Piggy cae.
+Algo está mal con el tiempo. Lo siente como se siente un escalón que falta en la oscuridad —
 
-No sobre una alfombra pálida en un departamento de lujo.
-
-Sobre escombros.
-
-Sobre ceniza.
-
-Sobre lo que queda de un mundo que ya no reconoce.
-
-Abre los ojos.
-
-El cielo está gris, cargado de humo. A lo lejos, algo enorme se mueve: una estructura metálica que parece una ciudad entera desplazándose sobre ruedas gigantes.
-
-No hay hilos en este cielo.
-
-No hay prosperidad.
-
-Solo ruinas.
-
-Piggy se levanta, temblando, y mira a su alrededor.
-
-Está de vuelta.
-
-Bloque 218.
-
-Pero el bloque 218 ya no es lo que dejó.
+y entonces el canal se acaba, y el mundo vuelve a tener suelo, y el suelo es ceniza.
 
 ---
 
 [next_chapter →](../12/index.md)
-

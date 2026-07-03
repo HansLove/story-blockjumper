@@ -2,57 +2,41 @@
 
 La ciudad se mueve como un animal dormido.
 
-Desde la distancia, Piggy puede ver su silueta recortada contra las montañas: una plataforma masiva de metal y concreto, con edificios de diferentes alturas que parecen haber crecido orgánicamente sobre la estructura base. Chimeneas exhalan humo negro. Antenas de comunicación giran buscando señales. Y debajo de todo, ruedas del tamaño de casas que giran lentamente, impulsando a La Constante hacia el norte.
+Desde la distancia, Piggy la ve recortada contra las montañas: una plataforma masiva de metal y concreto donde los edificios crecieron unos sobre otros como corales, sin plan y con toda la lógica del mundo. Chimeneas exhalando humo negro. Antenas girando en busca de señales. Y debajo de todo, ruedas del tamaño de casas girando tan despacio que el movimiento solo se nota si uno mira las montañas de fondo y las ve, milímetro a milímetro, quedarse atrás.
 
-Piggy reduce la velocidad de su Hashboard al acercarse.
+La Constante. El nombre es una declaración de principios: en un mundo donde todo lo fijo murió, la única permanencia posible es el movimiento perpetuo. Alguien con un sentido del humor muy particular bautizó así a una ciudad que no se detiene nunca — y Piggy apostaría los dos caballos de madera que lleva en el pecho a que ese alguien fue su hermano.
 
-Ha viajado dos días sin descanso, deteniéndose solo para beber agua de arroyos contaminados y comer lo que encontraba en las ruinas. Su cuerpo está agotado, pero su mente está más despierta que nunca.
+Al acercarse al perímetro, tres figuras descienden en cables de acero y aterrizan frente a él con las armas listas. Uniformes grises, un símbolo que no reconoce: un círculo con una línea horizontal atravesándolo. El horizonte. Claro.
 
-Al llegar al perímetro de la ciudad, es interceptado.
+—Identifícate —ordena la del centro, una mujer con cicatrices en la mejilla y la mirada económica de los francotiradores—. Nombre, afiliación, propósito.
 
-Tres figuras descienden de la plataforma en cables de acero, aterrizando frente a él con armas listas. Llevan uniformes grises con un símbolo que Piggy no reconoce: un círculo con una línea horizontal atravesándolo.
+Piggy deja la Hashboard flotando a su lado y levanta las manos.
 
-—Identifícate —ordena el del centro, una mujer con cicatrices en la mejilla y ojos que no parpadean—. Nombre, afiliación, propósito.
+—Me llamo Piggy. No tengo afiliación. Vengo a buscar a Hiroshi Bankz.
 
-Piggy levanta las manos lentamente, dejando la Hashboard flotar a su lado.
+La mujer no reacciona. Los otros dos sí — un cruce de miradas que dura menos de un segundo y dice más que un archivo.
 
-—Me llamo Piggy. No tengo afiliación. Vengo a buscar a Hiroshi Bancs.
+—¿Piggy? —repite ella—. ¿*El* Piggy?
 
-La mujer no reacciona, pero los otros dos intercambian miradas.
+—No sé qué Piggy conocen ustedes. Yo soy su hermano.
 
-—¿Piggy? —repite ella—. ¿El Piggy?
-
-—No sé qué Piggy conocen ustedes, pero sí. Soy hermano de Hiroshi.
-
-El silencio dura tres latidos.
-
-Luego la mujer baja su arma.
+El silencio dura tres latidos. En una ciudad de guerra, tres latidos es una deliberación completa.
 
 —Síguenos.
 
 ---
 
-El interior de La Constante es un laberinto de pasillos estrechos, escaleras que suben y bajan sin lógica aparente, y puertas que dan a espacios que parecen imposibles. Piggy ve talleres donde se reparan armas, hospitales improvisados donde médicos trabajan bajo luz artificial, escuelas donde niños aprenden a leer mapas de rutas de escape.
+El interior de La Constante es un organismo.
 
-Es una ciudad que vive preparándose para morir.
+Pasillos estrechos que suben y bajan sin lógica aparente pero con lógica profunda — todo converge, tarde o temprano, en las arterias centrales. Talleres donde se reparan armas con piezas de tres guerras distintas. Hospitales bajo luz artificial. Escuelas donde los niños aprenden a leer con mapas de rutas de evacuación, porque aquí hasta el alfabeto es un plan de escape.
 
-Y sin embargo, hay vida.
+Es una ciudad que vive preparándose para morir. Y sin embargo hay vida — no a pesar del miedo sino encima de él, como la vegetación sobre las ruinas. Risas en algunas esquinas. Música saliendo de un cuarto. Una pareja caminando de la mano con esa lentitud desafiante de los enamorados en tiempos imposibles, como diciéndole a la guerra: tú tendrás el mundo, pero esta hora es nuestra.
 
-Hay risas en algunas esquinas. Hay música en algunos cuartos. Hay parejas que caminan tomadas de la mano, como si el amor fuera posible incluso aquí.
-
-Los guardias lo llevan hacia el centro de la ciudad, donde los edificios son más altos y las calles más anchas. Ahí, en una plaza que alguna vez fue el corazón de una ciudad que ya no existe, hay un edificio diferente a los demás.
-
-No es grande, pero está bien construido. Tiene ventanas de cristal verdadero, no plástico improvisado. Y sobre la puerta, un letrero simple:
-
-**COMANDO CENTRAL**
-
-La mujer de las cicatrices se detiene.
+Los guardias lo llevan al centro, donde una plaza sobrevive en el corazón de la plataforma, y en la plaza, un edificio con ventanas de cristal verdadero y un letrero sin adornos: COMANDO CENTRAL.
 
 —Espera aquí.
 
-Entra al edificio. Piggy espera.
-
-Los minutos pasan como horas.
+Los minutos pasan como años. Piggy, que acaba de perder diez de un golpe, los cuenta todos.
 
 Y entonces la puerta se abre.
 
@@ -60,169 +44,143 @@ Y entonces la puerta se abre.
 
 Hiroshi ha envejecido.
 
-Es lo primero que Piggy nota. Las líneas en su rostro, el gris en sus sienes, la forma en que camina —todavía elegante, todavía con ese ritmo de bailarín, pero más lento, más cuidadoso, como alguien que ha aprendido que cada paso puede ser el último.
+Es lo primero que el ojo registra y lo último que el corazón acepta: las líneas del rostro, el gris ganando las sienes, la manera de caminar — todavía elegante, todavía con ritmo de bailarín, pero un ritmo más lento, más administrado, el de un hombre que aprendió que cada paso se factura.
 
-Hiroshi se detiene a tres metros de Piggy.
+Hiroshi se detiene a tres metros. Lo mira. Y durante un momento que se estira hasta doler, ninguno de los dos habla, porque los dos están haciendo la misma cuenta imposible: uno mira a un hermano que no envejeció, el otro a un hermano que envejeció por los dos.
 
-Lo mira.
+Luego Hiroshi cierra la distancia y lo abraza.
 
-Y durante un momento que se estira hasta el infinito, ninguno de los dos habla.
+Es un abrazo que duele — de esos que aprietan como comprobando que el otro es sólido, que no es otro sueño de los malos. Piggy siente las lágrimas de su hermano antes que las propias, y eso también es nuevo: el Hiroshi de la trinchera no lloraba, no podía permitírselo, era el muro de todos. Diez años de mando le enseñaron, por lo visto, que los muros también se agrietan, y que un comandante que no sabe llorar termina costándole a su gente algo peor que las lágrimas.
 
-Luego Hiroshi cierra la distancia y abraza a su hermano.
+—Pensé que habías muerto —dice, con la voz rota—. Te buscamos meses. Años. No había rastro. Era como si te hubieras evaporado.
 
-Es un abrazo que duele. Un abrazo de diez años de ausencia, de luto, de esperanza abandonada y recuperada. Piggy siente las lágrimas antes de saber que está llorando.
+—Estuve lejos. Más lejos de lo que puedas imaginar.
 
-—Pensé que habías muerto —dice Hiroshi, con la voz rota—. Cuando cortaste los hilos y desapareciste... te buscamos durante meses. Años. Pero no había rastro. Nada. Era como si te hubieras evaporado.
+Hiroshi lo separa sin soltarle los hombros y lo estudia con ojos de comandante: las heridas de Henry a medio sanar, la ropa de otra época, la cara exacta que tenía hace diez años.
 
-—Estuve lejos —dice Piggy—. Más lejos de lo que puedes imaginar.
-
-Hiroshi se separa, pero mantiene las manos en los hombros de su hermano.
-
-—Cuéntame todo.
+—Cuéntamelo todo.
 
 ---
 
-La historia tarda horas en contarse.
+La historia tarda horas.
 
-Están en una habitación privada del Comando Central, con té caliente que Piggy no recuerda haber probado y mapas que no entiende cubriendo las paredes. Hiroshi escucha sin interrumpir, su rostro pasando por docenas de emociones: incredulidad, horror, comprensión, furia.
+Están en una habitación privada del Comando Central, con un té que Piggy no recuerda haber aceptado y mapas cubriendo las paredes. Hiroshi escucha sin interrumpir — otra novedad de la década — y su rostro va pasando por todas las estaciones: incredulidad, horror, comprensión, y al final una furia tan quieta que parece serenidad.
 
-Cuando Piggy termina —con la muerte de Pietro, la pelea con Dirk, el viaje de regreso a través de los hilos—, Hiroshi permanece en silencio durante un largo momento.
+Cuando Piggy termina — la alfombra de Dirk, el juicio de la cabra, Pietro, la mano volada, el tránsito —, Hiroshi camina hasta la ventana y mira su ciudad moverse.
 
-—El bloque 99 —dice finalmente—. Todo viene del bloque 99.
+—El Bloque 99 —dice al fin—. Todo viene del Bloque 99.
 
 —Los hilos. Las bacterias. Los Ramons. Todo.
 
-—Y Dirk Newman es el origen.
+—Hemos estado peleando la guerra equivocada. —Lo dice sin drama, como quien corrige una coordenada—. Diez años tratando a los Ramons como la enfermedad. Y los Ramons son el síntoma. La enfermedad está en el pasado, cobrándonos con intereses.
 
-—Él o su poder. No sé si hay diferencia.
+—Y yo sé dónde vive —dice Piggy—. Sé cómo funciona su poder. Y sé que puedo volver a cruzar. Lo hice una vez desde su lado. Puedo aprender a hacerlo desde el nuestro.
 
-Hiroshi se levanta y camina hacia la ventana. Afuera, La Constante sigue moviéndose, indiferente a las revelaciones que se comparten en su interior.
+Hiroshi se vuelve. Hay algo en su cara que Piggy no le había visto nunca dirigido a él: cálculo. Su hermano menor acaba de dejar de ser alguien a quien proteger y se convirtió en un arma estratégica, y Hiroshi se odia un poco por la velocidad con que su cabeza hizo esa conversión.
 
-—Hemos estado peleando la guerra equivocada —dice Hiroshi—. Todos estos años, luchando contra los Ramons como si fueran el enemigo principal. Pero los Ramons son síntomas. La enfermedad está en el pasado.
+—¿Y hacer qué, exactamente?
 
-—Y ahora está en mi cabeza —dice Piggy—. Sé cómo funciona el poder de Dirk. Sé que sus hilos drenan el futuro para alimentar el presente. Y sé que puedo volver a usar esos hilos.
-
-Hiroshi se vuelve.
-
-—¿Qué quieres decir?
-
-—Puedo digitalizarme completamente. Lo hice para escapar de Dirk. Puedo viajar a través de los hilos. Puedo... puedo llegar hasta él.
-
-—¿Y hacer qué?
-
-Piggy no responde inmediatamente.
-
-Porque la respuesta que tiene en la cabeza es una que no quiere decir en voz alta.
+Piggy no responde de inmediato. Porque la respuesta que tiene dentro es una que no quiere decir en voz alta, no todavía, no frente a su hermano.
 
 *Matarlo.*
 
 ---
 
-La cena es en el comedor comunal.
+La cena es en el comedor comunal, porque Hiroshi insiste en que hay conversaciones que no deben tenerse con el estómago vacío.
 
-Hiroshi insiste en que Piggy coma algo real antes de seguir hablando de guerras y viajes en el tiempo. La comida es simple —estofado de algo que Piggy prefiere no identificar, pan duro, agua tratada—, pero después de días de sobrevivir con desperdicios, sabe a gloria.
-
-Mientras comen, Piggy observa a la gente de La Constante.
-
-Hay familias. Hay parejas. Hay ancianos que cuentan historias a niños que escuchan con ojos brillantes. Es fácil olvidar, en medio de la guerra, que la humanidad sigue siendo humana.
+La comida es simple — un estofado que Piggy prefiere no auditar, pan duro, agua tratada —, pero después de días de ruinas sabe a banquete. Alrededor, la gente de La Constante cena en mesas largas: familias, cuadrillas de mecánicos, ancianos contando historias a niños que escuchan con los ojos brillantes. Es fácil olvidar, entre el ruido de cucharas, que todo esto rueda sobre un mundo muerto.
 
 —¿Y Eddy? —pregunta Piggy—. ¿Sigue vivo?
 
-Hiroshi sonríe, pero es una sonrisa triste.
+La sonrisa de Hiroshi se tuerce.
 
-—Eddy está... diferente. Después de que desapareciste, algo cambió en él. Se volvió más agresivo. Más imprudente. Tomó riesgos que casi lo matan varias veces. Ahora lidera su propia facción, al sur. No hablamos mucho.
+—Eddy está... distinto. Cuando desapareciste, algo se le quebró. Se volvió más imprudente, más furioso. Tomó riesgos que casi lo matan, y cuando dejó de tomarlos fue peor: ahora lidera su propia facción en el sur, y no hablamos. No enemistados. Distanciados. La guerra hace eso: te acerca a extraños y te aleja de hermanos.
 
-—¿Están enemistados?
+Piggy mueve el estofado sin comerlo.
 
-—No enemistados. Solo... distanciados. La guerra hace eso. Te acerca a algunos y te aleja de otros.
+—¿Y Renji?
 
-Piggy asiente.
+Esta vez Hiroshi tarda más en responder, y la pausa tiene otra textura.
 
-Piensa en Pietro, que nunca supo nada de su pasado pero lo aceptó de todas formas.
+—Renji va y viene. —Elige las palabras con pinzas—. Pasa más tiempo en el agua que en tierra, últimamente. La guerra lo trata... distinto que a nosotros. Él la ve desde un lado que ni tú ni yo podemos ver. —Levanta la mano antes de que Piggy pregunte—. Es su historia. Te la va a contar él, cuando el agua lo devuelva. Siempre vuelve.
 
-Piensa en Dirk, que tiene el poder de un dios pero la fragilidad de un hombre asustado.
+Piggy conoce a su hermano mayor lo suficiente para saber cuándo una puerta está cerrada por respeto y no por secreto. La deja cerrada.
 
-Piensa en todo lo que ha perdido y en todo lo que todavía puede ganar.
-
-—Quiero ver a Eddy —dice—. Y quiero ver a los Sitters. Y quiero entender cómo funcionan los Ramons ahora.
+—Quiero ver a Eddy —dice en cambio—. Y a los Savens. Y quiero entender cómo funcionan los Ramons ahora.
 
 —¿Por qué?
 
-—Porque si voy a enfrentar a Dirk de nuevo, necesito saber exactamente qué estoy defendiendo. Y qué estoy dispuesto a sacrificar.
+—Porque si voy a volver al pasado a arrancar la raíz, necesito saber exactamente qué estoy defendiendo. Y qué estoy dispuesto a sacrificar.
 
-Hiroshi lo mira durante un largo momento.
+Hiroshi lo mira un rato largo por encima del vaso.
 
-—Te has vuelto diferente, hermanito.
+—Te has vuelto distinto, hermanito.
 
 —Tuve buenos maestros.
+
+Y piensa en una mano quemada, en una cicatriz como un río seco, y no dice más.
 
 ---
 
 Esa noche, Piggy sueña.
 
-Sueña con hilos blancos que se extienden hasta el infinito. Sueña con ojos que no parpadean. Sueña con Pietro cayendo entre mandarinas, con Dirk sentado en su silla de terciopelo, con Salino nadando en aguas oscuras mientras murmura "cuatro patas, cuatro patas".
+Sueña con hilos blancos que se extienden hasta el infinito. Con ojos que no parpadean. Con Pietro cayendo entre mandarinas, con Dirk arrodillado mirándose el brazo incompleto, con Salino nadando en aguas oscuras, paciente como una deuda.
 
 Sueña con un mundo que se parte en dos.
 
-Se despierta empapado en sudor, con el corazón latiendo como si hubiera corrido kilómetros.
+Despierta empapado, con el corazón a tambor, en un cuarto pequeño y limpio: cama, silla, una ventana que da al exterior de la ciudad móvil. Por el cristal se ven las estrellas — las mismas de siempre, giradas apenas, como si el tiempo también las hubiera empujado un poco.
 
-La habitación que le asignaron es pequeña pero limpia. Una cama, una silla, una ventana que da al exterior de la ciudad móvil. Por la ventana puede ver las estrellas —las mismas estrellas que veía en el bloque 99, pero desde un ángulo diferente, como si el tiempo las hubiera girado ligeramente.
+Ahí afuera, en algún lugar de este mundo destrozado, Salino lo busca desde hace diez años.
 
-Piggy se levanta y se acerca a la ventana.
+En algún lugar del pasado, Dirk Newman mira el punto de su sala donde el futuro se lo tragó.
 
-Ahí afuera, en algún lugar de este mundo destrozado, Salino lo busca.
+Y en algún lugar de su propio pecho, junto a dos caballos de madera, Piggy sabe que esto no va a terminar hasta que alguien muera.
 
-En algún lugar del pasado, Dirk tiene pesadillas sobre él.
+*Las manos que se queman no se olvidan del fuego*, decía el viejo. *Lo respetan.*
 
-Y en algún lugar de su propio corazón, Piggy sabe que esto no terminará hasta que alguien muera.
-
-*"Las manos que se queman no se olvidan del fuego"*, había dicho Pietro. *"Lo respetan."*
-
-Piggy mira sus manos.
-
-Todavía no están quemadas.
+Piggy se mira las manos. Todavía no están quemadas.
 
 Pero lo estarán.
 
 ---
 
-A la mañana siguiente, Hiroshi lo lleva a conocer a alguien.
+A la mañana siguiente, Hiroshi lo lleva a ver a alguien.
 
-Bajan a las entrañas de La Constante, donde las máquinas rugen y el calor es casi insoportable. Ahí, en un taller lleno de herramientas y piezas de repuesto, trabaja una figura que Piggy no esperaba ver.
+—Hay algo que no te dije anoche —dice mientras bajan a las entrañas de La Constante, donde las máquinas rugen y el calor aprieta—. No sabía cómo decírtelo. Mejor que lo veas.
 
-—¿Kenzo?
+Ahí, en un taller lleno de herramientas y piezas de repuesto, encorvado sobre un motor a medio destripar, trabaja un hombre que Piggy enterró en su memoria hace mucho más de diez años.
 
-Kenzo Toro levanta la vista de lo que está reparando. Tiene grasa en las manos y cansancio en los ojos, pero cuando ve a Piggy, algo se ilumina en su rostro.
+—¿Papá?
 
-—El hermano perdido —dice, con una media sonrisa—. Hiroshi me dijo que volviste, pero no lo creí hasta ahora.
+Kenzo "Lucky" Bankz levanta la vista de lo que está reparando.
 
-—¿Qué haces aquí? —pregunta Piggy—. Pensé que eras...
+Está más viejo de lo que la década justifica. Tiene grasa hasta los codos, el pelo completamente blanco, y esa forma de moverse de los hombres que trabajan para no pensar. Cuando ve a Piggy, la llave que sostiene se le queda quieta en la mano, y durante un momento largo el único sonido del taller es el rugido de las máquinas.
 
-—¿Un piloto famoso del bloque 99? —Kenzo ríe, pero no hay alegría en la risa—. Era. Hasta que mi hermano enloqueció y el gobierno me silenció. Tuve que elegir: callar y vivir cómodo, o hablar y perderlo todo.
+—Me dijeron que volviste —dice al fin, con la voz rasposa—. No les creí. La última vez que le creí a una buena noticia fue antes del oasis.
 
-—Elegiste hablar.
+No hay abrazo. No todavía. Entre Piggy y su padre hay una distancia más vieja que la guerra, hecha de años en que Lucky no estuvo donde sus hijos aprendían a pelear solos. Hiroshi lo encontró hace años, vagando por las ruinas del sur, y le dio lo que Lucky ya no esperaba de nadie: algo que reparar.
 
-—Elegí la verdad. Y la verdad me trajo aquí. —Kenzo se limpia las manos con un trapo—. Hiroshi me encontró hace años, vagando por las ruinas. Me dio un propósito. Ahora mantengo funcionando lo que queda de tecnología del viejo mundo.
+—¿Desde cuándo estás aquí? —pregunta Piggy.
 
-Piggy mira alrededor del taller. Hay piezas de Hashboards, fragmentos de sistemas de navegación, incluso lo que parece ser un motor del Matrasy.
+—Desde que tu hermano decidió que un mal padre podía ser un buen mecánico. —Lucky se limpia las manos con un trapo, sin dejar de mirarlo, como si temiera que dejar de mirarlo lo hiciera desaparecer otros diez años—. No me lo merecía. Casi nada de lo que tengo me lo merezco. Por eso me dicen Lucky.
+
+Piggy mira alrededor del taller. Hay piezas de Hashboards, fragmentos de sistemas de navegación, incluso lo que parece ser un motor del Matrasy rescatado de las ruinas.
 
 —¿Puedes construir cosas? —pregunta.
 
-—Puedo reparar casi cualquier cosa. ¿Por qué?
-
-Piggy piensa en los hilos. En la forma en que viajó a través de ellos. En la posibilidad de hacerlo de nuevo, pero mejor, más controlado.
+—Puedo reparar casi cualquier cosa. —Una pausa, y algo cruza la cara del viejo, mitad orgullo y mitad disculpa—. Menos lo que rompí yo. ¿Por qué?
 
 —Porque voy a necesitar algo que me permita viajar entre tiempos sin depender de Dirk. Y creo que tú puedes ayudarme a construirlo.
 
-Kenzo y Hiroshi intercambian miradas.
+Lucky y Hiroshi intercambian miradas.
 
-—Estás hablando de ingeniería temporal —dice Kenzo—. Eso es... eso es ciencia ficción.
+—Estás hablando de ingeniería temporal —dice Lucky—. Eso es... eso es ciencia ficción.
 
 —Era ciencia ficción —corrige Piggy—. Hasta que yo viví la realidad.
 
 El taller queda en silencio.
 
-Luego Kenzo sonríe, esta vez con genuino interés.
+Luego Lucky sonríe, y por debajo del pelo blanco y la culpa asoma por un segundo el hombre que sus hijos apenas conocieron: uno al que los problemas imposibles le brillaban en los ojos.
 
 —Cuéntame más.
 
@@ -230,75 +188,64 @@ Luego Kenzo sonríe, esta vez con genuino interés.
 
 Los días siguientes son un torbellino de planificación.
 
-Piggy comparte todo lo que sabe sobre los hilos, sobre la digitalización, sobre la forma en que su cuerpo se convirtió en energía pura. Kenzo toma notas, hace preguntas, dibuja diagramas que Piggy apenas entiende.
+Piggy comparte todo lo que sabe sobre los hilos, la digitalización, la forma en que su cuerpo se tradujo a luz. Lucky toma notas, hace preguntas, dibuja diagramas que Piggy apenas entiende. Hiroshi coordina recursos y mueve piezas en el tablero político de La Constante para que el proyecto tenga lo que necesita sin que la ciudad entera sepa qué está financiando.
 
-Hiroshi coordina recursos, asigna personal, mueve piezas en el tablero político de La Constante para asegurar que el proyecto tenga lo que necesita.
+Y mientras tanto, el mundo sigue girando sus malas noticias.
 
-Y mientras tanto, el mundo sigue girando.
+Del sur: los Ramons atacaron otra caravana. Veintisiete muertos.
 
-Llegan noticias del sur: los Ramons han atacado otra caravana. Veintisiete muertos. Suministros perdidos.
+Del este: una ciudad móvil menor, El Refugio, destruida por algo que los sobrevivientes describen igual, todos, con las mismas tres palabras — *un delfín que brillaba*.
 
-Llegan noticias del este: una ciudad móvil menor, llamada "El Refugio", fue destruida por algo que los sobrevivientes describen como "un delfín que brillaba".
+—Está buscándote —dice Hiroshi esa noche, sobre los mapas—. Desde que desapareciste. Pregunta por ti en cada ataque. Deja sobrevivientes a propósito, para que cuenten que pregunta.
 
-Salino.
+—¿Por qué tanto?
 
-Piggy siente el peso de ese nombre como una piedra en el estómago.
+—Venganza. Mataste a su maestro, cortaste los hilos, fuiste el símbolo de su peor noche. Y hay algo más, algo que no me gusta: los que lo han oído hablar dicen que ya no suena furioso. Suena *metódico*. La furia de diez años, cuando no se apaga, se convierte en otra cosa. En oficio.
 
-—Está buscándote —dice Hiroshi una noche, mientras revisan mapas en el Comando Central—. Desde que desapareciste, Salino ha estado obsesionado. Pregunta por ti en cada ataque. Deja sobrevivientes solo para que cuenten que te está buscando.
+Piggy recuerda la mirada del delfín aquella noche, memorizando rostros mientras su maestro caía.
 
-—¿Por qué?
-
-—Venganza. Tú mataste a su maestro. Tú cortaste los hilos. Tú eres el símbolo de todo lo que salió mal para los Ramons en aquella batalla.
-
-Piggy recuerda la mirada de Salino aquella noche. El odio puro. La promesa silenciosa de muerte.
-
-—Eventualmente nos encontraremos —dice Piggy.
+—Eventualmente nos encontraremos.
 
 —¿Y qué harás?
 
-Piggy no tiene una respuesta fácil.
-
-Porque sabe que cuando se enfrente a Salino, solo uno de los dos saldrá vivo.
+Piggy no responde. Porque la respuesta honesta es que cuando se encuentren, solo uno de los dos va a contarlo — y todavía no sabe si el que quiere ser él es el que sobrevive o el que merece sobrevivir, y esa diferencia, aprendió de un frutero, es toda la diferencia que hay.
 
 ---
 
 Al final de la primera semana, Piggy tiene un plan.
 
-No es un plan completo. Tiene agujeros, suposiciones, riesgos que podrían matarlo. Pero es un plan.
+No es un plan completo. Tiene agujeros, suposiciones, riesgos que podrían matarlo dos veces. Pero es un plan:
 
-Primero: construir un dispositivo que le permita digitalizarse de forma controlada, sin depender de los hilos de Dirk.
+Primero: aprender a digitalizarse a voluntad, sin depender de la desesperación.
 
-Segundo: entrenar su capacidad de permanencia digital, para poder moverse a voluntad entre estados.
+Segundo: construir con Lucky un ancla — algo que le permita cruzar entre tiempos sin los hilos de Dirk.
 
-Tercero: regresar al bloque 99 y destruir a Dirk antes de que su poder pueda seguir drenando el futuro.
+Tercero: volver al Bloque 99 y arrancar el problema de raíz.
 
-—Es un plan suicida —dice Hiroshi cuando Piggy se lo explica.
+—Es un plan suicida —dice Hiroshi cuando lo escucha completo.
 
-—Es el único plan que tengo.
+—Es el único que tengo.
 
-—Podrías quedarte aquí. Ayudarnos a pelear la guerra que tenemos enfrente.
+—Podrías quedarte. Ayudarnos a pelear la guerra de enfrente.
 
-Piggy niega con la cabeza.
+Piggy niega despacio.
 
-—Esta guerra nunca terminará mientras exista la fuente. Podemos matar a todos los Ramons del mundo, y seguirán naciendo más mientras Dirk siga pescando energía del futuro. La única forma de ganar es cortar el problema de raíz.
+—Esta guerra no termina mientras exista la fuente. Podemos ganar todas las batallas del mundo y seguiremos pagando la deuda de otros. La única forma de ganar es ir a donde se firmó.
 
-Hiroshi lo mira durante un largo momento.
-
-Y luego, despacio, asiente.
+Hiroshi lo mira largo. Y luego, despacio, asiente — el asentimiento de un comandante que aprueba la misión y de un hermano que la odia.
 
 —Entonces te ayudaremos. Pero prométeme una cosa.
 
 —¿Qué?
 
-—Que volverás. No importa lo que pase. Prométeme que esta vez volverás.
+—Que volverás. No importa lo que pase. Esta vez, prométeme que volverás.
 
-Piggy piensa en todas las promesas que no pudo cumplir. En Pietro, a quien nunca agradeció. En Santiago, que murió defendiendo un mundo que ya no existe.
+Piggy piensa en todas las promesas que quedaron sin pagar. En Pietro y la revancha. En Santiago envuelto en su chamarra azul. En "mañana sin falta".
 
 —Lo prometo —dice.
 
-Y espera, con todo su corazón, poder cumplirlo.
+Y aprieta, sin darse cuenta, los dos caballos que lleva en el bolsillo del pecho.
 
 ---
 
 [next_chapter →](../14/index.md)
-

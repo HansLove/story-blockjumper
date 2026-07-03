@@ -1,308 +1,181 @@
 # Fragmentos
 
-El taller de Kenzo huele a metal quemado y aceite.
+El taller de Lucky huele a metal quemado y aceite.
 
-Piggy está de pie en el centro, con las manos extendidas, respirando hondo. A su alrededor, instrumentos improvisados monitorean... algo. Lo que sea que sucede cuando un cuerpo humano se convierte en energía pura.
+Piggy está de pie en el centro, con las manos extendidas y los ojos cerrados, rodeado de instrumentos improvisados que monitorean... algo. Nadie sabe bien qué. Lucky construyó los sensores en tres noches con piezas de dos siglos distintos, y cuando Hiroshi le preguntó qué medían exactamente, el viejo respondió con la honestidad de los buenos mecánicos: "No sé. Pero cuando pase, van a sonar."
 
-Kenzo ajusta un sensor en el suelo, sin levantar la vista.
+—Cuando estés listo —dice Lucky, ajustando un sensor en el suelo sin levantar la vista.
 
-—Cuando estés listo.
+Piggy respira hondo.
 
-Piggy cierra los ojos.
+Recuerda la noche del departamento: el miedo, la desesperación, el cuerpo volviéndose luz sin pedirle permiso, como una reacción de supervivencia más vieja que él. Dos veces se ha digitalizado por completo, y las dos veces la vida se lo exigió. Ahora tiene que aprender a hacerlo sin que nadie lo esté matando — que es, descubre, infinitamente más difícil. El cuerpo entiende el peligro. Lo que no entiende es la fe.
 
-Recuerda la noche en el departamento de Dirk. El miedo. La desesperación. La forma en que su cuerpo brilló sin que él lo pidiera, como si fuera una reacción automática de supervivencia. Ahora necesita controlar eso. Necesita hacerlo a voluntad.
+Se suelta.
 
-Respira hondo.
+Al principio, nada. El zumbido de las máquinas, su propia respiración. Luego la sensación familiar: calor en las palmas, un hormigueo subiendo por los brazos, la sangre volviéndose electricidad de a poco.
 
-Y se suelta.
+Abre los ojos. Sus manos brillan — apenas, un resplandor de pantalla encendida en un cuarto oscuro. Pero es suyo. Convocado, no arrancado.
 
-Al principio no pasa nada. Solo el zumbido de las máquinas de Kenzo y su propia respiración. Luego, una sensación familiar: calor en las palmas, un hormigueo que sube por los brazos, como si su sangre estuviera siendo reemplazada por electricidad.
+—Bien —dice Lucky, sin dejar de revisar sus instrumentos, y solo el temblor mínimo del lápiz delata lo que le hace ver a su hijo volverse luz—. Ahora extiéndelo.
 
-Abre los ojos.
+Piggy se concentra. El brillo sube por los antebrazos, por los hombros. Se siente ligero, más ligero, peligrosamente ligero —
 
-Sus manos están brillando. No mucho, solo un resplandor tenue, como el de una pantalla encendida en la oscuridad. Pero es un comienzo.
+y pierde el control.
 
-—Bien —dice Kenzo, sin dejar de revisar sus instrumentos—. Ahora intenta... extenderlo. Al resto del cuerpo.
+El mundo estalla en blanco. Ya no hay cuerpo, no hay forma; hay pura sensación de velocidad y dirección, un moverse sin moverse — y de pronto está al otro lado del taller, materializándose contra la pared con un golpe que lo devuelve a la carne de la peor manera.
 
-Piggy se concentra. Piensa en la palabra "digitalización" como si fuera un interruptor, un botón que puede presionar cuando quiera. El brillo se extiende por sus antebrazos, sube por los hombros. Se siente ligero, como si estuviera perdiendo peso, como si su cuerpo estuviera dejando de ser sólido.
+Cae al suelo jadeando, el pecho ardiendo como después de correr kilómetros que no corrió.
 
-Y entonces pierde el control.
+—Eso... no salió bien.
 
-El mundo se desvanece en una explosión de luz blanca. Ya no tiene cuerpo, no tiene forma, no tiene nada excepto sensación: velocidad, movimiento, dirección. Se mueve sin moverse, atraviesa el aire como si fuera agua, y de repente está al otro lado del taller, materializándose contra una pared.
+Lucky se acerca y lo ayuda a sentarse.
 
-El impacto lo saca del estado digital instantáneamente.
+—Funcionó. Te digitalizaste completo, aunque fuera un segundo.
 
-Piggy cae al suelo, jadeando, con el pecho ardiendo como si hubiera corrido kilómetros.
+—Un segundo no me sirve de nada.
 
-—Eso... no salió bien —dice, con la voz quebrada.
-
-Kenzo se acerca, ayudándolo a sentarse.
-
-—Pero funcionó. Te digitalizaste completamente, aunque solo fuera por un segundo.
-
-—Un segundo —repite Piggy, frotándose el pecho donde golpeó la pared—. No puedo hacer nada útil en un segundo.
-
-—Ese primer intento con Dirk duró más. ¿Cuánto tiempo pasó desde que te digitalizaste hasta que apareciste aquí?
-
-Piggy piensa. Los hilos lo arrastraron, lo transportaron a través del tiempo. Ese viaje duró... no lo sabe. No había tiempo, no había espacio. Solo movimiento.
-
-—No sé. Pero cuando lo hice, estaba desesperado. Ahora estoy... calculando.
-
-—Ese es el problema. Estás pensando demasiado. La digitalización no es algo que pienses. Es algo que eres.
-
-Piggy se levanta, tambaleándose ligeramente.
-
-—Entonces, ¿qué sugieres?
-
-Kenzo lo mira con esos ojos cansados pero inteligentes.
-
-—Que lo intentes de nuevo. Pero esta vez, no pienses en digitalizarte. Piensa en que ya estás digitalizado. Que siempre lo has estado. Que tu cuerpo material es solo una ilusión temporal.
-
-Eso suena a filosofía barata, pero Piggy recuerda la sensación. Cómo cuando se digitalizó completamente, por un instante dejó de ser Piggy y se convirtió en... otra cosa. Datos. Código. Información pura.
+—Un segundo *a voluntad* vale más que una hora por accidente. —Lucky lo mira con esos ojos cansados que de pronto saben cosas—. ¿Sabes cuál es tu problema? Estás pensando demasiado. Piensas en digitalizarte como si fuera algo que haces. No lo es. Es algo que eres. Deja de tocar la puerta de tu propia casa.
 
 —¿Y si pierdo el control otra vez?
 
-—Entonces me materializo en una pared y aprendemos de eso también.
+—Entonces te materializas contra una pared y aprendemos de eso también. —El viejo se encoge de hombros—. Así reparo motores. Así se repara todo.
 
 ---
 
 La habitación donde Hiroshi guarda los archivos es pequeña y está llena de papel.
 
-No son documentos digitales ni pantallas. Son mapas desplegados en las paredes, cuadernos encuadernados a mano, dibujos hechos con carboncillo de criaturas que Piggy solo ha visto en sus peores pesadillas.
+No hay pantallas: hay mapas clavados a las paredes, cuadernos cosidos a mano, dibujos al carboncillo de criaturas que Piggy solo ha visto en sus peores noches. Diez años de guerra archivados con paciencia de monje, porque Hiroshi entendió temprano lo que la guerra le hizo al Bloque 218 una vez: la memoria es lo primero que muere, y hay que montarle guardia.
 
-Hiroshi está de pie frente a uno de los mapas, señalando puntos marcados con tinta roja.
+—Estos son los ataques de los últimos dos años —dice, señalando puntos de tinta roja—. Cada punto es una ciudad destruida, una caravana masacrada, un asentamiento que dejó de existir.
 
-—Estos son los ataques de los últimos dos años —dice—. Cada punto rojo es una ciudad destruida, una caravana masacrada, un asentamiento que simplemente dejó de existir.
+Piggy se acerca. Los puntos forman un patrón: se concentran en las costas, siguen los ríos, rodean los oasis. No es hambre. Es agrimensura.
 
-Piggy se acerca. Los puntos rojos forman un patrón: se concentran en las costas, siguen los ríos, rodean los oasis. Como si los Ramons estuvieran expandiendo su territorio de forma metódica, calculada, no aleatoria.
+—¿Siempre fueron así de metódicos?
 
-—¿Siempre fueron así? —pregunta—. ¿Tan organizados?
+—No. —La voz de Hiroshi carga la década entera—. Al principio eran salvajes. Bestias sin estrategia. Pero algo los hizo evolucionar, y rápido. Los primeros avistamientos fueron hace casi cien años: barcos desaparecidos, pescadores atacados, leyendas de puerto. Nadie les creyó a los pescadores. Nunca nadie les cree a los pescadores, hasta que el mar se organiza.
 
-—No —responde Hiroshi, y su voz tiene el peso de diez años de guerra—. Al principio, cuando aparecieron, eran salvajes. Bestias que atacaban sin estrategia, solo hambre y violencia. Pero algo cambió. Algo los hizo... evolucionar.
+Piggy piensa en un hombre bigotón y cansado vertiendo frascos en un retrete, y no dice nada. Hay culpas que no son de quien las carga, y esa lección también viene del Bloque 99.
 
-Piggy recuerda lo que aprendió en el bloque 99. Las bacterias. Los frascos. El drenaje. Ramón vertiéndolas al retrete.
+Hiroshi extiende dibujos sobre la mesa.
 
-—¿Cuánto tiempo pasó desde su origen hasta que empezaron a atacar?
-
-Hiroshi se sienta en una silla, frotándose los ojos.
-
-—Los primeros avistamientos fueron hace casi cien años. Pequeños incidentes al principio: barcos desaparecidos, pescadores atacados. La gente los llamó leyendas. Luego se volvieron más frecuentes. Y luego... bueno, ya sabes el resto.
-
-—Cien años.
-
-—Aproximadamente. Tiempo suficiente para que criaturas primitivas evolucionen en algo más. Algo peligroso.
-
-Hiroshi se levanta y camina hacia una de las mesas, donde hay dibujos apilados. Los toma y los extiende frente a Piggy.
-
-—Esta es su jerarquía, según lo que hemos podido observar. En la cima están Los Perlino. Realeza. Los vemos raramente, siempre protegidos, siempre en las profundidades. Luego están los Tilikums: guerreros de élite, como el que enfrentamos aquella noche.
-
-Piggy recuerda la orca antropomorfa. El tamaño, la fuerza, la inteligencia en sus ojos.
+—Su jerarquía, hasta donde sabemos. En la cima, los **Perlino**: la realeza. Se ven rara vez, siempre en las profundidades, siempre protegidos. Debajo, los **Tilikum**: la élite guerrera, como el que enfrentamos aquella noche. Y debajo de ellos, el resto: soldados, comerciantes, castas que apenas empezamos a distinguir. Los de agua dulce son distintos a los de mar. El ambiente los moldea como a nosotros nos moldeó el movimiento.
 
 —¿Y Salino?
 
-Hiroshi cambia de dibujo, mostrando uno de un delfín. Pero no es un delfín común. Sus proporciones son diferentes, más humanoide, y en el dibujo parece estar hecho de... polígonos. Formas geométricas simples, como si fuera un modelo digital mal renderizado.
+Hiroshi cambia de dibujo. Un delfín — pero mal, y el "mal" es lo que eriza: proporciones humanoides, y el trazo del carboncillo quebrado en facetas, como si el dibujante hubiera intentado retratar algo hecho de polígonos.
 
-—Salino es único. El único Ramon que hemos visto usar Hash. Puede digitalizarse, igual que tú. Por eso puede detectarte. Tu firma energética es como una huella para él.
+—Salino es único. El único Ramon que domina el Hash. Puede digitalizarse, igual que tú. Por eso puede rastrearte: tu firma es una huella, y él tiene el olfato. —Hiroshi golpea el dibujo con el dorso de los dedos—. Sabe tu cara. Sabe que cortaste los hilos. Sabe que su maestro cayó por ustedes. Diez años, Piggy. Hay hombres que en diez años olvidan a sus hijos. Él no olvidó una noche.
 
-—¿Cuánto sabe sobre mí?
+Piggy mira el retrato facetado. Dos seres en todo el universo comparten su don, y el otro lleva una década afilándolo con un solo propósito.
 
-—Sabe tu cara. Sabe que cortaste los hilos. Sabe que mataste a su maestro. Eso es suficiente para que te busque.
+—Hay algo más —dice Hiroshi, sacando un legajo de testimonios—. Hace cinco años, una patrulla Ramon interceptó a un grupo de comerciantes. Esperaban la masacre. Los Ramons... negociaron. Metales por comida. Información por suministros. Fue la primera vez que hablaron.
 
-Piggy mira los otros dibujos. Hipopótamos con forma humanoide. Cocodrilos que caminan en dos patas. Criaturas que no deberían existir, pero existen.
+Piggy hojea los testimonios: lenguaje, cultura, protocolo. Precios.
 
-—¿Todos los Ramons son... mutantes marinos?
+—Son conscientes.
 
-—La mayoría. Pero hay variaciones. Los que viven en aguas dulces son diferentes a los de agua salada. Los que están cerca de ciertas zonas tienen capacidades distintas. Es como si el ambiente los hubiera moldeado.
+—Completamente. Y ese es el problema de fondo: ya no peleamos contra animales. Peleamos contra una civilización que cree — con argumentos, Piggy, con *historia* — que el agua es suya y nosotros somos los invasores. —Hiroshi cierra el legajo—. Y lo peor de un enemigo con argumentos es el día en que te descubres entendiéndolos.
 
-Hiroshi toma otro archivo.
+—Y yo quiero volver al pasado a impedir que existan.
 
-—Y luego está esto.
-
-Abre el archivo. Son testimonios escritos a mano, fechados hace años.
-
-—Hace cinco años, un grupo de comerciantes se encontró con una patrulla Ramon. Esperaban ser masacrados. Pero los Ramons... negociaron. Les ofrecieron comercio. Metales por comida. Información por suministros. Por primera vez, los Ramons no atacaron. Simplemente... hablaron.
-
-Piggy lee los testimonios. Son increíbles. Los Ramons, criaturas que él siempre pensó como meras bestias, tienen lenguaje. Tienen cultura. Tienen estrategia.
-
-—¿Son conscientes?
-
-—Completamente. Y ese es el problema. Ya no estamos luchando contra animales. Estamos luchando contra una civilización que quiere nuestro territorio, nuestros recursos, nuestro mundo.
-
-Piggy cierra el archivo.
-
-—Y yo necesito volver al pasado para detener a Dirk, que es quien hizo que todo esto empezara.
-
-—Si es que puedes. Y si es que detener a Dirk realmente previene que los Ramons existan.
-
-—¿Crees que no lo hará?
-
-Hiroshi lo mira durante un largo momento.
-
-—Creo que el pasado ya pasó. Y creo que cambiar el pasado es más complicado de lo que piensas. Pero si hay una oportunidad, tienes que intentarlo.
-
-Piggy asiente.
-
-Se pregunta si cuando regrese al bloque 99, cuando enfrente a Dirk, entenderá realmente lo que está defendiendo. No solo su tiempo, no solo su mundo, sino la posibilidad de que algo como los Ramons nunca tenga que evolucionar.
+—Si es que puedes. Y si es que impedir a Dirk impide a los Ramons. —Hiroshi lo mira largo—. El pasado ya pasó, hermanito. Cambiarlo es más complicado de lo que crees. Pero si hay una puerta, alguien tiene que empujarla.
 
 ---
 
-El espacio abierto está en el techo de La Constante, una plataforma plana donde los mecánicos a veces trabajan bajo el sol. Ahora, al atardecer, está vacía.
+El espacio abierto está en el techo de La Constante: una plataforma plana donde los mecánicos trabajan bajo el sol cuando hay sol. Ahora, al atardecer, está vacía, y el viento de las montañas la barre entera.
 
-Piggy camina hasta el centro, sintiendo cómo la ciudad se mueve lentamente debajo de él. El viento sopla fuerte aquí arriba, y el horizonte se extiende infinitamente: ruinas, desierto, montañas en la distancia.
+Piggy camina hasta el centro, sintiendo la ciudad moverse debajo como un animal respirando.
 
-Respira hondo.
+Esta vez no piensa. No calcula. No toca la puerta de su propia casa.
 
-No piensa en digitalizarse. No calcula. Solo... se suelta.
+Se suelta.
 
-Esta vez es diferente. No hay miedo, no hay desesperación. Hay intención pura. El brillo comienza en sus palmas, pero esta vez se extiende más rápido, más suavemente. Se siente como quitarse una capa pesada, como si su cuerpo material fuera una armadura que finalmente puede dejar atrás.
-
-Se digitaliza completamente.
+El brillo empieza en las palmas y esta vez fluye, sube, envuelve — como quitarse una capa pesada, como si el cuerpo material fuera una armadura que por fin puede dejar en el suelo. Se digitaliza completo.
 
 Y por un instante, Piggy deja de existir como materia.
 
-Es código. Es información. Es energía que se mueve a velocidades imposibles. Puede ver el mundo como datos: las moléculas del aire, las ondas de luz, las vibraciones del sonido. Todo es matemática. Todo es patrón.
-
-Se mueve. No camina, no corre. Simplemente está en un lugar y luego en otro, diez metros más adelante, materializándose por un segundo antes de digitalizarse de nuevo.
+Es código. Es información. Es energía moviéndose a velocidades que la carne no tiene permitido soñar. Ve el mundo como datos: las moléculas del aire, las ondas de luz, el latido magnético de la ciudad debajo. Todo es matemática. Todo es patrón. Se mueve — no corre, no camina: está en un lugar y luego en otro, diez metros adelante, parpadeando entre estados como una señal.
 
 Cinco segundos. Seis. Siete.
 
-Y entonces siente algo que lo aterroriza.
+Y entonces siente la otra cosa. La que no tiene sensor.
 
-Empieza a perder su identidad.
+Empieza a perder el interés en volver.
 
-No es que olvide quién es. Es peor: deja de importarle. "Piggy" se vuelve solo un nombre, un concepto abstracto. Lo que importa es el movimiento, la velocidad, la pureza de ser solo datos sin las limitaciones de la carne.
+No es que olvide quién es. Es peor: deja de importarle. "Piggy" se vuelve un dato entre datos, un nombre de variable, un concepto abstracto flotando en la corriente. Lo que importa es el movimiento, la velocidad, la pureza de ser información sin el lastre de la carne y sus muertos y sus caballos de madera —
 
-Tiene que materializarse.
+*sus caballos de madera*
 
-Lo hace de golpe, cayendo al suelo, jadeando, con las manos temblando.
+— y esa imagen, dos piezas de ajedrez envueltas en hule roto, es la mano que lo agarra del cuello y lo saca del agua.
 
-—¿Estás bien? —pregunta una voz.
+Se materializa de golpe, cae de rodillas, jadea con las manos temblando contra el metal tibio de la plataforma.
 
-Piggy levanta la vista. Hiroshi está al otro lado de la plataforma, acercándose con paso rápido.
+—¿Estás bien? —Hiroshi cruza la plataforma a paso rápido.
 
 —Sí. Solo... necesito un momento.
 
-—¿Cuánto tiempo estuviste digitalizado?
+—¿Cuánto duraste?
 
-Piggy piensa. No está seguro.
+—¿Cuánto pasó para ti?
 
-—¿Cuánto tiempo pasó para ti?
+—Quince segundos. Tal vez veinte. Era difícil seguirte.
 
-—Tal vez quince segundos. Tal vez veinte. Fue difícil seguirlo. Te movías demasiado rápido.
+Veinte segundos. De un segundo a veinte en un día. El progreso debería alegrarlo, y en cambio le deja un frío nuevo en el fondo del estómago.
 
-Veinte segundos. Eso es mucho mejor que un segundo. Pero todavía no es suficiente. Y el precio...
+—Cada vez que me digitalizo completo —dice despacio, buscando las palabras exactas porque intuye que van a importar—, algo de mí se queda allá. No un recuerdo. Las ganas. Las ganas de volver a ser esto. —Se mira las manos, que todavía brillan en los bordes—. Allá adentro, ser Piggy parece... opcional.
 
-—Cada vez que me digitalizo completamente, siento que pierdo algo de mí. Como si cada vez que me convierto en código, algo del código se queda y algo de mí desaparece.
+Hiroshi se sienta a su lado en el metal tibio.
 
-Hiroshi se sienta a su lado.
+—Entonces ya conoces el precio. —Levanta un pie, y por un instante el empeine brilla con aquel resplandor de diamante—. Todos pagamos uno. Cada patada mía me debilita los huesos un poco más; el médico dice que a este ritmo, en unos años voy a necesitar bastón, y yo le digo que a este ritmo el mundo no dura tanto. Eddy se quema: cada forma flama le cuesta células, años. Por eso vive con tanta prisa. Cree que se le acaba el tiempo, y tiene razón, y él mismo lo gasta más rápido para no tener que pensarlo.
 
-—Entonces tal vez no debas usarlo a menos que sea absolutamente necesario.
+—¿Y el mío es dejar de querer ser yo.
 
-—Pero es mi única ventaja contra Dirk. Y contra Salino, si me encuentra.
+—El tuyo es el peor —dice Hiroshi, sin suavizarlo, porque los hermanos no se suavizan—. Los nuestros nos rompen el cuerpo. El tuyo te ofrece un lugar donde nada duele. Contra eso no se entrena, hermanito. Contra eso se elige. Cada vez.
 
-—Salino también puede digitalizarse. Pero él ha tenido años para aprender a controlarlo. Tú acabas de empezar.
+Piggy piensa en Salino. Diez años usando este mismo don, esta misma puerta a la pureza sin dolor. ¿Cuántas veces ha elegido volver el delfín? ¿Cuánto queda de aquel pupilo en lo que ahora recorre el mundo dejando testigos?
 
-Piggy mira sus manos. Todavía brillan ligeramente, como un eco de lo que acaba de hacer.
-
-—¿Crees que pueda aprender?
-
-—Ya estás aprendiendo. Pero tienes que tener cuidado. Cada poder tiene un costo. El mío... —Hiroshi levanta un pie, y por un instante brilla con ese resplandor de diamante que Piggy vio aquella noche—. Cada vez que uso la patada, mis huesos se debilitan un poco más. El precio de ser más fuerte de lo que debería.
-
-—¿Y el de Eddy?
-
-—Eddy se quema. Literalmente. Cada vez que se convierte en flama, pierde células. Envejece más rápido. Es por eso que se volvió tan imprudente después de que desapareciste. Piensa que su tiempo se acaba.
-
-Piggy piensa en Pietro. En cómo nunca supo lo que significaba pagar el precio de usar un poder hasta que era demasiado tarde.
-
-—Entonces, ¿cuál es el precio de digitalizarme?
-
-—Todavía no lo sabemos. Pero creo que ya empezaste a sentirlo.
-
-La identidad. La humanidad. Cada vez que se convierte en código, deja de ser humano por un instante. Y tal vez, si lo hace demasiadas veces, ese instante se vuelva permanente.
+¿Y contra qué va a pelear Piggy cuando se encuentren: contra un Ramon — o contra la versión de sí mismo que se quedó del otro lado?
 
 Una sirena suena en la distancia.
 
-Ambos se levantan. Hiroshi va hacia el borde de la plataforma, mirando hacia el sur.
+Los dos se levantan a la vez. Hiroshi va al borde de la plataforma y mira hacia el sur, donde el atardecer se mezcla con el humo de las chimeneas.
 
-—Es una alerta. Probablemente una patrulla Ramon. Tal vez Salino.
+—Alerta de patrulla. —Entrecierra los ojos—. Tal vez rutina.
 
-Piggy se acerca.
+—¿Y si es él?
 
-—¿Qué tan cerca están?
-
-—No lo sé todavía. Pero si es Salino, vendrá directo aquí. Sabe que estás en La Constante. Solo es cuestión de tiempo.
+—Si es él —dice Hiroshi, y el bailarín desaparece por completo de su voz—, entonces se acabó el entrenamiento.
 
 ---
 
 El Comando Central está en silencio a estas horas.
 
-Hiroshi está revisando mapas, marcando posiciones de patrullas, coordinando respuestas. Piggy lo observa, sintiendo el peso de toda una guerra sobre los hombros de su hermano.
+Hiroshi revisa mapas, marca posiciones, coordina respuestas con la economía de gestos de quien lo ha hecho mil noches. Piggy lo observa desde la puerta, midiendo por primera vez el tamaño real de lo que su hermano carga: una ciudad entera que confía en que el hombre de las sienes grises siempre sepa qué hacer.
 
-—Necesito verlos —dice finalmente.
+—Necesito verlos —dice al fin.
 
-Hiroshi no levanta la vista.
+—¿A quiénes?
 
-—¿Verlos a quién?
+—A los Ramons. En su territorio, en acción. Si voy a volver al pasado a impedir que existan, necesito saber exactamente qué estoy previniendo. No por los archivos. Con mis ojos.
 
-—A los Ramons. En acción. Necesito entender cómo luchan, cómo piensan, cómo se organizan. Si voy a volver al pasado para detener que existan, necesito saber exactamente qué estoy previniendo.
+Hiroshi se frota las sienes.
 
-Hiroshi se detiene. Cierra los ojos y se masajea las sienes.
-
-—Es peligroso. Si Salino está ahí...
-
-—Si Salino está ahí, mejor enfrentarlo ahora, cuando tengo a mi lado, que más tarde cuando esté solo en el pasado.
-
-—No es solo Salino. Los Ramons son letales. Incluso los soldados comunes pueden matar a un humano entrenado en segundos.
-
-—Lo sé. Pero necesito hacerlo.
-
-Hiroshi lo mira.
-
-—¿Por qué?
-
-Piggy piensa en cómo responder. No es solo curiosidad. No es solo preparación. Es algo más profundo.
-
-—Porque cuando enfrenté a Dirk la primera vez, no entendía realmente qué estaba en juego. Solo quería volver. Pero ahora... ahora sé que no es solo mi tiempo. Es todo. Los Ramons, los hilos, la guerra, la muerte de Santiago, la pérdida de todo. Si voy a detener a Dirk, necesito recordar exactamente por qué lo estoy haciendo.
-
-Hiroshi permanece en silencio durante un largo momento.
-
-Luego asiente, lentamente.
-
-—Hay una misión de reconocimiento mañana. Una patrulla Ramon fue vista cerca de las ruinas de Puerto Viejo. Podrías ir como observador. Sin combatir. Solo ver.
-
-—¿Y si tienen que combatir?
-
-—Entonces te retiras. No eres soldado de La Constante todavía. No tienes que pelear nuestras batallas.
-
-Piggy sabe que eso es mentira. Todas las batallas son suyas ahora. Porque todas están conectadas a Dirk, a los hilos, a lo que pasó aquella noche cuando cortó el núcleo.
-
-—De acuerdo. Iré como observador.
-
-Hiroshi le entrega un comunicador pequeño.
-
-—Mantente en contacto. Si algo sale mal, si Salino aparece, te retiras inmediatamente. ¿Entendido?
+—Hay una misión de reconocimiento mañana. Una patrulla Ramon cerca de las ruinas de Puerto Viejo. Puedes ir como observador. —Levanta el índice—. Observador. Si hay combate, te retiras. Si aparece el delfín, te retiras. ¿Entendido?
 
 —Entendido.
 
-Piggy toma el comunicador. Es más pesado de lo que parece.
+Los dos saben que es mentira. Lo saben con ese conocimiento cómodo y terrible de las familias, donde las mentiras necesarias se aceptan con la misma ceremonia que las verdades. Hiroshi le entrega un comunicador — más pesado de lo que parece, como todo lo que te ata a alguien — y vuelve a sus mapas.
 
-Camina hacia la ventana del Comando Central. Afuera, La Constante sigue moviéndose, lenta, constante, como un animal dormido que nunca deja de caminar.
+Piggy camina hasta la ventana.
 
-En el horizonte, el sol se está poniendo, pintando el cielo de naranjas y rojos que se mezclan con el humo de las chimeneas.
+Afuera, La Constante sigue moviéndose bajo las primeras estrellas, lenta, terca, fiel a su nombre. En algún lugar al sur, un delfín que brilla recorre el mundo preguntando por él. En algún lugar del pasado, un hombre manco escribe con la mano que le queda una novela sobre la soberbia. Y aquí, en el bolsillo del pecho de un muchacho que ya no sabe bien de qué época es, dos caballos de madera esperan una partida que alguien va a tener que jugar.
 
-Piggy piensa en Salino. En cómo el delfín lo está buscando, en cómo puede detectar su firma Hash, en cómo eventualmente se encontrarán.
+Mañana verá a los Ramons de cerca.
 
-Y piensa en Dirk. En cómo el hombre del bloque 99 sigue pescando energía del futuro, sin saber que cada hilo que lanza está creando las condiciones para que todo esto exista.
+Y después, cuando el ancla de Lucky esté lista, volverá al lugar donde se firmó la deuda.
 
-Mañana verá a los Ramons de cerca. Mañana entenderá realmente contra qué está luchando.
-
-Y después, cuando el dispositivo de Kenzo esté listo, regresará al pasado.
-
-Y esta vez, cuando enfrente a Dirk, no solo sabrá cómo luchar.
-
-Sabrá por qué.
+Esta vez no va a ir a escapar.
 
 ---
 
 [next_chapter →](../15/index.md)
-

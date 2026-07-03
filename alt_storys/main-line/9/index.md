@@ -2,167 +2,137 @@
 
 El día del lanzamiento, Sailor Capital se detiene.
 
-Las pantallas de cada esquina, cada café, cada hogar transmiten lo mismo: la nave Under End en su plataforma de despegue, brillando bajo el sol como una promesa de metal y cristal. Millones de ojos fijos en un solo punto. Millones de alientos contenidos.
+No se detiene como se detienen las ciudades en los desfiles, con banderas y permisos. Se detiene sola, órgano por órgano: los andenes del Matrasy se vacían a media mañana, las oficinas inventan pausas, los cafés suben el volumen de sus pantallas y hasta los carteristas del distrito central miran hacia arriba. En cada esquina, en cada hogar, la misma imagen: la nave de Under End erguida en su plataforma, blanca y delgada contra el cielo, brillando bajo el sol como una promesa de metal y cristal.
 
-Piggy observa desde el mercado, junto a Pietro, quien ha colocado una pequeña radio sobre las cajas de fruta. Los clientes se han olvidado de comprar; todos miran hacia arriba, como si pudieran ver el cohete desde ahí.
+En el mercado, Pietro ha colocado una pequeña radio sobre las cajas de fruta, y el aparato reúne a su alrededor una congregación de mandiles y monederos. Los clientes se han olvidado de comprar. Todos miran hacia el sur, por encima de los toldos, como si desde ahí pudiera verse el cohete.
 
-—Dicen que van a tocar el otro lado —murmura un hombre a su lado—. Lo que nadie ha tocado jamás.
+—Dicen que van a tocar el otro lado —murmura un hombre—. Lo que nadie ha tocado jamás.
 
 —Si regresan —responde otro—, serán los hombres más importantes de la historia.
 
-Piggy no dice nada. Solo piensa en los frascos que vio en el puerto, en las bacterias que se movían con demasiada intención, en Viktor Lang abriendo ese contenedor como si guardara algo más que herramientas de navegación.
+Piggy no dice nada. Acomoda fruta que no ve y piensa en los frascos que vio en el puerto, en las bacterias que se movían con demasiada intención, en Woodrow abriendo ese contenedor como si guardara algo más que herramientas de navegación.
 
-La cuenta regresiva comienza.
+La cuenta regresiva comienza y el mercado enmudece de golpe, como una iglesia.
 
 *Diez. Nueve. Ocho.*
 
-El mercado enmudece.
+Pietro se persigna. Es un gesto pequeño, rápido, casi avergonzado de sí mismo, y Piggy no se lo había visto nunca. Después aprendería que hay gestos que los viejos guardan para las cosas que los superan, y que verlos aparecer es una forma de medir el tamaño de lo que está pasando.
 
-*Siete. Seis. Cinco.*
+*Tres. Dos. Uno.*
 
-Pietro se persigna, un gesto que Piggy no le había visto antes.
-
-*Cuatro. Tres. Dos. Uno.*
-
-El rugido del motor atraviesa las frecuencias de la radio como un trueno lejano. En las pantallas, la nave se eleva, atravesando nubes, dejando atrás el mundo conocido. Los aplausos estallan en las calles. Hay lágrimas. Hay abrazos. Hay una euforia colectiva que huele a futuro.
+El rugido llega por la radio como un trueno metido en una caja. En las pantallas de la ciudad, la nave se eleva sobre una columna de fuego, atraviesa las nubes y deja atrás el mundo conocido. Los aplausos estallan en las calles. Hay lágrimas, hay abrazos, hay una euforia colectiva que huele a futuro.
 
 Piggy no aplaude.
 
-Solo observa cómo la nave se convierte en un punto, y luego en nada.
+Solo observa cómo la nave se convierte en un punto, y el punto en nada, y piensa que en su época nadie recuerda este día. La guerra borró los archivos, los nombres, las transmisiones. Está viendo en vivo algo que en su tiempo es un hueco en la memoria del mundo — y no sabe todavía que ese hueco tiene forma de advertencia.
 
 ---
 
-Chester Mayfield tiene sesenta y dos años, cabello canoso cortado al ras, y la calma de un hombre que ha visto demasiado para sorprenderse. Ha salido al espacio tres veces. Ha flotado en el vacío. Ha sentido la soledad absoluta del silencio cósmico.
+Chester Mayfield tiene sesenta y dos años, el cabello canoso cortado al ras y la calma de un hombre que ha visto demasiado para sorprenderse. Ha salido al espacio tres veces. Ha flotado en el vacío con la Tierra plana girando debajo como una moneda perdida. Ha sentido esa soledad específica del silencio cósmico que los astronautas no describen en las entrevistas porque no hay manera de describirla sin sonar enfermo.
 
-Pero esto es diferente.
+Pero esto es diferente, y Chester lo sabe desde que firmó.
 
-El "otro lado" no es espacio exterior. Es el reverso del mundo. La cara oculta del plano. Un lugar que existe en los mapas como un vacío, en las leyendas como un abismo, y en los sueños como una pregunta sin respuesta.
+El otro lado no es espacio exterior. Es el reverso del mundo. La cara oculta del plano. El lugar que existe en los mapas como un vacío, en las leyendas como un abismo y en los sueños como una pregunta que nadie formula completa.
 
-A su lado, Shika Toro revisa los instrumentos con la precisión de un cirujano. Tiene treinta y cuatro años, complexión atlética, y los mismos ojos intensos que su hermano menor Kenzo. Pero donde Kenzo es fuego e impulsividad, Shika es hielo y método.
+A su lado, Shika Toro revisa los instrumentos con la precisión de un cirujano. Treinta y cuatro años, complexión atlética, los mismos ojos intensos que su hermano menor, el piloto. Pero donde Kenzo es fuego e impulso, Shika es hielo y método. Por eso lo eligieron. Los psicólogos de zPace escribieron en su expediente una frase que después alguien iba a leer con amargura: *perfil de estabilidad excepcional*.
 
 —Bacterias estables —reporta Shika—. Navegación activa. Estamos en curso.
 
-Chester asiente.
-
 —Tiempo estimado al punto de inversión: cuarenta y siete minutos.
 
-La nave vibra suavemente mientras atraviesa las capas superiores de la atmósfera. Las ventanas muestran un azul que se oscurece gradualmente, un cielo que se convierte en negro, un mundo que se encoge hasta parecer lo que es: una caja plana flotando en el vacío.
-
-Chester nunca se acostumbra a esa vista. La primera vez que vio el planeta desde arriba, sintió vértigo existencial. No por la altura, sino por la forma. Un cuadrado. Un plano. Una geometría que desafía todo lo que alguna vez creyó sobre la naturaleza del universo.
+La nave vibra suavemente mientras atraviesa las últimas capas. Por las ventanas, el azul se oscurece hasta volverse negro, y el mundo se encoge hasta parecer lo que es: una caja plana flotando en el vacío. Chester nunca se ha acostumbrado a esa vista. La primera vez sintió un vértigo que no era de altura sino de geometría — la sensación de que el universo tenía esquinas y nadie le había avisado.
 
 —Iniciando maniobra de inversión —dice Shika.
 
-La nave gira lentamente, como una moneda lanzada al aire. El "arriba" se convierte en "abajo". El sol desaparece detrás del borde del mundo, y frente a ellos se extiende una oscuridad que no es la del espacio.
+La nave gira lentamente, como una moneda lanzada al aire que decide quedarse a vivir en el giro. El arriba se convierte en abajo. El sol desaparece detrás del borde del mundo — un atardecer que ningún ser humano había visto, el atardecer del filo — y frente a ellos se extiende una oscuridad que no es la del espacio.
 
-Es la oscuridad del otro lado.
+Es la oscuridad del otro lado. Y tiene otra calidad. El espacio es ausencia; esto es reserva.
 
 ---
 
 Las primeras horas son datos y protocolos.
 
-Chester registra temperatura, presión, radiación. Shika monitorea las bacterias, que se agitan en sus contenedores como si supieran que están en territorio ajeno. Los instrumentos funcionan. La nave responde. Todo va según el plan.
-
-Pero hay algo que los instrumentos no miden.
+Chester registra temperatura, presión, radiación. Shika monitorea las bacterias, que se agitan en sus contenedores como si supieran algo que los instrumentos no miden. Todo funciona. Todo responde. Y sin embargo los dos hombres trabajan en un silencio que va espesándose, porque hay algo que los sensores no capturan y los cuerpos sí.
 
 La sensación.
 
-Chester la nota primero: un peso en el pecho que no es gravedad. Una quietud que no es paz. Es como si el otro lado no quisiera ser visto, como si la oscuridad fuera un párpado cerrado que resiente la intrusión.
+Chester la nota primero: un peso en el pecho que no es gravedad. Una quietud que no es paz. Como si el otro lado no quisiera ser visto; como si la oscuridad fuera un párpado cerrado que resiente la intrusión.
 
-—¿Lo sientes? —pregunta Chester, sin especificar qué.
+—¿Lo sientes? —pregunta, sin especificar qué.
 
-Shika tarda en responder.
+Shika tarda tres segundos de más en responder.
 
 —Sí.
 
-No dicen más. Los astronautas aprenden a no nombrar ciertas cosas. Nombrarlas las hace reales.
+No dicen nada más. Los astronautas aprenden temprano a no nombrar ciertas cosas. Nombrarlas las invita.
 
-La nave desciende hacia la superficie del reverso. Los reflectores iluminan un paisaje que parece lunar: rocas, cráteres, polvo gris. Pero no hay cráteres de impacto. No hay huellas de meteoritos. Es como si nada hubiera tocado este suelo jamás.
+La nave desciende. Los reflectores tallan conos de luz en un paisaje que parece lunar: roca, polvo gris, silencio mineral. Pero no hay cráteres de impacto. No hay cicatrices de meteoritos. Nada ha tocado este suelo jamás — y esa virginidad absoluta, que debería ser un dato geológico, se siente como una descortesía que están a punto de cometer.
 
-—Aterrizaje en tres minutos —anuncia Shika.
+El contacto con la superficie es un temblor suave.
 
-Chester prepara el equipo de exploración. Trajes sellados, oxígeno para seis horas, comunicadores de largo alcance. Todo ha sido probado mil veces. Todo debería funcionar.
+Y luego, el silencio.
 
-La nave toca el suelo con un temblor suave.
-
-Y entonces, el silencio.
-
-No el silencio del espacio, que es ausencia de sonido. Este es un silencio que tiene peso. Un silencio que escucha.
+No el del espacio, que es ausencia de sonido. Este silencio tiene peso. Este silencio escucha.
 
 —Control, aquí Under End —transmite Chester—. Aterrizaje exitoso. Iniciamos exploración en superficie.
 
-La respuesta tarda ocho segundos en llegar, distorsionada por la curvatura del plano.
+La respuesta tarda ocho segundos en llegar, deformada por la curvatura del plano:
 
 *"Recibido, Under End. Procedan con precaución. El mundo los observa."*
 
-Chester sonríe sin ganas. El mundo los observa. Pero aquí, en el reverso, algo más los observa también.
+Chester sonríe sin ganas. El mundo los observa. Pero aquí abajo, piensa sin permitirse pensarlo del todo, algo más los observa también.
 
 ---
 
-Shika es el primero en salir.
+Shika es el primero en pisar.
 
-El traje se siente más pesado de lo que debería. Cada paso levanta polvo que flota demasiado tiempo antes de caer. La gravedad aquí es la misma —debería serlo—, pero todo se siente ligeramente desplazado, como un sueño donde las reglas son casi correctas pero no del todo.
+El traje pesa más de lo que debería. Cada paso levanta un polvo que flota demasiado tiempo antes de caer, como si hasta la gravedad de este lado dudara de sus propias reglas. Caminan, toman muestras, fotografían formaciones. Registran todo para la ciencia, para la posteridad, para los libros que llevarán sus nombres.
 
-—Superficie estable —reporta Shika—. Composición mineral... no reconocida. Enviando muestras.
+Es Shika quien la ve.
 
-Chester lo sigue a pocos metros de distancia. Sus reflectores crean conos de luz que apenas penetran la oscuridad. El sol está del otro lado del plano, a millones de kilómetros de distancia, y aquí no llega más que un resplandor fantasmal en el horizonte.
+Al principio cree que es una columna de roca, erosionada por vientos que aquí no existen. Pero entonces la columna se mueve. No rápido. No hacia ellos. Solo se mueve, con la lentitud de algo que respira en otra escala de tiempo.
 
-Caminan en silencio durante veinte minutos. Toman muestras. Fotografían formaciones rocosas. Registran todo para la posteridad, para la ciencia, para los libros de historia que escribirán sus nombres.
+—Chester —dice, y su propia voz le suena ajena.
 
-Es Shika quien la ve primero.
+La criatura está a unos treinta metros. Es delgada, imposiblemente delgada, con cuatro extremidades que podrían ser patas o podrían ser otra cosa para la que no hay palabra. Su superficie parece piedra, pero piedra que late. No tiene ojos, ni boca, ni nada que un cerebro humano pueda archivar como cara. Y sin embargo Chester sabe — con una certeza que le baja por la columna como agua helada — que los está mirando.
 
-Al principio piensa que es una formación rocosa. Una columna natural, quizás erosionada por vientos que no existen. Pero entonces la columna se mueve.
+—No te muevas —susurra.
 
-No rápido. No amenazante. Solo... se mueve. Como si respirara.
+Shika no se mueve. No puede.
 
-—Chester —dice Shika, y su voz suena extraña incluso para él mismo.
+La criatura permanece inmóvil durante segundos, o minutos, o años; el tiempo aquí no colabora. Chester siente su corazón demasiado fuerte, su respiración demasiado ruidosa, su existencia entera como una ofensa en un lugar que no fue hecho para testigos.
 
-Chester se detiene. Mira hacia donde apunta Shika.
-
-La criatura está a unos treinta metros. Es delgada, imposiblemente delgada, con cuatro extremidades que podrían ser patas o podían ser algo completamente distinto. Su superficie parece piedra, pero piedra que late. No tiene ojos visibles, ni boca, ni ningún rasgo que Chester pueda clasificar como "cara". Y sin embargo, Chester sabe —con una certeza que le hiela la sangre— que la criatura los está mirando.
-
-—No te muevas —susurra Chester.
-
-Shika no se mueve. No puede moverse.
-
-La criatura permanece inmóvil durante lo que podrían ser segundos o minutos o años. El tiempo aquí no funciona bien. Chester siente que su corazón late demasiado fuerte, que su respiración es demasiado ruidosa, que su mera existencia es una ofensa en este lugar que no fue hecho para ojos humanos.
-
-Y entonces la criatura hace algo que ninguno de los dos esperaba.
+Y entonces la criatura hace lo que ninguno de los dos esperaba.
 
 Nada.
 
-Simplemente está ahí. Serena. Paciente. Como una estatua que ha esperado eones y puede esperar eones más.
+Simplemente está. Serena. Paciente. Como una estatua que ha esperado eones y puede esperar eones más, porque la espera no le cuesta, porque la espera es quizá su único idioma.
 
 —Tenemos que irnos —dice Chester.
 
-Shika no responde.
+Shika no responde. Tiene los ojos fijos en la criatura, y en su mirada hay algo que Chester reconoce de los veteranos de guerra: una fisura en algo que debería ser sólido. El perfil de estabilidad excepcional, quebrándose sin ruido, como se quiebra el hielo por dentro antes de que se vea la grieta.
 
-—Shika. Tenemos que irnos.
-
-Shika sigue sin responder. Sus ojos están fijos en la criatura, y hay algo en su mirada que Chester reconoce de veteranos de guerra, de hombres que vieron cosas que no deberían verse: un quiebre. Una fisura en algo que debería ser sólido.
-
-Chester lo toma del brazo y lo arrastra hacia la nave.
+Chester lo toma del brazo y lo arrastra a la nave.
 
 La criatura no los sigue.
 
-No necesita seguirlos.
-
-Ya hizo lo que tenía que hacer.
+No necesita seguirlos. Ya hizo lo que tenía que hacer — si es que hizo algo, si es que mirar es hacer, si es que en el otro lado esas dos cosas no son la misma.
 
 ---
 
-El viaje de regreso dura cuarenta y tres horas.
+El viaje de regreso dura cuarenta y tres horas, y Chester las pilotea todas.
 
-Chester pilotea solo. Shika está sentado en su asiento, con los ojos abiertos pero vacíos, murmurando cosas que no son palabras. A veces ríe sin razón. A veces llora. A veces simplemente mira al vacío como si pudiera ver algo que Chester no ve.
+Shika está en su asiento con los ojos abiertos y vacíos, murmurando cosas que no llegan a palabras. A veces ríe. A veces llora. A veces dibuja con el dedo en el panel de instrumentos: cuatro líneas, una y otra vez, cuatro líneas que podrían ser patas.
 
-—Control, aquí Under End —transmite Chester con voz ronca—. Solicito equipo médico en plataforma de aterrizaje. Repito: equipo médico de emergencia. Tenemos... tenemos una situación.
+—Control, aquí Under End —transmite Chester con la voz rota de cansancio—. Solicito equipo médico en plataforma. Repito: equipo médico de emergencia. Tenemos... tenemos una situación.
 
 *"Recibido, Under End. ¿Puede especificar la naturaleza de la emergencia?"*
 
-Chester mira a Shika, que ahora está dibujando algo en el panel de instrumentos con el dedo. Cuatro líneas. Una y otra vez. Cuatro líneas que podrían ser patas.
+Chester mira a su compañero, que sonríe hacia el vacío como quien recuerda una melodía.
 
-—Contacto —dice Chester, y la palabra le sabe a ceniza—. Hicimos contacto.
+—Contacto —dice, y la palabra le sabe a ceniza—. Hicimos contacto.
 
-El silencio en la radio dura más de ocho segundos.
+El silencio en la radio dura mucho más de ocho segundos.
 
 *"...Recibido, Under End. Equipo médico en espera."*
 
@@ -170,141 +140,67 @@ El silencio en la radio dura más de ocho segundos.
 
 El aterrizaje es celebrado como un triunfo.
 
-Las pantallas muestran la nave tocando suelo, la puerta abriéndose, Chester Mayfield descendiendo con paso firme y saludando a las cámaras. Los aplausos son ensordecedores. Los titulares ya están escritos: "HÉROES DEL OTRO LADO", "LA HUMANIDAD TOCA LO IMPOSIBLE", "UNDER END: ÉXITO TOTAL".
+Las pantallas muestran la nave tocando tierra, la puerta abriéndose, Chester Mayfield descendiendo con paso firme y saludando a las cámaras con la mano enguantada. Los titulares ya estaban escritos desde antes: HÉROES DEL OTRO LADO. LA HUMANIDAD TOCA LO IMPOSIBLE. UNDER END: ÉXITO TOTAL.
 
-Lo que las cámaras no muestran es la camilla que sale por la puerta trasera.
+Lo que las cámaras no muestran es la camilla que sale por la compuerta trasera, ni al hombre atado a ella con los ojos vendados, murmurando "cuatro patas, cuatro patas, cuatro patas" con la cadencia exacta de una oración rota.
 
-Lo que los titulares no mencionan es el hombre que va en ella, con los ojos vendados y las manos atadas, murmurando "cuatro patas, cuatro patas, cuatro patas" como una oración rota.
+Los días siguientes son una coreografía de mentiras ensayada con presupuesto estatal. William Heart felicita a "los astronautas" en plural cuidadoso. Dirk Newman sonríe a su lado hablando de horizontes expandidos. Y cuando un periodista pregunta por el segundo tripulante, Mimi Saito responde con la fluidez de lo preparado: observación médica de rutina, readaptación, disponible en las próximas semanas.
 
-Lo que el público no sabe es que Shika Toro, héroe de la expedición, no volverá a ser el mismo.
+Las próximas semanas se convierten en meses. Los archivos se clasifican. Las muestras van a laboratorios sin dirección. Y la criatura — la cosa de cuatro patas que no hizo nada y lo hizo todo — se convierte en un secreto que cabe en una docena de personas.
 
----
-
-Los días siguientes son una coreografía de mentiras.
-
-William Heart da una conferencia de prensa donde felicita a los astronautas y anuncia que Under End ha abierto "una nueva era para la humanidad". Dirk Newman aparece a su lado, sonriendo con esa calma que Piggy reconocería como máscara, hablando de "horizontes expandidos" y "posibilidades infinitas".
-
-Nadie menciona a Shika.
-
-Cuando un periodista pregunta por el segundo astronauta, Mimi Saito responde con fluidez: "El comandante Toro está en observación médica de rutina. Los viajes de esta magnitud requieren períodos de readaptación. Estará disponible para declaraciones en las próximas semanas."
-
-Las próximas semanas se convierten en meses.
-
-Shika Toro desaparece del ojo público. Su nombre se menciona cada vez menos. Los archivos de la expedición se clasifican. Las muestras del otro lado se envían a laboratorios cerrados. Y la criatura —la cosa de cuatro patas que no hizo nada y lo hizo todo— se convierte en un secreto que solo un puñado de personas conoce.
-
-Pero los secretos tienen piernas.
+Pero los secretos tienen piernas. Siempre las han tenido. Por eso hay que enterrarlos de pie.
 
 ---
 
-Kenzo Toro se entera por accidente.
+Kenzo Toro se entera por accidente: una llamada a la hora equivocada, un nombre — Shika — pronunciado con el tono con que se habla de los problemas y no de los héroes.
 
-Una llamada a la hora equivocada. Una conversación escuchada a través de una puerta. Un nombre —Shika— pronunciado con un tono que no es el de "héroe en recuperación" sino el de "problema que hay que contener".
+El hospital no aparece en ningún registro. Los guardias no llevan insignias. Y lo que Kenzo encuentra en la habitación blanca lo parte en un antes y un después: su hermano sentado en el suelo, dibujando en la pared con los dedos. Cuatro líneas. Una y otra vez.
 
-Kenzo es muchas cosas: arrogante, competitivo, obsesionado con ganar. Pero también es hermano.
+—Shika. Soy yo. Soy Kenzo.
 
-Y cuando llega al hospital donde tienen a Shika —un hospital que no aparece en ningún registro público, con guardias que no llevan insignias—, lo que encuentra lo cambia.
+Shika levanta la mirada, y por un segundo hay claridad en ella, que es lo peor de todo — porque significa que sigue ahí adentro.
 
-Shika está en una habitación blanca, sentado en el suelo, dibujando en las paredes con los dedos. Cuatro líneas. Una y otra vez. Cuatro líneas que forman una silueta que Kenzo no reconoce pero que le provoca un escalofrío.
-
-—Shika —dice Kenzo, arrodillándose frente a él—. Shika, soy yo. Soy Kenzo.
-
-Shika levanta la mirada. Por un segundo, algo de claridad cruza sus ojos.
-
-—No parpadea —dice Shika, y su voz suena como papel arrugado—. Nunca parpadea. Pero me ve. Me sigue viendo. Incluso ahora. Incluso aquí.
+—No parpadea —dice, con voz de papel arrugado—. Nunca parpadea. Pero me ve. Me sigue viendo. Incluso ahora. Incluso aquí.
 
 —¿Qué te hicieron? ¿Qué pasó allá?
 
-Shika sonríe, pero es una sonrisa que no tiene alegría.
+—No me hizo nada. —Y sonríe, y la sonrisa es lo que Kenzo va a soñar durante años—. Solo está. Y eso es peor, hermanito. Porque si me hubiera atacado podría odiarlo. Pero no hizo nada. Solo me miró. Vi que no estamos solos, y vi que a lo que está allá no le importamos. Ni para bien ni para mal. Simplemente no le importamos. Y eso es lo más aterrador que existe.
 
-—No me hizo nada. Solo... está. Y eso es peor. Porque si me hubiera atacado, podría odiarlo. Podría temerlo. Pero no hizo nada. Solo me miró. Y ahora no puedo dejar de sentir esa mirada.
+Kenzo intenta hablar. En entrevistas, en transmisiones, en cualquier plataforma que le preste un micrófono. Las señales se cortan. Los periodistas cambian de tema con la elegancia de los bien pagados. Y una noche, dos hombres de traje lo esperan en su departamento para explicarle, sin explicárselo, que el silencio es la forma más alta de patriotismo, y que sería una lástima que decisiones impulsivas arruinaran una carrera tan brillante.
 
-Kenzo siente que algo se rompe en su pecho.
-
-—Voy a sacarte de aquí.
-
-—No puedes. Ellos no quieren que nadie sepa. Si la gente supiera lo que hay allá...
-
-—¿Qué hay allá, Shika? ¿Qué viste?
-
-Shika se acerca, y su aliento huele a medicamentos y a algo más, algo que Kenzo no puede nombrar.
-
-—Vi que no estamos solos. Y vi que a lo que está allá... no le importamos. Ni para bien ni para mal. Simplemente no le importamos. Y eso, hermanito... eso es lo más aterrador de todo.
+Esa noche Kenzo no duerme. Y en algún lugar de Sailor Capital, Piggy tampoco.
 
 ---
 
-Kenzo intenta hablar.
-
-En entrevistas, en redes, en cualquier plataforma que le dé espacio. Pero cada vez que menciona a Shika, cada vez que insinúa que la expedición no fue el éxito que vendieron, las señales se cortan. Los periodistas cambian de tema. Las preguntas se desvían.
-
-Y un día, después de una entrevista particularmente insistente, dos hombres de traje lo visitan en su departamento.
-
-—Señor Toro —dice uno de ellos, con una sonrisa que no llega a los ojos—. Entendemos su preocupación por su hermano. Es natural. Es humano. Pero hay información que, si se hace pública, podría causar... inestabilidad.
-
-—Mi hermano está encerrado en un manicomio secreto porque vio algo que el gobierno no quiere admitir.
-
-—Su hermano está recibiendo el mejor tratamiento disponible para una condición médica compleja. Y usted, señor Toro, tiene una carrera brillante por delante. Sería una lástima que decisiones impulsivas la pusieran en riesgo.
-
-Kenzo aprieta los puños.
-
-—¿Me están amenazando?
-
-El hombre no responde directamente.
-
-—Le estamos ofreciendo perspectiva. El silencio, a veces, es la forma más alta de patriotismo.
-
-Los hombres se van. Kenzo se queda solo en su departamento, con el eco de sus palabras y el peso de una decisión imposible.
-
-Esa noche, Kenzo no duerme.
-
-Y en algún lugar de Sailor Capital, Piggy tampoco.
-
----
-
-Las noticias sobre Under End se desvanecen con el tiempo, reemplazadas por escándalos menores, eventos deportivos, el ciclo interminable de distracción que mantiene a las masas mirando hacia otro lado.
+Las noticias de Under End se desvanecen con los meses, reemplazadas por escándalos menores, deportes, el ciclo interminable de distracción que mantiene a las masas mirando hacia el lado correcto, que es cualquier lado menos arriba y menos abajo.
 
 Pero hay quienes no olvidan.
 
-Hay quienes preguntan por Shika Toro, el astronauta que desapareció.
+Hay quienes preguntan por Shika Toro, el astronauta que se volvió una nota al pie. Hay quienes notan que Chester Mayfield, el héroe, nunca da entrevistas largas, nunca mira a las cámaras de frente, nunca junta más de tres palabras sobre el otro lado. Y hay quienes, como Donna Colombo — una política menor de un partido que los medios llaman chafa —, empiezan a tomar notas. A conectar puntos. A preparar discursos que nadie quiere escuchar todavía.
 
-Hay quienes notan que Chester Mayfield, el héroe, nunca da entrevistas largas, nunca mira directamente a las cámaras, nunca habla del "otro lado" con más de tres palabras seguidas.
+El descontento es una semilla. Y las semillas, en la oscuridad, crecen.
 
-Y hay quienes, como Donna Colombo —una política menor de un partido sin importancia—, empiezan a tomar notas. A conectar puntos. A preparar discursos que nadie quiere escuchar todavía, pero que algún día resonarán como truenos.
-
-El descontento es una semilla.
-
-Y las semillas, en la oscuridad, crecen.
-
----
-
-En el mercado, Piggy escucha los rumores como quien escucha el viento: atento pero invisible.
+En el mercado, Piggy escucha los rumores como quien escucha el viento.
 
 "Dicen que uno de los astronautas enloqueció."
 
 "Dicen que vieron algo allá."
 
-"Dicen que el gobierno está mintiendo."
+"Dicen que el gobierno miente."
 
-Piggy no dice nada. Solo acomoda frutas, cuenta tablores, y piensa en criaturas de cuatro patas que no hacen nada y lo hacen todo.
+Piggy acomoda fruta, cuenta tablores, y piensa en criaturas de cuatro patas que no hacen nada y lo hacen todo. Piensa en Dirk y sus hilos. Piensa en las bacterias del puerto. Piensa en que todo está conectado por debajo, como los drenajes, como las raíces, como las deudas.
 
-Piensa en Dirk Newman y sus hilos.
-
-Piensa en las bacterias del puerto.
-
-Piensa en todo lo que está conectado aunque nadie lo vea.
-
-Y cuando Pietro le pregunta por qué está tan callado, Piggy solo responde:
+—Estás muy callado —le dice Pietro.
 
 —Estoy aprendiendo a escuchar.
 
-Pietro asiente, como si entendiera más de lo que dice.
+El viejo asiente despacio, como quien reconoce un oficio.
 
 —Eso es bueno. Los que escuchan sobreviven más que los que gritan.
 
-Afuera, Sailor Capital sigue brillando, próspera, ignorante.
+Afuera, Sailor Capital sigue brillando, próspera, ignorante. Pero debajo de la superficie — en los drenajes donde algo aprende, en los hospitales sin nombre, en las mentes rotas de los hombres que vieron demasiado — el mundo ya empezó a cambiar.
 
-Pero debajo de la superficie —en los drenajes, en los hospitales secretos, en las mentes rotas de hombres que vieron demasiado— algo está cambiando.
-
-Y el cambio, una vez que empieza, no se detiene.
+Y el cambio, una vez que empieza, no pide permiso para terminar.
 
 ---
 

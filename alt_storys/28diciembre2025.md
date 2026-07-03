@@ -15,7 +15,6 @@ No vuelve “en blanco”: vuelve **con conocimiento**.
 👉 Este conocimiento **no aparece de la nada**:
 tuvo que haber una **serie de eventos previos** que le dieran claridad real.
 
----
 
 ## 2. El evento clave: la primera pelea con Dirk y los Hilos
 
@@ -229,13 +228,3 @@ Esto provoca que:
 * Alex tenga que **regresar unos segundos**
 * Se rompa algo
 * **Empiece el verdadero problema**
-
-👉 Aquí se conecta directamente con
-**la Batalla de los Tenedores**
-
----
-
-## 11. Resumen en una frase
-
-> Piggy no regresa solo con poder:
-> regresa con conocimiento, con cicatrices y con un escuadrón pequeño, subestimado y limitado por reglas duras, donde cada decisión tiene costo real y ningún viaje es gratuito.
