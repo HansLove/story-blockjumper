@@ -152,17 +152,17 @@ Ahí, en un taller lleno de herramientas y piezas de repuesto, encorvado sobre u
 
 —¿Papá?
 
-Kenzo "Lucky" Bankz levanta la vista de lo que está reparando.
+Porfirio "Poli" Bankz levanta la vista de lo que está reparando.
 
 Está más viejo de lo que la década justifica. Tiene grasa hasta los codos, el pelo completamente blanco, y esa forma de moverse de los hombres que trabajan para no pensar. Cuando ve a Piggy, la llave que sostiene se le queda quieta en la mano, y durante un momento largo el único sonido del taller es el rugido de las máquinas.
 
 —Me dijeron que volviste —dice al fin, con la voz rasposa—. No les creí. La última vez que le creí a una buena noticia fue antes del oasis.
 
-No hay abrazo. No todavía. Entre Piggy y su padre hay una distancia más vieja que la guerra, hecha de años en que Lucky no estuvo donde sus hijos aprendían a pelear solos. Hiroshi lo encontró hace años, vagando por las ruinas del sur, y le dio lo que Lucky ya no esperaba de nadie: algo que reparar.
+No hay abrazo. No todavía. Entre Piggy y su padre hay una distancia más vieja que la guerra, hecha de años en que Poli no estuvo donde sus hijos aprendían a pelear solos. Hiroshi lo encontró hace años, vagando por las ruinas del sur, y le dio lo que Poli ya no esperaba de nadie: algo que reparar.
 
 —¿Desde cuándo estás aquí? —pregunta Piggy.
 
-—Desde que tu hermano decidió que un mal padre podía ser un buen mecánico. —Lucky se limpia las manos con un trapo, sin dejar de mirarlo, como si temiera que dejar de mirarlo lo hiciera desaparecer otros diez años—. No me lo merecía. Casi nada de lo que tengo me lo merezco. Por eso me dicen Lucky.
+—Desde que tu hermano decidió que un mal padre podía ser un buen mecánico. —Poli se limpia las manos con un trapo, sin dejar de mirarlo, como si temiera que dejar de mirarlo lo hiciera desaparecer otros diez años—. No me lo merecía. Casi nada de lo que tengo me lo merezco.
 
 Piggy mira alrededor del taller. Hay piezas de Hashboards, fragmentos de sistemas de navegación, incluso lo que parece ser un motor del Matrasy rescatado de las ruinas.
 
@@ -172,15 +172,15 @@ Piggy mira alrededor del taller. Hay piezas de Hashboards, fragmentos de sistema
 
 —Porque voy a necesitar algo que me permita viajar entre tiempos sin depender de Dirk. Y creo que tú puedes ayudarme a construirlo.
 
-Lucky y Hiroshi intercambian miradas.
+Poli y Hiroshi intercambian miradas.
 
-—Estás hablando de ingeniería temporal —dice Lucky—. Eso es... eso es ciencia ficción.
+—Estás hablando de ingeniería temporal —dice Poli—. Eso es... eso es ciencia ficción.
 
 —Era ciencia ficción —corrige Piggy—. Hasta que yo viví la realidad.
 
 El taller queda en silencio.
 
-Luego Lucky sonríe, y por debajo del pelo blanco y la culpa asoma por un segundo el hombre que sus hijos apenas conocieron: uno al que los problemas imposibles le brillaban en los ojos.
+Luego Poli sonríe, y por debajo del pelo blanco y la culpa asoma por un segundo el hombre que sus hijos apenas conocieron: uno al que los problemas imposibles le brillaban en los ojos.
 
 —Cuéntame más.
 
@@ -188,7 +188,7 @@ Luego Lucky sonríe, y por debajo del pelo blanco y la culpa asoma por un segund
 
 Los días siguientes son un torbellino de planificación.
 
-Piggy comparte todo lo que sabe sobre los hilos, la digitalización, la forma en que su cuerpo se tradujo a luz. Lucky toma notas, hace preguntas, dibuja diagramas que Piggy apenas entiende. Hiroshi coordina recursos y mueve piezas en el tablero político de La Constante para que el proyecto tenga lo que necesita sin que la ciudad entera sepa qué está financiando.
+Piggy comparte todo lo que sabe sobre los hilos, la digitalización, la forma en que su cuerpo se tradujo a luz. Poli toma notas, hace preguntas, dibuja diagramas que Piggy apenas entiende. Hiroshi coordina recursos y mueve piezas en el tablero político de La Constante para que el proyecto tenga lo que necesita sin que la ciudad entera sepa qué está financiando.
 
 Y mientras tanto, el mundo sigue girando sus malas noticias.
 
@@ -218,7 +218,7 @@ No es un plan completo. Tiene agujeros, suposiciones, riesgos que podrían matar
 
 Primero: aprender a digitalizarse a voluntad, sin depender de la desesperación.
 
-Segundo: construir con Lucky un ancla — algo que le permita cruzar entre tiempos sin los hilos de Dirk.
+Segundo: construir con Poli un ancla — algo que le permita cruzar entre tiempos sin los hilos de Dirk.
 
 Tercero: volver al Bloque 99 y arrancar el problema de raíz.
 

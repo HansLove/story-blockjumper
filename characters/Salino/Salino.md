@@ -17,6 +17,14 @@ Intercepta a Pedro y Santiago cuando se dirigen hacia la línea de defensa en la
 - Salino como único Tilikum activo de regreso a las líneas Ramons
 - Tiene grabados los rostros de: Pedro, Eddy, Hiroshi, y por deducción, Piggy
 
-## Hilo narrativo abierto
+## Trayectoria — CANON (Bloque 228+)
 
-Salino que sobrevive su primera derrota humillante, pierde a su maestro temporalmente, y recuerda cada rostro — eso es motivación de arco. En T2 (Bloque 220) puede reaparecer más maduro, más peligroso, con deuda pendiente específica contra los supervivientes del Capítulo 1.
+- **Diez años después del oasis**, Salino ya es uno de los **Tilikum élite** — y el más pequeño por mucho. Su tamaño es su firma: en una élite de colosos, el delfín chico es el que nadie subestima dos veces.
+- Es **el único Ramon que domina el Hash**: puede digitalizarse, igual que Piggy. Su rastreo de la firma del Hashboard es lo que lo hace letal como cazador.
+- Lleva diez años buscando a Piggy con método: deja sobrevivientes a propósito en cada ataque para que cuenten que pregunta. Paga por información sobre "un Shi con una tabla. Un Shi que brilla." Su furia se convirtió en oficio.
+- **En el Cauce** (cap. 18): pelea de tú a tú con Rey Gallopo — el duelo parejo de la batalla. Ninguno somete al otro.
+- **Cuando Aquila muere** (evento futuro), **Salino se convierte en el nuevo líder de la élite militar Ramon.**
+
+## El espejo con Piggy
+
+Dos seres en el universo comparten el don de la digitalización, y ambos pagan el mismo costo: cada inmersión en el estado digital erosiona las ganas de volver a ser uno mismo. Salino lleva diez años usándolo. La pregunta que define su confrontación final: ¿cuánto queda del pupilo que viajaba en los hombros de su maestro — y contra qué va a pelear Piggy realmente: contra un Ramon, o contra la versión de sí mismo que se quedó del otro lado?

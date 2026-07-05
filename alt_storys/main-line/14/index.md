@@ -1,10 +1,10 @@
 # Fragmentos
 
-El taller de Lucky huele a metal quemado y aceite.
+El taller de Poli huele a metal quemado y aceite.
 
-Piggy está de pie en el centro, con las manos extendidas y los ojos cerrados, rodeado de instrumentos improvisados que monitorean... algo. Nadie sabe bien qué. Lucky construyó los sensores en tres noches con piezas de dos siglos distintos, y cuando Hiroshi le preguntó qué medían exactamente, el viejo respondió con la honestidad de los buenos mecánicos: "No sé. Pero cuando pase, van a sonar."
+Piggy está de pie en el centro, con las manos extendidas y los ojos cerrados, rodeado de instrumentos improvisados que monitorean... algo. Nadie sabe bien qué. Poli construyó los sensores en tres noches con piezas de dos siglos distintos, y cuando Hiroshi le preguntó qué medían exactamente, el viejo respondió con la honestidad de los buenos mecánicos: "No sé. Pero cuando pase, van a sonar."
 
-—Cuando estés listo —dice Lucky, ajustando un sensor en el suelo sin levantar la vista.
+—Cuando estés listo —dice Poli, ajustando un sensor en el suelo sin levantar la vista.
 
 Piggy respira hondo.
 
@@ -16,7 +16,7 @@ Al principio, nada. El zumbido de las máquinas, su propia respiración. Luego l
 
 Abre los ojos. Sus manos brillan — apenas, un resplandor de pantalla encendida en un cuarto oscuro. Pero es suyo. Convocado, no arrancado.
 
-—Bien —dice Lucky, sin dejar de revisar sus instrumentos, y solo el temblor mínimo del lápiz delata lo que le hace ver a su hijo volverse luz—. Ahora extiéndelo.
+—Bien —dice Poli, sin dejar de revisar sus instrumentos, y solo el temblor mínimo del lápiz delata lo que le hace ver a su hijo volverse luz—. Ahora extiéndelo.
 
 Piggy se concentra. El brillo sube por los antebrazos, por los hombros. Se siente ligero, más ligero, peligrosamente ligero —
 
@@ -28,13 +28,13 @@ Cae al suelo jadeando, el pecho ardiendo como después de correr kilómetros que
 
 —Eso... no salió bien.
 
-Lucky se acerca y lo ayuda a sentarse.
+Poli se acerca y lo ayuda a sentarse.
 
 —Funcionó. Te digitalizaste completo, aunque fuera un segundo.
 
 —Un segundo no me sirve de nada.
 
-—Un segundo *a voluntad* vale más que una hora por accidente. —Lucky lo mira con esos ojos cansados que de pronto saben cosas—. ¿Sabes cuál es tu problema? Estás pensando demasiado. Piensas en digitalizarte como si fuera algo que haces. No lo es. Es algo que eres. Deja de tocar la puerta de tu propia casa.
+—Un segundo *a voluntad* vale más que una hora por accidente. —Poli lo mira con esos ojos cansados que de pronto saben cosas—. ¿Sabes cuál es tu problema? Estás pensando demasiado. Piensas en digitalizarte como si fuera algo que haces. No lo es. Es algo que eres. Deja de tocar la puerta de tu propia casa.
 
 —¿Y si pierdo el control otra vez?
 
@@ -172,7 +172,7 @@ Afuera, La Constante sigue moviéndose bajo las primeras estrellas, lenta, terca
 
 Mañana verá a los Ramons de cerca.
 
-Y después, cuando el ancla de Lucky esté lista, volverá al lugar donde se firmó la deuda.
+Y después, cuando el ancla de Poli esté lista, volverá al lugar donde se firmó la deuda.
 
 Esta vez no va a ir a escapar.
 

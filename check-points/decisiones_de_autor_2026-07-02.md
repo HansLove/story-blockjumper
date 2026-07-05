@@ -12,8 +12,8 @@ Resolución de las contradicciones detectadas en la lectura completa del main-li
 ## C2 — Dos Kenzos
 
 - **Kenzo Toro**: piloto de La Arista, hermano de Shika Toro. Personaje del Bloque 99.
-- **Kenzo "Lucky" Bankz**: padre de los hermanos Bankz (Hiroshi, Renji, Piggy).
-- Kenzo Toro NO puede estar en el Bloque 228 — el personaje del taller de La Constante (cap. 13 escrito) debe adaptarse (candidato natural: Kenzo "Lucky" Bankz u otro personaje).
+- **Porfirio "Poli" Bankz**: padre de los hermanos Bankz (Hiroshi, Renji, Piggy).
+- Kenzo Toro NO puede estar en el Bloque 228 — el personaje del taller de La Constante (cap. 13 escrito) debe adaptarse (candidato natural: Porfirio "Poli" Bankz u otro personaje).
 
 ## C3 — Henry: sin poder, con armadura
 
@@ -73,7 +73,7 @@ Al regresar Piggy (Bloque ~228) cae cerca del mercado. Busca el escondite secret
 
 - **Cap. 10 reescrito** ("El tablero"): Henry sin los 21 + Armadura Low-Poly, confesión de Kenzo sobre Bastian, Bobby Doll introducido (libreta de derrotas), muerte de Pietro durante la captura (infarto, crueldad de oficiales, "No era el objetivo", tablero pisoteado, la última partida como gran adiós), primer parpadeo de digitalización de Piggy en el escape.
 - **Cap. 11 reescrito** ("Yo vengo de lo que viene después de ti"): intercepción de Henry (con la semilla de su redención: da un paso al lado — "no es un favor, es un préstamo"), Dirk NO meditando, el pasaje de la novela sobre la soberbia, beats canónicos del diálogo, Atena silenciada con un dedo, la mano de Dirk volada por su propio ataque desviado, digitalización dentro de los hilos, duelo en tránsito, gancho de la asimetría temporal ("envejecidos de más").
-- **Cap. 13 adaptado**: el Kenzo del taller es **Kenzo "Lucky" Bankz, el padre** de los hermanos. Distancia emocional padre-hijos establecida ("un mal padre puede ser un buen mecánico"). Referencias de caps 13-14 cambiadas a "Lucky".
+- **Cap. 13 adaptado**: el Kenzo del taller es **Porfirio "Poli" Bankz, el padre** de los hermanos. Distancia emocional padre-hijos establecida ("un mal padre puede ser un buen mecánico"). Referencias de caps 13-14 cambiadas a "Poli".
 - **Cap. 9 corregido**: Woodrow (no Lang) abre el contenedor del puerto.
 - **Esclavista ancestro Gallopo = CANON**: murió en el barco hundido de Fokus. Los Ramons custodian sin saberlo el secreto del linaje Gallopo. Registrado en Resonite.md.
 - **Henry — semilla de redención plantada en cap. 11**: deja pasar a Piggy tras la pelea. Esto NO lo suaviza (la pelea es brutal); le da la primera grieta que T3 va a abrir.

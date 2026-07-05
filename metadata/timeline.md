@@ -22,10 +22,10 @@
 
 ## Grafías canónicas
 
-- **Bankz** (no Bancs, no Banks) — los hermanos Bankz: Hiroshi, Renji, Toshi "Piggy". Padre: **Kenzo "Lucky" Bankz**.
+- **Bankz** (no Bancs, no Banks) — los hermanos Bankz: Hiroshi, Renji, Toshi "Piggy". Padre: **Porfirio "Poli" Bankz**.
 - **Sailor Capital** (no Saylor)
 - **Blue** (la familia, no Blu)
-- **Kenzo Toro** (piloto, hermano de Shika Toro) y **Kenzo "Lucky" Bankz** (padre de los Bankz) son dos personajes distintos. Kenzo Toro pertenece al Bloque 99 y NO puede aparecer en el 228+ — el personaje del taller de La Constante (cap. 13) debe adaptarse.
+- **Kenzo Toro** (piloto, hermano de Shika Toro) y **Porfirio "Poli" Bankz** (padre de los Bankz) son dos personajes distintos. Kenzo Toro pertenece al Bloque 99 y NO puede aparecer en el 228+ — el personaje del taller de La Constante (cap. 13) debe adaptarse.
 
 ## Nomenclatura de pueblos
 

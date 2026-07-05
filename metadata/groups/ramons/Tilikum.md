@@ -31,10 +31,14 @@ Gaita no es enemigo de los Ramons por ideología — simplemente no opera dentro
 
 El Capítulo 1 transcurre en el oasis de agua dulce más grande bajo control Shi — el objetivo estratégico más importante en el inicio de la guerra. Los Tilikum lo toman por la fuerza, expulsando a los Shi. Gaita es una complicación dentro de ese evento: presente, peligroso, e incontrolable para ambas partes.
 
-## Rangos y miembros (a revelar gradualmente)
+## Rangos y miembros
 
-El sistema de rangos Tilikum se irá revelando a lo largo de la historia. Lo que se sabe hasta ahora:
 - El rango Tilikum = fuerzas especiales de combate
-- Aquila = líder de la unidad
-- Los miembros tienen distintas bases animales
+- **Aquila** = líder de la unidad. Mata a Rey Gallopo en el Cauce — la medida definitiva de su poder: el hombre que cayó ante él se llevó antes a dos Tilikum y empató con un tercero.
+- **Salino** = Tilikum élite, el más pequeño por mucho. Sucesor: cuando Aquila muere, Salino se convierte en el nuevo líder de la élite militar Ramon.
+- **El equipo Ramboo** (ver `alt_storys/elite-ramons-team.md`): escuadrón élite de diez — Ramboo (líder, lee el flujo), Bismarck (regeneración, el que no se hunde), Liberty (logística, tímido), Royal (eléctrica, distante), Yamato (camarón pistola, su familia fue comida — gancho con el Otro Lado), Nautilus (explorador UV), Hood (sangre real, terror de no estar a la altura), Sprite (memoria viva), Texas (torpe en calma, devastador en furia), Victorious (mantis del código).
 - Gaita = Ramon con capacidad de élite pero sin afiliación a Tilikum
+
+## El Cauce
+
+Institución Ramons de resolución de disputas por duelo de campeones. Una especie económica no desperdicia ejércitos en litigios administrables: las disputas de agua y territorio pueden resolverse por combate formal entre campeones designados. El Cauce del cap. 18 (Tilikum vs Rey Gallopo) termina con la muerte de Gallopo a manos de Aquila — y con el respeto entre especies que hará posible la alianza contra el Otro Lado.
