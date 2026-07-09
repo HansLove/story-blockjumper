@@ -152,6 +152,84 @@ Los días siguientes son de preparación.
 
 Kenzo reúne información sobre Dirk: horarios, rutas, hábitos. Piggy entrena en el almacén, recuperándose de Henry, y piensa en lo que el hombre rubio le enseñó a golpes: que en este mundo hay gente que sin ningún don puede pararse por encima de los dones. Que el trabajo acumulado pesa más que el talento. En su época, los viejos soldados decían lo mismo de otra forma: teme menos al que nació fuerte que al que se hizo fuerte.
 
+Y por las noches, contra toda prudencia, Piggy sale a rodar.
+
+Lo necesita. No es entrenamiento — el entrenamiento se hace en el almacén, contra el costal. Esto es otra cosa: la ciudad vacía, la velocidad, el único momento del día en que su cuerpo y su historia están de acuerdo. Rueda por los distritos dormidos con la Hashboard ronroneando bajo los pies, y a veces, en los descampados de la periferia donde nadie mira, la despliega completa.
+
+La espada.
+
+Está descompuesta desde la noche que cortó los hilos. La transformación ya no cierra bien: la hoja se arma con un tartamudeo de luz, chisporrotea en el filo, y deja en el aire una estela tenue que tarda segundos en apagarse — la misma firma que Henry aprendió a leer. Por eso casi nunca la usa. La espada rota es su objeto más peligroso y su prueba más pura: no hay nada en todo el Bloque 99 que se le parezca.
+
+Solo dos personas en este tiempo la han visto de cerca.
+
+Fue un accidente. Semanas atrás, una madrugada detrás del mercado, Piggy la desplegó para ajustar el mecanismo dañado — y Bobby estaba ahí, sentado en la escalera de incendios con su libreta de derrotas, sin poder dormir, mirándolo todo con los ojos del tamaño de las mandarinas. No gritó. Eso fue lo notable: el muchacho tímido no gritó ni corrió. Cerró la libreta, bajó despacio, y dijo la frase menos infantil que Piggy le había oído a nadie:
+
+—Si me explicas, no le digo a nadie. Pero si no me explicas, voy a investigar solo, y me van a atrapar, y va a ser tu culpa.
+
+Así que se vieron obligados a decirle. Y decirle a Bobby fue decirle a Pietro, porque entre ese muchacho y ese abuelo no existían las paredes.
+
+Piggy recuerda esa noche como una de las extrañas de su vida. El viejo escuchó la historia completa — el futuro, la guerra, los hilos, el salto — sin interrumpir ni una vez, con la misma cara con que evaluaba fruta. Después pidió ver la espada. La tomó con las dos manos, con el respeto de oficio de quien ha manejado metal caliente toda su vida, y la acercó a la lámpara. La giró. Pasó el pulgar de la mano cicatrizada por el plano de la hoja, donde la luz tartamudeaba.
+
+—Yo fui aprendiz de fundidora, muchacho. Catorce años metido entre plata y aleaciones. —La devolvió con cuidado de reliquia—. Este metal no existe. No es que sea raro: es que no existe. Nadie de este mundo lo ha fundido todavía. —Y se encogió de hombros, como quien acepta un precio justo—. No sé de cuándo eres. Sé que llegas antes que nosotros a todo. Con eso me alcanza.
+
+Bobby, en cambio, hizo mil preguntas. Los adultos necesitan pruebas; los muchachos solo necesitan permiso para creer. Preguntó por la guerra, por los Ramons, por las criaturas del agua, y anotó las respuestas en la libreta de las derrotas, en una sección nueva que tituló — Piggy lo vio de reojo y no dijo nada — *"cosas que van a pasar"*.
+
+---
+
+La cuarta noche después de Henry, alguien lo caza.
+
+Piggy va rápido por la avenida muerta de la zona industrial cuando lo oye: un motor. No un motor de patrulla — algo más viejo, más ronco, afinado por alguien que sabe exactamente cuánto se le puede exigir a cada pieza. Mira atrás y ve un vehículo civil, abollado, sin placas, con una sola farola funcionando.
+
+Y viene *cerrando*.
+
+No debería poder. La Hashboard, incluso rota, dobla en velocidad a cualquier cosa con ruedas de esta época. Pero el vehículo no compite en velocidad: compite en línea. Corta cada curva en el vértice exacto, roba metros en cada frenada, aparece donde Piggy va a estar con una lectura de trayectorias que Piggy solo le ha visto a una persona en este tiempo — y a ese lo vio por televisión, levantando un trofeo.
+
+*Maneja como Kenzo*, piensa. Y un frío le baja por la espalda. *No. Maneja como el hermano de Kenzo.*
+
+El vehículo lo roza. Un beso de lámina contra la cola de la tabla, quirúrgico, insolente — no para tirarlo: para avisarle que puede. Piggy quiebra a la izquierda por un callejón imposible y el vehículo lo espera del otro lado, atravesado, con la puerta ya abierta.
+
+Piggy frena. La tabla chisporrotea.
+
+Del vehículo baja un hombre en ropa de hospital con una chamarra encima, atlético y devastado a la vez, como una estatua a la que le quitaron el pedestal. Piggy lo reconoce por los ojos — los mismos ojos intensos del piloto del trofeo, pero con algo detrás que no debería estar ahí. O con algo que falta y dejó la puerta abierta.
+
+Shika Toro. El astronauta. El que volvió mal del otro lado.
+
+—Tú —dice Shika, y avanza sin ninguna amenaza y con toda la certeza del mundo—. Te vi desde el puente. Tres noches llevo esperándote. —Sonríe, y la sonrisa está rota por la mitad—. Estaba harto del hospital. Las paredes blancas son lo peor para la gente que ya vio el blanco de verdad.
+
+—No sé quién crees que—
+
+—Brillas —lo corta Shika, simplemente—. Cuando aceleras. Brillas como... —busca la palabra con una paciencia extraña— ...como brillaba el borde del mundo. Nadie más lo ve, ¿verdad? Yo veo cosas que nadie más ve. Es mi problema desde que volví. —Da otro paso—. Necesito saber una cosa. Solo una.
+
+Piggy calcula la fuga. No la ejecuta. Hay algo en el hombre — el hermano de Kenzo, el que pagó el precio de tocar lo intocable — que le impide tratarlo como amenaza.
+
+—¿Qué cosa?
+
+—Si eres real.
+
+Y antes de que Piggy pueda decidir nada, Shika cierra la distancia y lo toca — la mano entera en el antebrazo, un agarre firme, casi desesperado, de hombre comprobando la solidez del mundo.
+
+Pasan dos cosas.
+
+La primera la siente Shika: sus hombros bajan. El aire le entra completo por primera vez en meses. Piggy no puede saberlo, pero desde el otro lado, desde que la criatura lo miró, Shika vive bajo un párpado que no se cierra — y al tocar a este muchacho que brilla, por un instante, un solo instante bendito, la mirada se distrae. Se va a otra parte. Shika casi llora del alivio.
+
+La segunda la siente Piggy, y no tiene palabras de ninguna época para describirla: durante medio latido, algo lo *nota*. No Shika — algo detrás de Shika, muy lejos y muy abajo, algo del tamaño de un clima. Como caminar frente a una casa abandonada y saber, sin evidencia, que una ventana acaba de fijarse en ti. Dura menos que un parpadeo. Después, nada.
+
+—Real —murmura Shika, soltándolo despacio. Se mira la palma de la mano como si guardara algo—. Qué bueno. Ya no estaba seguro de en qué dirección quedaba lo real.
+
+A lo lejos, dos pares de luces doblan la esquina. Vehículos discretos, de esos que no llevan sirena porque las sirenas avisan. Los cuidadores del hospital sin nombre, buscando a su paciente fugado.
+
+—Vete —dice Shika, sin darse la vuelta—. A mí ya me encontraron hace mucho. A ti todavía no. —Y mientras Piggy monta la tabla, agrega, con la voz repentinamente clara, clínica, de comandante de nave reportando coordenadas—: Oye. Lo que está allá abajo no odia. No ama. Solo mira. Pero contigo... —ladea la cabeza, como escuchando un instrumento— ...contigo va a hacer una excepción. No sé de qué tipo. Procura estar lejos cuando lo decida.
+
+Piggy acelera y no mira atrás.
+
+En el espejo del último vidrio roto del callejón, alcanza a ver a Shika Toro sentado en el cofre de su vehículo, con las manos en las rodillas y la cara al cielo, esperando a sus captores con la serenidad de un hombre que consiguió, por una noche, lo que había salido a buscar.
+
+Piggy no entiende lo que pasó.
+
+No lo va a entender en años. Y para cuando lo entienda, va a estar en otro tiempo, y algo del tamaño de un clima va a estar despertando del suyo.
+
+---
+
 La última tarde, Piggy vuelve al mercado.
 
 Se dice a sí mismo que es para avisarle a Pietro que va a ausentarse unos días. Sabe que es mentira. Es para verlo. Para quedarse con una imagen de esa normalidad que el viejo le regaló sin pedirle papeles: el olor a fruta madura, la caja volteada con el tablero encima, la libreta de Bobby con su contabilidad de derrotas.

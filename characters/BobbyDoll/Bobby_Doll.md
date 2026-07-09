@@ -26,6 +26,16 @@ Tiene un grupo de amigos que le ayudan a Piggy en su momento. Bobby aporta lo qu
 
 Cuando Piggy regresa (el momento exacto de su alianza está pendiente de definir en la estructura), Bobby ya no es el chico de los granos del mercado. Los años lo transformaron en un operador. Pero el vínculo emocional es el mismo: ambos aman al mismo muerto. Piggy fue el último amigo de Pietro; Bobby es su sangre. La apertura Pietro es de los dos.
 
+## Lo que Bobby sabe (canon, cap. 10)
+
+Bobby descubrió por accidente la espada Hashboard de Piggy — una madrugada detrás del mercado, desde la escalera de incendios, con su libreta en la mano. No gritó: negoció ("Si me explicas, no le digo a nadie"). Piggy se vio obligado a contarles la verdad a él y a Pietro. El viejo, ex-aprendiz de fundidora, examinó la hoja y dio el veredicto: "Este metal no existe. No sé de cuándo eres. Sé que llegas antes que nosotros a todo."
+
+Bobby anotó todo en una sección nueva de su libreta: **"cosas que van a pasar"** — la guerra, los Ramons, las criaturas del agua. Esa libreta es el documento fundacional de su futuro grupo.
+
+## El grupo (post-T1)
+
+Tras la muerte de Pietro y la partida de Piggy, Bobby funda un grupo de chicos y chicas de 16-18 años que creen la historia del futuro y la invasión acuática que viene. Ver [[los-nodos]] (`metadata/groups/los_nodos/LosNodos.md`). Es la red de apoyo que espera a Piggy cuando regrese al Bloque 99 — para que el protagonista no sea un caballero solitario en T3.
+
 ## Rasgos para escritura
 
 - Habla poco en grupos grandes, mucho en conversaciones de dos

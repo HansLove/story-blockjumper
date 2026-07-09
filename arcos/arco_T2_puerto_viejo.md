@@ -58,7 +58,8 @@ El Otro Lado revelado: Velora, el Fokus agotado, Fungura, los duendes y elfos bi
 - El contacto Piggy-Shika Toro DEBE ocurrir en T1, antes del cap. 11. Forma: casual y física. Propuesta canónica del autor: **Shika, harto del hospital, escapa; descubre a Piggy patinando y lo persigue; lo toca.** Con el toque basta: la mente de Eie del momento (era Newman) se impregna en Piggy.
 - La detección: cuando Piggy vibra alto durante los conflictos del 228+ y se acerca demasiado a la cueva de Velora, llama la atención de Eie — que se autorreconoce en él.
 - **Piggy y Eie NUNCA se cruzan.** Cuando la invasión inicia, Piggy ya se fue de vuelta al 99.
-- Inserción pendiente: escena breve entre caps 9 y 11 (candidato: interludio dentro del cap. 10).
+- **HECHO (2026-07-04)**: escena insertada en el cap. 10, sección "días de preparación". Incluye: las rodadas nocturnas de Piggy, la espada Hashboard descompuesta (tartamudeo de luz, estela — la firma que Henry rastrea), el flashback del descubrimiento de Bobby (escalera de incendios, "cosas que van a pasar"), Pietro ex-fundidor validando el metal que no existe, la persecución de Shika (vehículo más lento, manejo brillante — "maneja como el hermano de Kenzo"), el toque (alivio para Shika: la mirada se distrae; para Piggy: algo del tamaño de un clima lo nota medio latido), y la advertencia de Shika: "contigo va a hacer una excepción. Procura estar lejos cuando lo decida."
+- **Grupo juvenil de Bobby Doll**: chicos y chicas 16-18, creen la historia del futuro y la invasión acuática. Red de apoyo de Piggy para T3/Batalla de los Forks — no caballero solitario. Archivo: `metadata/groups/los_nodos/LosNodos.md` (nombre "Los Nodos" propuesto, pendiente de confirmación).
 
 ### El regreso de Piggy al 99 (final de T2) — ESTRUCTURA CANON
 
