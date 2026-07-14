@@ -118,6 +118,8 @@ De regreso al mercado, Piggy no puede quitarse la imagen de la mente.
 
 ¿Qué están haciendo con esas bacterias? ¿Por qué Woodrow las custodia personalmente? ¿Y qué tiene que ver todo esto con los hilos de Dirk?
 
+No piensa en Ramón. No puede: el reciclador del sábado y los frascos del puerto viven en compartimentos distintos de su cabeza, como deben vivir los que aún no conectan puntos que no tienen derecho a conectar.
+
 Las preguntas se le acumulan como deudas.
 
 Pietro lo espera con una mandarina pelada y una mirada que dice "sé que viste algo".

@@ -23,6 +23,16 @@ Los días en el mercado se vuelven repetición y refugio. Pietro le enseña a re
 
 Piggy gana algo de peso, no por comodidad sino por tregua. Por primera vez en mucho tiempo su estómago conoce horarios. La guerra en su cabeza no se detiene, pero baja el volumen.
 
+El primer sábado que lo nota, un hombre bigotón empuja una carretilla de latas por el pasillo del mercado. Las ruedas chirrian como grillos viejos. Pietro deja la mandarina a medio pelar y levanta la mano.
+
+—Ramón. ¿Cómo va el metal?
+
+—Mejor que la fruta, viejo. —El hombre sonríe sin prisa, y en esa sonrisa hay un cansancio tan honesto que Piggy lo registra sin saber para qué—. ¿Este es el muchacho?
+
+—El muchacho trabaja —dice Pietro, y eso es presentación y protección a la vez.
+
+Ramón asiente, acomoda una lata que se le escapaba, y sigue. Piggy vuelve a las cajas. No pregunta. En el Bloque 99 ha aprendido que los secundarios que no te deben nada son un lujo.
+
 Aun así, el futuro le arde bajo la lengua.
 
 En cada transmisión del noticiero aparece el mismo nombre con distintas voces: Under End. La expedición al otro lado. El sur absoluto. Una promesa imposible convertida en proyecto estatal, financiado por los Blu, administrado por Dirk Newman, construido por zPace.

@@ -8,6 +8,12 @@ Ex-aprendiz de fundidora de plata. La cicatriz de quemadura que cruza su palma e
 
 Jugador de ajedrez. Tenía una revancha pendiente con Piggy.
 
+## Ramón — amistad del mercado — CANON
+
+**Ramón** recoge latas y chatarra los fines de semana por el mercado y las calles cercanas. Pietro lo conoce de años: amistad de formalidades — saludos ceremoniosos los sábados, cajas y metal guardados, café compartido a veces. Pietro lo presenta a Piggy solo como *el del reciclaje*, sin explicar más.
+
+Pietro nunca menciona el trabajo de Ramón entre semana. No sabe —o no le importa— que Ramón hace otra cosa en zPace.
+
 ## La muerte — CANON
 
 **Pietro muere de un infarto durante la captura de Piggy en el mercado.** El susto y la violencia de los oficiales del escuadrón detienen su corazón.

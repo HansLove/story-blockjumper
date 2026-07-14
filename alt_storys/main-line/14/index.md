@@ -54,7 +54,7 @@ Piggy se acerca. Los puntos forman un patrón: se concentran en las costas, sigu
 
 —No. —La voz de Hiroshi carga la década entera—. Al principio eran salvajes. Bestias sin estrategia. Pero algo los hizo evolucionar, y rápido. Los primeros avistamientos fueron hace casi cien años: barcos desaparecidos, pescadores atacados, leyendas de puerto. Nadie les creyó a los pescadores. Nunca nadie les cree a los pescadores, hasta que el mar se organiza.
 
-Piggy piensa en un hombre bigotón y cansado vertiendo frascos en un retrete, y no dice nada. Hay culpas que no son de quien las carga, y esa lección también viene del Bloque 99.
+Piggy piensa en Ramón — el del reciclaje, el que Pietro saludaba los sábados con una formalidad que parecía fe — y no dice nada. Hay culpas que no son de quien las carga, y esa lección también viene del Bloque 99, aunque todavía no sepa de qué sirvió aquel hombre en la historia grande.
 
 Hiroshi extiende dibujos sobre la mesa.
 

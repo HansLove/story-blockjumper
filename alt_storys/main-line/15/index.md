@@ -44,6 +44,20 @@ Y sin embargo.
 
 —La ciudad *no quiere* saberlo. Es distinto. Es un acuerdo más viejo que yo: yo les traigo lo que necesitan sin decirles de dónde, y ellos me llaman héroe sin preguntar. —Hiroshi destapa la petaca, y esta vez el trago es más largo—. La fe es eso, Piggy. Un acuerdo de no preguntar.
 
+En un puesto Ramon, pegado al mástil de una embarcación de Reso, cuelga un panel lacado: un rostro humano idealizado, bigote grueso, hombros caídos, manos abiertas sobre agua estilizada. El dueño del puesto pasa el dedo por el borde del marco con un respeto de refugio.
+
+—Ramon —murmura, como quien dice un rezo—. El Libertador.
+
+Piggy se detiene. El mercado sigue negociando a su alrededor, pero él está otra vez en un pasillo de Sailor Capital, oliendo mandarinas y chatarra, escuchando a Pietro decir *Ramón, el muchacho trabaja*. La misma cara. La misma dignidad cansada. Un dios para ellos; un hombre que devolvió una mandarina para un muchacho que no le debía nada.
+
+Hiroshi nota el silencio.
+
+—¿Piggy?
+
+—Nada —dice—. Solo... una cara que ya vi.
+
+No explica. No sabe cómo. Todavía no.
+
 ---
 
 La delegación los espera al final del muelle central, bajo un toldo azul.

@@ -188,7 +188,13 @@ En el mercado, Piggy escucha los rumores como quien escucha el viento.
 
 "Dicen que el gobierno miente."
 
-Piggy acomoda fruta, cuenta tablores, y piensa en criaturas de cuatro patas que no hacen nada y lo hacen todo. Piensa en Dirk y sus hilos. Piensa en las bacterias del puerto. Piensa en que todo está conectado por debajo, como los drenajes, como las raíces, como las deudas.
+Ramón pasa entre los puestos con la carretilla ya vacía y se detiene cuando ve a Pietro cargando cajas al fondo. Sin pedir permiso — con la confianza de quien lleva años entrando — toma un extremo del cajón y lo deja en su sitio. Pietro murmura un gracias. Ramón niega con la cabeza, como si la deuda fuera al revés.
+
+—Para usted, viejo —dice, y le ofrece a Piggy una mandarina que sacó del bolsillo de su chamarra—. No me debes nada, muchacho. Yo recojo lo que otros tiran.
+
+Piggy acepta por educación. El hombre huele a jabón barato y a calle. Gente buena que no le debe nada: en su experiencia, eso es más raro que un milagro.
+
+Piggy acomoda fruta, cuenta tablores, y piensa en criaturas de cuatro patas que no hacen nada y lo hacen todo. Piensa en Dirk y sus hilos. Piensa en las bacterias del puerto. Piensa en que todo está conectado por debajo, como los drenajes, como las raíces, como las deudas — sin saber todavía quién, ni cómo.
 
 —Estás muy callado —le dice Pietro.
 
