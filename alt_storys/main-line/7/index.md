@@ -1,4 +1,4 @@
-Block Jumper #7
+# The loop
 
 Piggy ha ganado algo de peso. Come mejor. Duerme mejor. Y aun así, por dentro, no descansa.
 La vida es dura cuando estás solo; cuando todo depende de ti y aprendes, a golpes, que no puedes recargarte en nadie. Tú eres la última capa de resistencia. Si cedes, no hay segunda línea.

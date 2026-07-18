@@ -7,8 +7,7 @@ Sus botas enlodadas levitan sobre una pálida alfombra. Al final de ella hay una
 —Tú… ¿quién eres?
 
 Antes de que Piggy pueda responder, una imponente perra de belleza feroz estalla en ladridos.
-![Alt text](/public/chapters/2/dirk-1.png)
-
+Alt text
 
 Mientras el hombre intenta calmar a la perra, el cuerpo de Piggy empieza a inflarse y a recuperar su volumen, como un acordeón que se abre de golpe. El proceso lo deja aún más desorientado: mareo, frío, dolor en el hombro, un zumbido persistente en los oídos.
 
@@ -19,25 +18,22 @@ No es un asesino ni un soldado, pero la duda lo empuja a una conclusión brutal:
 El pánico lo toma por la garganta. En el horizonte, entre edificios, distingue una bandera carmesí ondeando hacia las penínsulas montañosas del norte. Y decide.
 
 Salta por la ventana del alto departamento.
-![Alt text](/public/chapters/2/piggy-coming.png)
-
+Alt text
 
 Al caer, Piggy rompe los cristales. Las piezas llueven hacia la calle como gotas afiladas y alcanzan a un hombre sin hogar: Rodolfo, un anciano con vibras de Diógenes, que alguna vez soñó con ser un flautista famoso y terminó empujado por placeres fáciles hasta quedar al margen de todo.
 
-Piggy lo ve. Apenas un parpadeo, pero le alcanza para sentir un golpe en el pecho. El cuerpo le pide detenerse; el miedo lo arrastra. Aun así, el remordimiento le muerde: Rodolfo cae y Piggy solo alcanza a voltear una vez, como quien se promete regresar sin saber si podrá.
+Lo ve. Apenas un parpadeo, pero le alcanza para sentir un golpe en el pecho. El cuerpo le pide detenerse; el miedo lo arrastra. Aun así, el remordimiento le muerde: Rodolfo cae y Piggy solo alcanza a voltear una vez, como quien se promete regresar sin saber si podrá.
 
 Sin perder un segundo, Piggy invoca su Hashboard y se desliza por el costado del edificio a gran velocidad, tocando las calles en cuestión de instantes. Se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desata la curiosidad de quienes voltean a ver al incidente andante que deja un torbellino de destrucción a su paso.
 
-![Alt text](/public/chapters/2/piggy-running.png)
-
+Alt text
 
 Piggy logra salir de la caótica urbe y se adentra cada vez más en el follaje, creando un rastro de polvo y vegetación en la terracería por la que surca. 
-![Alt text](/public/chapters/2/city.jpg)
+Alt text
 
 El rastro es frenado inmediatamente por una espesa llamarada en forma de red que bloquea el arbolado camino, deteniendo la aceleración de Piggy, destruyendo su Hashboard e impidiendo su escape; el área de la red se reduce, el calor se hace más sofocante y el humo que emana ciega su vista progresivamente y le impide respirar. Finalmente, Piggy pierde la conciencia.
 
-![Alt text](/public/chapters/2/piggy-sur.png)
-
+Alt text
 
 Al despertar, Piggy se da cuenta de que está en una celda, y de que un par de sujetos con guantes y capuchas rojas lo vigilan desde el pasillo. No son soldados comunes: sus ropas parecen diseñadas para resistir el fuego, como si el calor fuera parte cotidiana de su oficio. Los Sitters.
 
@@ -72,7 +68,7 @@ Los guardias se ponen de pie y escoltan a Piggy fuera de la cámara y del templo
 Todavía desnudo, Piggy siente que el aire le muerde la piel. Se viste a toda prisa, torpe, pudoroso, amarrándose el cinturón con manos temblorosas. A lo lejos, una familia avanza por el camino: risas bajas, pasos tranquilos. Piggy baja la mirada y se aparta, como si la vergüenza pudiera delatarlo más que cualquier guardia.
 
 Con calma, Piggy contempla las afueras de la ciudad desde las alturas en las que se encuentra. Observa la estructura de la ciudad, la posición de las estrellas y las montañas. “La estructura de la ciudad es familiar, pero todo luce distinto. La posición de las estrellas, el uso masivo de metal… No me cabe duda: estoy en el pasado. Salté en el tiempo cortando esos hilos.” 
- 
+
 Los últimos rayos del sol terminan de bajar por el horizonte, oscureciendo cada vez más el panorama. Piggy busca algún lugar donde pueda pasar la noche en la periferia de la ciudad, encuentra una gran procesadora de metales que funciona de manera automática y decide quedarse ahí, el calor de la maquinaria ayuda contra el frío de la noche y sabe que nadie lo notará durmiendo.
 
 A altas horas de la madrugada, un grupo de cuatro sujetos merodean la zona mientras cargan varias cajas llenas de distintos tipos de chatarra metálica. Uno de ellos se percata de los ronquidos de Piggy entre los silencios que hay en cada intervalo de la maquinaria y le dice a sus secuaces que se acerquen con cautela, tras una inspección más cercana, los sujetos toman el cinturón de Piggy, pero antes de poder salir de escena, uno de ellos se tropieza y tira todos los metales que llevaba en su caja, despertando a Piggy. 
@@ -95,7 +91,7 @@ Con la mitad fuera de combate, Piggy se incorpora con los ojos irritados, sangre
 
 El último ladrón que queda en pie le ruega perdón mientras corre, pero de repente se ve la luz de una linterna a la distancia y una voz grita a lo lejos “¿Quién anda ahí? ¡Llamaré a la policía!”. Piggy toma la mochila donde metieron su cinturón y escapa del lugar, dejando huir al ladrón sobrante. 
 
-Caminando entre las quietas calles de la ciudad momentos antes del alba, Piggy revisa el resto del contenido de la mochila y encuentra muchos papeles con varios números y un signo en común al final; signo que ha visto en muchos lugares de la ciudad. Toma uno y lo inspecciona cuidadosamente, su rostro se congela y se paraliza cuando lee la fecha de emisión de ese billete: bloque 99, más de 100 bloques antes del nacimiento de Piggy.
+Caminando entre las quietas calles de la ciudad momentos antes del alba, Piggy revisa el resto del contenido de la mochila y encuentra muchos papeles con varios números y un signo en común al final; signo que ha visto en muchos lugares de la ciudad. Toma uno y lo inspecciona cuidadosamente, su rostro se congela y se paraliza cuando lee la fecha de emisión de ese billete: bloque 99, más de 80 **bloques** antes del nacimiento de Piggy.
 
 De pronto todo hace sentido, la apariencia de la ciudad, la bandera carmesí, el uso masivo de metal, la posición de las estrellas; no está en un lugar lejano o en otra dimensión, está en el pasado. Perplejo, susurra a sí mismo “De algún modo…salté en el tiempo cortando esos hilos”.
 
@@ -109,8 +105,6 @@ La voz debilitada, perteneciente a un anciano, se acerca y le da una moneda al v
 
 En un amistoso intercambio de palabras el anciano, llamado Pietro, le dice a Piggy “No eres de por aquí ¿Cierto?” a lo que él le responde “¿Acaso es tan evidente?” Con una afable expresión, el señor Pietro le contesta “Lo digo por esa amabilidad, que es algo inusual en Sailor Capital”. Antes de que Piggy pudiera responder algo, el hombre canoso comenta “Me vendría bien un poco de ayuda, a veces cargar cosas se hace muy pesado para alguien de mi edad ¿Te gustaría echarme una mano?”.  
 
-
 [fork: Ruta A — Salino interviene →](../2A/index.md)
 [fork: Ruta B — Hiroshi se retira →](../2B/index.md)
 [next_chapter →](../3/index.md)
-
