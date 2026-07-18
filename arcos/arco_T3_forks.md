@@ -46,11 +46,22 @@ La noche de la apuesta y el salto banal. La zona 0. La calma sofocante. El porta
 ### ACTO III — La batalla (caps ~30+)
 Los 29 meses. La ciudad puerto como centro del mundo. Green cruzando a eliminar "bots". Green mata a Dirk-del-fork (batalla ÉPICA). Piggy vs Green — las batallas grandes. El final canon: **Alex se cuelga** — su muerte colapsa una realidad — y **Donna Colombo toma el estado**. (Tímpano absorbiendo todo, invisible, hacia su T4.)
 
-## Preguntas abiertas
+## Preguntas RESUELTAS (2026-07-06)
 
-1. **La colisión de nombres Green**: Nicolas Green (dictador de Velora, Nodo, de los 21) vs Green (el Piggy del fork). ¿Coincidencia a resolver, o el fork-Piggy recibe el nombre "Green" por alguna razón conectada (los medios lo bautizan, un color, una ironía)? Necesita decisión antes del Acto II.
-2. **La hija de Alex**: ¿edad, nombre, la ve o solo la extraña? ¿Vive con la madre en Sailor Capital o lejos?
-3. **El nombre de la ciudad puerto / zona 0.**
-4. **Los 4 Hermanos**: nombres y oficio de los gemelos originales.
-5. **¿Green sabe que Alex causó el fork?** ¿Alguien lo sabe, o el origen es un misterio que la temporada revela?
-6. **La cronología dentro del fork**: la muerte de Dafne-de-Green — ¿cuánto tiempo después del fork? ¿Piggy-original también pierde a su Dafne o ella vive de este lado (el espejo: una Dafne viva y una muerta)?
+1. **Green (fork de Piggy) = nickname; Nicolas Green = apellido.** Al fork-Piggy le dicen Green porque **su aura es verde, igual que su espada**. Sistema de colores canon: la espada de Piggy es AZUL; la de Green se va haciendo cada vez MÁS VERDE con el tiempo; la de Piggy se va haciendo ROSA/ROJO. (La divergencia de las cadenas, visible en las hojas — el fork medible en color.)
+2. **La hija de Alex se llama Carol.**
+3. **La ciudad puerto / zona 0 = PUERTO SANTO** (a 6 horas de Sailor Capital).
+4. **Los gemelos = Chaneke y Ferni** (Chaneke el mayor). Orejones, llenos de tatuajes, muy habilidosos en el combate. + sus forks = los 4 Hermanos.
+
+### Cap 23 — "Cielos sangrantes" — ESCRITO (2026-07-06) — APERTURA DE T3
+- **Apertura**: los niños juegan al Demonio del Colapso (máscara de seis caras; "el Demonio no se atrapa" — regla del juego). El cielo rojo permanente (la Torre en fuegos bajos tiñendo las nubes). Doña Chela: "Cuando el cielo se puso del color de la herida, hasta los ateos empezamos a ahorrar."
+- **La fiebre de las blue coins**: cordones de Fokus bajo la ropa como reliquias; hasta los soldados que fusilan acaparadores tienen el suyo. Bobby con el mapa: "Nuestro miedo les está pagando el imperio" (Velora/Rio Negro/Mostaza). El horror privado de Piggy: "están vendiendo la cerradura de la puerta del infierno como alcancía".
+- **Los Nodos del 107**: la organización que su enemigo inventó ("nadie busca la infraestructura de un fantasma") — 20 bodegas, contrabando humanitario, medicina a los enclaves Saviens (lo que los fusila a todos), mudanza de gente. Max: "A veces las cosas respiran." El pizarrón: la deuda / lo de abajo / "No dejar que esta ciudad se coma a sí misma antes de tiempo" (Rita).
+- **Dafne llega como polizón** en el camión de alimentos ruta Velora (canales de Sandor Miel). Tercer encuentro: ÉL NO LA RECUERDA (tercera vez; "hay algo específicamente cruel en ser inolvidable para una misma e invisible para el otro"). Ofrece inteligencia del círculo de Nicolas Green a cambio de techo, trabajo limpio y "no volver a ser encontrada por nadie, nunca". Escena final del techo: guarda las palabras preparadas.
+- **Alex presentado**: "el Flaco de las cartas" (Max: "el mejor peor jugador del hemisferio: lee la mesa como un dios y apuesta como un huérfano"). La noche de lluvia bajo el alero: Carol (cumple 9, dibuja "objetivamente como los ángeles"), la caja de pinturas de la Séptima, "se pierde en un minuto; todo lo demás es la caminata hacia el minuto", y "el tiempo es el único crupier honesto". Piggy: "Me cae bien / A mí también. Y no sé por qué me da miedo eso."
+- **Estado del mundo**: Donna con la Oficina de Orden Civil ("ya no promete orden, lo administra"); Henry = la cacería como correspondencia de ajedrecistas (3 años, 0 capturas, ambos a propósito; "el día que atrape al Demonio, la ciudad tendrá que inventarse otro"); Dirk en calendario de pescas cada 3 semanas — **la marea del futuro se defiende** (la alianza del 228 protege sus reservas): "ya no pesco en un mar. Pesco en un territorio." Y la deriva: cuando la deuda no encuentra futuro que drenar, drena el presente.
+- **Cierre**: Puerto Santo presentado en tres líneas — el empleado de aduana, "un lugar sin importancia. Todos los mapas están de acuerdo. Los mapas tienen un mes de vida."
+
+## Preguntas aún abiertas
+- ¿Green sabe que Alex causó el fork? ¿El origen es misterio de temporada?
+- Cronología de la muerte de Dafne-de-Green post-fork; ¿la Dafne del lado de Piggy vive (el espejo: una viva y una muerta)?
