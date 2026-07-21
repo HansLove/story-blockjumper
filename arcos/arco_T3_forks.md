@@ -38,7 +38,7 @@
 ## Estructura de actos (propuesta aprobada en lo general)
 
 ### ACTO I — El Demonio y la ciudad rota (caps ~23-26)
-Piggy + los Nodos en la Sailor Capital de la guerra civil y los cielos sangrantes. La cacería del Demonio del Colapso (Henry). La fiebre de las blue coins → hilo Velora (Rio Negro, la dictadura, Mostaza). El reencuentro con Dafne (ella lo recuerda; él no — la pena). Donna consolidándose; Dirk exprimido. Presentación de Alex el apostador — cercano al lector antes de ser importante.
+Piggy + los Nodos en la Sailor Capital de la guerra civil y los cielos sangrantes. La cacería del Demonio del Colapso (Henry). La fiebre de las blue coins → hilo Velora (Rio Negro, la dictadura, Mostaza). El reencuentro con Dafne (ella lo recuerda; él no — la pena). Donna consolidándose; Dirk exprimido. Presentación de Alex el apostador — cercano al lector antes de ser importante. **Presentación de Micky Merkle / El Búho** — cazador onírico, portador de Merkle, aliado potencial de Piggy/Nodos; entra antes del fork.
 
 ### ACTO II — El fork (caps ~27-29)
 La noche de la apuesta y el salto banal. La zona 0. La calma sofocante. El portal creciendo. Los 4 Hermanos. La divergencia acumulándose (detalles pequeños que ya no coinciden). La primera incursión desde el lado de Piggy → la batalla de muchas bajas → los ideales de Green aplastados. La muerte de Dafne en la cadena de Green (a manos de los Blue — su vendetta cobrada al revés). Nace Green.

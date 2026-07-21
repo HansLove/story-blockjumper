@@ -100,8 +100,16 @@ Concepto: desfase temporal continuo. El portador existe siempre un frame adelant
 
 ---
 
-# Merkle — 7/10
-Concepto: Merkle trees — dos cosas con el mismo origen comparten el mismo hash raíz. El portador ve el origen compartido de las cosas como colores. Si dos objetos vienen de la misma fuente, brillan igual para él. Si dos personas tienen sangre compartida, tienen el mismo tono. Una copia de Master Synthetic y su original: mismo color exacto — indistinguibles en origen aunque diferentes en naturaleza. En la Batalla de los Forks, con ejércitos de copias gelatina y personas tokenizadas mezcladas en campo, el portador de Merkle es el único que puede decir con certeza absoluta quién es original y quién es derivado. Para el público: ven colores — mismo color = mismo origen. No necesitan entender blockchain. Amenaza directa contra Shard (A.J.): ve el pelo ajeno brillando con la firma de su dueño. Arco personal: el portador eventualmente descubre que su propia firma de origen apunta a algo que no debería existir — la revelación de lo que uno realmente es, cuando tu propio poder no miente sobre ti.
+# Merkle (Micky Merkle / El Búho) — 9/10
+Concepto: Merkle trees — un dataset enorme colapsado en un hash raíz. El portador opera sobre la misma lógica: **comprime** volumen, distancia o instante en una raíz densa, y puede **liberarla** (descomprimir) de golpe. No lanza energía ni proyectiles: pliega y despliega espacio-tiempo, y la liberación se materializa como **estructuras de cactus y raíces espinosas** (materia comprimida, no ki). Tres capas del mismo poder:
+
+**1 — Lectura de raíz (detección).** Ve el origen compartido de las cosas como colores/firmas. Criaturas oníricas (reptilianos de Donna) y entidades energéticas brillan con claridad absoluta: misma raíz = mismo sueño o fuente. Los reptilianos lo reconocen al instante y se aterrorizan — ser vistos = ser invalidados como humanos. Una copia de Master Synthetic y su original: mismo color exacto. En la Batalla de los Forks, con ejércitos de copias gelatina y personas tokenizadas mezcladas en campo, es el único que puede decir con certeza absoluta quién es original y quién es derivado. Amenaza directa contra Shard (A.J.): ve el pelo ajeno brillando con la firma de su dueño.
+
+**2 — Compresión / descompresión de espacio-tiempo.** Comprime distancia, volumen o un instante en una "raíz" densa; la libera para movilidad o combate. Limitantes: comprimir demasiado o liberar mal tiene costo físico al portador y deja "cicatrices" en el entorno — espacio que no vuelve igual.
+
+**3 — Generación de raíces (estética cactus).** Al descomprimir, brotan barreras, empalamientos o campos de cactus/raíces espinosas. Contención y destrucción por materia, no por rayos.
+
+Contrapesos: detección casi gratis; combate caro. Los reptilianos huelen Hash → lo encuentran; él los ve → el duelo es de quién actúa primero en silencio. Arco personal: eventualmente descubre que su propia firma de origen apunta a algo que no debería existir — la revelación de lo que uno realmente es, cuando tu propio poder no miente sobre ti.
 
 ---
 
@@ -148,7 +156,7 @@ Concepto: canal sensorial físico bidireccional establecido por contacto. El por
 | Relay | Sin dueño | Libre |
 | Cache | Sin dueño | Libre |
 | Latencia | Sin dueño | Libre |
-| Merkle | Sin dueño | Libre |
+| Merkle | Micky Merkle (El Búho) | Canon |
 | Broadcast | Sin dueño | Libre |
 | Override | Sin dueño | Libre |
 | Cold Storage | Sin dueño | Libre |

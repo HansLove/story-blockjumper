@@ -55,7 +55,7 @@ Si A.J. intenta retirar demasiados shards simultáneamente, experimenta todos lo
 
 | Poder | Por qué amenaza a A.J. |
 |---|---|
-| **Merkle** | Ve el árbol de dependencias de cualquier superficie. Detecta el shard y traza su origen. A.J. tiene una lista mental de lugares donde no opera si hay un Merkle cerca. |
+| **Merkle** | Ve la firma de origen de cualquier cosa — incluido el cabello ajeno brillando con la raíz de su dueño. Detecta el shard y traza su origen. A.J. tiene una lista mental de lugares donde no opera si hay un Merkle cerca (Micky Merkle / El Búho). |
 | **Smart Space** | Un espacio condicionado con "detectar material extraño" lo deja sin opción. No puede deployar nada. |
 | **Override** | Podría invalidar el vínculo entre A.J. y un shard activo — la señal se corta pero el shard sigue existiendo, perdido. |
 | **Cache** | Hipotéticamente puede preservar un shard que A.J. retiró, creando una copia involuntaria de su herramienta de vigilancia. A.J. no sabe si esto es posible. Esa incertidumbre es suficiente. |

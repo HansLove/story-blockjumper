@@ -19,6 +19,7 @@ Conecta con el canon de los Reptilianos:
 - En el futuro, los reptilianos controlan lo industrial y lo político; existen mestizos wolker/reptiliano.
 - Los reptilianos huelen la concentración de Hash como nadie.
 - Piggy pronostica en sus anotaciones la **Guerra Reptil** (poco después del final de la Batalla de los Forks).
+- Existe un **depredador natural** de los reptilianos oníricos: **Micky Merkle / El Búho** (portador de Merkle; debut T3 Acto I). Los ve por lectura de raíz; ellos se aterrorizan. Archivo: `characters/Buho/Buho.md`.
 
 Implicaciones de que la cabeza de Rinki sea reptiliana:
 - El primer movimiento visible de los reptilianos en la historia (T1) es una guerrilla de desplazados — nacida de un dolor real, dirigida por algo que no es humano. ¿Roberta usa la causa justa de Rinki, o cree en ella? ¿Los reptilianos se infiltran en los movimientos de los agraviados porque el resentimiento es su mejor herramienta (eco de la manipulación de Elías Cardal en T3)?

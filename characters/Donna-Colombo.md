@@ -36,6 +36,8 @@ Por eso la cuidan. La protegen sin que ella lo sepa. Organizan su vida a su alre
 
 En T1, si el lector está mirando, hay personas con cabello pastel en los bordes de los encuadres donde aparece Donna. No se explica. No se señala.
 
+**Depredador natural (T3):** existe un cazador onírico — **Micky Merkle / El Búho** — que ve la raíz onírica de los reptilianos y los aterroriza al ser vistos. Donna no sabe que él existe ni que ella los origina. Archivo: `characters/Buho/Buho.md`.
+
 ## Lo que Donna no sabe
 
 - Que tiene un poder.

@@ -62,9 +62,7 @@ Fue apodado "Young Hickory" (Joven Nogal) debido a su asociación con el preside
 
 --- 2026  ---- 
 
-
-
---- Junio --
+- Micky Merkle (El Búho) — pelirrojo, alemán; portador de Merkle; pianista; dinastía Merkle; cazador onírico de reptilianos; debut T3 Acto I. Archivo: `characters/Buho/Buho.md`.
 
 Helen Joshintong
 Drake Joshintong
