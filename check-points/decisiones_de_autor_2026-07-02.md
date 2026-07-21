@@ -77,3 +77,15 @@ Al regresar Piggy (Bloque ~228) cae cerca del mercado. Busca el escondite secret
 - **Cap. 9 corregido**: Woodrow (no Lang) abre el contenedor del puerto.
 - **Esclavista ancestro Gallopo = CANON**: murió en el barco hundido de Fokus. Los Ramons custodian sin saberlo el secreto del linaje Gallopo. Registrado en Resonite.md.
 - **Henry — semilla de redención plantada en cap. 11**: deja pasar a Piggy tras la pelea. Esto NO lo suaviza (la pelea es brutal); le da la primera grieta que T3 va a abrir.
+
+## Reestructura del bloque fundacional (caps 1-6) — 2026-07-07
+
+Decisiones: respetar estructura/ideas de Elías Tolentino en cap. 3 (Rinki, atentado, juicio de Lang, Neuro Recall); la masacre = **falla de cálculo por inocencia** (Rinki confió en las 3 redes de seguridad del Matrasy; la tercera no existía por recortes del consorcio — culpa compartida Rinki/élites); **Adán Cruz "el Pelón"** (nombre + apodo); La Expansión como origen común de Rinki y del desalojo de Dafne (Tierras Rojas).
+
+Ejecutado:
+- **Cap. 3** reescrito: apertura nueva (La Expansión, la elección robada, Roberta con biografía — taller de costura, urnas quemadas, panteón reubicado con boleto), el plan con la tinta verde en la tercera red, la escena post-atentado en la refinería ("Vivir con esto. Que es más de lo que les dejamos a ciento diecinueve"), el juicio de Lang casi intacto, Neuro Recall intacto.
+- **Cap. 6** reconstruido (integrando la escena de Ramón-sábados del autor): la vigilancia GANADA — un mes fracasando + "el frío que no es frío" como detector corporal (Piggy único instrumento calibrado) + 9 noches de patrón + gradiente/flecha + plantas mustias + confirmación en la ventana con deducción honesta ("Este hombre produce los hilos. Los hilos de mi cielo salen de sus manos" — nada más); doble POV del ritual (la visión de Dirk con la cara); cornisa; nace el escuadrón del barbón (con la referencia de Lang a la proyección de Tavira).
+- **Cap. 5** = fábula de Ramón pura (espionaje removido): Ramón Pérez Sierra, 51 años, dos empleos que suman uno, el reciclaje de los sábados (conecta con el saludo de Pietro), "hace su trabajo tan bien que su trabajo lo borra", el rescate de los frascos como mano que no puede cerrar la puerta, "Suerte" + la cadena, "Los dioses de verdad nunca lo saben. Esa es la seña para reconocerlos."
+- **Cap. 2**: chatarra CLASIFICADA como Chekhov ("nadie roba desperdicio con disciplina de hormiga"); aritmética corregida ("casi cien bloques antes del nacimiento").
+- **Cap. 4** completado (estaba truncado) con título del autor ("Keep going, the show must continue" — typo "most" corregido): carrera íntegra + operación de confianza post-atentado + Piggy en las gradas (boleto de Pietro) + cierre nuevo: las deudas de Kenzo sembradas ("una apuesta que no paga, una puerta lateral, un teléfono que suena menos") + Piggy memorizando su nombre.
+- **Cap. 1** pulido leve: "el frío que no es frío" nombrado (siembra del cap. 6), grafía Bankz.

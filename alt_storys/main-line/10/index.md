@@ -112,13 +112,17 @@ Kenzo mantiene la vista en la carretera, los nudillos blancos sobre el volante.
 
 —¿Los Sitters?
 
-—Los atacaron hace una semana. Dijeron que era por "refugiar a un fugitivo". —Kenzo lo mira de reojo—. Tú eres ese fugitivo, ¿verdad? El del juicio de la cabra.
+—Los de la montaña. Los del fuego. —Kenzo lo mira de reojo—. Les colgaron el Matrasy. Salieron con que el metal de las vías había salido de sus forjas, que los fanáticos de la cabra habían matado a ciento diecinueve para "castigar el progreso". Prueba tras prueba, todo cuadraba. —Aprieta el volante—. Y todo era mentira. La gente que trabaja el metal sabe reconocer una forja plantada, y más de uno lo dijo bajito: a los Sitters les sacaron ese metal con engaños, aprovechándose de que esa gente no le niega el fuego a nadie que llegue con frío. Los usaron por buenos. Pero a la ciudad le urgía un demonio, y un culto raro en un cerro amurallado es mejor demonio que unos pobres con carro rojo. Nadie quiso mirar de cerca.
 
-Piggy recuerda la cámara blanca, el plato naranja, el silencio de los guardias encapuchados.
+Piggy siente el frío subirle por la espalda. El puerto. El metal de fuego rotulado como prueba. Lo vio armarse con sus propios ojos y no llegó a tiempo — ni supo cómo llegar.
 
-—Sí.
+—El templo ardió con casi todos adentro —sigue Kenzo—. Los pocos que salieron corrieron a las montañas altas. Y dicen otra cosa, en voz más baja: que la cabra no estaba. Que alguien la sacó la noche anterior. —Tuerce una sonrisa sin humor—. Hasta una mentira perfecta tiene goteras.
 
-—Dicen que el templo ardió con casi todos adentro. Y dicen otra cosa, en voz más baja: que la cabra no estaba. Que alguien la sacó la noche anterior. —Kenzo tuerce una sonrisa sin humor—. Hasta el gobierno tiene goteras.
+Piggy recuerda la cámara blanca, el plato naranja, el silencio de los guardias encapuchados. La gente que lo juzgó dejándole la vida en manos de un animal, y le regresó sus cosas sin una palabra. Quemados vivos por un crimen que él sabe que no cometieron — porque él estuvo esa noche junto a los que sí.
+
+—Los conocí —dice, con la voz rara—. Me juzgaron. Me soltaron. Me dieron de comer. —Traga—. Y no llegué a avisarles.
+
+Kenzo lo mira un segundo largo, y algo en su cara cambia — como si acabara de entender que este desconocido carga más muertos ajenos de los que aparenta.
 
 ---
 

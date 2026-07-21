@@ -1,59 +1,109 @@
-# Real Iron-man 
+# Real Iron-man
 
-Cientos de personas trabajan arduamente en la compañía zPace, la cual lleva el proyecto conjunto más grande de la humanidad; la expedición Under End, que busca viajar al ‘otro lado’; la región extrema sur del planeta, la cual ha sido un lugar de mitos y fantasía desde los principios de los tiempos, ningún humano ha tocado el suelo del otro lado; ya que este mundo es cuadrado y plano, como una caja de pizza. La capacidad tecnológica qué se está invirtiendo en Zpace a través de los fondos inversores de los Blu en conjunto con la administración logística de Dirk han logrado avances sorprendentes, haciendo teóricamente posible una expedición con tripulantes. 
+Cientos de personas trabajan arduamente en la compañía zPace, que lleva el proyecto conjunto más grande de la humanidad: la expedición Under End, el viaje al otro lado — la región extrema sur del planeta, lugar de mitos y fantasía desde el principio de los tiempos. Ningún humano ha tocado el suelo del otro lado, porque este mundo es cuadrado y plano, como una caja de pizza, y a los filos del mundo no se llega caminando. La capacidad tecnológica invertida en zPace — los fondos de los Blue, la administración logística de Dirk Newman — ha logrado avances sorprendentes, haciendo teóricamente posible una expedición con tripulantes.
 
-Desde los mineros extractores de metales, hasta los ingenieros de sonido. Cada una de las personas involucradas en el proyecto trabajan arduamente para cumplir una meta en conjunto. El último hallazgo fue hacer funcionar el sistema de navegación de la nave; el cual funciona con seres unicelulares qué responden a el centro gravitatorio del planeta. Las extremas fuerzas y velocidades necesarias para salir del rango gravitacional hacen imposible el pilotaje humano, por lo que estas pequeñas formas de vida son una pieza clave para la exploración. 
+Desde los mineros extractores de metales hasta los ingenieros de sonido, cada persona involucrada trabaja para la meta conjunta. El último hallazgo fue el sistema de navegación de la nave: funciona con seres unicelulares que responden al centro gravitatorio del planeta — bacterias brújula, las llaman los técnicos, con ese cariño despectivo que los técnicos les tienen a las soluciones humildes. Las fuerzas y velocidades necesarias para salir del rango gravitacional hacen imposible el pilotaje humano; estas formas de vida diminutas son la pieza clave de la exploración.
 
-Docenas de previos prototipos han sido descartados y serán desechados, la tarea es asignada a Ramón; un hombre bigotón y robusto de mediana edad. Ramón trabaja como conserje en Zpace, la labor consiste en arrojar los prototipos bacterianos a la fundidora junto con restos metálicos y demás basura. Las bacterias están contenidas en frascos transparentes de cristal, dentro de una gran caja con el resto de intentos fallidos.
+Docenas de prototipos previos han sido descartados. Hay que desecharlos.
 
-Ramón tiene que primero trapear los almacenes, corredores y pasillos del sector O y el sector P. Limpiar los interminables suelos consume toda la energía de Ramón, día tras día dedica su sangre a mantener impecables todos los rincones de sus sectores designados. A pesar de la gran diligencia en su labor, su trabajo pasa desapercibido por el resto de trabajadores de Zpace.
+La tarea, como todas las tareas que nadie quiere ni mira, es asignada a Ramón.
 
-El fin de la jornada laboral está a unos minutos, todos los pisos y superficies están limpios, pero hay algo que escapa de la memoria de Ramón, transportar los desperdicios al centro de fundido. La poca energía de Ramón se hace aún menor mientras empuja uno a uno los contenedores de basura. En el último contenedor están los prototipos bacterianos enfrascados y arrimados entre el resto de basura del contenedor.
+---
 
-El sudor se vuelve prominente en la frente de Ramón, el calor de la maquinaria fundidora hace insoportable permanecer en ese lugar por mucho tiempo; Ramón entra y sale de la fundidora, acarreando contenedor por contenedor hasta que no quede alguno. Antes de cerrar la gran puerta corrediza, Ramón voltea hacia los contenedores y fija su mirada en los frascos; las gigantescas planchas metálicas al rojo vivo iluminan con distinta tonalidad la fundidora, esa luz rojiza es reflejada en los frascos, pintandolos con una cálida tonalidad. 
+Ramón Pérez Sierra tiene cincuenta y un años, un bigote que fue negro, y dos empleos que suman uno.
 
-Bajo otra luz, los pequeños prototipos se vuelven notorios a simple vista; Ramón logra apreciar cómo estas bacterias buscan la luz, pero se retraen al fondo del frasco al sentir el intenso calor. Esa constante lucha atrae la atención de Ramón, resistiendo junto con ellos el calor mientras los observa nadar de arriba a abajo en los frascos. 
+De lunes a viernes es conserje de zPace, sectores O y P: los almacenes, los corredores, los pasillos que conectan los laboratorios con las fundidoras. Los sábados empuja su carretilla de latas por los mercados de la periferia, comprando y vendiendo metal menudo — el reciclaje, le dice él, con una formalidad de oficio; *el fierrito*, le dicen los marchantes, con cariño. Entre los dos empleos junta lo que un empleo digno pagaría, y Ramón no se queja, porque quejarse consume energía y la energía de Ramón tiene contabilidad estricta desde hace treinta años.
 
-Ramón se acerca al sofocante interior, inclinándose en el último contenedor y sacando los frascos de la fundidora. Habiendo finalmente terminado su turno, Ramón se dirige a casa, llevando los frascos con él; toma el Matrasy, el cual se ha hecho más tardado por el aumento de seguridad tras los incidentes del grupo Rinki, haciendo las filas más largas y los espacios aún más concurridos. 
+Vive solo. Hubo una esposa, hace mucho, y un hijo que se fue al norte con ella y que manda una carta por año nuevo, a veces. La casa de Ramón es pequeña y está limpia — limpia de conserje, que es un grado de limpieza que no existe en otras profesiones —, y sus noches son idénticas entre sí con una perfección que a él le gusta: el noticiero para hacerse compañía, el sillón individual reclinable, el sueño llegando sin avisar, con la tele encendida, como todas las noches de su vida adulta.
 
-Los minutos pasan hasta convertirse en horas, y después de dos horas y media, Ramón llega a su destino; cansado y con hambre. Ramón es recibido en casa por el silencio, las luces apagadas y las ventanas cerradas. Coloca su pesada mochila en la mesa para quitarse la chaqueta y los zapatos mientras enciende el noticiero para hacerse compañía. 
+En zPace nadie sabe nada de esto, porque en zPace nadie sabe que Ramón existe.
 
-El ruido y la luz de la pantalla iluminan la pequeña casa; creando una atmósfera quieta y relajante, es tanta la serenidad que Ramón queda dormido en su sillón individual reclinable, al igual que todas las noches. El sosiego de Ramón es interrumpido en la madrugada, cuando siente una reacción en todo su cuerpo que le hace despertar.
+No es una queja: es una física. Los ingenieros pasan junto a él como se pasa junto a una escoba bien recargada. Los científicos le dejan los desastres sin mirarlo — el ácido derramado del sector P, los vidrios del laboratorio cuatro — con la certeza tranquila de que mañana no estarán, como no están nunca. En los doce años que Ramón lleva limpiando la empresa del proyecto más grande de la humanidad, tres personas le han preguntado su nombre. A dos se les olvidó.
 
-Ramón abre los ojos sin mover su cuerpo, su cabeza está volteada hacia su mochila semi abierta; mientras abandona el sueño, su mirada se ajusta y logra enfocar la vista a los frascos que se asoman por la apertura del cierre, los cuales parecen que lo miran de vuelta; o por lo menos eso es lo que Ramón piensa. Las bacterias se han concentrado en el punto donde la luz ilumina el frasco.
+Dedica su sangre, día tras día, a mantener impecables todos los rincones de sus sectores. Y su trabajo es tan bueno que es invisible — porque la limpieza perfecta no se ve: se ve la suciedad, y donde Ramón trabaja, no hay. Esa es la broma cósmica de su oficio, y Ramón la entendió hace años sin amargura: hace su trabajo tan bien que su trabajo lo borra.
 
-Sin saber que hora es, Ramón se levanta de su sillón a pesar de que aún no ha amanecido; saca los frascos de su mochila y los lleva al baño. Después de lavarse la cara para despertar por completo, Ramón destapa los frascos y los vierte por el retrete uno a uno. Todas las bacterias nadan en la taza de baño por unos segundos antes de que Ramón tire de la cadena. Kilómetros y kilómetros de drenaje son recorridos por las bacterias, paseando por todo Sailor Capital hasta llegar al desagüe en la periferia de la ciudad. 
+---
 
-Las noticias acerca del cohete se escuchan en todos los rincones de Sailor Capital; la expedición ‘Under End’ dará su despegue inicial la próxima semana. Los expedicionistas seleccionados son Chester Mayfield y Shika Toro, dos hombres experimentados qué ya han salido al espacio exterior. Cientos de entrevistas rondan en todas las transmisiones, inevitablemente llegando a los oídos de Piggy.
+El viernes de los frascos empieza como todos los viernes.
 
-Piggy ha logrado formar una pequeña vida después de haber viajado al pasado; ha mantenido el empleo en el mercado que el señor Pietro le dio, Piggy comenzó a amueblar su habitación y a familiarizarse con los eventos y el entretenimiento de la época. Muchos de los sucesos que técnicamente ya ocurrieron son desconocidos para Piggy ya que la guerra contra los Ramons en su temporalidad (bloque 218) ha destruido tanto a su paso; incluyendo infraestructura, archivos, documentaciones y registros, borrando la historia de la memoria colectiva. 
+Trapear los almacenes. Trapear los corredores. Los interminables suelos del sector O, después los del P. Y al final de la jornada, cuando ya le duele la parte de la espalda que tiene nombre de médico caro, el pendiente que casi se le escapa: transportar los desperdicios al centro de fundido.
 
-A pesar de ser del futuro, Piggy se sorprende con la idea de ir a la cara sur del planeta; un lugar que incluso en su propia época es extremadamente recóndito e inaccesible. Tantos avances tecnológicos le hacen cuestionar si es posible regresar a su tiempo, no puede dejar de pensar en su hogar y preocuparse por sus seres queridos que dejó repentinamente en medio de la guerra.
+La poca energía que le queda se hace menor mientras empuja, uno a uno, los contenedores de basura hacia la fundidora. En el último contenedor, arrimados entre restos metálicos y papeles rotos, van los prototipos descartados: frascos transparentes de cristal, cada uno con su agua turbia y sus puntitos invisibles, etiquetados con claves que Ramón no lee porque las claves no son asunto de la escoba.
 
-Esa permanente inquietud en la mente de Piggy le hace recapitular constantemente los eventos de aquella noche; como su cuerpo brilló y se aplanó por unos instantes, la sensación de ser arrastrado por los hilos, la expresión en el rostro de ese hombre que recibió su llegada. Consumido por la intriga, Piggy ha espiado a Dirk de cada vez más cerca; siguiendo todos sus pasos por las noches, reconociendo patrones de horas, personas y lugares. 
+El calor de la fundidora hace insoportable quedarse adentro mucho tiempo. Ramón entra y sale, acarreando contenedor por contenedor, sudando la camisa entera. Y antes de cerrar la gran puerta corrediza, voltea hacia el último contenedor — un vistazo de oficio, nada más, el vistazo con que se verifica que no quede nada — y su mirada se queda en los frascos.
 
-Piggy piensa que tiene descifrado el perfil de su objetivo, pero lo que ve esa noche lo deja atónito. Dirk sale de la cafetería como siempre y camina unos minutos al edificio departamental donde vive, saluda al portero, sube a su departamento y es recibido cálidamente por su perra Atena, se quita la corbata, los zapatos y desabotona su camisa. Ya más cómodo, reproduce música con un trago en mano mientras su otra mano tienta las teclas de una computadora sin presionar ninguna. 
+Las planchas metálicas al rojo vivo iluminan la fundidora con una tonalidad distinta a la de los tubos fluorescentes de los pasillos. Esa luz rojiza, cálida, se refleja en los frascos — y bajo otra luz, los prototipos invisibles se vuelven visibles.
 
-La copa queda vacía al igual que la página; no importa cuantas veces trate de iniciar una oración, ninguna parece gustarle lo suficiente, borrando una y otra vez las pocas palabras escritas. Piggy observa esta lucha interna desde el borde exterior de la ventana, manteniéndose fuera de la vista de Dirk pero intentando averiguar qué es lo que tanto batalla escribir. 
+Se mueven.
 
-Dirk llena su copa una vez más, buscando sin éxito inspiración en su bebida. Después de una fallida sesión de escritura, Dirk guarda la copa y arrastra una silla al centro de la sala. Al tomar asiento empieza a inhalar y exhalar profundamente con los ojos cerrados; toma con firmeza los brazos de la silla y comienza a entrar en una especie de trance. 
+Ramón se acerca un paso, entrecerrando los ojos. Dentro de cada frasco, los puntitos diminutos nadan hacia la luz — hacia el rojo vivo de las planchas — y se retraen al fondo al sentir el calor, y vuelven a subir, y vuelven a bajar. Una lucha constante, terca, mínima: querer la luz, temer el fuego. Subir de todos modos.
 
-Este trance se vuelve tan intenso que comienzan a brotar pequeños cabellos debajo de las uñas de Dirk; estos cabellos se alargan más y más hasta bajar por la silla y tocar el suelo. Ya posados en el suelo, los cabellos se engrosan y se aclaran hasta hacerse blancos; tomando la apariencia exacta de los hilos que Piggy reconoce fácilmente y confirma todas sus sospechas; Dirk es el responsable del robo de vida de su época y de haberlo arrastrarlo al pasado. 
+Ramón se queda mirándolos más tiempo del que ninguna instrucción justifica, aguantando el calor en la cara, viéndolos nadar de arriba a abajo en su agua turbia.
 
-Los hilos absorben cúmulos de energía; como serpientes digiriendo ratones. Todos estos cúmulos entran por las uñas hasta llegar al núcleo de Dirk, la absorción es tan fuerte que sus manos se tensan a los brazos de la silla a tal grado que la deja marcada con hendiduras de sus dedos. Después de haber saciado su sed energética, los hilos adelgazan y se quiebran al menor movimiento; desvaneciendo en el suelo hasta dejar de existir. 
+No sabría explicar qué le pasa por dentro. No es ciencia; Ramón no tiene ciencia. Es otra cosa, más vieja: algo chiquito que quiere la luz y le tiene miedo al horno, y que va a dar al horno de todos modos, porque así lo decidió gente que no lo mira. Ramón conoce esa biografía. La ha trapeado doce años.
 
-En total silencio, Dirk coloca la silla de vuelta a su lugar y se sienta en la computadora; pero esta vez comienza a teclear velozmente sin cesar. La escena deja atónito a Piggy, que finalmente se da una idea de la clase de poder que tiene Dirk. Al estar tan absorto en el momento, Piggy roza la ventana con su Hashboard; sonido que es escuchado por la perra de Dirk, provocando que ladre ferozmente hacia la ventana. 
+Se inclina en el contenedor, con el sofoco del horno mordiéndole los brazos, y saca los frascos, uno por uno.
 
-Los ladridos sacan a Dirk de su brote creativo y lo ponen alerta; se para rápidamente y camina hacia la ventana sin apartar la vista. Piggy se mantiene oculto en el marco superior de la ventana y puede ver desde arriba la cabeza de Dirk buscando a qué le está ladrando su perra. Los segundos pasan pero la nada no deja conforme a Dirk, él sabe que algo está afuera; Piggy por su parte busca la oportunidad para salir de ahí sin ser avistado.
+No es un plan. No es una idea. Es una mano que no puede, hoy, cerrar esa puerta.
 
-No importa que tan sigiloso sea Piggy ahora, los ladridos de la perra continúan, manteniendo a Dirk alerta. A pesar de no poder ver nada Dirk sabe que hay algo ahí, y que ese algo no es un ave o un avión; no puede comprobarlo, pero puede presentir como lo que está allá afuera es aquella persona que él arrastró accidentalmente hasta su tiempo. 
+---
 
- Alimentado de su paranoia, Dirk busca frenéticamente por la ventana; abre las cortinas de par en par e inspecciona cada rincón del marco. Inconforme con la nula resolución, vuelve a sacar su cabeza, pero esta vez sacando todo su torso, quedando colgado entre su departamento y el suelo a cientos de metros abajo. Aún sin ver nada, Dirk va un paso más allá y sube los pies al marco de la ventana, saliendo totalmente de su departamento y quedando expuesto a las fatales alturas.
+El viaje a casa dura dos horas y media — el Matrasy sigue lento desde los incidentes de Rinki, con las filas largas y los vagones apretados y los soldados revisando bolsas al azar. Ramón carga su mochila en las piernas todo el trayecto, con un cuidado que ningún inspector notaría y que él no se explica del todo.
 
-Los ojos de Piggy no pueden creer la persistencia de este hombre; a solo un par de metros debajo de sus pies está Dirk sediento por descubrir quién está acechándolo. Piggy pega su cuerpo a la pared mientras se desliza sigilosamente de lado a lado con su Hashboard, procurando siempre mantenerse en su punto ciego. Atena llora y ladra desesperadamente al ver a su dueño en una situación de peligro.
+Llega cansado y con hambre, como siempre. Lo recibe el silencio, como siempre. Enciende el noticiero para hacerse compañía — hablan del cohete, hablan del despegue, hablan de los dos hombres que van a tocar lo que nadie ha tocado — y se queda dormido en su sillón reclinable con la luz de la pantalla lloviéndole encima, como todas las noches.
 
-Los soplidos del viento se sienten con mayor intensidad, al igual que los lloros de Atena; Dirk da un salto y se agarra firmemente de la cornisa, colocando sus manos a unos centímetros de la tabla deslizadora de Piggy; las uñas de Dirk se aferran a la fachada exterior y posiciona sus manos para trepar. El tiempo se acaba y el sigilo deja de ser una opción para Piggy. 
+Lo despierta, en la madrugada, una reacción en el cuerpo que no sabe nombrar.
 
-Un brazo de Dirk está encima de la cornisa el cual usa como palanca para subir su otro brazo, seguido de su pecho y finalmente el resto de su cuerpo. Dirk mira alrededor mientras jadeando sube sus piernas a la cornisa; algo capta con su mirada periférica, una fugaz silueta que cambia bruscamente la dirección natural del viento. Dirk solo puede observar a la figura desaparecer en el horizonte.
+Abre los ojos sin moverse. Su cabeza quedó volteada hacia la mesa, hacia la mochila semiabierta — y mientras abandona el sueño, su mirada enfoca los frascos que se asoman por la apertura del cierre.
 
+Los cuales parecen mirarlo de vuelta.
 
+O eso piensa Ramón, todavía a medias del otro lado del sueño. Las bacterias se han concentrado, todas, en el punto exacto donde la luz de la pantalla toca el cristal — un puñado de polvo vivo apretado contra el vidrio, del lado de él.
+
+Ramón se queda un rato mirándolas mirarlo.
+
+—Ya sé —les dice al fin, en voz alta, porque los hombres que viven solos hablan con lo que haya—. A mí tampoco me gusta el horno.
+
+Se levanta sin saber la hora. Se lava la cara para despertar del todo. Y hace lo único que un conserje puede hacer por algo chiquito que quiere la luz: le abre la puerta del mundo por donde su casa tiene puerta.
+
+Destapa los frascos sobre el retrete y los vierte, uno a uno. Las bacterias nadan en el agua de la taza unos segundos — la última imagen que Ramón tendrá de ellas, y ellas de él: un hombre bigotón y despeinado, en camiseta, mirándolas desde arriba con las manos en la cintura, como un dios cansado que no sabe que lo es.
+
+—Suerte —dice Ramón.
+
+Y jala la cadena.
+
+Kilómetros y kilómetros de drenaje reciben a las bacterias brújula: la corriente, los codos de tubería, los ríos subterráneos de una ciudad que no sospecha nada, paseándolas por debajo de todo Sailor Capital hasta el desagüe de la periferia — hacia el agua estancada, el hierro oxidado, la oscuridad fértil donde nadie limpia y nadie mira.
+
+El lugar perfecto, aunque nadie lo haya elegido, para volverse algo.
+
+Ramón vuelve a su sillón, se acomoda, y duerme el sueño sin sueños de la gente que hizo algo bueno tan chiquito que no cuenta como nada. El lunes tirará los frascos vacíos con el vidrio del laboratorio cuatro. El sábado empujará su carretilla por el mercado, saludará al viejo Pietro, venderá sus latas.
+
+Y nunca — ni esa madrugada, ni en los años que le quedan, ni en el siglo que viene — sabrá lo que hizo.
+
+Los dioses de verdad nunca lo saben. Esa es la seña para reconocerlos.
+
+---
+
+Las noticias del cohete se escuchan en todos los rincones de Sailor Capital: la expedición Under End despega la próxima semana. Los tripulantes seleccionados, anuncian con orgullo las transmisiones, son Chester Mayfield y Shika Toro, dos hombres experimentados que ya han salido al espacio exterior.
+
+En el mercado, entre cajas de fruta, un muchacho de otra época escucha el anuncio en la radio de su patrón. Va a ir al otro lado, piensa — al lugar que hasta en su propia era es recóndito e inaccesible. Y hay algo más que le raspa: en su siglo nadie ha oído hablar de los Ramons. Ni una vez. Piggy ha soltado el nombre al descuido, dos o tres veces, para probar — *"¿saben algo de los Ramons?"* — y le devuelven la cara en blanco de quien oye un idioma inventado. La guerra que le comió el mundo, aquí, todavía no ha empezado a existir. Camina entre gente que discute precios y romances sin saber que el mar entero se les va a levantar en contra dentro de cien años, y esa ignorancia es tan pura que Piggy, a veces, la envidia.
+
+La locutora sigue enumerando a los responsables del proyecto — los Blue, zPace, la logística — y entonces dice un nombre, y a Piggy se le cae una caja de las manos.
+
+*"...bajo la administración de Dirk Newman..."*
+
+Newman.
+
+Es una palabra que Piggy conoce desde antes de saber caminar. En el Bloque 218 no significa un hombre: significa el frío que no es frío, la lasitud bajo los hilos, la fatiga que baja del cielo. *Efecto Newman*, decían los manuales de guerra; nadie sabía por qué se llamaba así, como nadie sabe de dónde vienen las palabras viejas. Y aquí, en la radio de un puesto de frutas, la palabra tiene dueño. Un dueño vivo, con nombre, con cargo, con cara en los carteles.
+
+Piggy recoge la caja despacio, con el corazón golpeando.
+
+Un nombre no es una cara. En una ciudad de millones, "Newman" podría ser cualquiera — un apellido común, una coincidencia cruel. No puede perseguir un sonido. Pero por primera vez desde que cayó a este siglo, la niebla tiene una forma, y la forma tiene tres letras que él trae puestas en la boca desde la cuna.
+
+Esa noche no boxea. Esa noche escucha la radio hasta que se apaga, esperando que la palabra vuelva.
+
+Y muy por debajo de sus pies, en la oscuridad fértil de la periferia, algo diminuto empieza a aprender la diferencia entre arriba y abajo.
+
+---
+
+[next_chapter →](../6/index.md)

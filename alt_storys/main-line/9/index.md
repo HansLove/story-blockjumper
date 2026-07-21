@@ -10,7 +10,7 @@ En el mercado, Pietro ha colocado una pequeña radio sobre las cajas de fruta, y
 
 —Si regresan —responde otro—, serán los hombres más importantes de la historia.
 
-Piggy no dice nada. Acomoda fruta que no ve y piensa en los frascos que vio en el puerto, en las bacterias que se movían con demasiada intención, en Woodrow abriendo ese contenedor como si guardara algo más que herramientas de navegación.
+Piggy no dice nada. Acomoda fruta que no ve y piensa en las piedras azules que vio en el puerto latiendo con luz propia, en el metal de los Sitters rotulado como prueba de un crimen que no cometieron, en Woodrow custodiando cajas como si guardaran el destino de una nación.
 
 La cuenta regresiva comienza y el mercado enmudece de golpe, como una iglesia.
 

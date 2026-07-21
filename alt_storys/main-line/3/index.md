@@ -1,66 +1,171 @@
 # El castigo del pobre
 
-Decenas de pisadas corren entre las escurridizas calles de la periferia de Sailor Capital. Voces susurrando y metales chocando, todos estos sonidos se dirigen al mismo lugar; una refinería abandonada, la cual es usada como punto de reunión de ‘Rinki’, una pandilla con actos criminales cada vez más graves, pero esta noche se revelará el más grande de todos.
+Antes de que el Matrasy fuera el orgullo de Sailor Capital, fue una lista de direcciones.
 
-Luces zumbantes parpadean en el gigantesco aposento, los miembros comienzan a llenar el espacio y esperar el inicio de la reunión. Uno de los últimos en llegar, es el pelón que intentó llevarse el cinturón de Piggy, llamando la atención de todos al ver su boca sangrando y se expresión de derrota en el rostro. Pero no hay tiempo de explicaciones, todos fueron llamados a reunirse para ejecutar el mayor complot en la historia de Saylor Capital.
+Nadie la llamó lista de demoliciones. Se llamó *Plan de Expansión de Movilidad*, tenía un logo con un ave y la firmaron hombres que jamás pisaron ninguna de las direcciones. Para tender las vías magnéticas y levantar la cochera central se necesitaba suelo, y el suelo más barato de la ciudad era el que tenía gente encima: los barrios del arco sur, los talleres del río, las Tierras Rojas del oeste con sus huertas y sus minas chicas. Llegaron funcionarios con papeles, después tasadores con cifras que daban risa o llanto según el día, y al final hombres con uniformes que no eran militares pero tenían armas, y no eran policías pero tenían autorización.
 
-Todas las cajas de metales fueron reunidas por una razón en específico; para ser arrojadas en distintos puntos del Matrasy (Magnetic Transportation System); una red de movilidad ciudadana y de carga, la cual funciona con vías magnéticas para brindar mayor velocidad sin fricción. Los metales en múltiples partes de las vías implicaría un desbalance magnético y el colapso del sistema.
+*Tienen tres días*, decían. *El progreso no puede esperar.*
 
+La ciudad nueva se construyó encima en tiempo récord, y quedó hermosa — eso hay que concedérselo: el Matrasy es una catedral acostada, y las crónicas de la inauguración no mintieron al llamarlo la obra del siglo. Lo que las crónicas no registraron fue el vector de la gente removida: hacia la periferia, hacia los cinturones de lámina, hacia los empleos de madrugada y las filas de la beneficencia. La abundancia de la era Newman era real. También era una marea, y las mareas no reparten: acomodan. A unos los subió a los palcos del Pixel Arena. A otros los barrió debajo de la alfombra nueva.
 
-Los murmullos son acallados por una voz dirigente que pone orden, se trata de Roberta, la cabeza de Rinki, la cual expone el plan y hace énfasis en la importancia de la coordinación; todos deben de lucir como simples pasajeros y no pueden llegar juntos. La conspiración se ejecutará en horas con mucha circulación, para no ser sorprendidos arrojando metales y para poder perderse entre las masas a pesar de las cámaras de vigilancia. 
+Y hace diez años, cuando la gente de debajo de la alfombra intentó el camino de los papeles — una candidatura vecinal, una elección municipal en la periferia, una noche de conteo que iba ganando hasta que las urnas de tres distritos se "extraviaron" en un incendio de bodega —, la ciudad les enseñó el precio exacto de jugar limpio.
 
-![Alt text](/public/chapters/3/image.png)
+De esa lección nació Rinki.
 
+---
 
-Estando en la misma página, todos se dirigen en pequeños grupos dispersos a distintos puntos de la ciudad; con mochilas y maletines llenas de chatarra metálica, los miembros se infiltran entre las aglomeraciones de personas que se dirigen a sus trabajos. 
+Roberta fue de las que contaron votos aquella noche.
 
-Es la hora pico, 7:35 de la mañana. El transporte está a su máxima capacidad, no cabe un alma más. múltiples ruidos blancos transitan en los vagones; gente tosiendo, escuchando música desde sus audífonos, pequeños intercambios de palabras para acercarse a las puertas. Cuando de repente, una tremenda agitación derriba a todos los pasajeros al suelo, las luces se apagan y el matrasy pierde el control.
+Tenía entonces treinta años, un taller de costura industrial en el arco sur, y la fe pesada y práctica de las lideresas de barrio: la fe en el trámite, en la firma, en el "si nos organizamos nos tienen que oír". Organizó a su calle contra el desalojo. Perdió la calle. Organizó la candidatura de la periferia. Perdió la elección en un incendio. Enterró a su padre en un panteón que quedaba donde ahora frena la línea central, y para visitar la tumba nueva — reubicada por decreto, con una disculpa impresa en papel membretado — hay que pagar boleto de Matrasy.
 
-Los movimientos son cada vez más agresivos y erráticos, los gritos de los pasajeros incrementan mientras son violentamente sacudidos hasta que el nexo-sistema cae, y con esto, el colapso de la línea central y la caída libre de la cadena de vagones. La caída es bruscamente detenida contra el suelo, en plena oscuridad, sin un sentido de orientación y con gritos invadiendo todos los oídos. 
+Roberta no se volvió cruel. Se volvió *exacta*. La rabia desordenada se le fue ordenando con los años en algo más frío y más útil: una contabilidad. La ciudad les debía, la deuda crecía con intereses, y ya que los tribunales no cobraban, cobraría la calle.
 
-El aparatoso accidente descarriló los vagones, dejándolos volteados y con las puertas bloqueadas. A pesar de solo haber lesionados, las personas no pueden salir, la gente golpea las ventanas mientras grita por auxilio, causando una mayor conmoción, la desesperación llega a tal punto que todos comienzan a empujarse buscando una salida.
+Rinki empezó siendo eso: los hijos del arco sur y de las Tierras Rojas, los nietos del incendio de las urnas, cobrando de a poco. Robo de carga a los almacenes de los grandes. Sabotaje menor a los cobradores. Chatarra desviada, mercancía "caída del camión", multas invertidas. Actos criminales, decían los diarios, cada vez más graves — y era verdad, y a Roberta había dejado de importarle el adjetivo, porque había entendido algo que los diarios no imprimen: al pobre le cobran hasta el método. Protestar con papeles fue inútil; protestar con ruido fue ilegal; y quedarse quieto, todos estos años, fue lo más caro de todo.
 
-Los puños golpean cada vez con menos fuerza las paredes internas y los gritos empiezan a cansarse, dándose cuenta colectivamente que sus esfuerzos de escape son en vano. Causando un mayor pánico y haciendo a las masas precipitarse a conductas más salvajes. 
+Esta noche, en la refinería abandonada del arco sur, Rinki va a cobrar la cuenta grande.
 
-Gente corriendo en círculos encima de otra gente; como si de hormigas en una lata se tratase. Escuchando los crujidos de los huesos de los pasajeros que están en el suelo, los cuales no pueden gritar porque les han sacado el aire de los pulmones a pisotones. Las pisadas se hacen más y más rojas, y el fétido hedor a vísceras y metal hacen aún más repugnante toda la escena.
+---
 
-El horroroso acontecimiento tuvo un saldo de 119 muertos y 3521 heridos; los peritajes de especialistas forenses concluyeron que ninguno murió a causa de la caída del matrasy, las roturas de los cráneos y el estado de los órganos de las víctimas indican que no fueron ocasionadas por el impacto de la caída, si no, por la estampida consecuente. 
+Decenas de pisadas corren entre las escurridizas calles de la periferia. Voces susurrando, metales chocando; todos los sonidos se dirigen al mismo lugar. Las cajas llegan primero — semanas de cajas, chatarra clasificada por tipo y peso con una disciplina de hormiga, cargada a hombro por rutas que evitan las cámaras —, y detrás de las cajas van llegando los miembros, en grupos de dos y de tres, llenando el gigantesco aposento bajo las luces zumbantes.
 
-Policías, bomberos y ambulancias llegaron pocos minutos después del suceso para ayudar a las personas a salir y auxiliar a los heridos. Los servicios de inteligencia y vigilancia de Saylor Capital logran captar e identificar solamente a un miembro de Rinki arrojando metales a la vía magnética, el cual es capturado y ahora está en una celda de máxima seguridad esperando su juicio.
+Uno de los últimos en llegar es Adán Cruz, el Pelón, y su cara detiene conversaciones: la boca rota, el labio del tamaño de una ciruela, el hueco fresco donde iba el diente de fierro. Sus tres hombres llegan detrás, en peor estado del alma que del cuerpo, y ninguno quiere contar el cuento completo — que un muchacho dormido junto a una procesadora los apaleó a los cuatro por un cinturón — porque en Rinki el respeto es la única moneda que no se puede robar, y Adán acaba de perder el mes entero de sueldo.
 
-Todos los miembros de Rinki temen que Mauro Tavira; el único que fue atrapado, los delate y sean encerrados por su culpa. No pueden matarlo ni llegar a un acuerdo con él sin ponerse en la mira de las autoridades. El Pelón teme más que el resto de los miembros porque Mauro era su subordinado, y sabe que eso lo arriesga directamente a ser identificado y posteriormente capturado. 
+—¿Y ahora tú? —le pregunta Roberta, sin crueldad y sin paciencia.
 
-El juicio comienza dos días después de la caída del Matrasy; un gran tribunal está reunido para recolectar todos los hechos y sentenciar a los responsables. Cientos de reporteros esperan afuera del palacio de justicia para fotografiar e intentar entrevistar a todo aquel que participe en el caso. Entran docenas y docenas de personas a la corte, pero solo uno dirigirá la audiencia; Viktor Lang, el jefe del partido del progreso. 
-Durante el juicio, han sido llamadas un total de 77 personas a testificar; el largo y exhaustivo caso compuesto de testigos, pasajeros, guardias de la estación y sospechosos, pasan uno por uno a ser expuestos a la aguda maestría de Viktor en la interrogación. Múltiples testimonios apuntan a las mismas personas, entre ellas Mauro Tavira, el cual es llamado a subir al estrado. 
+—Un perro con suerte —dice Adán, entre dientes que ya no están todos—. Perdimos una corrida de fierro. La reponemos.
 
-Todos los ojos están sobre Mauro, pero los suyos están mirando el suelo, evadiendo a los presentes. Viktor Lang atrae su atención preguntándole; “¿Se te perdió algo en el piso?”. Desprevenido por lo aleatorio de la pregunta, Mauro responde brevemente “No”. Viktor pregunta juguetonamente en seguida; “¿Entonces que sigue manteniendo tu mirada abajo?”. A lo que Mauro contesta “Nada, solo no me gusta que me vean tantas personas”. 
+—No hay tiempo de reponer nada. Es esta semana o no es. —Roberta se sube a la plataforma de carga, y la refinería entera calla sola—. A trabajar.
 
-Viktor comienza a caminar con sus brillantes zapatos de charol mientras continúa con su interrogatorio y le dice a Mauro “¿Por qué crees estar aquí? Digo, muchas personas estuvieron en el Matrasy, entre tanto caos del trágico evento, quizás te confundieron con alguien más y todo esto es una terrible confusión ¿No?”. Mauro responde entre dientes mientras mueve su perforación de labio con su lengua “Pues…si…”.  
+El plan es hermoso de puro simple, y Roberta lo expone con la voz de quien lo ha pulido durante un año: el Matrasy funciona porque nada lo toca — vías magnéticas, velocidad sin fricción, el equilibrio perfecto del juguete más caro de los Blue. Metal ajeno en los puntos correctos de la vía y el equilibrio se rompe: desbalance magnético, el sistema se frena, la línea central muere. No por un día: por meses. La obra del siglo, paralizada por chatarra — por la misma chatarra de los barrios que demolieron para construirla. No hay mensaje más limpio en ningún idioma.
 
-Sin dejar de pasear por la corte, Viktor peina su corto y engelado cabello y sigue su monólogo disfrazado de interrogatorio diciendo; “Yo no creo en simples acusaciones, el carácter de una persona revela mucho más que cualquier explicación”. Mauro queda en silencio mientras frota su áspera y despintada cresta con la mirada nuevamente en el suelo.
+—¿Y la gente? —pregunta una voz joven desde el fondo, porque siempre hay una voz joven que pregunta lo que los demás ya se respondieron con esperanza—. ¿La gente que va arriba?
 
-Sin dar tiempo para contestar, Viktor continúa hablando “Entiendo que tan difícil debe ser estar en tu lugar; entiendo los nervios, la falta de contacto visual, las cortas respuestas. Puedo entender todo eso, pero hay algo que no logro comprender; tu falta de indignación”. Mauro solamente mira las reacciones de la audiencia y el tribunal sin decir una palabra.
+—La gente frena —dice Roberta, y señala los planos clavados en la pared: los diagramas del nexo-sistema, robados de una contratista, estudiados hasta la náusea—. El sistema tiene tres redes de seguridad. Falla el magnetismo, entra el frenado neumático. Falla el neumático, entran las zapatas. Lo dice su propia ingeniería, aquí, en sus propios papeles: *ningún escenario de intrusión produce descarrilamiento*. Se van a llevar el susto de su vida y una caminata por las vías. Nada más. —Baja la voz, no por duda: por énfasis—. No somos ellos. Nosotros no cobramos con sangre. Vamos a pararles el juguete, no a la gente.
 
-Viktor continúa acelerando la cadencia de sus palabras diciendo “Verás, en la mayoría de casos, las personas inocentes suelen reaccionar indignadas, incluso enojadas cuando son acusadas falsamente. Mantienen una actitud consistente durante todo el proceso, y más importante; declaman inocencia constantemente, cosa que tú no has hecho, ni siquiera suenas convencido del escenario donde eres inocente”. 
+Y la refinería asiente, y se reparte los puntos del mapa, y nadie — ni Roberta, que estudió los planos; ni Adán, que necesita redimirse; ni la voz joven del fondo — sabe lo que sabía la contratista y callaron los pasillos: que las tres redes de seguridad existen en los papeles y en la primera línea, pero que el mantenimiento de las zapatas del tramo central lleva dos años aplazándose en las juntas del consorcio, partida por partida, porque la abundancia también recorta — recorta justo donde no se ve, donde no luce, donde nunca pasa nada.
 
-Viktor presiona y arrincona cada vez más a Mauro sin darle posibilidad de defenderse “La siguiente pregunta lógica es ¿Por qué?; ¿Por qué no defenderías tu inocencia? ¿O acaso hay alguien a quien estás encubriendo? Digo, el peso de todos los metales que fueron arrojados es demasiada carga para una sola persona; además, fueron encontrados en posiciones muy distantes, lo que indica que fueron arrojados desde múltiples puntos”. 
+El plan de Roberta confiaba en una sola cosa del sistema que odiaba: en que estuviera bien hecho.
 
-A las conclusiones, Mauro simplemente niega gestualmente con la cabeza y se recarga en el respaldo de la silla con los brazos cruzados y una apretada sonrisa sin decir nada, dando más terreno al imparable tren de ideas de Viktor “Aquí la pregunta del millón es; ¿A quien, o quienes estás tratando de encubrir? Me imagino que deben de tratarse de individuos peligrosos; para cometer un acto así y tenerte temiendo tanto por tu vida”. 
+Esa fue toda la inocencia. Y costó ciento diecinueve vidas.
 
-Después de más de 14 horas, termina el primer día del juicio en Saylor Capital. Todos los avances hechos agilizarán el proceso del segundo día y se dará veredicto en cuestión de días. Esa misma noche alguien toca la puerta de Viktor Lang, al asomarse por la perilla se da cuenta que se trata de Dirk y de la secretaría de defensa, Mimi Saito. Viktor abre la puerta inmediatamente y le piden que los acompañe de manera urgente ya que es un llamado de emergencia ejecutiva; hecho por William Heart, el líder del partido de la justicia y presidente actual de Saylor Capital. 
+---
 
-Al bajar, una camioneta y escoltas los esperan para llevarlos al llamado, el cual les indica ir a la prisión central de máxima seguridad. Tras entrar por una serie de filtros, son recibidos en una habitación con una gran ventana en la pared, tras la ventana se encuentra una figura amarrada a una silla y cubierta de la cabeza. 
+La ejecución es a la hora pico — las siete y media, los andenes reventando —, y no por crueldad: por aritmética de fuga. En vagones llenos, veinte personas con mochilas son nadie; en vagones vacíos, son las únicas caras de la cámara. Roberta lo calculó como calculaba todo: la multitud era el camuflaje, y el frenado de tres redes era la garantía de que el camuflaje jamás se convertiría en rehén.
 
-William Heart entra a la habitación y habla con Mimi, Dirk y Viktor “Disculpen el llamado tan repentino, pero esto tiene que resolverse. Viktor, yo sé que eres capaz de sacarle la verdad a cualquiera; pero este caso es tan sensible que necesitamos estar 100% asegurados de que tenemos a la persona correcta. Los Blu son los principales inversores en el Matrasy, y necesitamos de su fondo de donaciones para el término del macroproyecto ‘zPace’, no podemos dar marcha atrás a estas alturas. Viktor, tienes que usar tu ‘Neuro Recall’.”
+Es la hora pico, 7:35 de la mañana. El transporte está a su máxima capacidad; no cabe un alma más. Múltiples ruidos blancos transitan en los vagones: gente tosiendo, música escapando de audífonos ajenos, los pequeños intercambios de palabras para acercarse a las puertas.
 
-Viktor muestra rechazo a involucrarse en actos tan cuestionables, pero sabe que nunca aceptarán un ‘no’ por respuesta. Accede a usar una gran habilidad qué oculta en secreto; un poder que le permite proyectar los recuerdos de quien esté tocando. Solo unos pocos individuos poseen habilidades extraordinarias, las cuales son únicas y variadas. 
+En seis puntos de la línea central, seis mochilas se abren sobre las vías.
 
-La persona comienza a sacudirse en la silla y a gritar a través de la mordaza y la bolsa que tiene en su cabeza al escuchar la puerta de la habitación. Mimi entra directamente con Dirk a su lado mientras Viktor se queda en el marco de la puerta por unos segundos antes de entrar, William Heart observa desde el otro lado de la habitación. Mimi le quita el saco de la cabeza a la persona y se revela que es Mauro, el cual mira con ojos saltones a Viktor mientras jadea y lucha para soltarse.
+La primera red de seguridad — la magnética — detecta la intrusión y responde en milisegundos, exactamente como prometían los planos: corta la levitación, ordena el frenado. La segunda red — la neumática — recibe la orden y la ejecuta a media potencia, porque sus compresores llevan catorce meses trabajando con piezas remanufacturadas. Y la tercera red, las zapatas del tramo central, la última garantía, la que Roberta subrayó en los planos con tinta verde —
 
-Mimi asiente, indicando que es hora de comenzar. Viktor se coloca detrás de Mauro y le toca la cabeza, a los pocos segundos comienza a radiar un ligero color púrpura de los ojos de Viktor, el brillo se vuelve tan intenso que las luces cambian de tonos y empiezan a proyectar imágenes, las imágenes se vuelven cada vez más consecuentes hasta que se convierten en video.
+la tercera red no existe desde hace dos inviernos, salvo en los reportes que el consorcio firma trimestre a trimestre.
 
-La luz emitida de los ojos de Viktor se ha solidificado, como si de un par de obeliscos brillantes que salen de sus ojos se tratase. El video emitido muestra los recuerdos más frescos desde la perspectiva de Mauro, el cual grita a través de la mordaza con aún más desesperación.
+Una tremenda agitación derriba a todos los pasajeros al suelo. Las luces se apagan. El Matrasy pierde el control; los movimientos se vuelven agresivos, erráticos; los gritos crecen mientras los cuerpos son sacudidos — hasta que el nexo-sistema cae, y con él la línea central entera, y la cadena de vagones queda un instante en el aire, sin magnetismo, sin freno, sin nada de lo que decían los papeles.
 
-En el video se ve claramente como Mauro arroja una mochila a las vías, como previamente el plan fue pactado y la identidad de ‘el Pelón’. Antes de terminar la inspección cerebral, un último recuerdo donde Mauro y sus compañeros son golpeados por alguien; la sangre de Dirk se enfría al darse cuenta que se trata de aquel ente que él arrastró acá: Piggy. 
+La caída es bruscamente detenida contra el suelo.
 
-William y Mimi salen inmediatamente de la habitación y comienzan a llamar a sus cuerpos de seguridad y defensa para desmantelar cuanto antes al grupo Rinki. Mientras ellos piensan que lo peor ha pasado, Dirk presiente en silencio que el por venir será aún más devastador.
+Lo que sigue, los peritos lo reconstruirían después con la frialdad que el horror exige: los vagones descarrilados y volteados, las puertas bloqueadas, la gente golpeando ventanas que no ceden. Solo lesionados, al principio — la ingeniería, hasta en su ruina, amortiguó el impacto —. Pero la oscuridad no se audita, y el pánico tampoco: los puños golpean cada vez con menos fuerza, los gritos se cansan, la desesperación entiende colectivamente que no hay salida y se convierte en estampida. Gente corriendo en círculos encima de otra gente, como hormigas en una lata. Los crujidos de los que quedaron abajo, sin aire en los pulmones para gritar. Las pisadas cada vez más rojas.
+
+El saldo: ciento diecinueve muertos y tres mil quinientos veintiún heridos. Y la línea del peritaje forense que la ciudad no va a poder tragar nunca, la que convierte la tragedia en espejo: *ninguna de las víctimas murió por la caída. Las fracturas de cráneo y el estado de los órganos indican que todas las muertes fueron causadas por la estampida consecuente.*
+
+El sistema no mató a nadie. Se mataron entre ellos, a oscuras, empujando hacia una salida que no existía.
+
+Hay quien dice que esa frase describe el atentado. Hay quien dice, más bajito, que describe la era.
+
+---
+
+En la refinería, esa noche, nadie habla.
+
+La radio dio el saldo a las seis de la tarde y desde entonces el gigantesco aposento contiene a cuarenta personas y ningún sonido. Los planos siguen clavados en la pared, con su tinta verde en la tercera red de seguridad. Alguien vomitó junto a los tambos y nadie hizo la broma. La voz joven del fondo llora sin esconderse, y nadie la consuela porque consolarla sería admitir en voz alta lo que todos están masticando en silencio:
+
+Que querían parar el juguete. Y mataron a la gente. A *su* gente — porque a las siete y media de la mañana, en la línea central, no viajan los Blue: viajan las cocineras, los cargadores, los veladores que salen y los obreros que entran; viaja el arco sur, viajan las Tierras Rojas, viaja la periferia entera apretada rumbo a servirle el desayuno a la ciudad que la desplazó. El castigo del pobre, puntual como siempre, cayó sobre los pobres.
+
+Roberta está de pie ante los planos, inmóvil, desde hace una hora.
+
+—Nos van a cazar —dice al fin Adán, con la voz deshecha—. A todos.
+
+—Sí —dice Roberta.
+
+—¿Y qué hacemos?
+
+Roberta arranca los planos de la pared, despacio, y los dobla con la exactitud terrible de siempre.
+
+—Vivir con esto —dice—. Que es más de lo que les dejamos a ciento diecinueve.
+
+No hay nada más que decir, y lo dicen quedándose callados hasta el amanecer. La ciudad de arriba llora a sus muertos. La refinería de abajo llora a los mismos muertos, con la agravante de haberlos matado — y esa doble contabilidad, ese duelo sin derecho a duelo, es lo único que Rinki va a poseer de verdad de aquí en adelante.
+
+---
+
+Los servicios de inteligencia y vigilancia de Sailor Capital procesan setecientas horas de cámaras en tres días, y de las seis mochilas identifican una sola mano: Mauro Tavira, veintitrés años, subordinado de Adán Cruz, captado de perfil durante un segundo y medio arrojando metal a la vía. Lo capturan esa misma noche, sin resistencia, en el cuarto que compartía con dos primos. Todos los miembros de Rinki entienden la aritmética al instante: Mauro sabe nombres, sabe caras, sabe la refinería. No pueden matarlo ni comprarlo sin ponerse en la mira. Solo pueden esperar — y Adán espera peor que nadie, porque Mauro era suyo, y en la cadena del miedo cada eslabón cuelga del de arriba.
+
+El juicio comienza dos días después de la caída del Matrasy. Un gran tribunal, cientos de reporteros afuera del palacio de justicia, docenas y docenas de personas entrando a la corte — pero solo uno dirigirá la audiencia: Viktor Lang, el jefe del partido del progreso.
+
+Durante el primer día son llamadas setenta y siete personas a testificar; testigos, pasajeros, guardias de estación y sospechosos pasan uno por uno bajo la aguda maestría de Viktor en la interrogación. Múltiples testimonios apuntan a las mismas personas — entre ellas, Mauro Tavira, que es llamado al estrado.
+
+Todos los ojos están sobre Mauro; los suyos están en el suelo.
+
+—¿Se te perdió algo en el piso? —pregunta Viktor.
+
+Desprevenido por lo aleatorio de la pregunta, Mauro responde breve:
+
+—No.
+
+—¿Entonces qué sigue manteniendo tu mirada abajo?
+
+—Nada. Solo no me gusta que me vean tantas personas.
+
+Viktor comienza a caminar con sus brillantes zapatos de charol.
+
+—¿Por qué crees estar aquí? Digo — muchas personas estuvieron en el Matrasy. Entre tanto caos, quizás te confundieron con alguien más y todo esto es una terrible confusión. ¿No?
+
+Mauro mueve la perforación del labio con la lengua.
+
+—Pues... sí...
+
+—Yo no creo en simples acusaciones —sigue Viktor, peinándose el cabello corto y engelado sin dejar de pasear—. El carácter de una persona revela mucho más que cualquier explicación. —Y como Mauro calla, frotándose la cresta despintada—: Entiendo lo difícil que debe ser estar en tu lugar. Entiendo los nervios, la falta de contacto visual, las respuestas cortas. Puedo entender todo eso. Pero hay algo que no logro comprender: tu falta de indignación.
+
+Silencio. Viktor acelera la cadencia:
+
+—Verás: en la mayoría de los casos, las personas inocentes reaccionan indignadas — enojadas, incluso — cuando se las acusa falsamente. Mantienen una actitud consistente durante todo el proceso, y más importante: declaman inocencia constantemente. Cosa que tú no has hecho. Ni siquiera suenas convencido del escenario donde eres inocente. —Un paso más cerca—. La siguiente pregunta lógica es: ¿por qué? ¿Por qué no defenderías tu inocencia? ¿O acaso hay alguien a quien estás encubriendo? Digo — el peso total del metal arrojado es demasiada carga para un solo hombre, y las posiciones donde fue encontrado indican múltiples puntos de lanzamiento simultáneos...
+
+Mauro niega con la cabeza, se recarga en el respaldo con los brazos cruzados y una sonrisa apretada, sin decir nada — y le regala el terreno completo al tren imparable:
+
+—Aquí la pregunta del millón es: ¿a quién, o a quiénes, proteges? Me imagino que deben ser individuos peligrosos... para cometer un acto así, y para tenerte temiendo tanto por tu vida.
+
+Catorce horas dura el primer día. El veredicto, anuncian, llegará en cuestión de días.
+
+---
+
+Esa misma noche, alguien toca la puerta de Viktor Lang.
+
+Por la mirilla: Dirk Newman y la secretaria de defensa, Mimi Saito. Viktor abre de inmediato; el llamado es de emergencia ejecutiva — William Heart, líder del partido de la justicia y presidente de Sailor Capital, los convoca. Abajo esperan una camioneta y escoltas; el destino es la prisión central de máxima seguridad. Tras una serie de filtros, los reciben en una habitación con una gran ventana en la pared, y tras la ventana, una figura amarrada a una silla, con la cabeza cubierta.
+
+William Heart entra y habla sin sentarse:
+
+—Disculpen el llamado tan repentino, pero esto tiene que resolverse. Viktor: yo sé que eres capaz de sacarle la verdad a cualquiera. Pero este caso es tan sensible que necesitamos estar cien por ciento seguros de que tenemos a la persona correcta. Los Blue son los principales inversores del Matrasy, y necesitamos su fondo de donaciones para terminar el macroproyecto zPace. No podemos dar marcha atrás a estas alturas. —Una pausa que pesa más que todo lo anterior—. Viktor: tienes que usar tu Neuro Recall.
+
+Viktor muestra el rechazo en la cara — el asco fino de involucrarse en actos así —, pero sabe que nunca aceptarán un no. Accede a usar la gran habilidad que oculta: el poder de proyectar los recuerdos de quien esté tocando. Solo unos pocos individuos en el mundo poseen habilidades extraordinarias, únicas y variadas; la de Viktor es de las que los gobiernos no olvidan que existen.
+
+La figura de la silla se sacude y grita a través de la mordaza al oír la puerta. Mimi entra con Dirk a su lado; Heart observa desde el fondo; Viktor se demora un segundo en el marco — el último segundo de un hombre eligiendo no elegir — y entra. Mimi retira el saco de la cabeza: es Mauro, los ojos saltones, jadeando, luchando contra las correas.
+
+Mimi asiente. Es hora.
+
+Viktor se coloca detrás de Mauro y le toca la cabeza. A los pocos segundos, un ligero color púrpura empieza a radiar de los ojos de Viktor; el brillo crece hasta cambiar los tonos de la luz de la habitación, y las imágenes proyectadas se vuelven consecuentes, se vuelven video: los recuerdos más frescos de Mauro Tavira, desde adentro, mientras Mauro grita a través de la mordaza con la desesperación específica de los que están siendo leídos.
+
+En el video se ve, con claridad de expediente: Mauro arrojando la mochila a las vías. El plan pactado en la refinería. La cara de Roberta sobre la plataforma de carga. La identidad de Adán Cruz, el Pelón.
+
+Y antes de terminar la inspección, un último recuerdo — más viejo, más golpeado, la madrugada de una procesadora de metales —: Mauro y sus compañeros apaleados por alguien. Un muchacho de chaqueta de cuero, rapidísimo, con los ojos llenos de una determinación que no es de esta época.
+
+La sangre de Dirk Newman se enfría en la habitación blindada.
+
+Es él. El ente de la alfombra. El error que apareció en su sala una noche y saltó por su ventana. Existe, camina por su ciudad, apalea ladrones en la periferia — y acaba de aparecer, nítido y casual, en la memoria de un terrorista.
+
+William y Mimi salen de inmediato, llamando a sus cuerpos de seguridad: Rinki será desmantelada en semanas. Los dos creen que lo peor ya pasó.
+
+Dirk se queda un momento más frente a la ventana, mirando el punto donde estuvo proyectada la cara del muchacho.
+
+Y presiente, en silencio, que lo por venir será aún más devastador.
+
+---
+
+[next_chapter →](../4/index.md)

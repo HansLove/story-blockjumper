@@ -1,164 +1,68 @@
 # La mano quemada
 
-La pregunta de cuánto está dispuesto a romper se le queda en la garganta como un hueso.
+La pregunta de cuánto está dispuesto a romper — o a salvar — se le queda en la garganta como un hueso, y por primera vez desde que llegó, Piggy decide ir a buscar la respuesta en lugar de esperarla.
 
-Piggy lleva días dándole vueltas. Desde aquella visita de los agentes al mercado, su rutina ha cambiado sutilmente: ahora mira más, habla menos, y cuando acomoda fruta lo hace con las manos tensas, como si cada mandarina fuera una granada.
+Si el gobierno va a moverse contra los del fuego, la maquinaria de ese golpe tiene que pasar por algún lado. Y en Sailor Capital, todo lo que se mueve en grande pasa por el puerto.
 
-Pietro lo nota, pero no pregunta. Los viejos saben que hay silencios que protegen.
+El puerto es un monstruo de metal y luz: grúas que nunca duermen, contenedores apilados como bloques de un juego infantil, el murmullo constante del Matrasy de carga. Piggy llega de noche, se acomoda en una cornisa alta, y observa con la paciencia que aprendió cazando los horarios de una torre.
 
-Una mañana, mientras cargan cajas en la trastienda, Pietro se detiene y se mira las manos. Están arrugadas, manchadas por el sol y el trabajo, pero una de ellas tiene una cicatriz vieja que cruza la palma como un río seco.
+No tarda en notar que hay dos operaciones ocurriendo a la vez.
 
-—¿Sabes cómo me hice esto? —pregunta sin levantar la vista.
+La primera es la de siempre: carga, descarga, manifiestos, el comercio de una ciudad rica. La segunda es más callada, con más guardias, alrededor de un solo contenedor apartado del resto — y de un solo hombre que Piggy conoce por la silueta: Woodrow Mellon, la mano derecha del cartel.
 
-Piggy deja la caja que cargaba.
+Woody abre el contenedor con una llave que le cuelga del cuello, y por un segundo, antes de que la puerta vuelva a cerrarse, Piggy alcanza a ver el interior.
 
-—Una quemadura —dice Pietro—. Tenía catorce años. Trabajaba en una fundidora de plata, como aprendiz. Un día me descuidé y la plata fundida me salpicó. Me dijeron que nunca volvería a usar bien esta mano.
+Piedras.
 
-Piggy observa la cicatriz. Parece antigua, casi parte de la piel misma.
+Piedras azules, del tamaño de un puño, apiladas en cajones acolchados como si fueran huevos de algo. No reflejan la luz de las grúas: *emiten* una luz propia, tenue, un azul profundo que late suavemente en la penumbra del contenedor. Piggy no ha visto nada igual en su vida — ni en esta ni en la otra —, y no tiene forma de saber qué es, ni por qué un puñado de piedras merece más guardias que todo el resto del puerto junto.
 
-—Pero la usas.
+El lector que venga del otro lado del tiempo sí lo sabe. Sabe que ese azul es Fokus, el mineral de una nación lejana llamada Velora; que Dirk Newman administra el contrato que lo trae; y que cada una de esas piedras es un pedazo de la cerradura de una puerta que, cien años en el futuro, alguien va a terminar de abrir a fuerza de codicia. Piggy solo ve piedras bonitas y peligrosas. El futuro ve el principio del fin.
 
-Pietro asiente.
+Un hombre alto, de cabello engominado y zapatos que brillan bajo la luz artificial, cruza el muelle hacia Woody. Dirk Newman en persona. Revisa una carpeta que le entregan, asiente, y por un instante levanta la vista hacia las cornisas — no hacia Piggy, no puede verlo, pero Piggy siente el barrido de esa mirada y se pega a la piedra hasta que pasa.
 
-—Me tomó años. Y me costó todo lo que creía que era. Tuve que dejar la fundidora, buscar otro oficio, empezar desde cero. Pero aprendí algo: las manos que se queman no se olvidan del fuego. Lo respetan.
-
-Piggy no sabe si Pietro le está contando una historia o dándole un consejo. Tal vez ambas cosas.
+Pero no es el Fokus lo que le hiela la sangre a Piggy esa noche.
 
 ---
 
-Esa tarde, mientras el mercado bulle con su caos habitual, Piggy escucha fragmentos de conversaciones que antes habría ignorado. Un grupo de comerciantes discute en voz baja cerca del puesto de especias. Uno de ellos menciona algo sobre "los hijos de la libertad" y "el cargamento que viene del puerto".
+Es lo que hay en el segundo contenedor.
 
-Piggy afina el oído sin voltear.
+Woody, terminado el asunto de las piedras azules, camina hacia otra caja — más humilde, sin el mismo despliegue —, y ahí Piggy ve algo que su ojo reconoce al instante, porque hay cosas que un guerrero graba para siempre: **metal trabajado con fuego**.
 
-—El té llega mañana —dice uno—. Si no actuamos, los Blu se quedarán con todo el embarque.
+No es chatarra. Es herrería fina — piezas forjadas con una técnica que Piggy vio una sola vez en su vida, la noche que despertó quemado en una celda y comió sopa caliente de manos de hombres con capuchas rojas. El metal de los del fuego tiene una firma: un recocido particular, un color de temple que solo sale de sus forjas. Los Sitters marcan su trabajo con el fuego mismo, sin querer, como una voz marca un acento.
 
-—¿Y qué propones? ¿Tirarlo al mar como en los viejos tiempos?
+Y Woody está cargando ese metal de los Sitters en cajas que Piggy, con un frío que le sube por la espalda, ve rotular con destino a las bodegas de evidencias del caso Matrasy.
 
-Risas nerviosas. Pero debajo de ellas, Piggy detecta algo real: tensión, urgencia, el sabor metálico del riesgo.
+Piggy no entiende el mecanismo completo. Pero entiende la forma: van a decir que el metal que tumbó el Matrasy salió de las forjas de los Sitters. Van a plantar la prueba. Y los Sitters — aislados en su cerro, armados, incomprensibles para una ciudad que le teme a lo que no reza como ella — son el culpable perfecto que la periferia agraviada nunca pudo ser.
 
-No es la primera vez que escucha rumores sobre resistencia. Sailor Capital parece próspera desde afuera, pero debajo de la superficie hay grietas. Los Blu controlan demasiado. El proyecto Under End consume recursos que podrían alimentar barrios enteros. Y hay quienes murmuran que Dirk Newman no es solo un administrador brillante, sino algo más oscuro.
+Lo que Piggy no puede oír, desde su cornisa, es la parte más sucia — la que le contarían años después los que sobrevivieron: cómo consiguieron el metal. No lo robaron. No hizo falta. Un hombre llegó al cerro de los Sitters hace semanas, herido, hambriento, pidiendo asilo — y los Sitters, cuyo código sagrado no le niega el fuego a nadie que llegue con frío, que juzgan a cada extraño dejando que una cabra decida y respetan el veredicto aunque los mate, lo acogieron. Le dieron calor, comida, y cuando el hombre se fue, agradecido, les compró a precio justo unas piezas de herrería "para su pueblo, allá lejos". Los Sitters se las forjaron con orgullo. Con nobleza. Confiando, como confían los que tienen principios, en que el otro también los tenía.
 
-Piggy sabe que esos rumores tienen razón. Ha visto los hilos.
+Esa herrería es la que ahora Woody rotula como prueba de asesinato.
 
----
-
-Esa noche, en lugar de ir directo a su habitación, Piggy toma una ruta distinta. Camina por calles que ha memorizado, evitando cámaras, manteniéndose en las sombras. No va hacia el departamento de Dirk —ya sabe lo peligroso que es acercarse—, sino hacia el puerto.
-
-El puerto de Sailor Capital es un monstruo de metal y luz. Grúas que nunca duermen, contenedores apilados como bloques de un juego infantil, el murmullo constante del Matrasy de carga que conecta la ciudad con el resto del mundo.
-
-Piggy se detiene en una cornisa alta, observando.
-
-Mañana llega un cargamento. Los comerciantes del mercado hablaban de té, pero Piggy sospecha que no es solo té. Los Blu no invertirían tanta seguridad en hojas secas.
-
-Y entonces lo ve.
-
-Una figura familiar cruza uno de los muelles con paso decidido. Alto, delgado, con el cabello engominado y zapatos que brillan incluso bajo la luz artificial.
-
-Dirk Newman.
-
-Piggy se congela. ¿Qué hace Dirk en el puerto a estas horas?
-
-Lo observa reunirse con un grupo de hombres en un almacén cerrado. La conversación es breve, tensa. Uno de los hombres le entrega a Dirk una carpeta. Dirk la abre, revisa su contenido, y asiente.
-
-Antes de irse, Dirk mira hacia arriba, hacia la cornisa donde Piggy está escondido.
-
-No lo ve. No puede verlo desde esa distancia, en esa oscuridad.
-
-Pero Piggy siente el peso de esa mirada como si fuera un anzuelo buscándolo.
+La bondad de los Sitters fue el caballo. La confianza fue la puerta que le abrieron.
 
 ---
 
-De regreso a su habitación, Piggy no puede dormir.
+Piggy vuelve al mercado antes del alba, con la imagen quemándole por dentro.
 
-Se sienta en el borde de la cama y saca su Hashboard comprimida. La sostiene en la palma, sintiendo su peso familiar. Hace meses que no la usa. La velocidad deja rastro. El rastro deja preguntas. Las preguntas atraen a los agentes que buscan al barbón.
+No va a poder dormir, y lo sabe. Se sienta en el borde de la cama y saca la base de su Hashboard — el corazón dañado de su tabla, lo único intacto de su mundo — y la sostiene en la palma, sintiendo su peso.
 
-Pero ya no puede seguir quieto.
+Hace meses que casi no la usa. La velocidad deja rastro. El rastro deja preguntas. Las preguntas atraen a los hombres del retrato.
 
-La imagen de Pietro y su mano quemada le vuelve a la mente. "Las manos que se queman no se olvidan del fuego. Lo respetan."
+Pero ya no puede seguir quieto. Lo entiende con una claridad nueva, la claridad que le dieron un tablero de ajedrez y una cicatriz en una palma vieja: *no mires la pieza, mira lo que la pieza deja sin cuidar.* El Estado mueve la pieza de los Sitters para tapar el hueco del Matrasy. Y en el hueco que esa jugada deja sin cuidar — en el escándalo, en la mentira, en el metal plantado — quizá esté también la grieta por donde Piggy pueda acercarse a Dirk.
 
-Piggy aprieta la Hashboard.
+Las manos que se queman no se olvidan del fuego. Lo respetan.
 
-Mañana irá al puerto. Mañana verá qué hay en ese cargamento. Y si tiene suerte —o la valentía suficiente—, encontrará algo que lo acerque a Dirk, a los hilos, a la forma de volver a su tiempo.
-
----
-
-El amanecer llega antes de que Piggy esté listo.
-
-El mercado abre como siempre, pero hoy Piggy trabaja con prisa. Pietro lo mira de reojo pero no dice nada. A media mañana, Piggy se excusa diciendo que tiene un encargo personal. Pietro asiente.
-
-—Ten cuidado —le dice, y la palabra suena como si supiera más de lo que debería.
-
-Piggy toma el Matrasy hacia el puerto. Los vagones están llenos de trabajadores, comerciantes, gente común que no sospecha nada. Piggy se mezcla entre ellos como una gota en el océano.
-
-Al llegar, el puerto está más activo de lo normal. Hay seguridad adicional: hombres con uniformes discretos pero reconocibles, los mismos que visitaron el mercado buscando al barbón.
-
-El escuadrón de Dirk.
-
-Piggy se mantiene a distancia, observando. El cargamento ya está siendo descargado: contenedores enormes que se balancean en el aire como frutos metálicos. Uno de ellos tiene un símbolo que Piggy reconoce: el logo de zPace.
-
-No es té. Es equipo para Under End.
-
-Pero hay algo más. Uno de los contenedores está separado del resto, custodiado por más guardias que los demás. Piggy nota que los trabajadores regulares se mantienen alejados de él, como si supieran que hay cosas que es mejor no ver.
-
-Un hombre se acerca al contenedor especial. Piggy lo reconoce por su silueta: Woodrow, la mano derecha de Dirk.
-
-Woodrow abre el contenedor con una llave biométrica. Por un segundo, antes de que la puerta se cierre, Piggy alcanza a ver el interior.
-
-Frascos.
-
-Decenas de frascos transparentes, alineados como soldados.
-
-Y dentro de los frascos, algo que se mueve.
-
-Piggy siente un escalofrío. Ha visto esos frascos antes, en las noticias sobre zPace. Son los prototipos bacterianos que usan para navegación. Pero estos parecen diferentes. Más grandes. Más… conscientes.
+Piggy aprieta la base de la tabla. Mañana empieza a moverse. No sabe todavía qué va a hacer — si avisar a los Sitters, si buscar la prueba, si acercarse por fin al hombre del cartel —, pero sabe que la temporada de ser invisible se acabó. Los hilos lo arrastraron a este tiempo. Quizás los hilos sean también la salida. Y si tiene que quemarse las manos para encontrarla, que así sea.
 
 ---
 
-De regreso al mercado, Piggy no puede quitarse la imagen de la mente.
+En el drenaje de Sailor Capital, kilómetros bajo la superficie, algo que no debería tener voluntad ya no solo crece: **espera con método**.
 
-¿Qué están haciendo con esas bacterias? ¿Por qué Woodrow las custodia personalmente? ¿Y qué tiene que ver todo esto con los hilos de Dirk?
+Las bacterias que Ramón vertió al retrete se han organizado en el tiempo que Piggy pasó aprendiendo a sobrevivir. Ya no son colonias sueltas probando formas. Se han repartido oficios: unas buscan hierro, otras leen la corriente, otras se aquietan en las juntas de la tubería y no hacen nada visible durante días — porque han aprendido lo más difícil que puede aprender lo vivo, que es a no moverse hasta que convenga.
 
-No piensa en Ramón. No puede: el reciclador del sábado y los frascos del puerto viven en compartimentos distintos de su cabeza, como deben vivir los que aún no conectan puntos que no tienen derecho a conectar.
+En el ensanche del drenaje, donde la oscuridad es absoluta, ya no hay solo una pupila mirando hacia arriba. Hay una forma que se desplaza — despacio, con dirección, como si supiera adónde va y tuviera todo el tiempo del mundo para llegar. Sube por el sistema un milímetro al día, hacia el olor de la ciudad, hacia el calor, hacia el arriba que aprendió a distinguir del abajo.
 
-Las preguntas se le acumulan como deudas.
-
-Pietro lo espera con una mandarina pelada y una mirada que dice "sé que viste algo".
-
-—Hay noches —dice el viejo, como si continuara una conversación que nunca empezaron— en que los hombres tienen que elegir. Quedarse callados y seguir con su vida… o hablar y arriesgar todo.
-
-Piggy toma la mandarina.
-
-—¿Qué elegiste tú?
-
-Pietro sonríe, pero es una sonrisa triste.
-
-—Elegí sobrevivir. Pero a veces me pregunto si sobrevivir fue suficiente.
-
-El mercado se llena de gente. Los gritos de los vendedores ahogan cualquier silencio. Pero Piggy escucha las palabras de Pietro como si fueran las únicas en el mundo.
-
-Esa noche, por primera vez en meses, Piggy saca su Hashboard y la despliega.
-
-La tabla brilla bajo la luz de la luna, lista para volar.
-
-Piggy no sabe exactamente qué va a hacer. Pero sabe que ya no puede seguir siendo invisible.
-
-Los hilos lo arrastraron a este tiempo. Quizás los hilos sean también la forma de salir.
-
-Y si tiene que quemarse las manos para descubrirlo, que así sea.
-
----
-
-En el drenaje de Sailor Capital, kilómetros bajo la superficie, algo que no debería tener voluntad sigue creciendo.
-
-Las bacterias que Ramón arrojó al retrete han encontrado un nuevo hogar entre los metales oxidados y las aguas estancadas. Ya no son solo puntos que flotan. Se han organizado. Se han especializado. Algunas buscan hierro. Otras buscan luz. Otras simplemente… esperan.
-
-En un punto donde el drenaje se ensancha, donde la oscuridad es absoluta y el eco del agua suena como un latido, las bacterias han formado algo que casi parece un ojo.
-
-Un ojo sin párpados.
-
-Un ojo que mira hacia arriba, hacia la ciudad que no sabe que existe.
-
-Un ojo aprendiendo.
+No tiene prisa. La prisa es de los que temen morir, y esto ya decidió que no piensa hacerlo.
 
 ---
 

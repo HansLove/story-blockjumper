@@ -20,9 +20,11 @@ El pánico lo toma por la garganta. En el horizonte, entre edificios, distingue 
 Salta por la ventana del alto departamento.
 Alt text
 
-Al caer, Piggy rompe los cristales. Las piezas llueven hacia la calle como gotas afiladas y alcanzan a un hombre sin hogar: Rodolfo, un anciano con vibras de Diógenes, que alguna vez soñó con ser un flautista famoso y terminó empujado por placeres fáciles hasta quedar al margen de todo.
+Al caer, Piggy rompe los cristales. Las piezas llueven hacia la calle como gotas afiladas y alcanzan a un hombre sin hogar: Rodolfo, un anciano con vibras de Diógenes, que alguna vez soñó con ser un flautista famoso y terminó — según la única versión que todos aceptan — empujado por los placeres fáciles hasta el margen de todo.
 
-Lo ve. Apenas un parpadeo, pero le alcanza para sentir un golpe en el pecho. El cuerpo le pide detenerse; el miedo lo arrastra. Aun así, el remordimiento le muerde: Rodolfo cae y Piggy solo alcanza a voltear una vez, como quien se promete regresar sin saber si podrá.
+Rodolfo levanta la cara hacia el hombre que cae del cielo, y no grita. Se cubre de los vidrios con un brazo, pero los ojos no los aparta: los tiene fijos en Piggy con una atención que no es de loco, una atención de las que registran para siempre. Piggy lo ve apenas un parpadeo — el tiempo justo para sentir un golpe en el pecho, para que el remordimiento le muerda: un anciano herido por su culpa antes de tocar el suelo de este siglo. El cuerpo le pide detenerse; el miedo lo arrastra. Alcanza a voltear una sola vez, como quien se promete regresar sin saber si podrá.
+
+No sabe que acaba de dejar atrás al único testigo verdadero de su llegada. Ni que ese testigo, cuando cuente lo que vio, no le va a creer nadie.
 
 Sin perder un segundo, Piggy invoca su Hashboard y se desliza por el costado del edificio a gran velocidad, tocando las calles en cuestión de instantes. Se dirige hacia la bandera, pero desconoce las calles y avenidas por las que navega; desata la curiosidad de quienes voltean a ver al incidente andante que deja un torbellino de destrucción a su paso.
 
@@ -31,7 +33,7 @@ Alt text
 Piggy logra salir de la caótica urbe y se adentra cada vez más en el follaje, creando un rastro de polvo y vegetación en la terracería por la que surca. 
 Alt text
 
-El rastro es frenado inmediatamente por una espesa llamarada en forma de red que bloquea el arbolado camino, deteniendo la aceleración de Piggy, destruyendo su Hashboard e impidiendo su escape; el área de la red se reduce, el calor se hace más sofocante y el humo que emana ciega su vista progresivamente y le impide respirar. Finalmente, Piggy pierde la conciencia.
+El rastro es frenado inmediatamente por una espesa llamarada en forma de red que bloquea el arbolado camino, deteniendo la aceleración de Piggy y calcinando el cuerpo de su Hashboard — la hoja se retuerce, se ennegrece, muere. Pero la base, el corazón de la tabla, el que ya venía dañado desde el cruce por los hilos, sigue prendido al cinturón, comprimido junto a los cuerpos de recambio. Lo demás es reemplazable. Eso no. El área de la red se reduce, el calor se hace más sofocante y el humo que emana ciega su vista progresivamente y le impide respirar. Finalmente, Piggy pierde la conciencia.
 
 Alt text
 
@@ -41,7 +43,7 @@ Asomando la cara por los barrotes, Piggy nota una bandera carmesí al fondo y le
 
 —¡Esto es un malentendido! ¡Déjenme hablar con Rey Gallopo, él sabe quién soy!
 
-Los guardias hacen caso omiso a todo lo que Piggy dice. 
+Los guardias hacen caso omiso a todo lo que Piggy dice. No pueden saber — ni Piggy tampoco, todavía — que el nombre que grita pertenece a un rey que no nacerá hasta dentro de cien bloques, y que estos hombres de capucha roja son la semilla de la que ese rey brotará. Piggy le está pidiendo auxilio a los antepasados de su salvador, ciento y tantos años antes de que exista.
 
 Después de varios intentos, Piggy se resigna y piensa en escapar, pero sabe que aunque lo logre, sus quemaduras y su hambre no le permitirán llegar muy lejos. Piggy nota que conserva su cinturón, en el cual guarda varias Hashboards comprimidas. Sabe que no puede romper las gruesas paredes con tan poco espacio: necesita más aceleración para generar una fuerza de esa magnitud. 
 
@@ -67,31 +69,39 @@ Los guardias se ponen de pie y escoltan a Piggy fuera de la cámara y del templo
 
 Todavía desnudo, Piggy siente que el aire le muerde la piel. Se viste a toda prisa, torpe, pudoroso, amarrándose el cinturón con manos temblorosas. A lo lejos, una familia avanza por el camino: risas bajas, pasos tranquilos. Piggy baja la mirada y se aparta, como si la vergüenza pudiera delatarlo más que cualquier guardia.
 
-Con calma, Piggy contempla las afueras de la ciudad desde las alturas en las que se encuentra. Observa la estructura de la ciudad, la posición de las estrellas y las montañas. “La estructura de la ciudad es familiar, pero todo luce distinto. La posición de las estrellas, el uso masivo de metal… No me cabe duda: estoy en el pasado. Salté en el tiempo cortando esos hilos.” 
+Con calma, Piggy contempla las afueras de la ciudad desde las alturas en las que se encuentra. Observa la estructura de la ciudad, la posición de las estrellas, las montañas. Todo le resulta familiar y ajeno a la vez, como una cara conocida que despertó con otra edad. *La ciudad es la misma y no lo es. Las estrellas están corridas. Y ese metal por todas partes...* La sospecha se le forma sin atreverse a nombrarse, porque lo que sugiere es imposible. Piggy la aparta. Hay explicaciones más simples que la imposible, siempre las hay, y decide buscarlas antes de rendirse a la que le eriza la nuca.
 
 Los últimos rayos del sol terminan de bajar por el horizonte, oscureciendo cada vez más el panorama. Piggy busca algún lugar donde pueda pasar la noche en la periferia de la ciudad, encuentra una gran procesadora de metales que funciona de manera automática y decide quedarse ahí, el calor de la maquinaria ayuda contra el frío de la noche y sabe que nadie lo notará durmiendo.
 
 A altas horas de la madrugada, un grupo de cuatro sujetos merodean la zona mientras cargan varias cajas llenas de distintos tipos de chatarra metálica. Uno de ellos se percata de los ronquidos de Piggy entre los silencios que hay en cada intervalo de la maquinaria y le dice a sus secuaces que se acerquen con cautela, tras una inspección más cercana, los sujetos toman el cinturón de Piggy, pero antes de poder salir de escena, uno de ellos se tropieza y tira todos los metales que llevaba en su caja, despertando a Piggy. 
 
-Los sujetos corren y Piggy va detrás de ellos a recuperar todas sus Hashboards almacenadas. La distancia que los separa cada vez es menor hasta que finalmente Piggy los alcanza, sin lugar a donde correr, los tipos intentan intimidar a Piggy con amenazas, pero él no retrocede; sus ojos llenos de determinación continúan acercándose, con la mira fija en la mochila donde metieron su cinturón.
+Los sujetos corren y Piggy va tras ellos. Los alcanza en un callejón sin salida, y ahí, acorralados, los cuatro se voltean a encararlo con la bravata de los que no tienen para dónde correr.
 
-Piggy, lleno de seguridad dice “Solo se los diré una vez, devuélvanme mi cinturón”. Los ladrones sueltan las cajas que cargaban y se acercan simultáneamente a Piggy, de repente un puño intenta golpear la cara de Piggy, pero este lo esquiva y le regresa el puñetazo, conectando el golpe y derribando a uno de los sujetos de un solo golpe. 
+Y Piggy, por primera vez en su vida, duda.
 
-Los dos ladrones que están detrás de Piggy retroceden un paso, pero el calvo que está frente a él no se mueve ni un centímetro. Les escupe a sus compañeros:
+No de si puede. De si debe. Porque los mira — de verdad los mira, con la luz sucia del amanecer — y ve algo que la guerra nunca le puso enfrente: no son monstruos. No son Ramons de fuerza colosal ni Tilikums de dos metros. Son cuatro hombres flacos, mal comidos, con las manos temblando alrededor de un cinturón que creyeron valioso. Ropa remendada. Zapatos rotos. El olor del hambre, que Piggy conoce bien y nunca había olido en un enemigo. Roban porque tienen hambre. No porque él sea el enemigo. En su época no existía esa categoría: el que venía por ti venía a matarte, y punto. Aquí, por primera vez, el que viene por ti solo tiene frío.
 
-—¿Se van a ir corriendo? Bien. No necesito cobardes aquí.
+—Devuélvanme el cinturón —dice, y ni él se cree la firmeza—. Es lo único que tengo.
+
+El primer puño sale volando y Piggy lo esquiva sin pensar; el cuerpo hace lo que la guerra le enseñó, más rápido que la duda. Le regresa el golpe medido, apenas la mitad de lo que podría, y aun así el hombre se derrumba como un costal. Los dos de atrás retroceden. Solo el calvo — el Pelón — no se mueve, y les escupe a sus compañeros:
+
+—¿Se van a ir corriendo? Bien. No necesito cobardes.
 
 —¡Adán, ya vámonos! —se le escapa a uno, y el nombre queda flotando como una confesión.
 
-Antes de que alguien pueda reaccionar, el pelón ataca a Piggy con una navaja. Piggy logra frenar el filo, pero la hoja le abre la palma: un corte limpio, una línea roja que arde.
+Adán ataca con una navaja. Piggy frena el filo, pero la hoja le abre la palma — una línea roja que arde —, y el dolor le quita la contemplación. Aun así se contiene: podría partirlo en dos, y no lo hace. Los desarma con una economía que a él mismo lo asusta — un tobillo doblado, una patada baja, un rodillazo que le tumba a Adán el diente de fierro —, y en menos de un minuto los cuatro están en el suelo, gimiendo, y Piggy de pie entre ellos sin un rasguño que cuente, con la palma abierta y una sensación nueva pudriéndosele en el pecho.
 
-El dolor lo vuelve más brusco. Piggy lo tumba y le arranca el aire de un golpe seco, pero el pelón es más sucio que fuerte: le lanza tierra a los ojos y, en la ceguera, lo derriban entre varios. Piggy aguanta patadas, un puño en la boca, el metal frío del miedo… hasta que logra atrapar un tobillo y doblarlo con rabia. Uno cae aullando. Otro se dobla con una patada baja.
+Porque ganó. Ganó fácil. Demasiado fácil. Y ganar fácil contra el hambre no se siente como una victoria: se siente como abusar.
 
-Con la mitad fuera de combate, Piggy se incorpora con los ojos irritados, sangre en el labio y furia controlada. Se acerca al pelón, lo sorprende con un golpe al estómago y un rodillazo a la quijada, tumbándole el diente de fierro. El cuerpo queda flojo, inconsciente.
+El último que queda consciente le ruega perdón mientras se arrastra hacia atrás, y Piggy — que en la guerra habría rematado sin parpadear — lo deja ir. No por descuido. Por asco. Asco de sí mismo, de la facilidad, del mundo que fabrica hombres tan rotos que le roban un cinturón a un desconocido dormido y pierden hasta eso. Una linterna parpadea a lo lejos, una voz grita *"¿quién anda ahí?"*, y Piggy toma la mochila con su cinturón y se va, dejando a cuatro pobres tirados en un callejón que huele a hambre y a metal.
 
-El último ladrón que queda en pie le ruega perdón mientras corre, pero de repente se ve la luz de una linterna a la distancia y una voz grita a lo lejos “¿Quién anda ahí? ¡Llamaré a la policía!”. Piggy toma la mochila donde metieron su cinturón y escapa del lugar, dejando huir al ladrón sobrante. 
+Es la primera lección que el Bloque 99 le da, y no la entiende hasta años después: en este siglo, los enemigos son personas. Y él es mucho más fuerte que cualquiera de ellas.
 
-Caminando entre las quietas calles de la ciudad momentos antes del alba, Piggy revisa el resto del contenido de la mochila y encuentra muchos papeles con varios números y un signo en común al final; signo que ha visto en muchos lugares de la ciudad. Toma uno y lo inspecciona cuidadosamente, su rostro se congela y se paraliza cuando lee la fecha de emisión de ese billete: bloque 99, más de 80 **bloques** antes del nacimiento de Piggy.
+Al saltar sobre las cajas volcadas, un detalle se le atora en el ojo sin pedir permiso: la chatarra está *clasificada*. Cobre con cobre, hierro con hierro, cada caja pesada y pareja, como mercancía y no como basura. Nadie roba desperdicio con disciplina de hormiga. Piggy no sabe qué significa — y lo guarda donde guarda las cosas que no sabe qué significan, que es la alacena más importante de un soldado.
+
+Tampoco sabe — no tiene cómo saberlo, nunca lo va a saber — que los cuatro hombres que acaba de dejar tirados van a arrojar esa misma chatarra a las vías del Matrasy mañana en la mañana. Que uno de ellos, el del diente de fierro, cargará ciento diecinueve muertos sobre una boca que ya no sonríe con metal. Piggy pasó una noche junto a la mecha del peor atentado de la historia de esta ciudad, peleó con los que la iban a encender, y se fue sin entender nada. Como casi todos. Como todos.
+
+Caminando entre las quietas calles de la ciudad momentos antes del alba, Piggy revisa el resto del contenido de la mochila y encuentra muchos papeles con varios números y un signo en común al final; signo que ha visto en muchos lugares de la ciudad. Toma uno y lo inspecciona cuidadosamente, su rostro se congela y se paraliza cuando lee la fecha de emisión de ese billete: bloque 99, casi cien bloques antes del nacimiento de Piggy.
 
 De pronto todo hace sentido, la apariencia de la ciudad, la bandera carmesí, el uso masivo de metal, la posición de las estrellas; no está en un lugar lejano o en otra dimensión, está en el pasado. Perplejo, susurra a sí mismo “De algún modo…salté en el tiempo cortando esos hilos”.
 

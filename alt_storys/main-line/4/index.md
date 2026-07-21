@@ -1,60 +1,101 @@
-# Keep going, the show most continue
- 
-El sol se refleja en los capotes metálicos, la alta temperatura acumulada en el asfalto se combina con la gran combustión de los motores más potentes jamás creados. Decenas de miles de sombrillas alrededor de toda la pista del Pixel Arena, millones de espectadores viendo la transmisión, todos listos para atestiguar ‘La Arista’, el evento anual de carreras más grande del mundo.
+# Keep going, the show must continue
 
-Los pilotos parten desde la Píxel Arena y recorrerán toda la costa oeste hacia el sur hasta llegar a la meta en Valle Viñedo, donde se coronará al ganador.  Los pilotos tienen permitido hacer cualquier cosa siempre y cuando estén dentro de su vehículo y en la ruta delimitada; es decir, pueden chocar contra otros pilotos, rebasarlos, descarrilar, no dejar pasar; cualquier cosa necesaria para llegar antes que nadie.
+El sol se refleja en los capotes metálicos; la alta temperatura acumulada en el asfalto se combina con la combustión de los motores más potentes jamás creados. Decenas de miles de sombrillas rodean la pista del Pixel Arena, millones de espectadores siguen la transmisión, y todos — los de las sombrillas y los de las pantallas — están ahí para lo mismo: atestiguar La Arista, el evento anual de carreras más grande del mundo.
 
+Los pilotos parten del Pixel Arena y recorrerán la costa oeste hacia el sur hasta la meta en Valle Viñedo, donde se coronará al ganador. Las reglas caben en una frase: pueden hacer cualquier cosa mientras estén dentro de la ruta delimitada. Chocar, rebasar, descarrilar, cerrar el paso — cualquier cosa necesaria para llegar antes que nadie. Es el deporte perfecto de la era: velocidad sin frenos, con público.
 
+Y este año, más que ningún otro, la carrera no es solo carrera.
 
-Este año parece ser el más grande de todas las ediciones; después de la tragedia del Matrasy y la presión policial para desmantelar al grupo Rinki, el pueblo tuvo un primer destello de desaprobación. A pesar de la captura del pelón y de otros 32 miembros, la gente sigue sintiéndose insegura y con un mal sabor de boca. El dinero de muchos inversores está en juego y es necesario retornarlo en el masivo evento para mantener cierta estabilidad económica y seguir con el proyecto de nación. 
+Después de la tragedia del Matrasy y la presión policial para desmantelar al grupo Rinki, el pueblo tuvo su primer destello de desaprobación contra el gobierno. A pesar de la captura del Pelón y de otros treinta y dos miembros, la gente sigue insegura, con mal sabor de boca — y una ciudad con mal sabor de boca es mala para el crédito. El dinero de muchos inversores está en juego, y La Arista es la medicina recetada: retornar capital, retornar confianza, recordarle a la nación que la abundancia sigue aquí y ruge a cuatrocientos por hora. El pan quedó tocado por el luto; que el circo sea el doble de grande.
 
-Mientras toda la audiencia disfruta del show de apertura de la artista Roxy Spades, la cabeza de los Blu, Billy M. Blu habla con Mimi Saito desde la sección Este de los palcos del Pixel Arena acerca de los avances del caso. Tras mostrarle a Billy las múltiples evidencias y decenas de expedientes de los capturados, este solo se acerca a la ventana para ver mejor la pista con un trago en mano y le dice, “Disfruta del show Mimi, después habrá tiempo para lo demás”. 
+En la sección Este de los palcos, mientras la artista Roxy Spades abre el espectáculo, la cabeza de los Blue conversa con la secretaria de defensa. Mimi Saito trae expedientes: los avances del caso, las capturas, las evidencias. Billy M. Blue los mira sin tocarlos, se acerca a la ventana con un trago en la mano, se quita los lentes redondos.
 
-Dirk se encuentra recorriendo la sección Oeste hasta llegar a su palco donde le espera Woodrow Mellon, la mano derecha y confidente de Dirk. Sin esperar un segundo, Dirk le dice a Woodrow, “Tenemos un problema”. Woodrow pregunta alarmado “¿Con qué? ¿No atraparon a todos los responsables?” A lo que Dirk responde “No, no es eso. Se trata de algo, o más bien alguien, que yo traje hasta acá”. Woodrow queda confuso y le pregunta “¿Pero cómo pudiste traer a una persona? Pensaba que solo atraías prosperidad con tu don”. 
+—Disfruta del show, Mimi. Después habrá tiempo para lo demás.
 
-Mientras Dirk camina aceleradamente por todo el palco Woodrow le dice “Está bien, digamos que tú lo trajiste ¿En que te puede afectar? No sabe quién eres ni cómo buscarte, además la ciudad es demasiado grande como para encontrarlo caminando por ahí. Y lo más importante ¿Por qué estaría tras tí? Digo, no le has hecho nada como para que tenga una motivación en tu contra, ¿No crees que estás sacando de proporción la situación?”. Sin dejar de caminar, Dirk le dice “No, esto es distinto. Pensaba que se iba a esfumar solo, pero apareció en la proyección que hizo Viktor Lang, él es un mal presagio”.
+En la sección Oeste, Dirk Newman recorre los pasillos hasta su palco, donde lo espera Woodrow Mellon, su mano derecha y confidente. Dirk no espera ni a sentarse:
 
-Al concluir la presentación de Roxy, los fanáticos gritan de emoción por el inicio de la edición número 13 de La Arista. Los altoparlantes anuncian entusiasmadamente la alineación de izquierda a derecha de los pilotos; En el extremo izquierdo, dentro del vehículo azul olímpico se encuentra el maestro mecánico y autor del ‘Bailout’ ¡Jim Tyler! A su lado está la mujer de la umbra en su característico vehículo plateado reflectivo ¡La sigilosa piloto Luna Valdez! A su lado derecho, en su temible vehículo rojo, el campeón actual que busca volver a ganar ¡Kenzo Toro! Y por último pero no menos importante, en el vehículo blanco está el joven prodigio y genio de la evasión ¡Chip Keaton!
+—Tenemos un problema.
 
-Sin más preámbulos la pistola dispara y todos los motores arrancan, ¡la Arista ha comenzado! Kenzo Toro toma la ventaja desde el punto de partida, arrancando a gran velocidad con su rojo vehículo bautizado como ‘Láser’; el cual obtiene su nombre por su característico brusco estilo de manejo, dejando a todos atrás y perforando todo a su paso con su sólido e indestructible vehículo. 
+Woodrow levanta su robusto cuerpo del asiento, alarmado:
 
-Jim Tyler le pisa los talones a Kenzo Toro, posicionándose a su espalda y utilizando como ventaja la nula resistencia al viento y ahorrando combustible sin perderle el paso a Kenzo. A unos metros de distancia de ellos se encuentra Luna Valdez tratando de filtrarse al segundo lugar, mientras tanto, Chip Keaton reside en el fondo y se reserva a cortar distancia entre él y el resto de pilotos.
+—¿Con qué? ¿No atraparon a todos los responsables?
 
-Chip Keaton acelera a toda potencia su vehículo, dejando atrás a Luna Valdéz y alcanzando a Jim Tyler, pero antes de que Chip lo pudiera rebasar, Jim Tyler utiliza su característica patente ‘Bailout’; la cual le permite dividir de múltiples formas su vehículo y reintegrar sobre la marcha. Chip rebasa el vehículo dividido de Jim Tyler, pero el exceso de velocidad le hace chocar ligeramente con Kenzo Toro; reduciendo su propia velocidad y la del actual campeón. 
+—No, no es eso. Se trata de algo — o más bien *alguien* — que yo traje hasta acá.
 
-Jim Tyler aprovecha este choque para reintegrar su vehículo y tomar el liderazgo de la carrera. Antes de que Kenzo y Chip puedan retomar el control son rebasados por Luna que se infiltró sigilosamente entre ellos, quitándole a ambos el segundo lugar. Kenzo se logra estabilizar gracias al peso de su vehículo y toma el tercer lugar mientras que Chip vuelve a quedar al final. 
+—¿Pero cómo pudiste traer a una persona? Pensaba que solo atraías prosperidad con tu don. —Y como Dirk camina acelerado por el palco sin responder—: Está bien, digamos que tú lo trajiste. ¿En qué te puede afectar? No sabe quién eres ni cómo buscarte. La ciudad es demasiado grande para encontrarlo caminando por ahí. Y lo más importante: ¿por qué estaría tras de ti? No le has hecho nada. ¿No estás sacando la situación de proporción?
 
-Luna Valdéz quiere tomar la delantera pero Jim Tyler bloquea su paso separando su vehículo y ocupando un área mayor; sin embargo, las piezas separadas son más lentas que cuando están juntas; haciéndole perder velocidad, obligándolo a desactivar ‘Bailout’ y reintegrar su vehículo. Jim continúa bloqueando el paso con su vehículo en una sola pieza, pero cada vez le cuesta más ver dónde está Luna gracias a su vehículo reflectivo; las altas velocidades permiten que Luna logre camuflarse con la pista, haciendo casi imposible distinguirla.
+—No. Esto es distinto. —Dirk se detiene ante el vidrio del palco, mirando la pista sin verla—. Pensaba que se iba a esfumar solo. Pero apareció en la proyección que hizo Viktor Lang. Y anoche... —no termina la frase; las cornisas no se confiesan—. Él es un mal presagio.
 
-El serpenteo de Jim previene que Luna lo rebase a pesar de que él no puede verla, sin embargo le cuesta mantener la alta velocidad por no ir en línea recta. Al notar que Kenzo y Chip están más cerca de él, Jim decide acelerar derecho para mantener distancia, pero choca con algo frente a él; se trata de Luna, la cual pudo rebasar a Jim sin que se diera cuenta mientras serpenteaba.
+Abajo, en las gradas populares, entre diez mil cabezas anónimas, un muchacho de chaqueta de cuero come garnachas de puesto y mira los vehículos formarse en la línea de salida. Piggy no vino por la carrera: vino porque Pietro insistió — *"un muchacho de tu edad no puede vivir de trabajar y rumiar; ten, mi boleto de siempre, a mí ya me marean los motores"* — y porque un fugitivo aprende rápido que el mejor escondite es una multitud mirando otra cosa. No sabe que el hombre que busca está a trescientos metros de él, en un palco de la sección Oeste, hablando de su existencia.
 
-Entre todos estos cambios de posiciones a altas velocidades, los pilotos han llegado rápidamente a Costa Marcial, avanzado un tercio de la carrera. El terreno es mucho más seco que en las afueras de Sailor Capital; el polvo se levanta con facilidad y hay menor tracción comparado a un suelo más compacto. El sol directo puede presentar un peligro de calor en los motores y la temperatura interna de los vehículos. Todas estas condiciones climáticas juegan un factor clave en cómo recorrer este tramo y qué estrategia usar. 
+La era es así: todos sus hilos pasan por el mismo lugar, y nadie los ve cruzarse.
 
-El sol se refleja sobre el vehículo de Luna en todas las direcciones, cegando con erráticos destellos a todos los pilotos a su trasera. Jim Tyler es el más afectado por estar directamente detrás de ella, lo que le provoca desacelerar y ser rebasado por Kenzo y Chip respectivamente. 
+---
 
-Existe un patrón en los constantes intentos de rebasar de Kenzo; ha mantenido en la mira un rastro de arena a pesar los múltiples destellos de luz. Kenzo acelera repentinamente con extrema rapidez y sorprende a Luna, la cual no puede reaccionar a tiempo y sufre un gran impacto lateral por parte de Kenzo, posicionándose en primer lugar gracias al peso y la dureza de su vehículo. 
+Al concluir la presentación de Roxy, los fanáticos rugen: comienza la edición número trece de La Arista. Los altoparlantes anuncian la alineación:
 
-El choque fue mucho más grave para Luna, saliendo afectada con una abolladura que inhabilita parcialmente su camuflaje y que fricciona sobre sus propias llantas, desgastando excesivamente sus neumáticos y haciéndole perder velocidad. Chip Keaton aprovecha la situación y pasa con facilidad a Luna Valdez por el mismo costado y tomando el segundo puesto en la carrera. 
+¡En el extremo izquierdo, en el vehículo azul olímpico, el maestro mecánico y autor del "Bailout", **Jim Tyler**! ¡A su lado, la mujer de la umbra en su característico vehículo plateado reflectivo, la sigilosa **Luna Valdez**! ¡A su derecha, en el temible vehículo rojo, el campeón actual que busca el bicampeonato, **Kenzo Toro**! ¡Y por último pero no menos importante, en el vehículo blanco, el joven prodigio y genio de la evasión, **Chip Keaton**!
 
-Kenzo aprovecha su liderazgo y continúa con esa extrema velocidad con la que rebasó a Luna, levantando un gigante rastro de polvo del suelo y limitando la visión del resto de pilotos. Jim Tyler activa su Bail Out y despega únicamente una pieza de su vehículo, dándole la orden de colocarse frente a él para que la pieza actúe como un centinela. 
+La pistola dispara. La Arista ha comenzado.
 
-La pieza choca con Luna; indicando a Jim por cual parte puede rebasar al tercer lugar sin dañar su vehículo; Jim rebasa a Luna desapercibidamente gracias a la gran cantidad de polvo en el aire. El calor comienza a afectar el vehículo de Kenzo, forzándolo a reducir la velocidad y por ende que el polvo deje de ser tan abundante.
-Chip Keaton ve esa reducción de velocidad como una posibilidad para rebasar a Kenzo; pero a pesar de la corta distancia entre ellos, Chip no es capaz de crear un ángulo de entrada que logre colocarlo en el primer lugar. 
+Kenzo Toro toma la ventaja desde el arranque con su rojo "Láser" — bautizado por su estilo de manejo: brusco, sólido, perforando todo a su paso con un vehículo que parece fundido de una sola pieza. Jim Tyler se le pega a la espalda, chupando rueda, ahorrando combustible en la nula resistencia al viento. Luna Valdez ronda a unos metros, buscando filtrarse; Chip Keaton se reserva en el fondo, cortando distancia sin gastar nada.
 
-En el extremo sur de Costa Marcial el llano paisaje se vuelve irregular conforme los pilotos avanzan en la carrera, dejan atrás la polvorienta arena y se adentran cada vez más al suelo rocoso de Valle Viñedo para comenzar la última etapa de la carrera. El tiempo es escaso y un error a estas alturas puede costarle la carrera a cualquier piloto. 
+La primera jugada es de Chip: acelera a toda potencia, deja atrás a Luna y alcanza a Jim — pero antes de rebasarlo, Jim activa su patente. **Bailout**: el vehículo azul se *divide*, piezas separándose en pleno movimiento y reintegrándose sobre la marcha. Chip pasa entre los fragmentos, y el exceso de velocidad lo hace rozar a Kenzo: ambos pierden ritmo, y Jim reintegra su vehículo y toma el liderazgo. Antes de que Kenzo y Chip se recompongan, Luna se infiltra sigilosamente entre los dos y les roba el segundo lugar a ambos. Kenzo se estabiliza gracias al peso del Láser y salva el tercero; Chip vuelve al fondo.
 
-Los constantes bloqueos de Chip Keaton impacientan a Jim Tyler, haciéndolo tomar una brusca decisión; usar Bail Out a máxima capacidad. 12 piezas recorren el ancho de la pista a toda velocidad. Chip se ve abrumado ante las numerosas partes del vehículo en escena y comienza a ser rebasado por una pieza tras otra. Chip solo puede mantener a su trasera a una de las doce piezas, el resto de piezas se ensamblan a la normalidad frente suya, dejándolo detrás del vehículo de Jim. 
+Luna quiere la punta, pero Jim la bloquea separando el vehículo y abarcando más pista — y descubre el costo de su propio truco: las piezas separadas son más lentas. Reintegra, bloquea en una sola pieza, y ahora su problema es otro: no *ve* a Luna. El vehículo reflectivo se camufla con la pista a alta velocidad; el serpenteo de Jim la frena sin verla, hasta que decide acelerar en recta para tomar distancia — y choca con algo adelante.
 
-Chip Keaton decide aligerar su vehículo con su característico ‘Light Mode’; dejando atrás gran parte de las defensas del vehículo, exponiendo su cuerpo a cambio de una tremenda agudeza de control y gran velocidad. La última pieza intenta reintegrarse al vehículo de Jim, pero Chip usa la pieza a su propia ventaja como si fuese un propulsor, acercándose aún más a Jim Tyler. 
+Luna. Que ya lo había rebasado, invisible, mientras él serpenteaba.
 
-La pieza no puede unirse al resto del vehículo de Jim sin acercar a Chip a él; sabiendo esto, Jim comanda a la pieza que choque y se destruya contra Chip. Todos los movimientos que hace la pieza son esquivados impecablemente por Chip Keaton. Jim Tyler frena bruscamente, cortando el paso y acorralando a Chip entre su vehículo y la pieza suelta.
+---
 
-Entre la espada y la pared, Chip decide dar un giro cerrado pero termina chocando con la pieza detrás suya; girando fuera de control por el ancho de toda la pista. La pieza es destruida en el choque y todos los restos quedan dispersados, impactando el vehículo ya dañado de Luna Valdez; decenas de restos metálicos entran al motor por la parte expuesta, impidiendo su funcionamiento correcto y provocando un incendio en el capote, el cual se propaga rápidamente a todo el vehículo, obligando a Luna Valdéz a saltar de su vehículo y negándole terminar la carrera.
+En Costa Marcial — un tercio de carrera — el terreno se vuelve seco, el polvo se levanta fácil y el sol convierte cada capote en un arma. Los destellos del vehículo de Luna ciegan a todos los que vienen detrás; Jim, pegado a ella, desacelera encandilado, y Kenzo y Chip lo rebasan.
 
-Chip sigue avanzando hacia la meta a pesar de seguir girando sobre su propio eje, Jim Tyler frena bruscamente para chocar a Chip y sacarlo de la carrera; pero Chip esquiva el parachoques de Jim antes de que haga contacto con él. Posicionándose en su lateral, Jim cierra cada vez más el camino, tratando de empujar a Chip fuera de la pista. Chip continúa acelerando a pesar de tener cada vez menos área de manejo y logra colocar su nariz delante de la nariz de Jim Tyler. 
+Kenzo lleva rato estudiando un patrón: el rastro de arena de Luna, visible cuando sus destellos no dejan ver nada más. Acelera de golpe, la sorprende por el flanco y la embiste — el peso y la dureza del Láser contra el camuflaje de cristal —, quedándose con el primer lugar. Luna sale del golpe con una abolladura que le inhabilita medio camuflaje y le fricciona los neumáticos; Chip la pasa con facilidad y toma el segundo puesto.
 
-Las viñas abundan en el horizonte, indicando a los pilotos que este es el último trecho por recorrer. Desesperado por no quedarse atrás a estas alturas, Jim Tyler usa ‘Bailout’ una vez más, sin embargo el tiro le sale por la culata; ya que Chip Keaton evade los choques y logra filtrarse entre las piezas; de la misma manera que una pluma evade la mínima corriente de viento en los cielos. 
+Kenzo capitaliza: mantiene la velocidad extrema, levantando un muro de polvo que ciega a los de atrás. Jim responde con ingenio — despega *una sola pieza* del Bailout y la manda adelante como centinela: la pieza choca con Luna, marcándole a Jim por dónde rebasar sin dañarse, y Jim pasa al tercer lugar sin que nadie lo vea en la polvareda. El calor empieza a cobrar la factura del Láser: Kenzo reduce, el polvo baja, y Chip huele la sangre — pero por más que lo intenta, no encuentra ángulo de entrada contra el campeón.
 
-Chip Keaton se propulsa entre las once piezas; rebasando una a la vez hasta llegar a la pieza delantera, la cabina de Jim Tyler. Sus miradas se cruzan por un instante, desafiándose mutuamente antes de volver a fijar los ojos en la pista. Los motores de Jim y Chip se esfuerzan tanto que acortan la distancia con Kenzo Toro sin que se rebasen entre ellos. 
+En el extremo sur de Costa Marcial el llano se vuelve roca: comienza Valle Viñedo, la última etapa. Un error aquí cuesta la carrera.
 
-Jim Tyler ensambla todas las piezas de su vehículo una vez más para simplemente acelerar a mayor velocidad que Chip y dejarlo atrás. Pero Chip  
+Los bloqueos de Chip impacientan a Jim, que toma la decisión brusca: **Bailout a máxima capacidad**. Doce piezas recorren el ancho de la pista. Chip, abrumado, es rebasado por una pieza tras otra; solo logra retener una a su trasera mientras las otras once se ensamblan adelante, dejándolo detrás del vehículo completo de Jim.
+
+Chip responde con su propia carta: **Light Mode** — el vehículo blanco se desprende de gran parte de sus defensas, exponiendo el cuerpo del piloto a cambio de una agudeza de control quirúrgica. La pieza rezagada de Jim intenta reintegrarse; Chip la usa de propulsor. Jim le ordena a la pieza chocar y destruirse contra Chip; Chip esquiva cada intento con limpieza ofensiva. Jim frena en seco para acorralarlo entre el vehículo y la pieza — Chip gira cerrado, choca con la pieza, y sale girando fuera de control por el ancho de la pista.
+
+Los restos de la pieza destruida vuelan — y encuentran el motor expuesto de Luna Valdez. Decenas de fragmentos metálicos entran por la parte abollada; el incendio del capote se propaga en segundos al vehículo entero. Luna salta en marcha, y su carrera termina en la grava, viendo pasar a los tres que quedan.
+
+Chip sigue avanzando hacia la meta *aunque sigue girando sobre su propio eje*. Jim frena para embestirlo y sacarlo; Chip esquiva el parachoques girando, se le pega al lateral y aguanta el empuje con cada vez menos pista, hasta colocar su nariz delante. Las viñas asoman en el horizonte: último trecho. Jim, desesperado, lanza el Bailout una vez más — y el tiro le sale por la culata: Chip se filtra entre las once piezas como una pluma evade la corriente de viento, rebasándolas una a una hasta llegar a la pieza delantera, la cabina misma de Jim Tyler. Las miradas se cruzan un instante, desafiándose, antes de volver a la pista. Los motores de ambos aprietan tanto que alcanzan a Kenzo sin rebasarse entre sí.
+
+Jim ensambla todas las piezas para un último arreón de potencia — y al acercarlas, propulsa sin querer a Chip hacia adelante, regalándole el segundo lugar en el momento más caro de la carrera.
+
+La recta final. El conglomerado de gente, los gritos encimando a los motores, la meta palpable. Chip primero, Kenzo pegado, Jim tercero. Y Kenzo Toro, bicampeón o nada, juega su as: **combustión a máxima capacidad** — el motor del Láser se incendia a propósito, comprándose segundos de una ultra velocidad que roza los récords históricos del Prono Racing. La sacudida alcanza a Chip y lo desestabiliza; las llantas del vehículo blanco tiemblan; la aceleración del Láser en llamas es inalcanzable para cualquier cosa con menos masa. El rebase es inminente. La física está firmada.
+
+Y Chip Keaton eyecta su asiento.
+
+El impulso lo lanza hacia adelante, por encima de su propio vehículo, y el joven prodigio cae — con asiento y todo — sobre el cofre ardiente de Kenzo. La fibra de carbono del asiento se destruye al instante; el traje de piloto se derrite contra el metal; los huesos se fracturan por docenas aferrándose al capote, y la adrenalina lo mantiene consciente exactamente lo que hace falta. Kenzo, atónito, mira al muchacho fundido a su cofre resistiendo la velocidad con todas sus fuerzas.
+
+La línea de meta es cruzada antes de que pueda reaccionar.
+
+Primer vehículo en cruzar: el Láser. Primer *piloto* en cruzar: el que venía de pasajero en el cofre.
+
+---
+
+El podio tarda. Los comentaristas discuten, los expertos en arbitraje discuten, la grava discute. Al fin, los altoparlantes anuncian: el ganador de la edición trece de La Arista es **Chip Keaton** — porque las reglas especifican que es el *piloto* quien debe cruzar la meta, siendo irrelevante la condición de su vehículo, o si este siquiera cruzó.
+
+La pista se llena de basura, cerveza y abucheos en segundos. La premiación se muda al interior. Y en la rueda de prensa, un reportero le pregunta a Kenzo qué opina del salto de Chip y de la decisión final. Kenzo se peina el largo cabello negro con ambas manos y responde con recelo:
+
+—Fue una decisión controversial de un acto irresponsable y poco profesional. Es solo un niño que tuvo suerte.
+
+La respuesta se propaga como fuego, y la réplica llega en horas, en video, desde el hospital: Chip Keaton, acomodándose el copete rubio con el brazo enyesado, mira a cámara y guiña un ojo.
+
+—No soy un niño. Soy *El Niño*.
+
+La polémica es una bomba mediática. Anuncios, patrocinadores y campañas enteras se construyen sobre la frase en una semana; el alias queda soldado para siempre: Chip "The Kid" Keaton, nuevo campeón del Prono Racing.
+
+Del otro lado del eco, la aritmética es menos fotogénica: Kenzo Toro pierde el bicampeonato, el motor del Láser — incinerado a propósito en una apuesta que no pagó — y, en el mismo amanecer, a dos patrocinadores que despiertan del lado del ganador. El campeón destronado sale del Pixel Arena por la puerta de pilotos, solo, con el casco bajo el brazo, y nadie le toma la foto.
+
+Las deudas nunca empiezan grandes. Empiezan así: una apuesta que no paga, una puerta lateral, un teléfono que suena menos que ayer.
+
+Y en las gradas que se vacían, un muchacho de chaqueta de cuero se guarda en la memoria el nombre del piloto del vehículo rojo — sin ninguna razón todavía. Por costumbre de soldado: en su época aprendió que conviene recordar a los que pierden con todo, porque son los que después están dispuestos a todo.
+
+---
+
+[next_chapter →](../5/index.md)
