@@ -2,13 +2,13 @@
 
 La Arista no es una carrera. Eso es lo primero que hay que entender, y lo que los extranjeros nunca entienden: no hay pista, no hay vueltas, no hay camino oficial.
 
-Hay un punto de salida — el Pixel Arena — y un punto de llegada — Valle Viñedo, cuatrocientos kilómetros al sur — y entre los dos, un país entero sin instrucciones. Cada equipo elige su ruta. Cada equipo carga lo que quiera cargar, sabiendo que todo lo que carga lo hace más lento y todo lo que deja lo puede matar. Nadie te dice por dónde. Nadie te dice cuánta agua. Y nadie, absolutamente nadie, va a ir a buscarte si no llegas.
+Hay un punto de salida — el Pixel Arena — y un punto de llegada — Valle Viñedo, cuatrocientos kilómetros al sur — y entre los dos, un país entero sin instrucciones. Cada equipo elige su ruta. Cada equipo carga lo que quiera cargar, sabiendo que todo lo que carga lo hace más lento y todo lo que deja lo puede matar. Nadie te dice por dónde. Nadie te dice cuánta agua. Y si te quedas varado, **sí van a ir a buscarte** — hay reglamentos, hay seguros, hay equipos de rescate terrestre y aéreo, hay un párrafo hermoso sobre el compromiso con la vida humana. Lo que no te dicen es **cuánto tarda**, ni **en qué región**. En un paso de montaña llegan en horas. En un pantano, en una costra de sal, en un llano que no está en ningún mapa oficial, la logística se complica, se atora, se vuelve burocracia con motor. Los pilotos lo saben. Lo calculan. Y cuando la bolsa es lo bastante grande, prefieren ir por todo de todos modos.
 
 Los pilotos no van solos. Esa es la otra regla, la que la gente olvida cuando ve las fotos: cada vehículo lleva dos. El que maneja y el que decide — navegante, mecánico, o las dos cosas y un poco de confesor. Porque a las nueve horas de travesía, con el combustible en la mitad y un desvío enfrente, la pregunta de si tomas el atajo deja de ser técnica y se vuelve otra cosa, y ningún hombre debería tener que hacérsela solo.
 
 Y luego está el dinero.
 
-La bolsa de La Arista no es fija: crece. Crece con las apuestas, y las apuestas crecen con el peligro, y el peligro lo eligen los propios pilotos al escoger por dónde cruzar. Un año prudente reparte poco. Un año con un desvío temerario reparte fortunas. Nadie en la organización le pide a nadie que arriesgue la vida — Dios los libre, hay reglamentos, hay seguros, hay un párrafo hermoso sobre la responsabilidad individual. Simplemente, el morbo pone mucho dinero en la línea de meta, y todos los años alguien lo va a recoger.
+La bolsa de La Arista no es fija: crece. Crece con las apuestas, y las apuestas crecen con el peligro, y el peligro lo eligen los propios pilotos al escoger por dónde cruzar. Un año prudente reparte poco. Un año con un desvío temerario reparte fortunas. Nadie en la organización le pide a nadie que arriesgue la vida — Dios los libre, hay reglamentos, hay seguros, hay otro párrafo hermoso sobre la responsabilidad individual. Simplemente, el morbo pone mucho dinero en la línea de meta, y todos los años alguien lo va a recoger — y alguien más va a apostar a que ese alguien tomó el atajo que nadie ha probado, porque ahí es donde está la fortuna de verdad.
 
 Este año la bolsa es la más grande de la historia.
 
@@ -38,15 +38,19 @@ Abajo, sobre la arena, un vehículo plateado se acomoda en la línea, y Mimi lo 
 
 En la sección Oeste, Dirk Newman llega a su palco caminando rápido, y Woodrow Mellon levanta su corpachón del asiento sin necesidad de que le digan que hay problema.
 
-—¿No atraparon a todos los responsables?
+—¿Qué pasa?
 
-—No es eso. —Dirk se sirve algo que no bebe—. Es algo — alguien — que yo traje hasta acá.
+—Nada que puedas nombrar. —Dirk se sirve algo que no bebe—. Solo que afuera esto se ve como una carrera y adentro se siente como lo otro.
 
-—¿Cómo vas a traer a una persona? Pensé que tu don solo atraía prosperidad.
+—¿Lo otro qué?
 
-Dirk no contesta. Se queda mirando la pantalla del palco, donde una locutora repasa el trazado del año: las tres grandes rutas al sur, y esa tercera línea punteada que ningún equipo ha completado nunca.
+Dirk mira la pantalla del palco, donde una locutora repasa el trazado del año: las tres grandes rutas al sur, y esa tercera línea punteada que ningún equipo ha completado nunca.
 
-—¿Sabes qué es lo que más me gusta de esto, Woody? —dice al fin, y su voz tiene la calma de los hombres que están hablando de otra cosa sin saberlo—. Que todo el mundo cree que la travesía castiga a los imprudentes. Y es al revés. Los premia. Uno de esos muchachos va a tomar el peor camino posible y va a llegar primero, y mañana los diarios van a llamarlo visionario. —Deja el vaso—. El castigo llega después. Y casi nunca le llega al que se atrevió.
+—Para ellos —dice, sin señalar a nadie en particular— yo hago un ritual a los dioses. Soy el elegido. Traigo abundancia porque el cielo me lo manda. —Hace una pausa tan corta que Woody casi no la registra—. Tú y yo sabemos que es un proceso. Extracción. Algo abstracto que la ciudad no quiere entender porque prefiere la devoción.
+
+Woodrow frunce el ceño. Conoce los hilos. Conoce las noches en que Dirk no duerme. Pero oírlo decir *extracción* en voz alta, en un palco lleno de gente que aplaude un espectáculo de atajos, le pone un sabor raro en la boca.
+
+—¿Sabes qué es lo que más me gusta de esto, Woody? —continúa Dirk, y su voz tiene la calma de los hombres que están hablando de otra cosa sin saberlo—. Que todo el mundo cree que la travesía castiga a los imprudentes. Y es al revés. Los premia. Uno de esos muchachos va a tomar el peor camino posible y va a llegar primero, y mañana los diarios van a llamarlo visionario. —Deja el vaso—. El castigo llega después. Y casi nunca le llega al que se atrevió.
 
 Woodrow lo mira de lado.
 
@@ -60,7 +64,7 @@ Los altoparlantes anuncian a los equipos, y el Pixel Arena entero se pone de pie
 
 **Jim Tyler**, el maestro mecánico, en el azul olímpico. Autor del *Bailout*: la patente que le permite dividir su vehículo en piezas y reintegrarlo sobre la marcha. Navega con él **Sordo Almeida**, un viejo de manos gruesas que fue su maestro y que ya no oye del oído derecho por culpa de una explosión que nadie menciona.
 
-**Luna Valdez**, la mujer de la umbra, en el plateado reflectivo — un casco espejo, un vehículo que a alta velocidad se traga el paisaje y desaparece. Su navegante es **Tere**, su mejor amiga desde la escuela, la única persona en el circuito que la llama por su nombre verdadero.
+**Luna Valdez**, la mujer de la umbra, en el plateado reflectivo — un casco espejo, un vehículo que a alta velocidad se traga el paisaje y desaparece. A su lado va **Tere**: ex-campeona de La Arista, ahora su coach y navegante, la única del circuito que conoce las tres rutas con la paciencia de quien ya ganó y ya perdió, y la única que la llama por su nombre verdadero. Luna no la trajo por amistad de escuela — la trajo porque confía en su criterio, y en este deporte eso vale más que la sangre.
 
 Porque Valdez no es su nombre. Es el apellido de una abuela lejana que ella eligió a los diecinueve años para inscribirse sin que nadie la reconociera. Su sangre es otra: por su madre, los **Saito** — sí, esos Saito, los del gabinete —; por su padre, **Brucer Pripiano**, que le prohibió correr con lágrimas en los ojos y firmó la inscripción de todos modos porque su hija se lo pidió tres veces. Luna quería ganar sin que nadie pudiera decir que le habían abierto la puerta. Lo consiguió: en cuatro temporadas nadie ha averiguado quién es, y su padre ve las transmisiones solo, con el sonido apagado.
 
@@ -100,11 +104,13 @@ Y el punto plateado se desvía al este.
 
 Lo que pasó en La Cortada se reconstruyó después, mal, con las últimas transmisiones y con lo que encontraron a los seis días.
 
-Se sabe que entraron bien. Que a las dos horas iban ganando cuarenta minutos y que Tere reportó, riéndose, que el llano estaba más firme de lo que decían los viejos. Se sabe que a las cuatro horas el suelo cambió — una costra de sal sobre lodo blando, la clase de trampa que solo se detecta cuando ya la pisaste — y que el vehículo se hundió hasta los ejes en un terreno donde ningún equipo de rescate podía entrar sin hundirse igual.
+Se sabe que entraron bien. Que a las dos horas iban ganando cuarenta minutos y que Tere reportó, con la voz seca de quien ya no confía del todo en el llano, que la costra se sostenía mejor de lo que decían los mapas viejos. Se sabe que a las cuatro horas el suelo cambió — una costra de sal sobre lodo blando, la clase de trampa que solo se detecta cuando ya la pisaste — y que el vehículo se hundió hasta los ejes en un terreno donde los equipos de rescate por tierra también se hundían: dos camionetas quedaron varadas a ocho kilómetros, a la espera de una grúa que nunca llegó a tiempo.
+
+Se sabe que mandaron aéreos. Se sabe que los permisos tardaron, que el viento levantaba polvo de sal, que el camuflaje reflectivo del plateado devolvía el cielo y confundía a quien buscaba desde arriba. Se sabe que la organización, mientras tanto, repetía por radio la cláusula de la ruta no oficial — facultad del piloto, seguro, responsabilidad individual — como si la burocracia pudiera sustituir a un helicóptero que aún no había despegado.
 
 Se sabe que Luna transmitió durante veinte horas.
 
-Que primero fue técnica: coordenadas, estado del vehículo, consumo. Que después fue práctica: cuánta agua les quedaba, en qué dirección estaba la sombra. Y que al final, cuando el equipo de la organización le explicó por radio, con voz de reglamento, que el rescate por tierra era imposible y que los aéreos tenían prohibido operar sobre ruta no oficial — porque la ruta no era oficial, porque ninguna lo era, porque de eso se trataba todo —, Luna Valdez dejó de reportar como piloto y empezó a hablar como hija.
+Que primero fue técnica: coordenadas, estado del vehículo, consumo. Que después fue práctica: cuánta agua les quedaba, en qué dirección estaba la sombra, si escuchaban motores. Que Tere, del otro lado del micrófono, seguía calculando ventanas de rescate con la calma que aprendió cuando ganó su propia Arista y perdió un compañero al año siguiente. Y que al final, cuando la voz de reglamento volvió a prometer que venían — que venían, que el equipo estaba en camino, que aguantara —, Luna Valdez dejó de reportar como piloto y empezó a hablar como hija.
 
 Nadie transmitió esa parte. La organización cortó la señal pública a la hora catorce, por decoro.
 
@@ -192,11 +198,7 @@ Mimi Saito no faltó a una sola junta de gabinete esa semana.
 
 La bolsa de la edición número trece fue la más grande de la historia. La organización agradeció públicamente el respaldo de los patrocinadores y anunció, con optimismo, que la ruta libre se mantendría el año siguiente.
 
-Y en un rincón cualquiera de las gradas que se vaciaban, entre miles de personas que se iban comentando el salto del Niño, un muchacho al que nadie mira devolvió un boleto prestado a su bolsillo y se quedó un rato de más mirando la pantalla apagada donde había estado el mapa de las tres rutas.
-
-No pensaba en la carrera.
-
-Pensaba en un mundo que reparte fortunas por atajos que nadie ha probado, y en cuánto se parecía eso a algo que él ya había visto — aunque todavía no supiera dónde.
+El Pixel Arena se vació comentando el salto del Niño. Las gradas dejaron de oler a cerveza caliente y empezaron a oler a basura. En la pantalla apagada del mapa de las tres rutas no quedó nada — solo el reflejo del cielo rojo de la tarde, y la sensación, en quien se quedó un instante de más, de que alguien, en algún llano lejano, debió haber llegado demasiado tarde.
 
 ---
 
