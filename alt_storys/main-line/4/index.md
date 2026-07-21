@@ -1,100 +1,202 @@
 # Keep going, the show must continue
 
-El sol se refleja en los capotes metálicos; la alta temperatura acumulada en el asfalto se combina con la combustión de los motores más potentes jamás creados. Decenas de miles de sombrillas rodean la pista del Pixel Arena, millones de espectadores siguen la transmisión, y todos — los de las sombrillas y los de las pantallas — están ahí para lo mismo: atestiguar La Arista, el evento anual de carreras más grande del mundo.
+La Arista no es una carrera. Eso es lo primero que hay que entender, y lo que los extranjeros nunca entienden: no hay pista, no hay vueltas, no hay camino oficial.
 
-Los pilotos parten del Pixel Arena y recorrerán la costa oeste hacia el sur hasta la meta en Valle Viñedo, donde se coronará al ganador. Las reglas caben en una frase: pueden hacer cualquier cosa mientras estén dentro de la ruta delimitada. Chocar, rebasar, descarrilar, cerrar el paso — cualquier cosa necesaria para llegar antes que nadie. Es el deporte perfecto de la era: velocidad sin frenos, con público.
+Hay un punto de salida — el Pixel Arena — y un punto de llegada — Valle Viñedo, cuatrocientos kilómetros al sur — y entre los dos, un país entero sin instrucciones. Cada equipo elige su ruta. Cada equipo carga lo que quiera cargar, sabiendo que todo lo que carga lo hace más lento y todo lo que deja lo puede matar. Nadie te dice por dónde. Nadie te dice cuánta agua. Y nadie, absolutamente nadie, va a ir a buscarte si no llegas.
 
-Y este año, más que ningún otro, la carrera no es solo carrera.
+Los pilotos no van solos. Esa es la otra regla, la que la gente olvida cuando ve las fotos: cada vehículo lleva dos. El que maneja y el que decide — navegante, mecánico, o las dos cosas y un poco de confesor. Porque a las nueve horas de travesía, con el combustible en la mitad y un desvío enfrente, la pregunta de si tomas el atajo deja de ser técnica y se vuelve otra cosa, y ningún hombre debería tener que hacérsela solo.
 
-Después de la tragedia del Matrasy y la presión policial para desmantelar al grupo Rinki, el pueblo tuvo su primer destello de desaprobación contra el gobierno. A pesar de la captura del Pelón y de otros treinta y dos miembros, la gente sigue insegura, con mal sabor de boca — y una ciudad con mal sabor de boca es mala para el crédito. El dinero de muchos inversores está en juego, y La Arista es la medicina recetada: retornar capital, retornar confianza, recordarle a la nación que la abundancia sigue aquí y ruge a cuatrocientos por hora. El pan quedó tocado por el luto; que el circo sea el doble de grande.
+Y luego está el dinero.
 
-En la sección Este de los palcos, mientras la artista Roxy Spades abre el espectáculo, la cabeza de los Blue conversa con la secretaria de defensa. Mimi Saito trae expedientes: los avances del caso, las capturas, las evidencias. Billy M. Blue los mira sin tocarlos, se acerca a la ventana con un trago en la mano, se quita los lentes redondos.
+La bolsa de La Arista no es fija: crece. Crece con las apuestas, y las apuestas crecen con el peligro, y el peligro lo eligen los propios pilotos al escoger por dónde cruzar. Un año prudente reparte poco. Un año con un desvío temerario reparte fortunas. Nadie en la organización le pide a nadie que arriesgue la vida — Dios los libre, hay reglamentos, hay seguros, hay un párrafo hermoso sobre la responsabilidad individual. Simplemente, el morbo pone mucho dinero en la línea de meta, y todos los años alguien lo va a recoger.
 
-—Disfruta del show, Mimi. Después habrá tiempo para lo demás.
+Este año la bolsa es la más grande de la historia.
 
-En la sección Oeste, Dirk Newman recorre los pasillos hasta su palco, donde lo espera Woodrow Mellon, su mano derecha y confidente. Dirk no espera ni a sentarse:
+Después de la caída del Matrasy y del desmantelamiento de Rinki, la ciudad amaneció con un sabor que ningún discurso quitaba: ciento diecinueve muertos, un juicio televisado y una desconfianza nueva, fea, que se le metió a la gente entre las costillas. El dinero de los inversores necesitaba una fiesta y la fiesta necesitaba un motivo, así que la organización hizo lo que la era Newman sabe hacer mejor que nada: subió la apuesta. Doble bolsa. Triple cobertura. Ruta libre, sin restricciones de trazado.
 
-—Tenemos un problema.
-
-Woodrow levanta su robusto cuerpo del asiento, alarmado:
-
-—¿Con qué? ¿No atraparon a todos los responsables?
-
-—No, no es eso. Se trata de algo — o más bien *alguien* — que yo traje hasta acá.
-
-—¿Pero cómo pudiste traer a una persona? Pensaba que solo atraías prosperidad con tu don. —Y como Dirk camina acelerado por el palco sin responder—: Está bien, digamos que tú lo trajiste. ¿En qué te puede afectar? No sabe quién eres ni cómo buscarte. La ciudad es demasiado grande para encontrarlo caminando por ahí. Y lo más importante: ¿por qué estaría tras de ti? No le has hecho nada. ¿No estás sacando la situación de proporción?
-
-—No. Esto es distinto. —Dirk se detiene ante el vidrio del palco, mirando la pista sin verla—. Pensaba que se iba a esfumar solo. Pero apareció en la proyección que hizo Viktor Lang. Y anoche... —no termina la frase; las cornisas no se confiesan—. Él es un mal presagio.
-
-Abajo, en las gradas populares, entre diez mil cabezas anónimas, un muchacho de chaqueta de cuero come garnachas de puesto y mira los vehículos formarse en la línea de salida. Piggy no vino por la carrera: vino porque Pietro insistió — *"un muchacho de tu edad no puede vivir de trabajar y rumiar; ten, mi boleto de siempre, a mí ya me marean los motores"* — y porque un fugitivo aprende rápido que el mejor escondite es una multitud mirando otra cosa. No sabe que el hombre que busca está a trescientos metros de él, en un palco de la sección Oeste, hablando de su existencia.
-
-La era es así: todos sus hilos pasan por el mismo lugar, y nadie los ve cruzarse.
+*Que corran por donde quieran*, dijo alguien en una junta que no se transcribió. *La gente no viene a ver quién llega. Viene a ver quién se atreve.*
 
 ---
 
-Al concluir la presentación de Roxy, los fanáticos rugen: comienza la edición número trece de La Arista. Los altoparlantes anuncian la alineación:
+En la sección Este de los palcos, mientras la artista Roxy Spades abre el espectáculo, la secretaria de defensa le muestra expedientes a un hombre que no los mira.
 
-¡En el extremo izquierdo, en el vehículo azul olímpico, el maestro mecánico y autor del "Bailout", **Jim Tyler**! ¡A su lado, la mujer de la umbra en su característico vehículo plateado reflectivo, la sigilosa **Luna Valdez**! ¡A su derecha, en el temible vehículo rojo, el campeón actual que busca el bicampeonato, **Kenzo Toro**! ¡Y por último pero no menos importante, en el vehículo blanco, el joven prodigio y genio de la evasión, **Chip Keaton**!
+Mimi Saito trae las carpetas del caso: los treinta y tres capturados, los peritajes, la cadena de custodia del metal. Billy M. Blue las deja sobre la mesa sin abrirlas, se acerca al vidrio con un trago en la mano y se quita los lentes redondos para ver mejor la formación de salida.
 
-La pistola dispara. La Arista ha comenzado.
+—Están completas —dice Mimi.
 
-Kenzo Toro toma la ventaja desde el arranque con su rojo "Láser" — bautizado por su estilo de manejo: brusco, sólido, perforando todo a su paso con un vehículo que parece fundido de una sola pieza. Jim Tyler se le pega a la espalda, chupando rueda, ahorrando combustible en la nula resistencia al viento. Luna Valdez ronda a unos metros, buscando filtrarse; Chip Keaton se reserva en el fondo, cortando distancia sin gastar nada.
+—No lo dudo.
 
-La primera jugada es de Chip: acelera a toda potencia, deja atrás a Luna y alcanza a Jim — pero antes de rebasarlo, Jim activa su patente. **Bailout**: el vehículo azul se *divide*, piezas separándose en pleno movimiento y reintegrándose sobre la marcha. Chip pasa entre los fragmentos, y el exceso de velocidad lo hace rozar a Kenzo: ambos pierden ritmo, y Jim reintegra su vehículo y toma el liderazgo. Antes de que Kenzo y Chip se recompongan, Luna se infiltra sigilosamente entre los dos y les roba el segundo lugar a ambos. Kenzo se estabiliza gracias al peso del Láser y salva el tercero; Chip vuelve al fondo.
+—¿No quiere revisarlas?
 
-Luna quiere la punta, pero Jim la bloquea separando el vehículo y abarcando más pista — y descubre el costo de su propio truco: las piezas separadas son más lentas. Reintegra, bloquea en una sola pieza, y ahora su problema es otro: no *ve* a Luna. El vehículo reflectivo se camufla con la pista a alta velocidad; el serpenteo de Jim la frena sin verla, hasta que decide acelerar en recta para tomar distancia — y choca con algo adelante.
+—Mimi. —Billy sonríe hacia el cristal, sin voltear—. Si estuvieran mal, no me las traería usted. Y si estuvieran bien, tampoco haría falta. —Bebe—. Disfrute el show. Después habrá tiempo para lo demás.
 
-Luna. Que ya lo había rebasado, invisible, mientras él serpenteaba.
+Mimi guarda las carpetas. Ha trabajado quince años en el gobierno y todavía le cuesta el momento exacto en que le enseñan que su trabajo no era convencer a nadie: era proveer el papel.
+
+Abajo, sobre la arena, un vehículo plateado se acomoda en la línea, y Mimi lo mira más tiempo del que mira a los otros.
 
 ---
 
-En Costa Marcial — un tercio de carrera — el terreno se vuelve seco, el polvo se levanta fácil y el sol convierte cada capote en un arma. Los destellos del vehículo de Luna ciegan a todos los que vienen detrás; Jim, pegado a ella, desacelera encandilado, y Kenzo y Chip lo rebasan.
+En la sección Oeste, Dirk Newman llega a su palco caminando rápido, y Woodrow Mellon levanta su corpachón del asiento sin necesidad de que le digan que hay problema.
 
-Kenzo lleva rato estudiando un patrón: el rastro de arena de Luna, visible cuando sus destellos no dejan ver nada más. Acelera de golpe, la sorprende por el flanco y la embiste — el peso y la dureza del Láser contra el camuflaje de cristal —, quedándose con el primer lugar. Luna sale del golpe con una abolladura que le inhabilita medio camuflaje y le fricciona los neumáticos; Chip la pasa con facilidad y toma el segundo puesto.
+—¿No atraparon a todos los responsables?
 
-Kenzo capitaliza: mantiene la velocidad extrema, levantando un muro de polvo que ciega a los de atrás. Jim responde con ingenio — despega *una sola pieza* del Bailout y la manda adelante como centinela: la pieza choca con Luna, marcándole a Jim por dónde rebasar sin dañarse, y Jim pasa al tercer lugar sin que nadie lo vea en la polvareda. El calor empieza a cobrar la factura del Láser: Kenzo reduce, el polvo baja, y Chip huele la sangre — pero por más que lo intenta, no encuentra ángulo de entrada contra el campeón.
+—No es eso. —Dirk se sirve algo que no bebe—. Es algo — alguien — que yo traje hasta acá.
 
-En el extremo sur de Costa Marcial el llano se vuelve roca: comienza Valle Viñedo, la última etapa. Un error aquí cuesta la carrera.
+—¿Cómo vas a traer a una persona? Pensé que tu don solo atraía prosperidad.
 
-Los bloqueos de Chip impacientan a Jim, que toma la decisión brusca: **Bailout a máxima capacidad**. Doce piezas recorren el ancho de la pista. Chip, abrumado, es rebasado por una pieza tras otra; solo logra retener una a su trasera mientras las otras once se ensamblan adelante, dejándolo detrás del vehículo completo de Jim.
+Dirk no contesta. Se queda mirando la pantalla del palco, donde una locutora repasa el trazado del año: las tres grandes rutas al sur, y esa tercera línea punteada que ningún equipo ha completado nunca.
 
-Chip responde con su propia carta: **Light Mode** — el vehículo blanco se desprende de gran parte de sus defensas, exponiendo el cuerpo del piloto a cambio de una agudeza de control quirúrgica. La pieza rezagada de Jim intenta reintegrarse; Chip la usa de propulsor. Jim le ordena a la pieza chocar y destruirse contra Chip; Chip esquiva cada intento con limpieza ofensiva. Jim frena en seco para acorralarlo entre el vehículo y la pieza — Chip gira cerrado, choca con la pieza, y sale girando fuera de control por el ancho de la pista.
+—¿Sabes qué es lo que más me gusta de esto, Woody? —dice al fin, y su voz tiene la calma de los hombres que están hablando de otra cosa sin saberlo—. Que todo el mundo cree que la travesía castiga a los imprudentes. Y es al revés. Los premia. Uno de esos muchachos va a tomar el peor camino posible y va a llegar primero, y mañana los diarios van a llamarlo visionario. —Deja el vaso—. El castigo llega después. Y casi nunca le llega al que se atrevió.
 
-Los restos de la pieza destruida vuelan — y encuentran el motor expuesto de Luna Valdez. Decenas de fragmentos metálicos entran por la parte abollada; el incendio del capote se propaga en segundos al vehículo entero. Luna salta en marcha, y su carrera termina en la grava, viendo pasar a los tres que quedan.
+Woodrow lo mira de lado.
 
-Chip sigue avanzando hacia la meta *aunque sigue girando sobre su propio eje*. Jim frena para embestirlo y sacarlo; Chip esquiva el parachoques girando, se le pega al lateral y aguanta el empuje con cada vez menos pista, hasta colocar su nariz delante. Las viñas asoman en el horizonte: último trecho. Jim, desesperado, lanza el Bailout una vez más — y el tiro le sale por la culata: Chip se filtra entre las once piezas como una pluma evade la corriente de viento, rebasándolas una a una hasta llegar a la pieza delantera, la cabina misma de Jim Tyler. Las miradas se cruzan un instante, desafiándose, antes de volver a la pista. Los motores de ambos aprietan tanto que alcanzan a Kenzo sin rebasarse entre sí.
+—Suena a que le tienes envidia a alguien.
 
-Jim ensambla todas las piezas para un último arreón de potencia — y al acercarlas, propulsa sin querer a Chip hacia adelante, regalándole el segundo lugar en el momento más caro de la carrera.
+—Suena —dice Dirk— a que sé cómo termina.
 
-La recta final. El conglomerado de gente, los gritos encimando a los motores, la meta palpable. Chip primero, Kenzo pegado, Jim tercero. Y Kenzo Toro, bicampeón o nada, juega su as: **combustión a máxima capacidad** — el motor del Láser se incendia a propósito, comprándose segundos de una ultra velocidad que roza los récords históricos del Prono Racing. La sacudida alcanza a Chip y lo desestabiliza; las llantas del vehículo blanco tiemblan; la aceleración del Láser en llamas es inalcanzable para cualquier cosa con menos masa. El rebase es inminente. La física está firmada.
+---
+
+Los altoparlantes anuncian a los equipos, y el Pixel Arena entero se pone de pie.
+
+**Jim Tyler**, el maestro mecánico, en el azul olímpico. Autor del *Bailout*: la patente que le permite dividir su vehículo en piezas y reintegrarlo sobre la marcha. Navega con él **Sordo Almeida**, un viejo de manos gruesas que fue su maestro y que ya no oye del oído derecho por culpa de una explosión que nadie menciona.
+
+**Luna Valdez**, la mujer de la umbra, en el plateado reflectivo — un casco espejo, un vehículo que a alta velocidad se traga el paisaje y desaparece. Su navegante es **Tere**, su mejor amiga desde la escuela, la única persona en el circuito que la llama por su nombre verdadero.
+
+Porque Valdez no es su nombre. Es el apellido de una abuela lejana que ella eligió a los diecinueve años para inscribirse sin que nadie la reconociera. Su sangre es otra: por su madre, los **Saito** — sí, esos Saito, los del gabinete —; por su padre, **Brucer Pripiano**, que le prohibió correr con lágrimas en los ojos y firmó la inscripción de todos modos porque su hija se lo pidió tres veces. Luna quería ganar sin que nadie pudiera decir que le habían abierto la puerta. Lo consiguió: en cuatro temporadas nadie ha averiguado quién es, y su padre ve las transmisiones solo, con el sonido apagado.
+
+**Kenzo Toro**, el campeón defensor, en el rojo. Su vehículo se llama *Láser* por la forma en que perfora todo lo que se le pone enfrente. Navega **Ruso**, su mecánico de siempre, un tipo silencioso que lleva cinco años diciéndole que no queme el motor y cinco años viendo cómo lo quema.
+
+Y **Chip Keaton**, el joven prodigio, en el blanco. Diecinueve años, la sonrisa de los que no han perdido nada todavía, y el vehículo más liviano de la parrilla. Su navegante es **Pinky**, un muchacho de su edad que hace las cuentas mientras Chip hace las locuras y que ya aprendió a gritar los números sin que le tiemble la voz.
+
+Cuatro vehículos. Ocho personas. Cuatrocientos kilómetros de nada.
+
+La pistola dispara.
+
+---
+
+Los primeros ochenta kilómetros son teatro y todos lo saben: la salida ceremonial por la costera, con las cámaras y las multitudes, los cuatro pegados, Kenzo perforando el aire adelante y Chip cerrando la fila para no gastar. La gente aplaude las maniobras como si la carrera se decidiera ahí.
+
+La carrera se decide en la Horqueta.
+
+Es un cruce sin señalización a la salida del último pueblo, donde el mundo se abre en tres:
+
+Al oeste, **La Costera** — el camino largo, pegado al mar, seguro y aburrido. Sesenta kilómetros de más. Nadie ha ganado La Arista por la Costera en once ediciones.
+
+Al centro, **El Espinazo** — el paso de montaña. Piedra suelta, curvas ciegas, frío en las alturas. Es la ruta de los que quieren ganar y también volver.
+
+Y al este, **La Cortada** — la línea punteada de los mapas, el atajo por los llanos secos de Costa Marcial. En el papel, ahorra medio día. En la práctica, nadie la ha completado nunca: hay quien lo intentó y volvió; hay quien lo intentó y no.
+
+En el Pixel Arena, la transmisión pone las tres rutas en pantalla y el estadio hace un ruido que es medio grito y medio confesión.
+
+Kenzo toma el Espinazo. Jim toma el Espinazo, pegado a él.
+
+Chip Keaton, para sorpresa de todos, toma la Costera — la ruta de los cobardes —, y en los palcos se ríen. *El Niño se acobardó.*
+
+Y el punto plateado se desvía al este.
+
+—Ay, no —dice alguien en la cabina de transmisión, con el micrófono abierto, y esa media palabra es lo único genuino que se va a decir en toda la cobertura.
+
+---
+
+Lo que pasó en La Cortada se reconstruyó después, mal, con las últimas transmisiones y con lo que encontraron a los seis días.
+
+Se sabe que entraron bien. Que a las dos horas iban ganando cuarenta minutos y que Tere reportó, riéndose, que el llano estaba más firme de lo que decían los viejos. Se sabe que a las cuatro horas el suelo cambió — una costra de sal sobre lodo blando, la clase de trampa que solo se detecta cuando ya la pisaste — y que el vehículo se hundió hasta los ejes en un terreno donde ningún equipo de rescate podía entrar sin hundirse igual.
+
+Se sabe que Luna transmitió durante veinte horas.
+
+Que primero fue técnica: coordenadas, estado del vehículo, consumo. Que después fue práctica: cuánta agua les quedaba, en qué dirección estaba la sombra. Y que al final, cuando el equipo de la organización le explicó por radio, con voz de reglamento, que el rescate por tierra era imposible y que los aéreos tenían prohibido operar sobre ruta no oficial — porque la ruta no era oficial, porque ninguna lo era, porque de eso se trataba todo —, Luna Valdez dejó de reportar como piloto y empezó a hablar como hija.
+
+Nadie transmitió esa parte. La organización cortó la señal pública a la hora catorce, por decoro.
+
+Pero la señal privada siguió abierta, y en una casa de la zona alta un hombre llamado Brucer Pripiano escuchó a su hija hasta el final, con el teléfono en la mano, sin poder hacer nada, mientras a cien kilómetros de ahí un estadio lleno seguía coreando el nombre de un muchacho de blanco.
+
+El vehículo lo encontraron a los seis días. El camuflaje reflectivo seguía funcionando: desde el aire, la máquina devolvía el cielo, y por eso tardaron tanto en verla. Un espejo perfecto en medio de la nada, reflejando un sol que ya no le servía a nadie.
+
+---
+
+En el Espinazo, mientras tanto, Jim Tyler está haciendo lo que hace mejor.
+
+El paso de montaña castiga el peso, y Jim va cargado — Sordo Almeida es de la vieja escuela y montó el vehículo con refacciones para tres averías, agua para cuatro días y un equipo de soldadura que pesa lo que un hombre. Kenzo se le va adelantando curva por curva, y Jim hace las cuentas.
+
+—Suelta el módulo tres —dice.
+
+Sordo se queda quieto.
+
+—Ahí va el agua.
+
+—Suelta el módulo tres.
+
+Lo suelta. El Bailout escupe la pieza al costado del camino y el vehículo salta ocho kilómetros por hora. Dos horas después suelta el cinco, con las refacciones. A la caída de la tarde suelta el módulo de soldadura de Sordo — cuarenta años de herramientas de un hombre que ya no oye del oído derecho —, y Sordo no dice una palabra, y esa falta de palabra dura el resto del viaje y el resto de sus vidas.
+
+Jim Tyler termina La Arista en tercer lugar, entero, sin un rasguño, con un vehículo hermoso y vacío. Nadie recuerda cómo llegó. Todos recuerdan que llegó.
+
+Los diarios especializados lo elogiarían con una frase que se volvería, con los años, algo parecido a un chiste cruel:
+
+*"Tyler se rescató a sí mismo aligerando la carga."*
+
+---
+
+La recta final de Valle Viñedo la disputan dos vehículos, y la ciudad ya escogió a cuál quiere.
+
+Kenzo Toro viene primero por El Espinazo, con el rojo cubierto de polvo y el motor pidiendo clemencia. Y detrás — imposiblemente, absurdamente — viene el blanco.
+
+Chip Keaton tomó la Costera, la ruta larga, la de los cobardes. Y llegó igual, porque la Costera es sesenta kilómetros más pero es *plana*, y Chip corrió esos kilómetros con el vehículo en **Light Mode** desde el primer minuto: sin defensas, sin refacciones, sin nada más que combustible, dos hombres y aire. Un cálculo de Pinky en una servilleta, hecho la noche anterior, que la organización llamaría después "la lectura más audaz de la historia del Prono Racing" y que en su momento parecía puro miedo.
+
+Las viñas pasan a los lados. Kenzo mira por el espejo y ve el blanco pegado a su parachoques, y hace la única cosa que le queda: **quema el motor**.
+
+Combustión a máxima capacidad. El Láser se incendia por dentro y se convierte, por unos segundos, en la cosa más rápida que ha existido sobre esta tierra. La sacudida desestabiliza al blanco. La distancia se abre. La física está firmada y todo el mundo lo sabe: no hay carrocería ligera que alcance eso.
+
+—¡No! —grita Pinky, con los números ya inútiles en la mano—. ¡No hay manera, Chip, no hay—!
 
 Y Chip Keaton eyecta su asiento.
 
-El impulso lo lanza hacia adelante, por encima de su propio vehículo, y el joven prodigio cae — con asiento y todo — sobre el cofre ardiente de Kenzo. La fibra de carbono del asiento se destruye al instante; el traje de piloto se derrite contra el metal; los huesos se fracturan por docenas aferrándose al capote, y la adrenalina lo mantiene consciente exactamente lo que hace falta. Kenzo, atónito, mira al muchacho fundido a su cofre resistiendo la velocidad con todas sus fuerzas.
+Lo que pasa después dura menos de dos segundos y va a repetirse en pantallas durante veinte años: el muchacho sale disparado por encima de su propio vehículo, cruza el aire con el asiento todavía pegado a la espalda, y aterriza sobre el cofre incendiado del rojo. La fibra de carbono del asiento se desintegra. El traje se le funde contra el metal. Los huesos se le rompen por docenas mientras se agarra del capote de un vehículo en llamas a cuatrocientos por hora — y no se suelta.
 
-La línea de meta es cruzada antes de que pueda reaccionar.
+Kenzo Toro, del otro lado del parabrisas, mira a un muchacho de diecinueve años pegado a su cofre con la cara deformada por el viento, y no puede hacer absolutamente nada.
 
-Primer vehículo en cruzar: el Láser. Primer *piloto* en cruzar: el que venía de pasajero en el cofre.
+Los dos cruzan la meta juntos.
+
+Primer vehículo: el rojo. Primer piloto: el que venía encima.
 
 ---
 
-El podio tarda. Los comentaristas discuten, los expertos en arbitraje discuten, la grava discute. Al fin, los altoparlantes anuncian: el ganador de la edición trece de La Arista es **Chip Keaton** — porque las reglas especifican que es el *piloto* quien debe cruzar la meta, siendo irrelevante la condición de su vehículo, o si este siquiera cruzó.
+El podio tarda cuarenta minutos.
 
-La pista se llena de basura, cerveza y abucheos en segundos. La premiación se muda al interior. Y en la rueda de prensa, un reportero le pregunta a Kenzo qué opina del salto de Chip y de la decisión final. Kenzo se peina el largo cabello negro con ambas manos y responde con recelo:
+Cuando los altoparlantes anuncian a **Chip Keaton** como ganador — porque el reglamento dice que es el piloto quien debe cruzar la meta, siendo irrelevante la condición de su vehículo o si este siquiera cruzó —, el Valle Viñedo se llena de basura, cerveza y abucheos. La premiación se muda al interior. La bolsa histórica, la más grande jamás repartida, se entrega en una sala con veinte personas.
 
-—Fue una decisión controversial de un acto irresponsable y poco profesional. Es solo un niño que tuvo suerte.
+En la rueda de prensa, un reportero le pregunta a Kenzo qué opina.
 
-La respuesta se propaga como fuego, y la réplica llega en horas, en video, desde el hospital: Chip Keaton, acomodándose el copete rubio con el brazo enyesado, mira a cámara y guiña un ojo.
+Kenzo se peina el largo cabello negro con las dos manos. Lleva tres horas sin dormir, un motor fundido, dos patrocinadores que ya no le contestan y la imagen de una cara pegada a su cofre que va a soñar durante años.
+
+—Fue una decisión controversial de un acto irresponsable y poco profesional —dice—. Es solo un niño que tuvo suerte.
+
+La respuesta se propaga como fuego. Y la réplica llega en horas, desde una cama de hospital, en un video que millones de personas verían antes del amanecer: Chip Keaton, con el brazo enyesado, la cara deshecha y el copete rubio acomodado con una sola mano, mira a cámara y guiña un ojo.
 
 —No soy un niño. Soy *El Niño*.
 
-La polémica es una bomba mediática. Anuncios, patrocinadores y campañas enteras se construyen sobre la frase en una semana; el alias queda soldado para siempre: Chip "The Kid" Keaton, nuevo campeón del Prono Racing.
+Es la frase de la década. En una semana está en anuncios, camisetas, patentes de refresco. En un mes, "El Niño" vale más que Chip Keaton. En un año, Chip Keaton no va a poder entrar a un bar sin que alguien le grite la frase desde la barra, y va a descubrir — con esa lentitud terrible con que se descubren estas cosas — que la fama no se lleva bien con los muchachos que ganaron todo antes de cumplir veinte.
 
-Del otro lado del eco, la aritmética es menos fotogénica: Kenzo Toro pierde el bicampeonato, el motor del Láser — incinerado a propósito en una apuesta que no pagó — y, en el mismo amanecer, a dos patrocinadores que despiertan del lado del ganador. El campeón destronado sale del Pixel Arena por la puerta de pilotos, solo, con el casco bajo el brazo, y nadie le toma la foto.
+Va a beber. Va a romper cosas y cuentas y matrimonios ajenos. Va a llegar tarde, dopado y glorioso a la mitad de las carreras que le queden. Y — esto es lo que va a volver loca a la gente, lo que va a hacerlo imperdonable e imposible de reemplazar — **nunca va a perder los reflejos**. Ni una sola vez. Puede llevar dos días sin dormir y la mano se le va a ir sola al lugar correcto, siempre, como si el cuerpo no se hubiera enterado de lo que la vida le está haciendo al hombre que lo habita.
 
-Las deudas nunca empiezan grandes. Empiezan así: una apuesta que no paga, una puerta lateral, un teléfono que suena menos que ayer.
+Los mejores lo dicen bajito, con envidia y con lástima: a Chip Keaton no se le acaba el talento. Se le está acabando todo lo demás.
 
-Y en las gradas que se vacían, un muchacho de chaqueta de cuero se guarda en la memoria el nombre del piloto del vehículo rojo — sin ninguna razón todavía. Por costumbre de soldado: en su época aprendió que conviene recordar a los que pierden con todo, porque son los que después están dispuestos a todo.
+---
+
+De Luna Valdez, la organización emitió un comunicado de once líneas.
+
+Se lamentó profundamente. Se recordó que la elección de ruta es facultad exclusiva de cada equipo y que la señorita Valdez, piloto experimentada, tomó su decisión con conocimiento pleno de las condiciones. Se reiteró el compromiso con la seguridad. Se anunció que la tribuna oriente del Pixel Arena llevaría su nombre a partir de la próxima temporada.
+
+Su nombre real no apareció en ninguna parte. Ni el de los Saito, ni el de los Pripiano. Cuatro temporadas corriendo bajo un apellido prestado para que nadie dijera que le abrieron la puerta, y al final el apellido prestado fue lo único que la enterró.
+
+Mimi Saito no faltó a una sola junta de gabinete esa semana.
+
+La bolsa de la edición número trece fue la más grande de la historia. La organización agradeció públicamente el respaldo de los patrocinadores y anunció, con optimismo, que la ruta libre se mantendría el año siguiente.
+
+Y en un rincón cualquiera de las gradas que se vaciaban, entre miles de personas que se iban comentando el salto del Niño, un muchacho al que nadie mira devolvió un boleto prestado a su bolsillo y se quedó un rato de más mirando la pantalla apagada donde había estado el mapa de las tres rutas.
+
+No pensaba en la carrera.
+
+Pensaba en un mundo que reparte fortunas por atajos que nadie ha probado, y en cuánto se parecía eso a algo que él ya había visto — aunque todavía no supiera dónde.
 
 ---
 
