@@ -58,3 +58,20 @@ Fue apodado "Young Hickory" (Joven Nogal) debido a su asociación con el preside
 
 - Pablito Canario — Almirante marina Alondrina; error en ruta provoca pérdida de su flotilla; refugiado político en Velora (mini-arco Velora Cap 3).
 - Marlon Mejillon — Ex coronel marina Velora; cachetón, 43 años; destituido por Nicolas Green por condenar a Pablito Canario; decide vengarse de Pablito y de Velora.
+
+
+--- 2026  ---- 
+
+- Micky Merkle (El Búho) — pelirrojo, alemán; portador de Merkle; pianista; dinastía Merkle; cazador onírico de reptilianos; debut T3 Acto I. Archivo: `characters/Buho/Buho.md`.
+
+Helen Joshintong
+Drake Joshintong
+
+Megan Black
+
+Casey Steve  
+
+
+
+----
+Porfirio Rubirosa

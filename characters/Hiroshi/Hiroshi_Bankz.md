@@ -3,6 +3,15 @@
 - Sus piernas se hacen low-poly. 
 - Tiene una vibe Argentina.
 - Mujeriego
+- Fue bailarín antes que soldado. La guerra lo transformó pero esa identidad no desapareció.
+- Porta una cicatriz de guerra en la ceja izquierda.
+- Aura de sacrificio silencioso (como Héctor de Troya): sabe lo que está en juego mejor que nadie y carga con eso en silencio.
+
+## La tragedia que nadie osa mencionar
+
+**[INFORMACIÓN DE AUTOR — no revelar prematuramente en los capítulos]**
+
+En una fiesta, por accidente, Hiroshi tropezó con alguien. La persona cayó de forma fatal y murió. No hubo intención, no hubo violencia deliberada — fue un accidente doméstico en un contexto social. Pero la persona murió. Hiroshi cargó con eso sin procesar, sin confesarlo públicamente, y esa culpa silenciosa es la herida que define su personaje en T2: el guerrero que acepta misiones imposibles no por valentía sino porque parte de él cree que merece no volver.
 
 
 # Semilla: 

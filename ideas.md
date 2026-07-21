@@ -11,3 +11,12 @@ Virgilio mezcló en la obra elementos de los idilios III, X, XI y XXIII de Teóc
 Ryo Chen fue understimated 
 
 Es un vehículo que el velocimetro esta roto, La trama avanza, y dado que no puede medir la velocidad a qué van, tienen que tomar un arriesgada decisión para llegar a su destino, a una sabiendas que si se pasan por un poco, pueden morir en el intento
+
+
+
+
+9-jun-26
+
+El capitulo inicia con el famoso dando entrada a su dinamica. 
+Una clase donde un famoso esta infiltrado fingiendo ser malo, pero el maestro es alguien como el loco Steve Drake, es un mamon que no le va a dejar tener su momento de brillo en paz. 
+image.png

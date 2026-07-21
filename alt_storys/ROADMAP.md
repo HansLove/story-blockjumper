@@ -58,7 +58,7 @@
 - **Alto asesor**: Dirk Newman; **ante el pueblo = Ministro genio bajo Heart, responsable del éxito financiero**
 - **Oposición**: Viktor Lang (Partido Progreso, derecha); **odio por un sector, respeto y admiración por otro**. También Rinki y Piggy
 - **Mimi Saito**: Secretaria de Defensa
-- **Medios**: Sociedad libre; **prensa crítica**
+- **Medios**: Sociedad libre; **prensa crítica**k
 - **Lo que no puede salir a la luz sobre Under End**: Que encontraron vida (en el otro lado)
 - **Financiamiento Under End**: Privados (Blu), gasto público, deuda
 - **Explicación oficial de glitches/forks** (T3): Terrorismo de sectas con magia oscura; encarna la ignorancia colectiva
